@@ -1,0 +1,22 @@
+{
+  "servers": {
+    "bgg": {
+      "type": "stdio",
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "-e",
+        "BGG_API_KEY",
+        "-e",
+        "BGG_USERNAME",
+        "kdaniel/bgg-mcp"
+      ],
+      "env": {
+        "BGG_USERNAME": "MrHinsh",
+        "BGG_API_KEY": ""
+      }
+    }
+  }
+}
