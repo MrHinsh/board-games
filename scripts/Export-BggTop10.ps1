@@ -16,6 +16,25 @@ $ErrorActionPreference = 'Stop'
 
 . "$PSScriptRoot\\Invoke-BggMcp.ps1"
 
+function Get-CollectionValue {
+    param(
+        [Parameter(Mandatory = $true)]
+        [object]$Item,
+
+        [Parameter(Mandatory = $true)]
+        [string]$PropertyName,
+
+        [object]$DefaultValue = 0
+    )
+
+    $property = $Item.PSObject.Properties[$PropertyName]
+    if ($null -eq $property -or $null -eq $property.Value -or $property.Value -eq '') {
+        return $DefaultValue
+    }
+
+    return $property.Value
+}
+
 if ($Top -lt 1) {
     throw 'Top must be at least 1.'
 }
@@ -47,17 +66,17 @@ if (-not $items -or $items.Count -eq 0) {
 $script:i = 0
 
 $ranked = $items |
-    Where-Object { [double]($_.rating ?? 0) -gt 0 } |
-    Sort-Object @{ Expression = { [double]($_.rating ?? 0) }; Descending = $true },
-                @{ Expression = { [int]($_.numplays ?? 0) }; Descending = $true },
+        Where-Object { [double](Get-CollectionValue -Item $_ -PropertyName 'rating') -gt 0 } |
+        Sort-Object @{ Expression = { [double](Get-CollectionValue -Item $_ -PropertyName 'rating') }; Descending = $true },
+                                @{ Expression = { [int](Get-CollectionValue -Item $_ -PropertyName 'numplays') }; Descending = $true },
                 @{ Expression = { $_.name } } |
     Select-Object -First $Top |
     Select-Object @{ Name = 'rank'; Expression = { $script:i = ($script:i + 1); $script:i } },
                   @{ Name = 'bgg_id'; Expression = { $_.objectid } },
                   @{ Name = 'name'; Expression = { $_.name } },
                   @{ Name = 'year_published'; Expression = { $_.yearpublished } },
-                  @{ Name = 'rating'; Expression = { [double]($_.rating ?? 0) } },
-                  @{ Name = 'num_plays'; Expression = { [int]($_.numplays ?? 0) } }
+                                    @{ Name = 'rating'; Expression = { [double](Get-CollectionValue -Item $_ -PropertyName 'rating') } },
+                                    @{ Name = 'num_plays'; Expression = { [int](Get-CollectionValue -Item $_ -PropertyName 'numplays') } }
 
 $jsonPath = Join-Path $OutDir 'top-games.json'
 $csvPath = Join-Path $OutDir 'top-games.csv'
@@ -68,7 +87,7 @@ $ranked | Export-Csv -Path $csvPath -NoTypeInformation -Encoding UTF8
 $ranked
 
 [pscustomobject]@{
-    TopCount = $ranked.Count
+    TopCount = @($ranked).Count
     Json = $jsonPath
     Csv = $csvPath
 }

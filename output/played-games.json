@@ -1,0 +1,1822 @@
+[
+  {
+    "bgg_id": 229853,
+    "name": "Teotihuacan: City of Gods",
+    "year_published": 2018,
+    "rating": 0.0,
+    "num_plays": 36
+  },
+  {
+    "bgg_id": 232832,
+    "name": "Century: Golem Edition",
+    "year_published": 2017,
+    "rating": 0.0,
+    "num_plays": 22
+  },
+  {
+    "bgg_id": 432,
+    "name": "Take 5",
+    "year_published": 1994,
+    "rating": 0.0,
+    "num_plays": 22
+  },
+  {
+    "bgg_id": 216132,
+    "name": "Clans of Caledonia",
+    "year_published": 2017,
+    "rating": 0.0,
+    "num_plays": 20
+  },
+  {
+    "bgg_id": 230802,
+    "name": "Azul",
+    "year_published": 2017,
+    "rating": 0.0,
+    "num_plays": 19
+  },
+  {
+    "bgg_id": 205597,
+    "name": "Jump Drive",
+    "year_published": 2017,
+    "rating": 0.0,
+    "num_plays": 19
+  },
+  {
+    "bgg_id": 54043,
+    "name": "Jaipur",
+    "year_published": 2009,
+    "rating": 0.0,
+    "num_plays": 18
+  },
+  {
+    "bgg_id": 10630,
+    "name": "Memoir '44",
+    "year_published": 2004,
+    "rating": 0.0,
+    "num_plays": 18
+  },
+  {
+    "bgg_id": 209685,
+    "name": "Century: Spice Road",
+    "year_published": 2017,
+    "rating": 0.0,
+    "num_plays": 15
+  },
+  {
+    "bgg_id": 223040,
+    "name": "Fantasy Realms",
+    "year_published": 2017,
+    "rating": 0.0,
+    "num_plays": 15
+  },
+  {
+    "bgg_id": 345868,
+    "name": "Federation",
+    "year_published": 2022,
+    "rating": 0.0,
+    "num_plays": 15
+  },
+  {
+    "bgg_id": 167791,
+    "name": "Terraforming Mars",
+    "year_published": 2016,
+    "rating": 0.0,
+    "num_plays": 15
+  },
+  {
+    "bgg_id": 236457,
+    "name": "Architects of the West Kingdom",
+    "year_published": 2018,
+    "rating": 0.0,
+    "num_plays": 13
+  },
+  {
+    "bgg_id": 270314,
+    "name": "Ohanami",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 13
+  },
+  {
+    "bgg_id": 337627,
+    "name": "Voidfall",
+    "year_published": 2023,
+    "rating": 0.0,
+    "num_plays": 13
+  },
+  {
+    "bgg_id": 337627,
+    "name": "Voidfall",
+    "year_published": 2023,
+    "rating": 0.0,
+    "num_plays": 13
+  },
+  {
+    "bgg_id": 3076,
+    "name": "Puerto Rico",
+    "year_published": 2002,
+    "rating": 0.0,
+    "num_plays": 12
+  },
+  {
+    "bgg_id": 220308,
+    "name": "Gaia Project",
+    "year_published": 2017,
+    "rating": 0.0,
+    "num_plays": 11
+  },
+  {
+    "bgg_id": 822,
+    "name": "Carcassonne",
+    "year_published": 2000,
+    "rating": 0.0,
+    "num_plays": 10
+  },
+  {
+    "bgg_id": 68425,
+    "name": "Eminent Domain",
+    "year_published": 2011,
+    "rating": 0.0,
+    "num_plays": 10
+  },
+  {
+    "bgg_id": 118048,
+    "name": "Targi",
+    "year_published": 2012,
+    "rating": 0.0,
+    "num_plays": 10
+  },
+  {
+    "bgg_id": 247143,
+    "name": "Senshi",
+    "year_published": 2018,
+    "rating": 0.0,
+    "num_plays": 9
+  },
+  {
+    "bgg_id": 39463,
+    "name": "Cosmic Encounter",
+    "year_published": 2008,
+    "rating": 0.0,
+    "num_plays": 8
+  },
+  {
+    "bgg_id": 226320,
+    "name": "My Little Scythe",
+    "year_published": 2018,
+    "rating": 0.0,
+    "num_plays": 8
+  },
+  {
+    "bgg_id": 258779,
+    "name": "Planet Unknown",
+    "year_published": 2022,
+    "rating": 0.0,
+    "num_plays": 8
+  },
+  {
+    "bgg_id": 291453,
+    "name": "SCOUT",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 8
+  },
+  {
+    "bgg_id": 178044,
+    "name": "Small Star Empires",
+    "year_published": 2016,
+    "rating": 0.0,
+    "num_plays": 8
+  },
+  {
+    "bgg_id": 242302,
+    "name": "Space Base",
+    "year_published": 2018,
+    "rating": 0.0,
+    "num_plays": 8
+  },
+  {
+    "bgg_id": 133473,
+    "name": "Sushi Go!",
+    "year_published": 2013,
+    "rating": 0.0,
+    "num_plays": 8
+  },
+  {
+    "bgg_id": 172287,
+    "name": "Champions of Midgard",
+    "year_published": 2015,
+    "rating": 0.0,
+    "num_plays": 7
+  },
+  {
+    "bgg_id": 50,
+    "name": "Lost Cities",
+    "year_published": 1999,
+    "rating": 0.0,
+    "num_plays": 7
+  },
+  {
+    "bgg_id": 12942,
+    "name": "No Thanks!",
+    "year_published": 2004,
+    "rating": 0.0,
+    "num_plays": 7
+  },
+  {
+    "bgg_id": 163412,
+    "name": "Patchwork",
+    "year_published": 2014,
+    "rating": 0.0,
+    "num_plays": 7
+  },
+  {
+    "bgg_id": 382518,
+    "name": "Sankoré: The Pride of Mansa Musa",
+    "year_published": 2024,
+    "rating": 0.0,
+    "num_plays": 7
+  },
+  {
+    "bgg_id": 169786,
+    "name": "Scythe",
+    "year_published": 2016,
+    "rating": 0.0,
+    "num_plays": 7
+  },
+  {
+    "bgg_id": 140934,
+    "name": "Arboretum",
+    "year_published": 2015,
+    "rating": 0.0,
+    "num_plays": 6
+  },
+  {
+    "bgg_id": 317985,
+    "name": "Beyond the Sun",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 6
+  },
+  {
+    "bgg_id": 11971,
+    "name": "Cockroach Poker",
+    "year_published": 2004,
+    "rating": 0.0,
+    "num_plays": 6
+  },
+  {
+    "bgg_id": 253344,
+    "name": "Cthulhu: Death May Die",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 6
+  },
+  {
+    "bgg_id": 100423,
+    "name": "Elder Sign",
+    "year_published": 2011,
+    "rating": 0.0,
+    "num_plays": 6
+  },
+  {
+    "bgg_id": 133848,
+    "name": "Euphoria: Build a Better Dystopia",
+    "year_published": 2013,
+    "rating": 0.0,
+    "num_plays": 6
+  },
+  {
+    "bgg_id": 122842,
+    "name": "Exodus: Proxima Centauri",
+    "year_published": 2012,
+    "rating": 0.0,
+    "num_plays": 6
+  },
+  {
+    "bgg_id": 181304,
+    "name": "Mysterium",
+    "year_published": 2015,
+    "rating": 0.0,
+    "num_plays": 6
+  },
+  {
+    "bgg_id": 223779,
+    "name": "Pocket Mars",
+    "year_published": 2017,
+    "rating": 0.0,
+    "num_plays": 6
+  },
+  {
+    "bgg_id": 418059,
+    "name": "SETI: Search for Extraterrestrial Intelligence",
+    "year_published": 2024,
+    "rating": 0.0,
+    "num_plays": 6
+  },
+  {
+    "bgg_id": 356414,
+    "name": "Space Station Phoenix",
+    "year_published": 2022,
+    "rating": 0.0,
+    "num_plays": 6
+  },
+  {
+    "bgg_id": 353470,
+    "name": "Star Wars: Jabba's Palace – A Love Letter Game",
+    "year_published": 2022,
+    "rating": 0.0,
+    "num_plays": 6
+  },
+  {
+    "bgg_id": 220792,
+    "name": "The Expanse Board Game",
+    "year_published": 2017,
+    "rating": 0.0,
+    "num_plays": 6
+  },
+  {
+    "bgg_id": 237179,
+    "name": "Weather Machine",
+    "year_published": 2022,
+    "rating": 0.0,
+    "num_plays": 6
+  },
+  {
+    "bgg_id": 143741,
+    "name": "BANG! The Dice Game",
+    "year_published": 2013,
+    "rating": 0.0,
+    "num_plays": 5
+  },
+  {
+    "bgg_id": 178900,
+    "name": "Codenames",
+    "year_published": 2015,
+    "rating": 0.0,
+    "num_plays": 5
+  },
+  {
+    "bgg_id": 131357,
+    "name": "Coup",
+    "year_published": 2012,
+    "rating": 0.0,
+    "num_plays": 5
+  },
+  {
+    "bgg_id": 221194,
+    "name": "Dinosaur Island",
+    "year_published": 2017,
+    "rating": 0.0,
+    "num_plays": 5
+  },
+  {
+    "bgg_id": 329151,
+    "name": "Draconic Dice",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 5
+  },
+  {
+    "bgg_id": 260300,
+    "name": "Dungeon Mayhem",
+    "year_published": 2018,
+    "rating": 0.0,
+    "num_plays": 5
+  },
+  {
+    "bgg_id": 391137,
+    "name": "Galactic Cruise",
+    "year_published": 2025,
+    "rating": 0.0,
+    "num_plays": 5
+  },
+  {
+    "bgg_id": 155821,
+    "name": "Inis",
+    "year_published": 2016,
+    "rating": 0.0,
+    "num_plays": 5
+  },
+  {
+    "bgg_id": 347305,
+    "name": "Inventions: Evolution of Ideas",
+    "year_published": 2024,
+    "rating": 0.0,
+    "num_plays": 5
+  },
+  {
+    "bgg_id": 264241,
+    "name": "Mandala",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 5
+  },
+  {
+    "bgg_id": 274960,
+    "name": "Point Salad",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 5
+  },
+  {
+    "bgg_id": 811,
+    "name": "Rummikub",
+    "year_published": 1977,
+    "rating": 0.0,
+    "num_plays": 5
+  },
+  {
+    "bgg_id": 297030,
+    "name": "Tekhenu: Obelisk of the Sun",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 5
+  },
+  {
+    "bgg_id": 361545,
+    "name": "Twilight Inscription",
+    "year_published": 2022,
+    "rating": 0.0,
+    "num_plays": 5
+  },
+  {
+    "bgg_id": 82222,
+    "name": "Xia: Legends of a Drift System",
+    "year_published": 2014,
+    "rating": 0.0,
+    "num_plays": 5
+  },
+  {
+    "bgg_id": 257089,
+    "name": "Big Trouble in Little China: The Game – Deluxe Edition",
+    "year_published": 2018,
+    "rating": 0.0,
+    "num_plays": 4
+  },
+  {
+    "bgg_id": 242574,
+    "name": "Century: Eastern Wonders",
+    "year_published": 2018,
+    "rating": 0.0,
+    "num_plays": 4
+  },
+  {
+    "bgg_id": 265188,
+    "name": "Glen More II: Chronicles",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 4
+  },
+  {
+    "bgg_id": 289566,
+    "name": "Hunted: Kobayashi Tower",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 4
+  },
+  {
+    "bgg_id": 289565,
+    "name": "Hunted: Mining Colony 415",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 4
+  },
+  {
+    "bgg_id": 270673,
+    "name": "Silver & Gold",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 4
+  },
+  {
+    "bgg_id": 299178,
+    "name": "Small Railroad Empires",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 4
+  },
+  {
+    "bgg_id": 230253,
+    "name": "Star Realms: Frontiers",
+    "year_published": 2018,
+    "rating": 0.0,
+    "num_plays": 4
+  },
+  {
+    "bgg_id": 163967,
+    "name": "Tiny Epic Galaxies",
+    "year_published": 2015,
+    "rating": 0.0,
+    "num_plays": 4
+  },
+  {
+    "bgg_id": 269210,
+    "name": "Twice as Clever!",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 4
+  },
+  {
+    "bgg_id": 126163,
+    "name": "Tzolk'in: The Mayan Calendar",
+    "year_published": 2012,
+    "rating": 0.0,
+    "num_plays": 4
+  },
+  {
+    "bgg_id": 366495,
+    "name": "Undaunted: Battle of Britain",
+    "year_published": 2023,
+    "rating": 0.0,
+    "num_plays": 4
+  },
+  {
+    "bgg_id": 233867,
+    "name": "Welcome To...",
+    "year_published": 2018,
+    "rating": 0.0,
+    "num_plays": 4
+  },
+  {
+    "bgg_id": 303554,
+    "name": "Winter Kingdom",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 4
+  },
+  {
+    "bgg_id": 48726,
+    "name": "Alien Frontiers",
+    "year_published": 2010,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 358661,
+    "name": "Andromeda's Edge",
+    "year_published": 2024,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 257499,
+    "name": "Arkham Horror (Third Edition)",
+    "year_published": 2018,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 248490,
+    "name": "Atlantis Rising (Second Edition)",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 264052,
+    "name": "Circadians: First Light",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 326485,
+    "name": "Cthulhu Wars: Duel",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 183571,
+    "name": "Deep Space D-6",
+    "year_published": 2015,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 194594,
+    "name": "Dice Forge",
+    "year_published": 2017,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 247236,
+    "name": "Duelosaur Island",
+    "year_published": 2018,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 218509,
+    "name": "Empires of the Void II",
+    "year_published": 2018,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 138161,
+    "name": "Firefly: The Game",
+    "year_published": 2013,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 4279,
+    "name": "Flux",
+    "year_published": 1986,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 317859,
+    "name": "Forests of Pangaia",
+    "year_published": 2023,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 171273,
+    "name": "FUSE",
+    "year_published": 2015,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 321608,
+    "name": "Hegemony: Lead Your Class to Victory",
+    "year_published": 2023,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 155065,
+    "name": "Lifeform",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 129622,
+    "name": "Love Letter",
+    "year_published": 2012,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 313841,
+    "name": "Lunar Base",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 200077,
+    "name": "Mint Works",
+    "year_published": 2017,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 184267,
+    "name": "On Mars",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 228341,
+    "name": "Pulsar 2849",
+    "year_published": 2017,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 242684,
+    "name": "Reavers of Midgard",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 417197,
+    "name": "Rebirth",
+    "year_published": 2024,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 250467,
+    "name": "Red Alert: Space Fleet Warfare",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 307002,
+    "name": "Regicide",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 202426,
+    "name": "Sidereal Confluence",
+    "year_published": 2017,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 298231,
+    "name": "Skyrise",
+    "year_published": 2024,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 284616,
+    "name": "Small Samurai Empires",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 142079,
+    "name": "Space Cadets: Dice Duel",
+    "year_published": 2013,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 306481,
+    "name": "Tawantinsuyu: The Inca Empire",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 328871,
+    "name": "Terraforming Mars: Ares Expedition",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 324856,
+    "name": "The Crew: Mission Deep Sea",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 284083,
+    "name": "The Crew: The Quest for Planet Nine",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 300442,
+    "name": "Trekking the World",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 296237,
+    "name": "Warp's Edge",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 274364,
+    "name": "Watergate",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 3
+  },
+  {
+    "bgg_id": 247367,
+    "name": "Air, Land, & Sea",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 247367,
+    "name": "Air, Land, & Sea",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 231581,
+    "name": "AuZtralia",
+    "year_published": 2018,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 356768,
+    "name": "Bloc by Bloc: Uprising",
+    "year_published": 2022,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 349948,
+    "name": "Ceres",
+    "year_published": 2023,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 298572,
+    "name": "Cosmic Encounter Duel",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 312251,
+    "name": "Curious Cargo",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 317457,
+    "name": "Dinosaur World",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 331401,
+    "name": "Dog Park",
+    "year_published": 2022,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 316554,
+    "name": "Dune: Imperium",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 367150,
+    "name": "Dune: War for Arrakis",
+    "year_published": 2024,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 292126,
+    "name": "Excavation Earth",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 286160,
+    "name": "Godspeed",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 255674,
+    "name": "Imhotep: The Duel",
+    "year_published": 2018,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 284378,
+    "name": "Kanban EV",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 315727,
+    "name": "Last Light",
+    "year_published": 2023,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 146652,
+    "name": "Legendary Encounters: An Alien Deck Building Game",
+    "year_published": 2014,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 348877,
+    "name": "Lobotomy 2: Manhunt",
+    "year_published": 2022,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 340865,
+    "name": "Lords of Ragnarok",
+    "year_published": 2023,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 284653,
+    "name": "Mind MGMT: The Psychic Espionage “Game.”",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 122298,
+    "name": "Morels",
+    "year_published": 2012,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 167355,
+    "name": "Nemesis",
+    "year_published": 2018,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 310100,
+    "name": "Nemesis: Lockdown",
+    "year_published": 2022,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 266810,
+    "name": "Paladins of the West Kingdom",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 30549,
+    "name": "Pandemic",
+    "year_published": 2008,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 266524,
+    "name": "PARKS",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 159473,
+    "name": "Quartermaster General",
+    "year_published": 2014,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 232043,
+    "name": "Queendomino",
+    "year_published": 2017,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 306881,
+    "name": "Railroad Ink Challenge: Lush Green Edition",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 177639,
+    "name": "Raptor",
+    "year_published": 2015,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 274037,
+    "name": "Solar Storm",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 347117,
+    "name": "Star Trek: Missions",
+    "year_published": 2022,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 279720,
+    "name": "Streets",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 281258,
+    "name": "Sub Terra II: Inferno's Edge",
+    "year_published": 2023,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 145976,
+    "name": "Talon",
+    "year_published": 2016,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 381715,
+    "name": "Teotihuacan: City of Gods – Deluxe Master Set",
+    "year_published": 2024,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 319966,
+    "name": "The King Is Dead: Second Edition",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 291508,
+    "name": "Tiny Epic Dinosaurs",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 299450,
+    "name": "Tsukuyumi: Full Moon Down (Second Edition)",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 268864,
+    "name": "Undaunted: Normandy",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 290359,
+    "name": "Undaunted: North Africa",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 290484,
+    "name": "Unsettled",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 290484,
+    "name": "Unsettled",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 380707,
+    "name": "Vindication: Archive of the Ancients",
+    "year_published": 2023,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 232524,
+    "name": "Welcome to Dino World",
+    "year_published": 2017,
+    "rating": 0.0,
+    "num_plays": 2
+  },
+  {
+    "bgg_id": 173346,
+    "name": "7 Wonders Duel",
+    "year_published": 2015,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 256852,
+    "name": "Aliens: Another Glorious Day in the Corps",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 110277,
+    "name": "Among the Stars",
+    "year_published": 2012,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 205637,
+    "name": "Arkham Horror: The Card Game",
+    "year_published": 2016,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 337070,
+    "name": "Arkham Noir: Case #3 – Infinite Gulfs of Darkness",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 425630,
+    "name": "Baghdad: The City of Peace",
+    "year_published": 2025,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 37111,
+    "name": "Battlestar Galactica: The Board Game",
+    "year_published": 2008,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 230244,
+    "name": "Black Angel",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 347521,
+    "name": "Blitzkrieg!: World War Two in 20 Minutes (Second Edition)",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 170223,
+    "name": "Centauri Saga",
+    "year_published": 2016,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 170223,
+    "name": "Centauri Saga v1.5",
+    "year_published": 2016,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 105593,
+    "name": "Cheating Moth",
+    "year_published": 2011,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 220700,
+    "name": "Cobra Paw",
+    "year_published": 2017,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 283095,
+    "name": "Cosmic Colonies",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 139976,
+    "name": "Cthulhu Wars",
+    "year_published": 2015,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 373600,
+    "name": "Cthulhu: Death May Die – Fear of the Unknown",
+    "year_published": 2024,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 247567,
+    "name": "D-Day Dice Pocket",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 376747,
+    "name": "Deep Dive",
+    "year_published": 2023,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 318009,
+    "name": "Dinosaur Island: Rawr 'n Write",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 344839,
+    "name": "Dog Lover",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 62219,
+    "name": "Dominant Species",
+    "year_published": 2010,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 262941,
+    "name": "Dominant Species: Marine",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 253786,
+    "name": "Don't Mess with Cthulhu Deluxe",
+    "year_published": 2018,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 283355,
+    "name": "Dune",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 246900,
+    "name": "Eclipse: Second Dawn for the Galaxy",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 146021,
+    "name": "Eldritch Horror",
+    "year_published": 2013,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 172225,
+    "name": "Exploding Kittens",
+    "year_published": 2015,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 198609,
+    "name": "Fate of the Elder Gods",
+    "year_published": 2017,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 277659,
+    "name": "Final Girl",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 163170,
+    "name": "Firefly: Shiny Dice",
+    "year_published": 2015,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 136063,
+    "name": "Forbidden Desert",
+    "year_published": 2013,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 65244,
+    "name": "Forbidden Island",
+    "year_published": 2010,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 345088,
+    "name": "Founders of Teotihuacan",
+    "year_published": 2022,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 31481,
+    "name": "Galaxy Trucker",
+    "year_published": 2007,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 252752,
+    "name": "Genotype: A Mendelian Genetics Game",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 278120,
+    "name": "God of War: The Card Game",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 158600,
+    "name": "Hanamikoji",
+    "year_published": 2013,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 194626,
+    "name": "Happy Salmon",
+    "year_published": 2016,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 233868,
+    "name": "HATE",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 195314,
+    "name": "Herbaceous",
+    "year_published": 2017,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 8203,
+    "name": "Hey, That's My Fish!",
+    "year_published": 2003,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 160968,
+    "name": "Homeland: The Game",
+    "year_published": 2015,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 329148,
+    "name": "Hunted: Wode Ridge",
+    "year_published": 2023,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 318184,
+    "name": "Imperium: Classics",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 369258,
+    "name": "Isle of Skye: Big Box",
+    "year_published": 2022,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 325494,
+    "name": "ISS Vanguard",
+    "year_published": 2022,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 272738,
+    "name": "Jaws",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 240957,
+    "name": "Judge Dredd: The Cursed Earth",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 297562,
+    "name": "Kemet: Blood and Sand",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 379629,
+    "name": "Knarr",
+    "year_published": 2023,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 264141,
+    "name": "Kodachi",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 267401,
+    "name": "Lawyer Up",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 368173,
+    "name": "Let's Go! To Japan",
+    "year_published": 2024,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 59959,
+    "name": "Letters from Whitechapel",
+    "year_published": 2011,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 205059,
+    "name": "Mansions of Madness: Second Edition",
+    "year_published": 2016,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 193322,
+    "name": "Master of Orion: The Board Game",
+    "year_published": 2016,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 230251,
+    "name": "Mint Delivery",
+    "year_published": 2017,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 358386,
+    "name": "Moon",
+    "year_published": 2023,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 192638,
+    "name": "Multiuniversum",
+    "year_published": 2016,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 325941,
+    "name": "Nemo's War: The Ultimate Edition",
+    "year_published": 2022,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 194879,
+    "name": "Not Alone",
+    "year_published": 2016,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 4396,
+    "name": "Odin's Ravens",
+    "year_published": 2002,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 179275,
+    "name": "One Deck Dungeon",
+    "year_published": 2016,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 256713,
+    "name": "One Deck Galaxy",
+    "year_published": 2022,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 304510,
+    "name": "Pampero",
+    "year_published": 2024,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 147299,
+    "name": "Pocket Imperium",
+    "year_published": 2013,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 156009,
+    "name": "Port Royal",
+    "year_published": 2014,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 331979,
+    "name": "Quartermaster General WW2: 2nd Edition",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 192153,
+    "name": "Reign of Cthulhu",
+    "year_published": 2016,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 309297,
+    "name": "SCOPE Stalingrad",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 343900,
+    "name": "Senjutsu: Battle For Japan",
+    "year_published": 2023,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 255984,
+    "name": "Sleeping Gods",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 38453,
+    "name": "Space Alert",
+    "year_published": 2008,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 123096,
+    "name": "Space Cadets",
+    "year_published": 2012,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 375459,
+    "name": "Speakeasy",
+    "year_published": 2025,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 147020,
+    "name": "Star Realms",
+    "year_published": 2014,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 182631,
+    "name": "Star Realms: Colony Wars",
+    "year_published": 2015,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 171226,
+    "name": "Starfighter",
+    "year_published": 2015,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 345542,
+    "name": "Stellar Expedition",
+    "year_published": 2023,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 123260,
+    "name": "Suburbia",
+    "year_published": 2012,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 350458,
+    "name": "Terracotta Army",
+    "year_published": 2022,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 296108,
+    "name": "Terraforming Mars: The Dice Game",
+    "year_published": 2023,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 292375,
+    "name": "The Great Wall",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 172047,
+    "name": "The Others",
+    "year_published": 2016,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 41114,
+    "name": "The Resistance",
+    "year_published": 2009,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 279537,
+    "name": "The Search for Planet X",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 295293,
+    "name": "The Thing: The Boardgame",
+    "year_published": 2022,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 14996,
+    "name": "Ticket to Ride: Europe",
+    "year_published": 2005,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 253284,
+    "name": "Ticket to Ride: New York",
+    "year_published": 2018,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 408253,
+    "name": "Tiny Epic Cthulhu: Deluxe Edition",
+    "year_published": 2024,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 260923,
+    "name": "Titan",
+    "year_published": 2022,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 285826,
+    "name": "Ultra Tiny Epic Galaxies",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 306735,
+    "name": "Under Falling Skies",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 340466,
+    "name": "Unfathomable",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 234190,
+    "name": "Unstable Unicorns",
+    "year_published": 2017,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 241724,
+    "name": "Villagers",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 115746,
+    "name": "War of the Ring: Second Edition",
+    "year_published": 2011,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 362944,
+    "name": "War of the Ring: The Card Game",
+    "year_published": 2022,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 226631,
+    "name": "War of the Worlds: The New Wave",
+    "year_published": 2019,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 276997,
+    "name": "X-ODUS: Rise of the Corruption",
+    "year_published": 2020,
+    "rating": 0.0,
+    "num_plays": 1
+  },
+  {
+    "bgg_id": 62871,
+    "name": "Zombie Dice",
+    "year_published": 2010,
+    "rating": 0.0,
+    "num_plays": 1
+  }
+]

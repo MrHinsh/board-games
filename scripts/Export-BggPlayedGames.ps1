@@ -15,6 +15,25 @@ $ErrorActionPreference = 'Stop'
 
 . "$PSScriptRoot\\Invoke-BggMcp.ps1"
 
+function Get-CollectionValue {
+    param(
+        [Parameter(Mandatory = $true)]
+        [object]$Item,
+
+        [Parameter(Mandatory = $true)]
+        [string]$PropertyName,
+
+        [object]$DefaultValue = 0
+    )
+
+    $property = $Item.PSObject.Properties[$PropertyName]
+    if ($null -eq $property -or $null -eq $property.Value -or $property.Value -eq '') {
+        return $DefaultValue
+    }
+
+    return $property.Value
+}
+
 if (-not (Test-Path $OutDir)) {
     New-Item -ItemType Directory -Path $OutDir | Out-Null
 }
@@ -39,12 +58,12 @@ if (-not $items -or $items.Count -eq 0) {
 }
 
 $played = $items |
-    Sort-Object @{ Expression = { [int]($_.numplays ?? 0) }; Descending = $true }, @{ Expression = { $_.name } } |
+    Sort-Object @{ Expression = { [int](Get-CollectionValue -Item $_ -PropertyName 'numplays') }; Descending = $true }, @{ Expression = { $_.name } } |
     Select-Object @{ Name = 'bgg_id'; Expression = { $_.objectid } },
                   @{ Name = 'name'; Expression = { $_.name } },
                   @{ Name = 'year_published'; Expression = { $_.yearpublished } },
-                  @{ Name = 'rating'; Expression = { [double]($_.rating ?? 0) } },
-                  @{ Name = 'num_plays'; Expression = { [int]($_.numplays ?? 0) } }
+                  @{ Name = 'rating'; Expression = { [double](Get-CollectionValue -Item $_ -PropertyName 'rating') } },
+                  @{ Name = 'num_plays'; Expression = { [int](Get-CollectionValue -Item $_ -PropertyName 'numplays') } }
 
 $jsonPath = Join-Path $OutDir 'played-games.json'
 $csvPath = Join-Path $OutDir 'played-games.csv'
