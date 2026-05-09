@@ -1,1822 +1,6789 @@
 [
   {
+    "group_key": "1",
+    "bgg_id": 183571,
+    "name": "Deep Space D-6",
+    "year_published": 2015,
+    "rating": 8.0,
+    "num_plays": 3,
+    "players": "1",
+    "complexity": 1.6639,
+    "bgg_rating": 7.13791,
+    "num_ratings": 3829,
+    "categories": [
+      "Dice",
+      "Print & Play",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Solo / Solitaire Game",
+      "Worker Placement",
+      "Worker Placement with Dice Workers"
+    ]
+  },
+  {
+    "group_key": "1",
+    "bgg_id": 296237,
+    "name": "Warp's Edge",
+    "year_published": 2020,
+    "rating": 9.0,
+    "num_plays": 3,
+    "players": "1",
+    "complexity": 2.3896,
+    "bgg_rating": 7.64138,
+    "num_ratings": 4464,
+    "categories": "Science Fiction",
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Solo / Solitaire Game"
+    ]
+  },
+  {
+    "group_key": "1",
+    "bgg_id": 337070,
+    "name": "Arkham Noir: Case #3 – Infinite Gulfs of Darkness",
+    "year_published": 2021,
+    "rating": 6.0,
+    "num_plays": 1,
+    "players": "1",
+    "complexity": 3.0909,
+    "bgg_rating": 7.10918,
+    "num_ratings": 309,
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Fantasy",
+      "Horror",
+      "Novel-based"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "1",
+    "bgg_id": 277659,
+    "name": "Final Girl",
+    "year_published": 2021,
+    "rating": 10.0,
+    "num_plays": 1,
+    "players": "1",
+    "complexity": 2.7553,
+    "bgg_rating": 8.22491,
+    "num_ratings": 11174,
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Horror"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Hand Management",
+      "Pick-up and Deliver",
+      "Push Your Luck",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "1",
+    "bgg_id": 306735,
+    "name": "Under Falling Skies",
+    "year_published": 2020,
+    "rating": 8.0,
+    "num_plays": 1,
+    "players": "1",
+    "complexity": 2.3937,
+    "bgg_rating": 7.59838,
+    "num_ratings": 13936,
+    "categories": [
+      "Dice",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Modular Board",
+      "Once-Per-Game Abilities",
+      "Re-rolling and Locking",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Square Grid",
+      "Sudden Death Ending",
+      "Variable Set-up",
+      "Worker Placement",
+      "Worker Placement with Dice Workers"
+    ]
+  },
+  {
+    "group_key": "1-100",
+    "bgg_id": 233867,
+    "name": "Welcome To...",
+    "year_published": 2018,
+    "rating": 7.9,
+    "num_plays": 4,
+    "players": "1-100",
+    "complexity": 1.8422,
+    "bgg_rating": 7.50684,
+    "num_ratings": 34745,
+    "categories": "City Building",
+    "mechanics": [
+      "Bingo",
+      "Contracts",
+      "End Game Bonuses",
+      "Multi-Use Cards",
+      "Paper-and-Pencil",
+      "Pattern Building",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game"
+    ]
+  },
+  {
+    "group_key": "1-2",
+    "bgg_id": 289566,
+    "name": "Hunted: Kobayashi Tower",
+    "year_published": 2021,
+    "rating": 8.0,
+    "num_plays": 4,
+    "players": "1-2",
+    "complexity": 2,
+    "bgg_rating": 6.83904,
+    "num_ratings": 292,
+    "categories": [
+      "Card Game",
+      "Dice"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Push Your Luck",
+      "Solo / Solitaire Game"
+    ]
+  },
+  {
+    "group_key": "1-2",
+    "bgg_id": 289565,
+    "name": "Hunted: Mining Colony 415",
+    "year_published": 2021,
+    "rating": 9.0,
+    "num_plays": 4,
+    "players": "1-2",
+    "complexity": 1.8182,
+    "bgg_rating": 6.87094,
+    "num_ratings": 265,
+    "categories": [
+      "Action / Dexterity",
+      "Card Game",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Flicking",
+      "Push Your Luck",
+      "Solo / Solitaire Game"
+    ]
+  },
+  {
+    "group_key": "1-2",
+    "bgg_id": 247236,
+    "name": "Duelosaur Island",
+    "year_published": 2018,
+    "rating": 8.1,
+    "num_plays": 3,
+    "players": "1-2",
+    "complexity": 2.3803,
+    "bgg_rating": 7.0126,
+    "num_ratings": 3572,
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Dice",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Hand Management",
+      "I Cut, You Choose",
+      "Income",
+      "Open Drafting",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "1-2",
+    "bgg_id": 205637,
+    "name": "Arkham Horror: The Card Game",
+    "year_published": 2016,
+    "rating": 8.9,
+    "num_plays": 1,
+    "players": "1-2",
+    "complexity": 3.5658,
+    "bgg_rating": 8.11941,
+    "num_ratings": 47680,
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Collectible Components",
+      "Exploration",
+      "Horror",
+      "Novel-based"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Area Movement",
+      "Communication Limits",
+      "Cooperative Game",
+      "Deck Construction",
+      "Events",
+      "Hand Management",
+      "Map Deformation",
+      "Modular Board",
+      "Player Elimination",
+      "Push Your Luck",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Stat Check Resolution",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-2",
+    "bgg_id": 347521,
+    "name": "Blitzkrieg!: World War Two in 20 Minutes (Second Edition)",
+    "year_published": 2021,
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "1-2",
+    "complexity": 1.7391,
+    "bgg_rating": 7.50772,
+    "num_ratings": 746,
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Kill Steal",
+      "Race",
+      "Solo / Solitaire Game",
+      "Take That",
+      "Tug of War"
+    ]
+  },
+  {
+    "group_key": "1-2",
+    "bgg_id": 329148,
+    "name": "Hunted: Wode Ridge",
+    "year_published": 2023,
+    "rating": 9.0,
+    "num_plays": 1,
+    "players": "1-2",
+    "complexity": 1.8,
+    "bgg_rating": 7.0209,
+    "num_ratings": 67,
+    "categories": [
+      "Card Game",
+      "Horror",
+      "Murder / Mystery"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Push Your Luck",
+      "Solo / Solitaire Game"
+    ]
+  },
+  {
+    "group_key": "1-2",
+    "bgg_id": 267401,
+    "name": "Lawyer Up",
+    "year_published": 2021,
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "1-2",
+    "complexity": 2.6486,
+    "bgg_rating": 6.8203,
+    "num_ratings": 1748,
+    "categories": "Card Game",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Open Drafting",
+      "Pattern Building",
+      "Set Collection",
+      "Tug of War"
+    ]
+  },
+  {
+    "group_key": "1-2",
+    "bgg_id": 179275,
+    "name": "One Deck Dungeon",
+    "year_published": 2016,
+    "rating": 6.3,
+    "num_plays": 1,
+    "players": "1-2",
+    "complexity": 2.0928,
+    "bgg_rating": 6.93457,
+    "num_ratings": 12882,
+    "categories": [
+      "Card Game",
+      "Dice",
+      "Exploration",
+      "Fantasy",
+      "Print & Play"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Layering",
+      "Melding and Splaying",
+      "Move Through Deck",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Stat Check Resolution",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-2",
+    "bgg_id": 256713,
+    "name": "One Deck Galaxy",
+    "year_published": 2022,
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "1-2",
+    "complexity": 3.3158,
+    "bgg_rating": 6.83863,
+    "num_ratings": 605,
+    "categories": [
+      "Card Game",
+      "Dice",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Melding and Splaying",
+      "Move Through Deck"
+    ]
+  },
+  {
+    "group_key": "1-4",
     "bgg_id": 229853,
     "name": "Teotihuacan: City of Gods",
     "year_published": 2018,
-    "rating": 0.0,
-    "num_plays": 36
+    "rating": 10.0,
+    "num_plays": 36,
+    "players": "1-4",
+    "complexity": 3.7821,
+    "bgg_rating": 7.8356,
+    "num_ratings": 22057,
+    "categories": [
+      "Ancient",
+      "City Building",
+      "Economic"
+    ],
+    "mechanics": [
+      "Area Movement",
+      "End Game Bonuses",
+      "Events",
+      "Grid Coverage",
+      "Layering",
+      "Ownership",
+      "Rondel",
+      "Score-and-Reset Game",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Square Grid",
+      "Tile Placement",
+      "Track Movement",
+      "Variable Set-up",
+      "Victory Points as a Resource",
+      "Worker Placement with Dice Workers"
+    ]
   },
   {
-    "bgg_id": 232832,
-    "name": "Century: Golem Edition",
-    "year_published": 2017,
-    "rating": 0.0,
-    "num_plays": 22
-  },
-  {
-    "bgg_id": 432,
-    "name": "Take 5",
-    "year_published": 1994,
-    "rating": 0.0,
-    "num_plays": 22
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 216132,
     "name": "Clans of Caledonia",
     "year_published": 2017,
-    "rating": 0.0,
-    "num_plays": 20
+    "rating": 8.9,
+    "num_plays": 20,
+    "players": "1-4",
+    "complexity": 3.469,
+    "bgg_rating": 7.94533,
+    "num_ratings": 22788,
+    "categories": [
+      "Economic",
+      "Farming"
+    ],
+    "mechanics": [
+      "Commodity Speculation",
+      "Contracts",
+      "Hexagon Grid",
+      "Income",
+      "Market",
+      "Modular Board",
+      "Network and Route Building",
+      "Solo / Solitaire Game",
+      "Turn Order: Pass Order",
+      "Variable Player Powers"
+    ]
   },
   {
-    "bgg_id": 230802,
-    "name": "Azul",
-    "year_published": 2017,
-    "rating": 0.0,
-    "num_plays": 19
-  },
-  {
-    "bgg_id": 205597,
-    "name": "Jump Drive",
-    "year_published": 2017,
-    "rating": 0.0,
-    "num_plays": 19
-  },
-  {
-    "bgg_id": 54043,
-    "name": "Jaipur",
-    "year_published": 2009,
-    "rating": 0.0,
-    "num_plays": 18
-  },
-  {
-    "bgg_id": 10630,
-    "name": "Memoir '44",
-    "year_published": 2004,
-    "rating": 0.0,
-    "num_plays": 18
-  },
-  {
-    "bgg_id": 209685,
-    "name": "Century: Spice Road",
-    "year_published": 2017,
-    "rating": 0.0,
-    "num_plays": 15
-  },
-  {
-    "bgg_id": 223040,
-    "name": "Fantasy Realms",
-    "year_published": 2017,
-    "rating": 0.0,
-    "num_plays": 15
-  },
-  {
-    "bgg_id": 345868,
-    "name": "Federation",
-    "year_published": 2022,
-    "rating": 0.0,
-    "num_plays": 15
-  },
-  {
-    "bgg_id": 167791,
-    "name": "Terraforming Mars",
-    "year_published": 2016,
-    "rating": 0.0,
-    "num_plays": 15
-  },
-  {
-    "bgg_id": 236457,
-    "name": "Architects of the West Kingdom",
-    "year_published": 2018,
-    "rating": 0.0,
-    "num_plays": 13
-  },
-  {
-    "bgg_id": 270314,
-    "name": "Ohanami",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 13
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 337627,
     "name": "Voidfall",
     "year_published": 2023,
     "rating": 0.0,
-    "num_plays": 13
+    "num_plays": 13,
+    "players": "1-4",
+    "complexity": 4.6141,
+    "bgg_rating": 8.50994,
+    "num_ratings": 6914,
+    "categories": [
+      "Civilization",
+      "Economic",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Command Cards",
+      "Cooperative Game",
+      "Events",
+      "Grid Movement",
+      "Hand Management",
+      "Hexagon Grid",
+      "Modular Board",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ]
   },
   {
+    "group_key": "1-4",
     "bgg_id": 337627,
     "name": "Voidfall",
     "year_published": 2023,
-    "rating": 0.0,
-    "num_plays": 13
+    "rating": 10.0,
+    "num_plays": 13,
+    "players": "1-4",
+    "complexity": 4.6141,
+    "bgg_rating": 8.50994,
+    "num_ratings": 6914,
+    "categories": [
+      "Civilization",
+      "Economic",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Command Cards",
+      "Cooperative Game",
+      "Events",
+      "Grid Movement",
+      "Hand Management",
+      "Hexagon Grid",
+      "Modular Board",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ]
   },
   {
-    "bgg_id": 3076,
-    "name": "Puerto Rico",
-    "year_published": 2002,
-    "rating": 0.0,
-    "num_plays": 12
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 220308,
     "name": "Gaia Project",
     "year_published": 2017,
-    "rating": 0.0,
-    "num_plays": 11
+    "rating": 8.8,
+    "num_plays": 11,
+    "players": "1-4",
+    "complexity": 4.4037,
+    "bgg_rating": 8.35174,
+    "num_ratings": 31226,
+    "categories": [
+      "Civilization",
+      "Economic",
+      "Science Fiction",
+      "Space Exploration",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "End Game Bonuses",
+      "Hexagon Grid",
+      "Income",
+      "Modular Board",
+      "Network and Route Building",
+      "Solo / Solitaire Game",
+      "Tags",
+      "Tech Trees / Tech Tracks",
+      "Turn Order: Pass Order",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Victory Points as a Resource"
+    ]
   },
   {
-    "bgg_id": 822,
-    "name": "Carcassonne",
-    "year_published": 2000,
-    "rating": 0.0,
-    "num_plays": 10
-  },
-  {
-    "bgg_id": 68425,
-    "name": "Eminent Domain",
-    "year_published": 2011,
-    "rating": 0.0,
-    "num_plays": 10
-  },
-  {
-    "bgg_id": 118048,
-    "name": "Targi",
-    "year_published": 2012,
-    "rating": 0.0,
-    "num_plays": 10
-  },
-  {
-    "bgg_id": 247143,
-    "name": "Senshi",
-    "year_published": 2018,
-    "rating": 0.0,
-    "num_plays": 9
-  },
-  {
-    "bgg_id": 39463,
-    "name": "Cosmic Encounter",
-    "year_published": 2008,
-    "rating": 0.0,
-    "num_plays": 8
-  },
-  {
-    "bgg_id": 226320,
-    "name": "My Little Scythe",
-    "year_published": 2018,
-    "rating": 0.0,
-    "num_plays": 8
-  },
-  {
-    "bgg_id": 258779,
-    "name": "Planet Unknown",
-    "year_published": 2022,
-    "rating": 0.0,
-    "num_plays": 8
-  },
-  {
-    "bgg_id": 291453,
-    "name": "SCOUT",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 8
-  },
-  {
-    "bgg_id": 178044,
-    "name": "Small Star Empires",
-    "year_published": 2016,
-    "rating": 0.0,
-    "num_plays": 8
-  },
-  {
-    "bgg_id": 242302,
-    "name": "Space Base",
-    "year_published": 2018,
-    "rating": 0.0,
-    "num_plays": 8
-  },
-  {
-    "bgg_id": 133473,
-    "name": "Sushi Go!",
-    "year_published": 2013,
-    "rating": 0.0,
-    "num_plays": 8
-  },
-  {
-    "bgg_id": 172287,
-    "name": "Champions of Midgard",
-    "year_published": 2015,
-    "rating": 0.0,
-    "num_plays": 7
-  },
-  {
-    "bgg_id": 50,
-    "name": "Lost Cities",
-    "year_published": 1999,
-    "rating": 0.0,
-    "num_plays": 7
-  },
-  {
-    "bgg_id": 12942,
-    "name": "No Thanks!",
-    "year_published": 2004,
-    "rating": 0.0,
-    "num_plays": 7
-  },
-  {
-    "bgg_id": 163412,
-    "name": "Patchwork",
-    "year_published": 2014,
-    "rating": 0.0,
-    "num_plays": 7
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 382518,
     "name": "Sankoré: The Pride of Mansa Musa",
     "year_published": 2024,
-    "rating": 0.0,
-    "num_plays": 7
+    "rating": 9.0,
+    "num_plays": 7,
+    "players": "1-4",
+    "complexity": 4.2485,
+    "bgg_rating": 7.96681,
+    "num_ratings": 1573,
+    "categories": [
+      "Ancient",
+      "City Building",
+      "Civilization",
+      "Economic",
+      "Educational",
+      "Medieval"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Contracts",
+      "End Game Bonuses",
+      "Point to Point Movement",
+      "Resource Queue",
+      "Simulation",
+      "Solo / Solitaire Game",
+      "Tech Trees / Tech Tracks",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ]
   },
   {
-    "bgg_id": 169786,
-    "name": "Scythe",
-    "year_published": 2016,
-    "rating": 0.0,
-    "num_plays": 7
-  },
-  {
-    "bgg_id": 140934,
-    "name": "Arboretum",
-    "year_published": 2015,
-    "rating": 0.0,
-    "num_plays": 6
-  },
-  {
-    "bgg_id": 317985,
-    "name": "Beyond the Sun",
-    "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 6
-  },
-  {
-    "bgg_id": 11971,
-    "name": "Cockroach Poker",
-    "year_published": 2004,
-    "rating": 0.0,
-    "num_plays": 6
-  },
-  {
-    "bgg_id": 253344,
-    "name": "Cthulhu: Death May Die",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 6
-  },
-  {
-    "bgg_id": 100423,
-    "name": "Elder Sign",
-    "year_published": 2011,
-    "rating": 0.0,
-    "num_plays": 6
-  },
-  {
-    "bgg_id": 133848,
-    "name": "Euphoria: Build a Better Dystopia",
-    "year_published": 2013,
-    "rating": 0.0,
-    "num_plays": 6
-  },
-  {
-    "bgg_id": 122842,
-    "name": "Exodus: Proxima Centauri",
-    "year_published": 2012,
-    "rating": 0.0,
-    "num_plays": 6
-  },
-  {
-    "bgg_id": 181304,
-    "name": "Mysterium",
-    "year_published": 2015,
-    "rating": 0.0,
-    "num_plays": 6
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 223779,
     "name": "Pocket Mars",
     "year_published": 2017,
-    "rating": 0.0,
-    "num_plays": 6
+    "rating": 6.9,
+    "num_plays": 6,
+    "players": "1-4",
+    "complexity": 2.3151,
+    "bgg_rating": 6.41536,
+    "num_ratings": 2027,
+    "categories": [
+      "Card Game",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Hand Management",
+      "Solo / Solitaire Game"
+    ]
   },
   {
+    "group_key": "1-4",
     "bgg_id": 418059,
     "name": "SETI: Search for Extraterrestrial Intelligence",
     "year_published": 2024,
-    "rating": 0.0,
-    "num_plays": 6
+    "rating": 10.0,
+    "num_plays": 6,
+    "players": "1-4",
+    "complexity": 3.8299,
+    "bgg_rating": 8.41637,
+    "num_ratings": 19335,
+    "categories": [
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "End Game Bonuses",
+      "Income",
+      "Multi-Use Cards",
+      "Resource to Move",
+      "Solo / Solitaire Game",
+      "Turn Order: Progressive",
+      "Variable Set-up"
+    ]
   },
   {
-    "bgg_id": 356414,
-    "name": "Space Station Phoenix",
-    "year_published": 2022,
-    "rating": 0.0,
-    "num_plays": 6
-  },
-  {
-    "bgg_id": 353470,
-    "name": "Star Wars: Jabba's Palace – A Love Letter Game",
-    "year_published": 2022,
-    "rating": 0.0,
-    "num_plays": 6
-  },
-  {
-    "bgg_id": 220792,
-    "name": "The Expanse Board Game",
-    "year_published": 2017,
-    "rating": 0.0,
-    "num_plays": 6
-  },
-  {
-    "bgg_id": 237179,
-    "name": "Weather Machine",
-    "year_published": 2022,
-    "rating": 0.0,
-    "num_plays": 6
-  },
-  {
-    "bgg_id": 143741,
-    "name": "BANG! The Dice Game",
-    "year_published": 2013,
-    "rating": 0.0,
-    "num_plays": 5
-  },
-  {
-    "bgg_id": 178900,
-    "name": "Codenames",
-    "year_published": 2015,
-    "rating": 0.0,
-    "num_plays": 5
-  },
-  {
-    "bgg_id": 131357,
-    "name": "Coup",
-    "year_published": 2012,
-    "rating": 0.0,
-    "num_plays": 5
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 221194,
     "name": "Dinosaur Island",
     "year_published": 2017,
-    "rating": 0.0,
-    "num_plays": 5
+    "rating": 8.0,
+    "num_plays": 5,
+    "players": "1-4",
+    "complexity": 3.045,
+    "bgg_rating": 7.52733,
+    "num_ratings": 17194,
+    "categories": [
+      "Animals",
+      "Economic",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Dice Rolling",
+      "Income",
+      "Set Collection",
+      "Tile Placement",
+      "Worker Placement"
+    ]
   },
   {
-    "bgg_id": 329151,
-    "name": "Draconic Dice",
-    "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 5
-  },
-  {
-    "bgg_id": 260300,
-    "name": "Dungeon Mayhem",
-    "year_published": 2018,
-    "rating": 0.0,
-    "num_plays": 5
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 391137,
     "name": "Galactic Cruise",
     "year_published": 2025,
-    "rating": 0.0,
-    "num_plays": 5
+    "rating": 9.0,
+    "num_plays": 5,
+    "players": "1-4",
+    "complexity": 3.9685,
+    "bgg_rating": 8.31962,
+    "num_ratings": 6936,
+    "categories": [
+      "Aviation / Flight",
+      "Economic",
+      "Industry / Manufacturing",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Connections",
+      "End Game Bonuses",
+      "Hand Management",
+      "Income",
+      "Market",
+      "Modular Board",
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Track Movement",
+      "Variable Set-up",
+      "Victory Points as a Resource",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ]
   },
   {
-    "bgg_id": 155821,
-    "name": "Inis",
-    "year_published": 2016,
-    "rating": 0.0,
-    "num_plays": 5
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 347305,
     "name": "Inventions: Evolution of Ideas",
     "year_published": 2024,
     "rating": 0.0,
-    "num_plays": 5
+    "num_plays": 5,
+    "players": "1-4",
+    "complexity": 4.5902,
+    "bgg_rating": 7.92105,
+    "num_ratings": 2912,
+    "categories": [
+      "Civilization",
+      "Industry / Manufacturing"
+    ],
+    "mechanics": [
+      "Point to Point Movement",
+      "Worker Placement"
+    ]
   },
   {
-    "bgg_id": 264241,
-    "name": "Mandala",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 5
-  },
-  {
-    "bgg_id": 274960,
-    "name": "Point Salad",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 5
-  },
-  {
-    "bgg_id": 811,
-    "name": "Rummikub",
-    "year_published": 1977,
-    "rating": 0.0,
-    "num_plays": 5
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 297030,
     "name": "Tekhenu: Obelisk of the Sun",
     "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 5
+    "rating": 10.0,
+    "num_plays": 5,
+    "players": "1-4",
+    "complexity": 4.0664,
+    "bgg_rating": 7.66108,
+    "num_ratings": 6651,
+    "categories": [
+      "Ancient",
+      "Dice",
+      "Mythology"
+    ],
+    "mechanics": [
+      "Action Drafting",
+      "Income",
+      "Open Drafting",
+      "Pattern Building",
+      "Turn Order: Stat-Based",
+      "Variable Set-up"
+    ]
   },
   {
-    "bgg_id": 361545,
-    "name": "Twilight Inscription",
-    "year_published": 2022,
-    "rating": 0.0,
-    "num_plays": 5
-  },
-  {
-    "bgg_id": 82222,
-    "name": "Xia: Legends of a Drift System",
-    "year_published": 2014,
-    "rating": 0.0,
-    "num_plays": 5
-  },
-  {
-    "bgg_id": 257089,
-    "name": "Big Trouble in Little China: The Game – Deluxe Edition",
-    "year_published": 2018,
-    "rating": 0.0,
-    "num_plays": 4
-  },
-  {
-    "bgg_id": 242574,
-    "name": "Century: Eastern Wonders",
-    "year_published": 2018,
-    "rating": 0.0,
-    "num_plays": 4
-  },
-  {
-    "bgg_id": 265188,
-    "name": "Glen More II: Chronicles",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 4
-  },
-  {
-    "bgg_id": 289566,
-    "name": "Hunted: Kobayashi Tower",
-    "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 4
-  },
-  {
-    "bgg_id": 289565,
-    "name": "Hunted: Mining Colony 415",
-    "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 4
-  },
-  {
-    "bgg_id": 270673,
-    "name": "Silver & Gold",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 4
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 299178,
     "name": "Small Railroad Empires",
     "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 4
+    "rating": 8.0,
+    "num_plays": 4,
+    "players": "1-4",
+    "complexity": 2.3,
+    "bgg_rating": 6.59634,
+    "num_ratings": 278,
+    "categories": [
+      "Trains",
+      "Transportation"
+    ],
+    "mechanics": [
+      "Hexagon Grid",
+      "Modular Board",
+      "Open Drafting",
+      "Pick-up and Deliver",
+      "Set Collection",
+      "Variable Player Powers"
+    ]
   },
   {
+    "group_key": "1-4",
     "bgg_id": 230253,
     "name": "Star Realms: Frontiers",
     "year_published": 2018,
-    "rating": 0.0,
-    "num_plays": 4
+    "rating": 9.0,
+    "num_plays": 4,
+    "players": "1-4",
+    "complexity": 1.8844,
+    "bgg_rating": 7.90803,
+    "num_ratings": 6225,
+    "categories": [
+      "Card Game",
+      "Fighting",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Open Drafting",
+      "Player Elimination",
+      "Solo / Solitaire Game",
+      "Take That"
+    ]
   },
   {
-    "bgg_id": 163967,
-    "name": "Tiny Epic Galaxies",
-    "year_published": 2015,
-    "rating": 0.0,
-    "num_plays": 4
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 269210,
     "name": "Twice as Clever!",
     "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 4
+    "rating": 8.0,
+    "num_plays": 4,
+    "players": "1-4",
+    "complexity": 2.2718,
+    "bgg_rating": 7.41377,
+    "num_ratings": 10204,
+    "categories": [
+      "Dice",
+      "Number"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Paper-and-Pencil",
+      "Re-rolling and Locking",
+      "Solo / Solitaire Game"
+    ]
   },
   {
-    "bgg_id": 126163,
-    "name": "Tzolk'in: The Mayan Calendar",
-    "year_published": 2012,
-    "rating": 0.0,
-    "num_plays": 4
-  },
-  {
-    "bgg_id": 366495,
-    "name": "Undaunted: Battle of Britain",
-    "year_published": 2023,
-    "rating": 0.0,
-    "num_plays": 4
-  },
-  {
-    "bgg_id": 233867,
-    "name": "Welcome To...",
-    "year_published": 2018,
-    "rating": 0.0,
-    "num_plays": 4
-  },
-  {
-    "bgg_id": 303554,
-    "name": "Winter Kingdom",
-    "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 4
-  },
-  {
-    "bgg_id": 48726,
-    "name": "Alien Frontiers",
-    "year_published": 2010,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
-    "bgg_id": 358661,
-    "name": "Andromeda's Edge",
-    "year_published": 2024,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
-    "bgg_id": 257499,
-    "name": "Arkham Horror (Third Edition)",
-    "year_published": 2018,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
-    "bgg_id": 248490,
-    "name": "Atlantis Rising (Second Edition)",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 264052,
     "name": "Circadians: First Light",
     "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 3
+    "rating": 8.0,
+    "num_plays": 3,
+    "players": "1-4",
+    "complexity": 3.3723,
+    "bgg_rating": 7.51755,
+    "num_ratings": 3609,
+    "categories": [
+      "Dice",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Contracts",
+      "Dice Rolling",
+      "Events",
+      "Secret Unit Deployment",
+      "Set Collection",
+      "Variable Player Powers",
+      "Worker Placement",
+      "Worker Placement with Dice Workers"
+    ]
   },
   {
-    "bgg_id": 326485,
-    "name": "Cthulhu Wars: Duel",
-    "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
-    "bgg_id": 183571,
-    "name": "Deep Space D-6",
-    "year_published": 2015,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
-    "bgg_id": 194594,
-    "name": "Dice Forge",
-    "year_published": 2017,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
-    "bgg_id": 247236,
-    "name": "Duelosaur Island",
-    "year_published": 2018,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
-    "bgg_id": 218509,
-    "name": "Empires of the Void II",
-    "year_published": 2018,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 138161,
     "name": "Firefly: The Game",
     "year_published": 2013,
-    "rating": 0.0,
-    "num_plays": 3
+    "rating": 8.2,
+    "num_plays": 3,
+    "players": "1-4",
+    "complexity": 2.956,
+    "bgg_rating": 7.38165,
+    "num_ratings": 12605,
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Movies / TV / Radio theme",
+      "Science Fiction",
+      "Space Exploration",
+      "Travel"
+    ],
+    "mechanics": [
+      "Area Movement",
+      "Dice Rolling",
+      "Open Drafting",
+      "Pick-up and Deliver",
+      "Solo / Solitaire Game",
+      "Take That",
+      "Trading",
+      "Variable Player Powers"
+    ]
   },
   {
-    "bgg_id": 4279,
-    "name": "Flux",
-    "year_published": 1986,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 317859,
     "name": "Forests of Pangaia",
     "year_published": 2023,
-    "rating": 0.0,
-    "num_plays": 3
+    "rating": 8.0,
+    "num_plays": 3,
+    "players": "1-4",
+    "complexity": 2.3696,
+    "bgg_rating": 7.25811,
+    "num_ratings": 972,
+    "categories": [
+      "Fantasy",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Pattern Building",
+      "Set Collection",
+      "Victory Points as a Resource"
+    ]
   },
   {
-    "bgg_id": 171273,
-    "name": "FUSE",
-    "year_published": 2015,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
-    "bgg_id": 321608,
-    "name": "Hegemony: Lead Your Class to Victory",
-    "year_published": 2023,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
-    "bgg_id": 155065,
-    "name": "Lifeform",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
-    "bgg_id": 129622,
-    "name": "Love Letter",
-    "year_published": 2012,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
-    "bgg_id": 313841,
-    "name": "Lunar Base",
-    "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 200077,
     "name": "Mint Works",
     "year_published": 2017,
-    "rating": 0.0,
-    "num_plays": 3
+    "rating": 8.0,
+    "num_plays": 3,
+    "players": "1-4",
+    "complexity": 1.7308,
+    "bgg_rating": 6.88551,
+    "num_ratings": 7049,
+    "categories": [
+      "Card Game",
+      "Industry / Manufacturing"
+    ],
+    "mechanics": [
+      "Open Drafting",
+      "Ownership",
+      "Turn Order: Claim Action",
+      "Worker Placement"
+    ]
   },
   {
+    "group_key": "1-4",
     "bgg_id": 184267,
     "name": "On Mars",
     "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 3
+    "rating": 9.0,
+    "num_plays": 3,
+    "players": "1-4",
+    "complexity": 4.6264,
+    "bgg_rating": 8.1588,
+    "num_ratings": 14909,
+    "categories": [
+      "City Building",
+      "Economic",
+      "Exploration",
+      "Science Fiction",
+      "Space Exploration",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Contracts",
+      "Delayed Purchase",
+      "End Game Bonuses",
+      "Hexagon Grid",
+      "Income",
+      "Movement Points",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Tech Trees / Tech Tracks",
+      "Tile Placement",
+      "Variable Phase Order",
+      "Worker Placement"
+    ]
   },
   {
-    "bgg_id": 228341,
-    "name": "Pulsar 2849",
-    "year_published": 2017,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
-    "bgg_id": 242684,
-    "name": "Reavers of Midgard",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
-    "bgg_id": 417197,
-    "name": "Rebirth",
-    "year_published": 2024,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
-    "bgg_id": 250467,
-    "name": "Red Alert: Space Fleet Warfare",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 307002,
     "name": "Regicide",
     "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 3
+    "rating": 8.0,
+    "num_plays": 3,
+    "players": "1-4",
+    "complexity": 1.9679,
+    "bgg_rating": 7.38676,
+    "num_ratings": 8825,
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Fighting"
+    ],
+    "mechanics": [
+      "Card Play Conflict Resolution",
+      "Communication Limits",
+      "Cooperative Game",
+      "Hand Management",
+      "Solo / Solitaire Game",
+      "Sudden Death Ending",
+      "Variable Set-up"
+    ]
   },
   {
-    "bgg_id": 202426,
-    "name": "Sidereal Confluence",
-    "year_published": 2017,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
-    "bgg_id": 298231,
-    "name": "Skyrise",
-    "year_published": 2024,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
-    "bgg_id": 284616,
-    "name": "Small Samurai Empires",
-    "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
-    "bgg_id": 142079,
-    "name": "Space Cadets: Dice Duel",
-    "year_published": 2013,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 306481,
     "name": "Tawantinsuyu: The Inca Empire",
     "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 3
+    "rating": 9.0,
+    "num_plays": 3,
+    "players": "1-4",
+    "complexity": 4.089,
+    "bgg_rating": 7.36994,
+    "num_ratings": 3091,
+    "categories": [
+      "Civilization",
+      "Economic",
+      "Renaissance"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Hand Management",
+      "Open Drafting",
+      "Pattern Building",
+      "Rondel",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Variable Set-up",
+      "Worker Placement, Different Worker Types"
+    ]
   },
   {
+    "group_key": "1-4",
     "bgg_id": 328871,
     "name": "Terraforming Mars: Ares Expedition",
     "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 3
+    "rating": 10.0,
+    "num_plays": 3,
+    "players": "1-4",
+    "complexity": 2.9241,
+    "bgg_rating": 7.63664,
+    "num_ratings": 21059,
+    "categories": [
+      "Card Game",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "End Game Bonuses",
+      "Follow",
+      "Hand Management",
+      "Income",
+      "Market",
+      "Multi-Use Cards",
+      "Set Collection",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Tags",
+      "Tech Trees / Tech Tracks",
+      "Track Movement",
+      "Variable Phase Order",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ]
   },
   {
-    "bgg_id": 324856,
-    "name": "The Crew: Mission Deep Sea",
-    "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
-    "bgg_id": 284083,
-    "name": "The Crew: The Quest for Planet Nine",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
-    "bgg_id": 300442,
-    "name": "Trekking the World",
-    "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
-    "bgg_id": 296237,
-    "name": "Warp's Edge",
-    "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
-    "bgg_id": 274364,
-    "name": "Watergate",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 3
-  },
-  {
-    "bgg_id": 247367,
-    "name": "Air, Land, & Sea",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
-    "bgg_id": 247367,
-    "name": "Air, Land, & Sea",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 231581,
     "name": "AuZtralia",
     "year_published": 2018,
-    "rating": 0.0,
-    "num_plays": 2
+    "rating": 8.0,
+    "num_plays": 2,
+    "players": "1-4",
+    "complexity": 2.8873,
+    "bgg_rating": 7.33056,
+    "num_ratings": 5280,
+    "categories": [
+      "Economic",
+      "Exploration",
+      "Fantasy",
+      "Horror"
+    ],
+    "mechanics": [
+      "Action Retrieval",
+      "Cooperative Game",
+      "Hexagon Grid",
+      "Network and Route Building",
+      "Semi-Cooperative Game",
+      "Solo / Solitaire Game",
+      "Sudden Death Ending",
+      "Turn Order: Time Track"
+    ]
   },
   {
+    "group_key": "1-4",
     "bgg_id": 356768,
     "name": "Bloc by Bloc: Uprising",
     "year_published": 2022,
-    "rating": 0.0,
-    "num_plays": 2
+    "rating": 8.0,
+    "num_plays": 2,
+    "players": "1-4",
+    "complexity": 2.5789,
+    "bgg_rating": 7.23896,
+    "num_ratings": 634,
+    "categories": [
+      "Dice",
+      "Educational",
+      "Political"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Betting and Bluffing",
+      "Cooperative Game",
+      "Grid Movement",
+      "Hidden Roles",
+      "Modular Board",
+      "Semi-Cooperative Game",
+      "Simulation",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ]
   },
   {
+    "group_key": "1-4",
     "bgg_id": 349948,
     "name": "Ceres",
     "year_published": 2023,
-    "rating": 0.0,
-    "num_plays": 2
+    "rating": 9.0,
+    "num_plays": 2,
+    "players": "1-4",
+    "complexity": 3.2653,
+    "bgg_rating": 7.60807,
+    "num_ratings": 921,
+    "categories": [
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Tech Trees / Tech Tracks",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ]
   },
   {
-    "bgg_id": 298572,
-    "name": "Cosmic Encounter Duel",
-    "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
-    "bgg_id": 312251,
-    "name": "Curious Cargo",
-    "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
-    "bgg_id": 317457,
-    "name": "Dinosaur World",
-    "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 331401,
     "name": "Dog Park",
     "year_published": 2022,
-    "rating": 0.0,
-    "num_plays": 2
+    "rating": 9.0,
+    "num_plays": 2,
+    "players": "1-4",
+    "complexity": 2.1618,
+    "bgg_rating": 6.87647,
+    "num_ratings": 3983,
+    "categories": [
+      "Animals",
+      "Card Game"
+    ],
+    "mechanics": [
+      "Auction / Bidding",
+      "Point to Point Movement",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Track Movement",
+      "Variable Set-up",
+      "Victory Points as a Resource",
+      "Worker Placement"
+    ]
   },
   {
+    "group_key": "1-4",
     "bgg_id": 316554,
     "name": "Dune: Imperium",
     "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 2
+    "rating": 8.0,
+    "num_plays": 2,
+    "players": "1-4",
+    "complexity": 3.0769,
+    "bgg_rating": 8.41224,
+    "num_ratings": 58226,
+    "categories": [
+      "Movies / TV / Radio theme",
+      "Novel-based",
+      "Political",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Card Play Conflict Resolution",
+      "Deck, Bag, and Pool Building",
+      "Delayed Purchase",
+      "Force Commitment",
+      "Increase Value of Unchosen Resources",
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Ownership",
+      "Race",
+      "Solo / Solitaire Game",
+      "Tags",
+      "Take That",
+      "Turn Order: Progressive",
+      "Variable Player Powers",
+      "Worker Placement"
+    ]
   },
   {
+    "group_key": "1-4",
     "bgg_id": 367150,
     "name": "Dune: War for Arrakis",
     "year_published": 2024,
-    "rating": 0.0,
-    "num_plays": 2
+    "rating": 10.0,
+    "num_plays": 2,
+    "players": "1-4",
+    "complexity": 3.65,
+    "bgg_rating": 8.4874,
+    "num_ratings": 4017,
+    "categories": [
+      "Dice",
+      "Movies / TV / Radio theme",
+      "Novel-based",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Action Drafting",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "Events",
+      "Hand Management",
+      "Simulation",
+      "Solo / Solitaire Game",
+      "Team-Based Game",
+      "Variable Set-up"
+    ]
   },
   {
+    "group_key": "1-4",
     "bgg_id": 292126,
     "name": "Excavation Earth",
     "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 2
+    "rating": 8.5,
+    "num_plays": 2,
+    "players": "1-4",
+    "complexity": 3.8077,
+    "bgg_rating": 7.11027,
+    "num_ratings": 1644,
+    "categories": [
+      "Economic",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Hand Management",
+      "Market",
+      "Open Drafting",
+      "Point to Point Movement",
+      "Set Collection",
+      "Solo / Solitaire Game"
+    ]
   },
   {
-    "bgg_id": 286160,
-    "name": "Godspeed",
-    "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
-    "bgg_id": 255674,
-    "name": "Imhotep: The Duel",
-    "year_published": 2018,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 284378,
     "name": "Kanban EV",
     "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 2
+    "rating": 9.0,
+    "num_plays": 2,
+    "players": "1-4",
+    "complexity": 4.2899,
+    "bgg_rating": 8.38143,
+    "num_ratings": 10238,
+    "categories": [
+      "Economic",
+      "Industry / Manufacturing"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Hand Management",
+      "Variable Phase Order",
+      "Worker Placement"
+    ]
   },
   {
-    "bgg_id": 315727,
-    "name": "Last Light",
-    "year_published": 2023,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
-    "bgg_id": 146652,
-    "name": "Legendary Encounters: An Alien Deck Building Game",
-    "year_published": 2014,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
-    "bgg_id": 348877,
-    "name": "Lobotomy 2: Manhunt",
-    "year_published": 2022,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 340865,
     "name": "Lords of Ragnarok",
     "year_published": 2023,
-    "rating": 0.0,
-    "num_plays": 2
+    "rating": 8.0,
+    "num_plays": 2,
+    "players": "1-4",
+    "complexity": 3.7857,
+    "bgg_rating": 7.27647,
+    "num_ratings": 1317,
+    "categories": [
+      "Fantasy",
+      "Miniatures",
+      "Mythology",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Card Play Conflict Resolution",
+      "Dice Rolling",
+      "Hand Management",
+      "Open Drafting",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
+      "Worker Placement"
+    ]
   },
   {
-    "bgg_id": 284653,
-    "name": "Mind MGMT: The Psychic Espionage “Game.”",
-    "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
-    "bgg_id": 122298,
-    "name": "Morels",
-    "year_published": 2012,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
-    "bgg_id": 167355,
-    "name": "Nemesis",
-    "year_published": 2018,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
-    "bgg_id": 310100,
-    "name": "Nemesis: Lockdown",
-    "year_published": 2022,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 266810,
     "name": "Paladins of the West Kingdom",
     "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 2
+    "rating": 9.0,
+    "num_plays": 2,
+    "players": "1-4",
+    "complexity": 3.7097,
+    "bgg_rating": 7.95566,
+    "num_ratings": 20514,
+    "categories": "Medieval",
+    "mechanics": [
+      "End Game Bonuses",
+      "Market",
+      "Open Drafting",
+      "Solo / Solitaire Game",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ]
   },
   {
-    "bgg_id": 30549,
-    "name": "Pandemic",
-    "year_published": 2008,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
-    "bgg_id": 266524,
-    "name": "PARKS",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
-    "bgg_id": 159473,
-    "name": "Quartermaster General",
-    "year_published": 2014,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
-    "bgg_id": 232043,
-    "name": "Queendomino",
-    "year_published": 2017,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 306881,
     "name": "Railroad Ink Challenge: Lush Green Edition",
     "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 2
+    "rating": 8.0,
+    "num_plays": 2,
+    "players": "1-4",
+    "complexity": 2.1143,
+    "bgg_rating": 7.56306,
+    "num_ratings": 3843,
+    "categories": [
+      "Dice",
+      "Trains"
+    ],
+    "mechanics": [
+      "Bingo",
+      "Connections",
+      "Dice Rolling",
+      "Line Drawing",
+      "Network and Route Building",
+      "Paper-and-Pencil",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game"
+    ]
   },
   {
-    "bgg_id": 177639,
-    "name": "Raptor",
-    "year_published": 2015,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 274037,
     "name": "Solar Storm",
     "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 2
+    "rating": 7.0,
+    "num_plays": 2,
+    "players": "1-4",
+    "complexity": 2.0667,
+    "bgg_rating": 6.93859,
+    "num_ratings": 1324,
+    "categories": [
+      "Card Game",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Hand Management",
+      "Solo / Solitaire Game"
+    ]
   },
   {
-    "bgg_id": 347117,
-    "name": "Star Trek: Missions",
-    "year_published": 2022,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
-    "bgg_id": 279720,
-    "name": "Streets",
-    "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
-    "bgg_id": 281258,
-    "name": "Sub Terra II: Inferno's Edge",
-    "year_published": 2023,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
-    "bgg_id": 145976,
-    "name": "Talon",
-    "year_published": 2016,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 381715,
     "name": "Teotihuacan: City of Gods – Deluxe Master Set",
     "year_published": 2024,
     "rating": 0.0,
-    "num_plays": 2
+    "num_plays": 2,
+    "players": "1-4",
+    "complexity": 3.9062,
+    "bgg_rating": 8.40683,
+    "num_ratings": 650,
+    "categories": "Ancient",
+    "mechanics": [
+      "Area Movement",
+      "Rondel",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Track Movement",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Worker Placement with Dice Workers"
+    ]
   },
   {
-    "bgg_id": 319966,
-    "name": "The King Is Dead: Second Edition",
-    "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 291508,
     "name": "Tiny Epic Dinosaurs",
     "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 2
+    "rating": 8.0,
+    "num_plays": 2,
+    "players": "1-4",
+    "complexity": 2.6522,
+    "bgg_rating": 7.27999,
+    "num_ratings": 4221,
+    "categories": [
+      "Animals",
+      "Fantasy",
+      "Farming",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Contracts",
+      "Enclosure",
+      "Hidden Victory Points",
+      "Solo / Solitaire Game",
+      "Worker Placement"
+    ]
   },
   {
-    "bgg_id": 299450,
-    "name": "Tsukuyumi: Full Moon Down (Second Edition)",
-    "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
-    "bgg_id": 268864,
-    "name": "Undaunted: Normandy",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
-    "bgg_id": 290359,
-    "name": "Undaunted: North Africa",
-    "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
-    "bgg_id": 290484,
-    "name": "Unsettled",
-    "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
-    "bgg_id": 290484,
-    "name": "Unsettled",
-    "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
-    "bgg_id": 380707,
-    "name": "Vindication: Archive of the Ancients",
-    "year_published": 2023,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
-    "bgg_id": 232524,
-    "name": "Welcome to Dino World",
-    "year_published": 2017,
-    "rating": 0.0,
-    "num_plays": 2
-  },
-  {
-    "bgg_id": 173346,
-    "name": "7 Wonders Duel",
-    "year_published": 2015,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 256852,
-    "name": "Aliens: Another Glorious Day in the Corps",
-    "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 110277,
-    "name": "Among the Stars",
-    "year_published": 2012,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 205637,
-    "name": "Arkham Horror: The Card Game",
-    "year_published": 2016,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 337070,
-    "name": "Arkham Noir: Case #3 – Infinite Gulfs of Darkness",
-    "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 425630,
     "name": "Baghdad: The City of Peace",
     "year_published": 2025,
     "rating": 0.0,
-    "num_plays": 1
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 3.3571,
+    "bgg_rating": 7.63686,
+    "num_ratings": 388,
+    "categories": [
+      "Arabian",
+      "City Building",
+      "Medieval"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Rondel",
+      "Solo / Solitaire Game",
+      "Worker Placement"
+    ]
   },
   {
-    "bgg_id": 37111,
-    "name": "Battlestar Galactica: The Board Game",
-    "year_published": 2008,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 230244,
     "name": "Black Angel",
     "year_published": 2019,
     "rating": 0.0,
-    "num_plays": 1
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 3.87,
+    "bgg_rating": 7.18317,
+    "num_ratings": 5301,
+    "categories": [
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Bias",
+      "Dice Rolling",
+      "Hand Management",
+      "Map Addition",
+      "Map Reduction",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Variable Set-up",
+      "Worker Placement with Dice Workers"
+    ]
   },
   {
-    "bgg_id": 347521,
-    "name": "Blitzkrieg!: World War Two in 20 Minutes (Second Edition)",
-    "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 170223,
     "name": "Centauri Saga",
     "year_published": 2016,
-    "rating": 0.0,
-    "num_plays": 1
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 2.9412,
+    "bgg_rating": 6.51576,
+    "num_ratings": 342,
+    "categories": [
+      "Adventure",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Area Movement",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hand Management",
+      "Modular Board"
+    ]
   },
   {
+    "group_key": "1-4",
     "bgg_id": 170223,
     "name": "Centauri Saga v1.5",
     "year_published": 2016,
-    "rating": 0.0,
-    "num_plays": 1
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 2.9412,
+    "bgg_rating": 6.51576,
+    "num_ratings": 342,
+    "categories": [
+      "Adventure",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Area Movement",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hand Management",
+      "Modular Board"
+    ]
   },
   {
-    "bgg_id": 105593,
-    "name": "Cheating Moth",
-    "year_published": 2011,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 220700,
-    "name": "Cobra Paw",
-    "year_published": 2017,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 283095,
-    "name": "Cosmic Colonies",
-    "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 139976,
-    "name": "Cthulhu Wars",
-    "year_published": 2015,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 373600,
-    "name": "Cthulhu: Death May Die – Fear of the Unknown",
-    "year_published": 2024,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 247567,
-    "name": "D-Day Dice Pocket",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 376747,
-    "name": "Deep Dive",
-    "year_published": 2023,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 318009,
     "name": "Dinosaur Island: Rawr 'n Write",
     "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 1
+    "rating": 8.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 2.8534,
+    "bgg_rating": 7.65449,
+    "num_ratings": 4610,
+    "categories": [
+      "Animals",
+      "Dice",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Connections",
+      "Dice Rolling",
+      "Grid Coverage",
+      "Network and Route Building",
+      "Open Drafting",
+      "Paper-and-Pencil",
+      "Worker Placement with Dice Workers"
+    ]
   },
   {
-    "bgg_id": 344839,
-    "name": "Dog Lover",
-    "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 62219,
-    "name": "Dominant Species",
-    "year_published": 2010,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 262941,
-    "name": "Dominant Species: Marine",
-    "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 253786,
-    "name": "Don't Mess with Cthulhu Deluxe",
-    "year_published": 2018,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 283355,
-    "name": "Dune",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 246900,
-    "name": "Eclipse: Second Dawn for the Galaxy",
-    "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 146021,
-    "name": "Eldritch Horror",
-    "year_published": 2013,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 172225,
-    "name": "Exploding Kittens",
-    "year_published": 2015,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 198609,
     "name": "Fate of the Elder Gods",
     "year_published": 2017,
-    "rating": 0.0,
-    "num_plays": 1
+    "rating": 9.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 2.8276,
+    "bgg_rating": 7.21966,
+    "num_ratings": 1143,
+    "categories": [
+      "Adventure",
+      "Dice",
+      "Horror",
+      "Miniatures",
+      "Mythology"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Dice Rolling",
+      "Hand Management",
+      "Solo / Solitaire Game",
+      "Take That",
+      "Variable Player Powers",
+      "Worker Placement"
+    ]
   },
   {
-    "bgg_id": 277659,
-    "name": "Final Girl",
-    "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 163170,
-    "name": "Firefly: Shiny Dice",
-    "year_published": 2015,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 136063,
-    "name": "Forbidden Desert",
-    "year_published": 2013,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 65244,
-    "name": "Forbidden Island",
-    "year_published": 2010,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 345088,
     "name": "Founders of Teotihuacan",
     "year_published": 2022,
-    "rating": 0.0,
-    "num_plays": 1
+    "rating": 6.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 2.8158,
+    "bgg_rating": 6.82855,
+    "num_ratings": 851,
+    "categories": [
+      "Ancient",
+      "City Building"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Contracts",
+      "End Game Bonuses",
+      "Market",
+      "Tile Placement",
+      "Turn Order: Progressive",
+      "Worker Placement"
+    ]
   },
   {
-    "bgg_id": 31481,
-    "name": "Galaxy Trucker",
-    "year_published": 2007,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 252752,
-    "name": "Genotype: A Mendelian Genetics Game",
-    "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 278120,
     "name": "God of War: The Card Game",
     "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 1
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 2.5172,
+    "bgg_rating": 6.53862,
+    "num_ratings": 1124,
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Video Game Theme"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Solo / Solitaire Game"
+    ]
   },
   {
-    "bgg_id": 158600,
-    "name": "Hanamikoji",
-    "year_published": 2013,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 194626,
-    "name": "Happy Salmon",
-    "year_published": 2016,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 233868,
-    "name": "HATE",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 195314,
     "name": "Herbaceous",
     "year_published": 2017,
-    "rating": 0.0,
-    "num_plays": 1
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 1.226,
+    "bgg_rating": 6.98786,
+    "num_ratings": 6261,
+    "categories": [
+      "Card Game",
+      "Print & Play"
+    ],
+    "mechanics": [
+      "Push Your Luck",
+      "Set Collection",
+      "Solo / Solitaire Game"
+    ]
   },
   {
-    "bgg_id": 8203,
-    "name": "Hey, That's My Fish!",
-    "year_published": 2003,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 160968,
-    "name": "Homeland: The Game",
-    "year_published": 2015,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 329148,
-    "name": "Hunted: Wode Ridge",
-    "year_published": 2023,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 318184,
     "name": "Imperium: Classics",
     "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 1
+    "rating": 8.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 3.618,
+    "bgg_rating": 7.68459,
+    "num_ratings": 8724,
+    "categories": [
+      "Ancient",
+      "Card Game",
+      "Civilization"
+    ],
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "End Game Bonuses",
+      "Hand Management",
+      "Move Through Deck",
+      "Open Drafting",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Take That",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ]
   },
   {
-    "bgg_id": 369258,
-    "name": "Isle of Skye: Big Box",
-    "year_published": 2022,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 325494,
     "name": "ISS Vanguard",
     "year_published": 2022,
-    "rating": 0.0,
-    "num_plays": 1
+    "rating": 9.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 3.6697,
+    "bgg_rating": 8.35256,
+    "num_ratings": 6986,
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Novel-based",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Narrative Choice / Paragraph",
+      "Open Drafting",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Storytelling",
+      "Variable Player Powers"
+    ]
   },
   {
-    "bgg_id": 272738,
-    "name": "Jaws",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 240957,
     "name": "Judge Dredd: The Cursed Earth",
     "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 1
+    "rating": 6.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 2.1667,
+    "bgg_rating": 6.38983,
+    "num_ratings": 654,
+    "categories": [
+      "Card Game",
+      "Comic Book / Strip"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Race",
+      "Solo / Solitaire Game",
+      "Track Movement"
+    ]
   },
   {
-    "bgg_id": 297562,
-    "name": "Kemet: Blood and Sand",
-    "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 379629,
-    "name": "Knarr",
-    "year_published": 2023,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 264141,
-    "name": "Kodachi",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 267401,
-    "name": "Lawyer Up",
-    "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 368173,
     "name": "Let's Go! To Japan",
     "year_published": 2024,
     "rating": 0.0,
-    "num_plays": 1
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 2.25,
+    "bgg_rating": 7.5811,
+    "num_ratings": 7519,
+    "categories": [
+      "Card Game",
+      "Transportation",
+      "Travel"
+    ],
+    "mechanics": [
+      "Closed Drafting",
+      "Contracts",
+      "End Game Bonuses",
+      "Hand Management",
+      "Melding and Splaying",
+      "Multi-Use Cards",
+      "Set Collection",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Storytelling",
+      "Tags"
+    ]
   },
   {
-    "bgg_id": 59959,
-    "name": "Letters from Whitechapel",
-    "year_published": 2011,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 205059,
-    "name": "Mansions of Madness: Second Edition",
-    "year_published": 2016,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 193322,
-    "name": "Master of Orion: The Board Game",
-    "year_published": 2016,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 230251,
-    "name": "Mint Delivery",
-    "year_published": 2017,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 358386,
-    "name": "Moon",
-    "year_published": 2023,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 192638,
-    "name": "Multiuniversum",
-    "year_published": 2016,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 325941,
     "name": "Nemo's War: The Ultimate Edition",
     "year_published": 2022,
-    "rating": 0.0,
-    "num_plays": 1
+    "rating": 8.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 3.25,
+    "bgg_rating": 8.20343,
+    "num_ratings": 458,
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Nautical",
+      "Novel-based",
+      "Science Fiction",
+      "Travel",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Push Your Luck",
+      "Simulation",
+      "Solo / Solitaire Game"
+    ]
   },
   {
-    "bgg_id": 194879,
-    "name": "Not Alone",
-    "year_published": 2016,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 4396,
-    "name": "Odin's Ravens",
-    "year_published": 2002,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 179275,
-    "name": "One Deck Dungeon",
-    "year_published": 2016,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 256713,
-    "name": "One Deck Galaxy",
-    "year_published": 2022,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 304510,
     "name": "Pampero",
     "year_published": 2024,
     "rating": 0.0,
-    "num_plays": 1
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 3.94,
+    "bgg_rating": 7.46082,
+    "num_ratings": 1365,
+    "categories": [
+      "Card Game",
+      "Economic",
+      "Environmental"
+    ],
+    "mechanics": [
+      "Action Retrieval",
+      "End Game Bonuses",
+      "Hand Management",
+      "Income",
+      "Loans",
+      "Neighbor Scope",
+      "Point to Point Movement",
+      "Set Collection",
+      "Turn Order: Stat-Based"
+    ]
   },
   {
-    "bgg_id": 147299,
-    "name": "Pocket Imperium",
-    "year_published": 2013,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 156009,
-    "name": "Port Royal",
-    "year_published": 2014,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 331979,
-    "name": "Quartermaster General WW2: 2nd Edition",
-    "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 192153,
-    "name": "Reign of Cthulhu",
-    "year_published": 2016,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 309297,
-    "name": "SCOPE Stalingrad",
-    "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 343900,
     "name": "Senjutsu: Battle For Japan",
     "year_published": 2023,
-    "rating": 0.0,
-    "num_plays": 1
+    "rating": 7.5,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 2.9189,
+    "bgg_rating": 7.20477,
+    "num_ratings": 1330,
+    "categories": [
+      "Deduction",
+      "Fighting"
+    ],
+    "mechanics": [
+      "Deck Construction",
+      "Deduction",
+      "Grid Movement",
+      "Hand Management",
+      "Hidden Movement",
+      "Simultaneous Action Selection"
+    ]
   },
   {
+    "group_key": "1-4",
     "bgg_id": 255984,
     "name": "Sleeping Gods",
     "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 1
+    "rating": 8.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 3.2649,
+    "bgg_rating": 8.09056,
+    "num_ratings": 15870,
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Fighting",
+      "Nautical"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Events",
+      "Hand Management",
+      "Narrative Choice / Paragraph",
+      "Push Your Luck",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Storytelling"
+    ]
   },
   {
-    "bgg_id": 38453,
-    "name": "Space Alert",
-    "year_published": 2008,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 123096,
-    "name": "Space Cadets",
-    "year_published": 2012,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 375459,
     "name": "Speakeasy",
     "year_published": 2025,
     "rating": 0.0,
-    "num_plays": 1
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 4.4119,
+    "bgg_rating": 8.45963,
+    "num_ratings": 3621,
+    "categories": [
+      "Economic",
+      "Industry / Manufacturing",
+      "Mafia",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Hand Management",
+      "Pick-up and Deliver",
+      "Worker Placement"
+    ]
   },
   {
-    "bgg_id": 147020,
-    "name": "Star Realms",
-    "year_published": 2014,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 182631,
-    "name": "Star Realms: Colony Wars",
-    "year_published": 2015,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 171226,
-    "name": "Starfighter",
-    "year_published": 2015,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 345542,
     "name": "Stellar Expedition",
     "year_published": 2023,
-    "rating": 0.0,
-    "num_plays": 1
+    "rating": 8.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 3,
+    "bgg_rating": 7.33026,
+    "num_ratings": 76,
+    "categories": [
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Deck Construction",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Hexagon Grid",
+      "Tile Placement"
+    ]
   },
   {
+    "group_key": "1-4",
     "bgg_id": 123260,
     "name": "Suburbia",
     "year_published": 2012,
-    "rating": 0.0,
-    "num_plays": 1
+    "rating": 7.8,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 2.7576,
+    "bgg_rating": 7.4551,
+    "num_ratings": 26507,
+    "categories": [
+      "City Building",
+      "Economic"
+    ],
+    "mechanics": [
+      "Auction: Dutch",
+      "Catch the Leader",
+      "End Game Bonuses",
+      "Hexagon Grid",
+      "Income",
+      "Open Drafting",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Tile Placement"
+    ]
   },
   {
+    "group_key": "1-4",
     "bgg_id": 350458,
     "name": "Terracotta Army",
     "year_published": 2022,
-    "rating": 0.0,
-    "num_plays": 1
+    "rating": 9.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 3.396,
+    "bgg_rating": 7.38562,
+    "num_ratings": 2249,
+    "categories": [
+      "Ancient",
+      "Miniatures"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Income",
+      "Variable Set-up",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ]
   },
   {
+    "group_key": "1-4",
     "bgg_id": 296108,
     "name": "Terraforming Mars: The Dice Game",
     "year_published": 2023,
-    "rating": 0.0,
-    "num_plays": 1
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 2.4179,
+    "bgg_rating": 7.31904,
+    "num_ratings": 4433,
+    "categories": [
+      "Dice",
+      "Economic",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Contracts",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "End Game Bonuses",
+      "Hand Management",
+      "Hexagon Grid",
+      "Solo / Solitaire Game",
+      "Tile Placement"
+    ]
   },
   {
+    "group_key": "1-4",
     "bgg_id": 292375,
     "name": "The Great Wall",
     "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 1
+    "rating": 8.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 3.9057,
+    "bgg_rating": 7.78647,
+    "num_ratings": 5167,
+    "categories": [
+      "Economic",
+      "Fantasy",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Command Cards",
+      "Income",
+      "Investment",
+      "Secret Unit Deployment",
+      "Semi-Cooperative Game",
+      "Solo / Solitaire Game",
+      "Turn Order: Claim Action",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ]
   },
   {
-    "bgg_id": 172047,
-    "name": "The Others",
-    "year_published": 2016,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 41114,
-    "name": "The Resistance",
-    "year_published": 2009,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 279537,
     "name": "The Search for Planet X",
     "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 1
+    "rating": 8.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 2.4355,
+    "bgg_rating": 7.89809,
+    "num_ratings": 15630,
+    "categories": [
+      "Deduction",
+      "Puzzle",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Deduction",
+      "End Game Bonuses",
+      "Paper-and-Pencil",
+      "Rondel",
+      "Solo / Solitaire Game",
+      "Turn Order: Time Track"
+    ]
   },
   {
-    "bgg_id": 295293,
-    "name": "The Thing: The Boardgame",
-    "year_published": 2022,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 14996,
-    "name": "Ticket to Ride: Europe",
-    "year_published": 2005,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 253284,
-    "name": "Ticket to Ride: New York",
-    "year_published": 2018,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 408253,
     "name": "Tiny Epic Cthulhu: Deluxe Edition",
     "year_published": 2024,
     "rating": 0.0,
-    "num_plays": 1
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 3,
+    "bgg_rating": 7.31833,
+    "num_ratings": 120,
+    "categories": [
+      "Horror",
+      "Mythology",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Matching",
+      "Multi-Use Cards",
+      "Push Your Luck",
+      "Roll / Spin and Move",
+      "Set Collection",
+      "Solo / Solitaire Game"
+    ]
   },
   {
-    "bgg_id": 260923,
-    "name": "Titan",
-    "year_published": 2022,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 285826,
-    "name": "Ultra Tiny Epic Galaxies",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 306735,
-    "name": "Under Falling Skies",
-    "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 340466,
-    "name": "Unfathomable",
-    "year_published": 2021,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 234190,
-    "name": "Unstable Unicorns",
-    "year_published": 2017,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 241724,
-    "name": "Villagers",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 115746,
-    "name": "War of the Ring: Second Edition",
-    "year_published": 2011,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 362944,
-    "name": "War of the Ring: The Card Game",
-    "year_published": 2022,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
-    "bgg_id": 226631,
-    "name": "War of the Worlds: The New Wave",
-    "year_published": 2019,
-    "rating": 0.0,
-    "num_plays": 1
-  },
-  {
+    "group_key": "1-4",
     "bgg_id": 276997,
     "name": "X-ODUS: Rise of the Corruption",
     "year_published": 2020,
-    "rating": 0.0,
-    "num_plays": 1
+    "rating": 9.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 3.3269,
+    "bgg_rating": 7.68471,
+    "num_ratings": 651,
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Modular Board",
+      "Role Playing"
+    ]
   },
   {
+    "group_key": "1-5",
+    "bgg_id": 167791,
+    "name": "Terraforming Mars",
+    "year_published": 2016,
+    "rating": 9.0,
+    "num_plays": 15,
+    "players": "1-5",
+    "complexity": 3.2714,
+    "bgg_rating": 8.33813,
+    "num_ratings": 112964,
+    "categories": [
+      "Civilization",
+      "Economic",
+      "Environmental",
+      "Industry / Manufacturing",
+      "Science Fiction",
+      "Space Exploration",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Closed Drafting",
+      "Contracts",
+      "End Game Bonuses",
+      "Hand Management",
+      "Hexagon Grid",
+      "Income",
+      "Solo / Solitaire Game",
+      "Tags",
+      "Take That",
+      "Tile Placement",
+      "Turn Order: Progressive",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 236457,
+    "name": "Architects of the West Kingdom",
+    "year_published": 2018,
+    "rating": 8.2,
+    "num_plays": 13,
+    "players": "1-5",
+    "complexity": 2.7625,
+    "bgg_rating": 7.70678,
+    "num_ratings": 32559,
+    "categories": [
+      "City Building",
+      "Economic",
+      "Medieval"
+    ],
+    "mechanics": [
+      "Area Movement",
+      "Contracts",
+      "End Game Bonuses",
+      "Events",
+      "Kill Steal",
+      "Loans",
+      "Open Drafting",
+      "Solo / Solitaire Game",
+      "Static Capture",
+      "Tags",
+      "Take That",
+      "Track Movement",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 169786,
+    "name": "Scythe",
+    "year_published": 2016,
+    "rating": 8.9,
+    "num_plays": 7,
+    "players": "1-5",
+    "complexity": 3.4532,
+    "bgg_rating": 8.10128,
+    "num_ratings": 93198,
+    "categories": [
+      "Economic",
+      "Fighting",
+      "Science Fiction",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Card Play Conflict Resolution",
+      "Contracts",
+      "End Game Bonuses",
+      "Force Commitment",
+      "Grid Movement",
+      "Hexagon Grid",
+      "King of the Hill",
+      "Movement Points",
+      "Narrative Choice / Paragraph",
+      "Solo / Solitaire Game",
+      "Take That",
+      "Tech Trees / Tech Tracks",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Victory Points as a Resource",
+      "Zone of Control"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 253344,
+    "name": "Cthulhu: Death May Die",
+    "year_published": 2019,
+    "rating": 9.9,
+    "num_plays": 6,
+    "players": "1-5",
+    "complexity": 2.5,
+    "bgg_rating": 8.1826,
+    "num_ratings": 16837,
+    "categories": [
+      "Fantasy",
+      "Fighting",
+      "Horror",
+      "Miniatures",
+      "Novel-based"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Area Movement",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 163967,
+    "name": "Tiny Epic Galaxies",
+    "year_published": 2015,
+    "rating": 8.0,
+    "num_plays": 4,
+    "players": "1-5",
+    "complexity": 2.1547,
+    "bgg_rating": 7.3191,
+    "num_ratings": 22230,
+    "categories": [
+      "Dice",
+      "Print & Play",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Action Retrieval",
+      "Contracts",
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Follow",
+      "Open Drafting",
+      "Re-rolling and Locking",
+      "Solo / Solitaire Game",
+      "Take That",
+      "Variable Phase Order",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 171273,
+    "name": "FUSE",
+    "year_published": 2015,
+    "rating": 7.5,
+    "num_plays": 3,
+    "players": "1-5",
+    "complexity": 1.6628,
+    "bgg_rating": 6.98334,
+    "num_ratings": 9261,
+    "categories": [
+      "Action / Dexterity",
+      "Dice",
+      "Real-time",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "Elapsed Real Time Ending",
+      "Open Drafting",
+      "Pattern Building",
+      "Real-Time",
+      "Solo / Solitaire Game"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 146652,
+    "name": "Legendary Encounters: An Alien Deck Building Game",
+    "year_published": 2014,
+    "rating": 8.0,
+    "num_plays": 2,
+    "players": "1-5",
+    "complexity": 2.7067,
+    "bgg_rating": 7.7529,
+    "num_ratings": 13723,
+    "categories": [
+      "Card Game",
+      "Fighting",
+      "Horror",
+      "Movies / TV / Radio theme",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Delayed Purchase",
+      "Events",
+      "Hidden Roles",
+      "Open Drafting",
+      "Player Elimination",
+      "Solo / Solitaire Game",
+      "Team-Based Game",
+      "Traitor Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 348877,
+    "name": "Lobotomy 2: Manhunt",
+    "year_published": 2022,
+    "rating": 9.5,
+    "num_plays": 2,
+    "players": "1-5",
+    "complexity": 3.0714,
+    "bgg_rating": 8.04979,
+    "num_ratings": 385,
+    "categories": [
+      "Adventure",
+      "Dice",
+      "Exploration",
+      "Fighting",
+      "Horror",
+      "Miniatures"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Modular Board",
+      "Movement Points",
+      "Storytelling",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 284653,
+    "name": "Mind MGMT: The Psychic Espionage “Game.”",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 2,
+    "players": "1-5",
+    "complexity": 2.9097,
+    "bgg_rating": 7.78229,
+    "num_ratings": 7248,
+    "categories": [
+      "Comic Book / Strip",
+      "Deduction",
+      "Spies / Secret Agents"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Deduction",
+      "Grid Movement",
+      "Hidden Movement",
+      "Paper-and-Pencil",
+      "Point to Point Movement",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 167355,
+    "name": "Nemesis",
+    "year_published": 2018,
+    "rating": 9.1,
+    "num_plays": 2,
+    "players": "1-5",
+    "complexity": 3.4874,
+    "bgg_rating": 8.24992,
+    "num_ratings": 37307,
+    "categories": [
+      "Adventure",
+      "Horror",
+      "Miniatures",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Campaign / Battle Card Driven",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hand Management",
+      "Hidden Roles",
+      "Interrupts",
+      "Modular Board",
+      "Player Elimination",
+      "Semi-Cooperative Game",
+      "Solo / Solitaire Game",
+      "Team-Based Game",
+      "Traitor Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 310100,
+    "name": "Nemesis: Lockdown",
+    "year_published": 2022,
+    "rating": 9.0,
+    "num_plays": 2,
+    "players": "1-5",
+    "complexity": 3.9128,
+    "bgg_rating": 8.24707,
+    "num_ratings": 8327,
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Horror",
+      "Miniatures",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Campaign / Battle Card Driven",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hidden Roles",
+      "Interrupts",
+      "Modular Board",
+      "Player Elimination",
+      "Semi-Cooperative Game",
+      "Solo / Solitaire Game",
+      "Traitor Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 266524,
+    "name": "PARKS",
+    "year_published": 2019,
+    "rating": 8.5,
+    "num_plays": 2,
+    "players": "1-5",
+    "complexity": 2.1242,
+    "bgg_rating": 7.61618,
+    "num_ratings": 30623,
+    "categories": [
+      "Animals",
+      "Economic",
+      "Environmental",
+      "Travel"
+    ],
+    "mechanics": [
+      "Contracts",
+      "End Game Bonuses",
+      "Events",
+      "Modular Board",
+      "Solo / Solitaire Game",
+      "Track Movement",
+      "Turn Order: Claim Action",
+      "Variable Set-up",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 279720,
+    "name": "Streets",
+    "year_published": 2021,
+    "rating": 7.0,
+    "num_plays": 2,
+    "players": "1-5",
+    "complexity": 1.9825,
+    "bgg_rating": 6.57495,
+    "num_ratings": 1932,
+    "categories": "City Building",
+    "mechanics": [
+      "Set Collection",
+      "Tile Placement",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 283095,
+    "name": "Cosmic Colonies",
+    "year_published": 2020,
+    "rating": 8.0,
+    "num_plays": 1,
+    "players": "1-5",
+    "complexity": 2.0625,
+    "bgg_rating": 6.90399,
+    "num_ratings": 891,
+    "categories": [
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Open Drafting",
+      "Pattern Building",
+      "Simultaneous Action Selection",
+      "Tile Placement"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 373600,
+    "name": "Cthulhu: Death May Die – Fear of the Unknown",
+    "year_published": 2024,
+    "rating": 0.0,
+    "num_plays": 1,
+    "players": "1-5",
+    "complexity": 2.6977,
+    "bgg_rating": 8.71982,
+    "num_ratings": 1635,
+    "categories": [
+      "Fantasy",
+      "Fighting",
+      "Horror",
+      "Miniatures",
+      "Novel-based"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 163170,
+    "name": "Firefly: Shiny Dice",
+    "year_published": 2015,
+    "rating": 5.0,
+    "num_plays": 1,
+    "players": "1-5",
+    "complexity": 1.875,
+    "bgg_rating": 5.45363,
+    "num_ratings": 750,
+    "categories": [
+      "Dice",
+      "Movies / TV / Radio theme",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Push Your Luck"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 252752,
+    "name": "Genotype: A Mendelian Genetics Game",
+    "year_published": 2021,
+    "rating": 8.0,
+    "num_plays": 1,
+    "players": "1-5",
+    "complexity": 2.7841,
+    "bgg_rating": 7.4131,
+    "num_ratings": 2702,
+    "categories": [
+      "Dice",
+      "Educational"
+    ],
+    "mechanics": [
+      "Contracts",
+      "Dice Rolling",
+      "Market",
+      "Open Drafting",
+      "Set Collection",
+      "Simulation",
+      "Solo / Solitaire Game",
+      "Tech Trees / Tech Tracks",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 205059,
+    "name": "Mansions of Madness: Second Edition",
+    "year_published": 2016,
+    "rating": 9.0,
+    "num_plays": 1,
+    "players": "1-5",
+    "complexity": 2.6963,
+    "bgg_rating": 7.91649,
+    "num_ratings": 40284,
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Fighting",
+      "Horror",
+      "Miniatures",
+      "Murder / Mystery",
+      "Mythology",
+      "Novel-based",
+      "Puzzle"
+    ],
+    "mechanics": [
+      "Area Movement",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hand Management",
+      "Map Addition",
+      "Modular Board",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Stat Check Resolution",
+      "Traitor Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 230251,
+    "name": "Mint Delivery",
+    "year_published": 2017,
+    "rating": 0.0,
+    "num_plays": 1,
+    "players": "1-5",
+    "complexity": 1.6316,
+    "bgg_rating": 6.1537,
+    "num_ratings": 2562,
+    "categories": [
+      "Economic",
+      "Industry / Manufacturing"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Contracts",
+      "Increase Value of Unchosen Resources",
+      "Pick-up and Deliver",
+      "Point to Point Movement"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 358386,
+    "name": "Moon",
+    "year_published": 2023,
+    "rating": 8.0,
+    "num_plays": 1,
+    "players": "1-5",
+    "complexity": 2.5135,
+    "bgg_rating": 7.2953,
+    "num_ratings": 1371,
+    "categories": [
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Closed Drafting",
+      "End Game Bonuses",
+      "Hand Management",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 192638,
+    "name": "Multiuniversum",
+    "year_published": 2016,
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "1-5",
+    "complexity": 1.8837,
+    "bgg_rating": 6.50915,
+    "num_ratings": 1563,
+    "categories": [
+      "Card Game",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Pick-up and Deliver",
+      "Point to Point Movement",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 38453,
+    "name": "Space Alert",
+    "year_published": 2008,
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "1-5",
+    "complexity": 2.9699,
+    "bgg_rating": 7.37766,
+    "num_ratings": 16536,
+    "categories": [
+      "Electronic",
+      "Real-time",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Action Queue",
+      "Area Movement",
+      "Cooperative Game",
+      "Elapsed Real Time Ending",
+      "Hand Management",
+      "Programmed Movement",
+      "Real-Time",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 285826,
+    "name": "Ultra Tiny Epic Galaxies",
+    "year_published": 2019,
+    "rating": 8.0,
+    "num_plays": 1,
+    "players": "1-5",
+    "complexity": 2.1875,
+    "bgg_rating": 7.30813,
+    "num_ratings": 1446,
+    "categories": [
+      "Dice",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Follow",
+      "Open Drafting",
+      "Race",
+      "Re-rolling and Locking",
+      "Solo / Solitaire Game",
+      "Track Movement",
+      "Variable Phase Order",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 241724,
+    "name": "Villagers",
+    "year_published": 2019,
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "1-5",
+    "complexity": 2.227,
+    "bgg_rating": 7.10542,
+    "num_ratings": 8269,
+    "categories": [
+      "Card Game",
+      "City Building",
+      "Industry / Manufacturing",
+      "Medieval"
+    ],
+    "mechanics": [
+      "Open Drafting",
+      "Set Collection",
+      "Solo / Solitaire Game"
+    ]
+  },
+  {
+    "group_key": "1-6",
+    "bgg_id": 226320,
+    "name": "My Little Scythe",
+    "year_published": 2018,
+    "rating": 8.0,
+    "num_plays": 8,
+    "players": "1-6",
+    "complexity": 2.0299,
+    "bgg_rating": 7.19947,
+    "num_ratings": 6354,
+    "categories": [
+      "Children's Game",
+      "Exploration",
+      "Fantasy",
+      "Fighting"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Card Play Conflict Resolution",
+      "Dice Rolling",
+      "Force Commitment",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Movement Points",
+      "Narrative Choice / Paragraph",
+      "Pick-up and Deliver",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Take That",
+      "Tech Trees / Tech Tracks",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-6",
+    "bgg_id": 258779,
+    "name": "Planet Unknown",
+    "year_published": 2022,
+    "rating": 8.0,
+    "num_plays": 8,
+    "players": "1-6",
+    "complexity": 2.2514,
+    "bgg_rating": 7.76085,
+    "num_ratings": 14094,
+    "categories": [
+      "City Building",
+      "Industry / Manufacturing",
+      "Puzzle",
+      "Science Fiction",
+      "Space Exploration",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "End Game Bonuses",
+      "Events",
+      "Grid Coverage",
+      "Grid Movement",
+      "Hidden Victory Points",
+      "Map Addition",
+      "Neighbor Scope",
+      "Network and Route Building",
+      "Open Drafting",
+      "Pattern Building",
+      "Rondel",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Square Grid",
+      "Sudden Death Ending",
+      "Tags",
+      "Tech Trees / Tech Tracks",
+      "Tile Placement",
+      "Turn Order: Progressive",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-6",
+    "bgg_id": 257089,
+    "name": "Big Trouble in Little China: The Game – Deluxe Edition",
+    "year_published": 2018,
+    "rating": 7.5,
+    "num_plays": 4,
+    "players": "1-6",
+    "complexity": 3,
+    "bgg_rating": 7.73951,
+    "num_ratings": 162,
+    "categories": [
+      "Adventure",
+      "Comic Book / Strip",
+      "Dice",
+      "Fantasy",
+      "Fighting",
+      "Miniatures",
+      "Movies / TV / Radio theme"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Narrative Choice / Paragraph",
+      "Point to Point Movement",
+      "Role Playing",
+      "Solo / Solitaire Game",
+      "Storytelling",
+      "Variable Phase Order",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-6",
+    "bgg_id": 257499,
+    "name": "Arkham Horror (Third Edition)",
+    "year_published": 2018,
+    "rating": 9.0,
+    "num_plays": 3,
+    "players": "1-6",
+    "complexity": 3.3733,
+    "bgg_rating": 7.67679,
+    "num_ratings": 11019,
+    "categories": [
+      "Adventure",
+      "Fighting",
+      "Horror",
+      "Novel-based"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Modular Board",
+      "Point to Point Movement",
+      "Stat Check Resolution",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-6",
+    "bgg_id": 281258,
+    "name": "Sub Terra II: Inferno's Edge",
+    "year_published": 2023,
+    "rating": 9.0,
+    "num_plays": 2,
+    "players": "1-6",
+    "complexity": 2.1667,
+    "bgg_rating": 7.5011,
+    "num_ratings": 1180,
+    "categories": [
+      "Adventure",
+      "Dice",
+      "Exploration",
+      "Fantasy",
+      "Horror",
+      "Mythology"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Grid Movement",
+      "Map Addition",
+      "Modular Board",
+      "Network and Route Building",
+      "Pick-up and Deliver",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-6",
+    "bgg_id": 256852,
+    "name": "Aliens: Another Glorious Day in the Corps",
+    "year_published": 2020,
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "1-6",
+    "complexity": 2.8378,
+    "bgg_rating": 7.42331,
+    "num_ratings": 1918,
+    "categories": [
+      "Horror",
+      "Miniatures",
+      "Movies / TV / Radio theme",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Solo / Solitaire Game",
+      "Team-Based Game"
+    ]
+  },
+  {
+    "group_key": "1-6",
+    "bgg_id": 376747,
+    "name": "Deep Dive",
+    "year_published": 2023,
+    "rating": 6.0,
+    "num_plays": 1,
+    "players": "1-6",
+    "complexity": 1.1136,
+    "bgg_rating": 6.61365,
+    "num_ratings": 1701,
+    "categories": [
+      "Animals",
+      "Memory"
+    ],
+    "mechanics": [
+      "Memory",
+      "Push Your Luck",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "1-7",
+    "bgg_id": 248490,
+    "name": "Atlantis Rising (Second Edition)",
+    "year_published": 2019,
+    "rating": 8.0,
+    "num_plays": 3,
+    "players": "1-7",
+    "complexity": 2.4643,
+    "bgg_rating": 7.47966,
+    "num_ratings": 5348,
+    "categories": [
+      "Ancient",
+      "Civilization",
+      "Dice",
+      "Fantasy",
+      "Mythology",
+      "Prehistoric",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Push Your Luck",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ]
+  },
+  {
+    "group_key": "1-8",
+    "bgg_id": 100423,
+    "name": "Elder Sign",
+    "year_published": 2011,
+    "rating": 7.6,
+    "num_plays": 6,
+    "players": "1-8",
+    "complexity": 2.3434,
+    "bgg_rating": 6.96681,
+    "num_ratings": 26292,
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Dice",
+      "Fantasy",
+      "Fighting",
+      "Horror",
+      "Novel-based"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "Modular Board",
+      "Re-rolling and Locking",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-8",
+    "bgg_id": 361545,
+    "name": "Twilight Inscription",
+    "year_published": 2022,
+    "rating": 8.0,
+    "num_plays": 5,
+    "players": "1-8",
+    "complexity": 3.2155,
+    "bgg_rating": 7.40584,
+    "num_ratings": 5187,
+    "categories": "Science Fiction",
+    "mechanics": [
+      "Dice Rolling",
+      "Paper-and-Pencil",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-8",
+    "bgg_id": 247567,
+    "name": "D-Day Dice Pocket",
+    "year_published": 2019,
+    "rating": 5.0,
+    "num_plays": 1,
+    "players": "1-8",
+    "complexity": 1.125,
+    "bgg_rating": 6.37574,
+    "num_ratings": 335,
+    "categories": [
+      "Dice",
+      "Wargame",
+      "World War II"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Push Your Luck",
+      "Re-rolling and Locking",
+      "Simultaneous Action Selection"
+    ]
+  },
+  {
+    "group_key": "1-8",
+    "bgg_id": 146021,
+    "name": "Eldritch Horror",
+    "year_published": 2013,
+    "rating": 9.0,
+    "num_plays": 1,
+    "players": "1-8",
+    "complexity": 3.3174,
+    "bgg_rating": 7.74347,
+    "num_ratings": 39031,
+    "categories": [
+      "Adventure",
+      "Fighting",
+      "Horror",
+      "Novel-based",
+      "Travel"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Point to Point Movement",
+      "Resource to Move",
+      "Role Playing",
+      "Solo / Solitaire Game",
+      "Stat Check Resolution",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-8",
+    "bgg_id": 295293,
+    "name": "The Thing: The Boardgame",
+    "year_published": 2022,
+    "rating": 8.0,
+    "num_plays": 1,
+    "players": "1-8",
+    "complexity": 2.9576,
+    "bgg_rating": 7.61878,
+    "num_ratings": 3157,
+    "categories": [
+      "Deduction",
+      "Horror",
+      "Movies / TV / Radio theme",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Hidden Roles",
+      "Semi-Cooperative Game",
+      "Traitor Game",
+      "Voting"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 54043,
+    "name": "Jaipur",
+    "year_published": 2009,
+    "rating": 8.0,
+    "num_plays": 18,
+    "players": "2",
+    "complexity": 1.4635,
+    "bgg_rating": 7.47943,
+    "num_ratings": 58077,
+    "categories": [
+      "Arabian",
+      "Card Game",
+      "Economic"
+    ],
+    "mechanics": [
+      "End Game Bonuses",
+      "Hand Management",
+      "Hidden Victory Points",
+      "Market",
+      "Open Drafting",
+      "Race",
+      "Score-and-Reset Game",
+      "Set Collection",
+      "Sudden Death Ending",
+      "Turn Order: Progressive",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 118048,
+    "name": "Targi",
+    "year_published": 2012,
+    "rating": 6.0,
+    "num_plays": 10,
+    "players": "2",
+    "complexity": 2.3424,
+    "bgg_rating": 7.58799,
+    "num_ratings": 26686,
+    "categories": [
+      "Arabian",
+      "Card Game"
+    ],
+    "mechanics": [
+      "End Game Bonuses",
+      "Modular Board",
+      "Open Drafting",
+      "Pattern Building",
+      "Set Collection",
+      "Square Grid",
+      "Turn Order: Progressive",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 50,
+    "name": "Lost Cities",
+    "year_published": 1999,
+    "rating": 7.0,
+    "num_plays": 7,
+    "players": "2",
+    "complexity": 1.4746,
+    "bgg_rating": 7.25831,
+    "num_ratings": 50891,
+    "categories": [
+      "Card Game",
+      "Exploration",
+      "Number"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Melding and Splaying",
+      "Ordering",
+      "Push Your Luck",
+      "Score-and-Reset Game",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 163412,
+    "name": "Patchwork",
+    "year_published": 2014,
+    "rating": 8.0,
+    "num_plays": 7,
+    "players": "2",
+    "complexity": 1.5977,
+    "bgg_rating": 7.57924,
+    "num_ratings": 73973,
+    "categories": [
+      "Abstract Strategy",
+      "Economic",
+      "Puzzle"
+    ],
+    "mechanics": [
+      "Grid Coverage",
+      "Income",
+      "Open Drafting",
+      "Rondel",
+      "Square Grid",
+      "Tile Placement",
+      "Turn Order: Stat-Based",
+      "Turn Order: Time Track",
+      "Victory Points as a Resource"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 264241,
+    "name": "Mandala",
+    "year_published": 2019,
+    "rating": 7.0,
+    "num_plays": 5,
+    "players": "2",
+    "complexity": 1.7815,
+    "bgg_rating": 7.43216,
+    "num_ratings": 7159,
+    "categories": [
+      "Abstract Strategy",
+      "Card Game"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Hand Management",
+      "Selection Order Bid",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 366495,
+    "name": "Undaunted: Battle of Britain",
+    "year_published": 2023,
+    "rating": 8.0,
+    "num_plays": 4,
+    "players": "2",
+    "complexity": 2.75,
+    "bgg_rating": 7.87165,
+    "num_ratings": 1199,
+    "categories": [
+      "Aviation / Flight",
+      "Wargame",
+      "World War II"
+    ],
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Hand Management",
+      "Hexagon Grid",
+      "Modular Board",
+      "Open Drafting",
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 326485,
+    "name": "Cthulhu Wars: Duel",
+    "year_published": 2020,
+    "rating": 9.0,
+    "num_plays": 3,
+    "players": "2",
+    "complexity": 2.8889,
+    "bgg_rating": 6.9677,
+    "num_ratings": 560,
+    "categories": [
+      "Fantasy",
+      "Fighting",
+      "Horror"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Dice Rolling",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 274364,
+    "name": "Watergate",
+    "year_published": 2019,
+    "rating": 8.0,
+    "num_plays": 3,
+    "players": "2",
+    "complexity": 2.2924,
+    "bgg_rating": 7.71461,
+    "num_ratings": 14256,
+    "categories": [
+      "Card Game",
+      "Political"
+    ],
+    "mechanics": [
+      "Action / Event",
+      "Campaign / Battle Card Driven",
+      "Connections",
+      "Hand Management",
+      "Once-Per-Game Abilities",
+      "Take That",
+      "Tug of War"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 247367,
+    "name": "Air, Land, & Sea",
+    "year_published": 2019,
+    "rating": 7.0,
+    "num_plays": 2,
+    "players": "2",
+    "complexity": 1.7411,
+    "bgg_rating": 7.43886,
+    "num_ratings": 10714,
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Print & Play",
+      "World War II"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Card Play Conflict Resolution",
+      "Hand Management"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 247367,
+    "name": "Air, Land, & Sea",
+    "year_published": 2019,
+    "rating": 7.0,
+    "num_plays": 2,
+    "players": "2",
+    "complexity": 1.7411,
+    "bgg_rating": 7.43886,
+    "num_ratings": 10714,
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Print & Play",
+      "World War II"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Card Play Conflict Resolution",
+      "Hand Management"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 298572,
+    "name": "Cosmic Encounter Duel",
+    "year_published": 2020,
+    "rating": 8.6,
+    "num_plays": 2,
+    "players": "2",
+    "complexity": 2.381,
+    "bgg_rating": 6.55487,
+    "num_ratings": 1161,
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Race",
+      "Simultaneous Action Selection",
+      "Take That",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 312251,
+    "name": "Curious Cargo",
+    "year_published": 2020,
+    "rating": 9.0,
+    "num_plays": 2,
+    "players": "2",
+    "complexity": 3.2162,
+    "bgg_rating": 6.98277,
+    "num_ratings": 2758,
+    "categories": [
+      "Industry / Manufacturing",
+      "Puzzle",
+      "Transportation"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Network and Route Building",
+      "Pick-up and Deliver",
+      "Tile Placement"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 255674,
+    "name": "Imhotep: The Duel",
+    "year_published": 2018,
+    "rating": 7.4,
+    "num_plays": 2,
+    "players": "2",
+    "complexity": 1.9701,
+    "bgg_rating": 7.04865,
+    "num_ratings": 3502,
+    "categories": "Ancient",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Modular Board",
+      "Set Collection",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 122298,
+    "name": "Morels",
+    "year_published": 2012,
+    "rating": 6.0,
+    "num_plays": 2,
+    "players": "2",
+    "complexity": 1.7366,
+    "bgg_rating": 6.96732,
+    "num_ratings": 10205,
+    "categories": [
+      "Card Game",
+      "Educational"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 177639,
+    "name": "Raptor",
+    "year_published": 2015,
+    "rating": 8.0,
+    "num_plays": 2,
+    "players": "2",
+    "complexity": 2.0761,
+    "bgg_rating": 7.21071,
+    "num_ratings": 10883,
+    "categories": [
+      "Animals",
+      "Fighting",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Action Retrieval",
+      "Grid Movement",
+      "Hand Management",
+      "Modular Board",
+      "Simultaneous Action Selection",
+      "Take That",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 268864,
+    "name": "Undaunted: Normandy",
+    "year_published": 2019,
+    "rating": 8.0,
+    "num_plays": 2,
+    "players": "2",
+    "complexity": 2.2661,
+    "bgg_rating": 7.76528,
+    "num_ratings": 14205,
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Hand Management",
+      "Modular Board",
+      "Open Drafting",
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 290359,
+    "name": "Undaunted: North Africa",
+    "year_published": 2020,
+    "rating": 7.0,
+    "num_plays": 2,
+    "players": "2",
+    "complexity": 2.3333,
+    "bgg_rating": 7.7525,
+    "num_ratings": 4600,
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "mechanics": [
+      "Command Cards",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Modular Board",
+      "Open Drafting",
+      "Simulation"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 173346,
+    "name": "7 Wonders Duel",
+    "year_published": 2015,
+    "rating": 8.1,
+    "num_plays": 1,
+    "players": "2",
+    "complexity": 2.2273,
+    "bgg_rating": 8.07729,
+    "num_ratings": 108693,
+    "categories": [
+      "Ancient",
+      "Card Game",
+      "City Building",
+      "Civilization",
+      "Economic"
+    ],
+    "mechanics": [
+      "End Game Bonuses",
+      "Income",
+      "Melding and Splaying",
+      "Modular Board",
+      "Multi-Use Cards",
+      "Once-Per-Game Abilities",
+      "Open Drafting",
+      "Score-and-Reset Game",
+      "Set Collection",
+      "Sudden Death Ending",
+      "Tags",
+      "Tech Trees / Tech Tracks",
+      "Track Movement",
+      "Tug of War",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 158600,
+    "name": "Hanamikoji",
+    "year_published": 2013,
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "2",
+    "complexity": 1.6762,
+    "bgg_rating": 7.45138,
+    "num_ratings": 21341,
+    "categories": [
+      "Card Game",
+      "Medieval"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Force Commitment",
+      "Hand Management",
+      "I Cut, You Choose",
+      "Open Drafting",
+      "Race"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 4396,
+    "name": "Odin's Ravens",
+    "year_published": 2002,
+    "rating": 7.1,
+    "num_plays": 1,
+    "players": "2",
+    "complexity": 1.6802,
+    "bgg_rating": 6.64425,
+    "num_ratings": 3952,
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Mythology"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Map Addition",
+      "Race",
+      "Score-and-Reset Game",
+      "Track Movement"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 147020,
+    "name": "Star Realms",
+    "year_published": 2014,
+    "rating": 7.9,
+    "num_plays": 1,
+    "players": "2",
+    "complexity": 1.9145,
+    "bgg_rating": 7.55116,
+    "num_ratings": 47977,
+    "categories": [
+      "Card Game",
+      "Fighting",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Delayed Purchase",
+      "Hand Management",
+      "Income",
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Player Elimination",
+      "Set Collection",
+      "Tags",
+      "Take That",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 182631,
+    "name": "Star Realms: Colony Wars",
+    "year_published": 2015,
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "2",
+    "complexity": 1.8797,
+    "bgg_rating": 7.77826,
+    "num_ratings": 8817,
+    "categories": [
+      "Card Game",
+      "Fighting",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Delayed Purchase",
+      "Hand Management",
+      "Open Drafting",
+      "Take That"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 171226,
+    "name": "Starfighter",
+    "year_published": 2015,
+    "rating": 5.0,
+    "num_plays": 1,
+    "players": "2",
+    "complexity": 2.7742,
+    "bgg_rating": 6.6619,
+    "num_ratings": 737,
+    "categories": [
+      "Card Game",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Take That"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 226631,
+    "name": "War of the Worlds: The New Wave",
+    "year_published": 2019,
+    "rating": 8.6,
+    "num_plays": 1,
+    "players": "2",
+    "complexity": 2.2083,
+    "bgg_rating": 7.02501,
+    "num_ratings": 941,
+    "categories": [
+      "Miniatures",
+      "Novel-based",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Area Movement",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Open Drafting"
+    ]
+  },
+  {
+    "group_key": "2-10",
+    "bgg_id": 432,
+    "name": "Take 5",
+    "year_published": 1994,
+    "rating": 7.0,
+    "num_plays": 22,
+    "players": "2-10",
+    "complexity": 1.1887,
+    "bgg_rating": 6.98464,
+    "num_ratings": 32590,
+    "categories": [
+      "Card Game",
+      "Number",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Ordering",
+      "Push Your Luck",
+      "Score-and-Reset Game",
+      "Simultaneous Action Selection"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 230802,
+    "name": "Azul",
+    "year_published": 2017,
+    "rating": 7.0,
+    "num_plays": 19,
+    "players": "2-4",
+    "complexity": 1.7744,
+    "bgg_rating": 7.71554,
+    "num_ratings": 108117,
+    "categories": [
+      "Abstract Strategy",
+      "Renaissance"
+    ],
+    "mechanics": [
+      "Chaining",
+      "End Game Bonuses",
+      "Grid Coverage",
+      "Open Drafting",
+      "Pattern Building",
+      "Set Collection",
+      "Square Grid",
+      "Tile Placement",
+      "Turn Order: Claim Action"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 205597,
+    "name": "Jump Drive",
+    "year_published": 2017,
+    "rating": 7.8,
+    "num_plays": 19,
+    "players": "2-4",
+    "complexity": 2.0154,
+    "bgg_rating": 6.99847,
+    "num_ratings": 5453,
+    "categories": [
+      "Card Game",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Income",
+      "Multi-Use Cards",
+      "Set Collection",
+      "Simultaneous Action Selection",
+      "Tags"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 10630,
+    "name": "Memoir '44",
+    "year_published": 2004,
+    "rating": 8.0,
+    "num_plays": 18,
+    "players": "2-4",
+    "complexity": 2.2729,
+    "bgg_rating": 7.5316,
+    "num_ratings": 31903,
+    "categories": [
+      "Miniatures",
+      "Wargame",
+      "World War II"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Campaign / Battle Card Driven",
+      "Command Cards",
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "Grid Movement",
+      "Hand Management",
+      "Hexagon Grid",
+      "Line of Sight",
+      "Modular Board",
+      "Movement Points",
+      "Scenario / Mission / Campaign Game",
+      "Simulation",
+      "Team-Based Game",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 345868,
+    "name": "Federation",
+    "year_published": 2022,
+    "rating": 9.5,
+    "num_plays": 15,
+    "players": "2-4",
+    "complexity": 3.7453,
+    "bgg_rating": 7.82796,
+    "num_ratings": 3310,
+    "categories": [
+      "Political",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "End Game Bonuses",
+      "Variable Set-up",
+      "Voting",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 270314,
+    "name": "Ohanami",
+    "year_published": 2019,
+    "rating": 7.0,
+    "num_plays": 13,
+    "players": "2-4",
+    "complexity": 1.1597,
+    "bgg_rating": 7.2595,
+    "num_ratings": 4700,
+    "categories": [
+      "Card Game",
+      "Number"
+    ],
+    "mechanics": [
+      "Closed Drafting",
+      "Ordering",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 68425,
+    "name": "Eminent Domain",
+    "year_published": 2011,
+    "rating": 8.5,
+    "num_plays": 10,
+    "players": "2-4",
+    "complexity": 2.5099,
+    "bgg_rating": 6.96269,
+    "num_ratings": 10740,
+    "categories": [
+      "Card Game",
+      "Civilization",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Delayed Purchase",
+      "Follow",
+      "Hand Management",
+      "Income",
+      "Layering",
+      "Market",
+      "Open Drafting",
+      "Tags",
+      "Variable Phase Order"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 247143,
+    "name": "Senshi",
+    "year_published": 2018,
+    "rating": 8.0,
+    "num_plays": 9,
+    "players": "2-4",
+    "complexity": 1.8333,
+    "bgg_rating": 6.14885,
+    "num_ratings": 470,
+    "categories": "Abstract Strategy",
+    "mechanics": "Set Collection"
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 178044,
+    "name": "Small Star Empires",
+    "year_published": 2016,
+    "rating": 7.0,
+    "num_plays": 8,
+    "players": "2-4",
+    "complexity": 2.0312,
+    "bgg_rating": 7.08055,
+    "num_ratings": 733,
+    "categories": [
+      "Science Fiction",
+      "Space Exploration",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Enclosure",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Modular Board"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 172287,
+    "name": "Champions of Midgard",
+    "year_published": 2015,
+    "rating": 8.3,
+    "num_plays": 7,
+    "players": "2-4",
+    "complexity": 2.6208,
+    "bgg_rating": 7.70344,
+    "num_ratings": 18761,
+    "categories": [
+      "Adventure",
+      "Dice",
+      "Fantasy",
+      "Fighting",
+      "Medieval",
+      "Mythology"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Set Collection",
+      "Variable Player Powers",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 140934,
+    "name": "Arboretum",
+    "year_published": 2015,
+    "rating": 7.5,
+    "num_plays": 6,
+    "players": "2-4",
+    "complexity": 2.1118,
+    "bgg_rating": 7.2428,
+    "num_ratings": 23825,
+    "categories": [
+      "Card Game",
+      "Number"
+    ],
+    "mechanics": [
+      "Connections",
+      "Hand Management",
+      "Move Through Deck",
+      "Open Drafting",
+      "Ordering",
+      "Pattern Building",
+      "Set Collection",
+      "Square Grid"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 317985,
+    "name": "Beyond the Sun",
+    "year_published": 2020,
+    "rating": 9.0,
+    "num_plays": 6,
+    "players": "2-4",
+    "complexity": 3.1538,
+    "bgg_rating": 7.86216,
+    "num_ratings": 17517,
+    "categories": [
+      "Civilization",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Contracts",
+      "End Game Bonuses",
+      "Events",
+      "Income",
+      "Point to Point Movement",
+      "Tech Trees / Tech Tracks",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 356414,
+    "name": "Space Station Phoenix",
+    "year_published": 2022,
+    "rating": 9.5,
+    "num_plays": 6,
+    "players": "2-4",
+    "complexity": 3.0476,
+    "bgg_rating": 7.36939,
+    "num_ratings": 1831,
+    "categories": [
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Action Retrieval",
+      "End Game Bonuses",
+      "Income",
+      "Ownership",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Victory Points as a Resource",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 220792,
+    "name": "The Expanse Board Game",
+    "year_published": 2017,
+    "rating": 8.2,
+    "num_plays": 6,
+    "players": "2-4",
+    "complexity": 2.8182,
+    "bgg_rating": 7.16326,
+    "num_ratings": 1854,
+    "categories": [
+      "Movies / TV / Radio theme",
+      "Novel-based",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Action / Event",
+      "Action Points",
+      "Area Majority / Influence",
+      "Campaign / Battle Card Driven",
+      "Catch the Leader",
+      "Take That",
+      "Variable Player Powers",
+      "Victory Points as a Resource"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 237179,
+    "name": "Weather Machine",
+    "year_published": 2022,
+    "rating": 9.0,
+    "num_plays": 6,
+    "players": "2-4",
+    "complexity": 4.5608,
+    "bgg_rating": 7.68577,
+    "num_ratings": 4137,
+    "categories": [
+      "Environmental",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Set Collection",
+      "Tile Placement",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 260300,
+    "name": "Dungeon Mayhem",
+    "year_published": 2018,
+    "rating": 7.5,
+    "num_plays": 5,
+    "players": "2-4",
+    "complexity": 1.1518,
+    "bgg_rating": 6.86018,
+    "num_ratings": 4689,
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Fighting"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Income",
+      "Player Elimination",
+      "Take That",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 155821,
+    "name": "Inis",
+    "year_published": 2016,
+    "rating": 8.2,
+    "num_plays": 5,
+    "players": "2-4",
+    "complexity": 2.9414,
+    "bgg_rating": 7.81397,
+    "num_ratings": 23064,
+    "categories": [
+      "Ancient",
+      "Card Game",
+      "Exploration",
+      "Mythology",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Action Drafting",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Closed Drafting",
+      "Hand Management",
+      "Interrupts",
+      "King of the Hill",
+      "Map Addition",
+      "Modular Board",
+      "Take That",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 811,
+    "name": "Rummikub",
+    "year_published": 1977,
+    "rating": 6.0,
+    "num_plays": 5,
+    "players": "2-4",
+    "complexity": 1.707,
+    "bgg_rating": 6.52182,
+    "num_ratings": 21926,
+    "categories": [
+      "Abstract Strategy",
+      "Card Game",
+      "Number"
+    ],
+    "mechanics": [
+      "Set Collection",
+      "Tile Placement"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 242574,
+    "name": "Century: Eastern Wonders",
+    "year_published": 2018,
+    "rating": 8.0,
+    "num_plays": 4,
+    "players": "2-4",
+    "complexity": 2.1081,
+    "bgg_rating": 7.09677,
+    "num_ratings": 8043,
+    "categories": "Nautical",
+    "mechanics": [
+      "Contracts",
+      "Grid Movement",
+      "Modular Board",
+      "Pick-up and Deliver",
+      "Point to Point Movement",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 265188,
+    "name": "Glen More II: Chronicles",
+    "year_published": 2019,
+    "rating": 8.2,
+    "num_plays": 4,
+    "players": "2-4",
+    "complexity": 3.006,
+    "bgg_rating": 7.8568,
+    "num_ratings": 9488,
+    "categories": [
+      "City Building",
+      "Economic",
+      "Farming",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Commodity Speculation",
+      "Grid Movement",
+      "Market",
+      "Set Collection",
+      "Tile Placement",
+      "Turn Order: Time Track"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 270673,
+    "name": "Silver & Gold",
+    "year_published": 2019,
+    "rating": 7.8,
+    "num_plays": 4,
+    "players": "2-4",
+    "complexity": 1.2169,
+    "bgg_rating": 7.16198,
+    "num_ratings": 8984,
+    "categories": [
+      "Adventure",
+      "Exploration"
+    ],
+    "mechanics": [
+      "Bingo",
+      "Contracts",
+      "End Game Bonuses",
+      "Grid Coverage",
+      "Paper-and-Pencil",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 126163,
+    "name": "Tzolk'in: The Mayan Calendar",
+    "year_published": 2012,
+    "rating": 8.2,
+    "num_plays": 4,
+    "players": "2-4",
+    "complexity": 3.6646,
+    "bgg_rating": 7.84642,
+    "num_ratings": 42421,
+    "categories": [
+      "Ancient",
+      "Civilization",
+      "Economic",
+      "Farming",
+      "Mythology"
+    ],
+    "mechanics": [
+      "Bias",
+      "End Game Bonuses",
+      "Once-Per-Game Abilities",
+      "Track Movement",
+      "Turn Order: Claim Action",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 303554,
+    "name": "Winter Kingdom",
+    "year_published": 2020,
+    "rating": 6.0,
+    "num_plays": 4,
+    "players": "2-4",
+    "complexity": 2.6154,
+    "bgg_rating": 7.2734,
+    "num_ratings": 1016,
+    "categories": [
+      "Medieval",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Chaining",
+      "Enclosure",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Modular Board",
+      "Network and Route Building",
+      "Pattern Building",
+      "Tile Placement",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 48726,
+    "name": "Alien Frontiers",
+    "year_published": 2010,
+    "rating": 7.9,
+    "num_plays": 3,
+    "players": "2-4",
+    "complexity": 2.5647,
+    "bgg_rating": 7.3398,
+    "num_ratings": 15579,
+    "categories": [
+      "Dice",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Open Drafting",
+      "Worker Placement with Dice Workers"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 358661,
+    "name": "Andromeda's Edge",
+    "year_published": 2024,
+    "rating": 0.0,
+    "num_plays": 3,
+    "players": "2-4",
+    "complexity": 3.745,
+    "bgg_rating": 8.25263,
+    "num_ratings": 6044,
+    "categories": [
+      "Fighting",
+      "Science Fiction",
+      "Space Exploration",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Events",
+      "Hand Management",
+      "Hexagon Grid",
+      "Tech Trees / Tech Tracks",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 194594,
+    "name": "Dice Forge",
+    "year_published": 2017,
+    "rating": 8.1,
+    "num_plays": 3,
+    "players": "2-4",
+    "complexity": 1.9724,
+    "bgg_rating": 7.21274,
+    "num_ratings": 24479,
+    "categories": [
+      "Ancient",
+      "Dice",
+      "Fantasy",
+      "Mythology"
+    ],
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Open Drafting",
+      "Random Production"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 321608,
+    "name": "Hegemony: Lead Your Class to Victory",
+    "year_published": 2023,
+    "rating": 8.0,
+    "num_plays": 3,
+    "players": "2-4",
+    "complexity": 4.255,
+    "bgg_rating": 8.37442,
+    "num_ratings": 12014,
+    "categories": [
+      "Economic",
+      "Educational",
+      "Negotiation",
+      "Political"
+    ],
+    "mechanics": [
+      "Action / Event",
+      "Hand Management",
+      "Simulation",
+      "Variable Player Powers",
+      "Voting",
+      "Worker Placement, Different Worker Types"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 155065,
+    "name": "Lifeform",
+    "year_published": 2019,
+    "rating": 9.0,
+    "num_plays": 3,
+    "players": "2-4",
+    "complexity": 3.0667,
+    "bgg_rating": 7.18179,
+    "num_ratings": 291,
+    "categories": [
+      "Bluffing",
+      "Fighting",
+      "Horror",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Hand Management",
+      "Point to Point Movement",
+      "Secret Unit Deployment",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 129622,
+    "name": "Love Letter",
+    "year_published": 2012,
+    "rating": 7.0,
+    "num_plays": 3,
+    "players": "2-4",
+    "complexity": 1.1849,
+    "bgg_rating": 7.22635,
+    "num_ratings": 71772,
+    "categories": [
+      "Card Game",
+      "Deduction",
+      "Renaissance"
+    ],
+    "mechanics": [
+      "Deduction",
+      "Hand Management",
+      "Player Elimination",
+      "Score-and-Reset Game",
+      "Take That"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 228341,
+    "name": "Pulsar 2849",
+    "year_published": 2017,
+    "rating": 8.9,
+    "num_plays": 3,
+    "players": "2-4",
+    "complexity": 3.3385,
+    "bgg_rating": 7.63474,
+    "num_ratings": 9768,
+    "categories": [
+      "Dice",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Open Drafting",
+      "Point to Point Movement",
+      "Worker Placement with Dice Workers"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 242684,
+    "name": "Reavers of Midgard",
+    "year_published": 2019,
+    "rating": 8.0,
+    "num_plays": 3,
+    "players": "2-4",
+    "complexity": 2.934,
+    "bgg_rating": 7.32304,
+    "num_ratings": 3295,
+    "categories": null,
+    "mechanics": [
+      "Dice Rolling",
+      "Follow",
+      "Open Drafting",
+      "Set Collection",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 417197,
+    "name": "Rebirth",
+    "year_published": 2024,
+    "rating": 0.0,
+    "num_plays": 3,
+    "players": "2-4",
+    "complexity": 1.9781,
+    "bgg_rating": 7.75732,
+    "num_ratings": 5526,
+    "categories": [
+      "Environmental",
+      "Fantasy",
+      "Farming",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Contracts",
+      "End Game Bonuses",
+      "Hexagon Grid",
+      "Tile Placement"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 298231,
+    "name": "Skyrise",
+    "year_published": 2024,
+    "rating": 0.0,
+    "num_plays": 3,
+    "players": "2-4",
+    "complexity": 2.2447,
+    "bgg_rating": 7.67036,
+    "num_ratings": 3757,
+    "categories": "Territory Building",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Auction / Bidding",
+      "Constrained Bidding",
+      "End Game Bonuses",
+      "Modular Board",
+      "Set Collection",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 284616,
+    "name": "Small Samurai Empires",
+    "year_published": 2020,
+    "rating": 8.0,
+    "num_plays": 3,
+    "players": "2-4",
+    "complexity": 2.7451,
+    "bgg_rating": 7.54942,
+    "num_ratings": 950,
+    "categories": [
+      "Abstract Strategy",
+      "Medieval"
+    ],
+    "mechanics": [
+      "Action Queue",
+      "Area Majority / Influence",
+      "Area Movement",
+      "End Game Bonuses",
+      "Order Counters"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 317457,
+    "name": "Dinosaur World",
+    "year_published": 2021,
+    "rating": 8.0,
+    "num_plays": 2,
+    "players": "2-4",
+    "complexity": 3.2687,
+    "bgg_rating": 7.31604,
+    "num_ratings": 4512,
+    "categories": [
+      "Animals",
+      "City Building",
+      "Economic",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Income",
+      "Movement Points",
+      "Tile Placement",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 315727,
+    "name": "Last Light",
+    "year_published": 2023,
+    "rating": 8.0,
+    "num_plays": 2,
+    "players": "2-4",
+    "complexity": 2.7778,
+    "bgg_rating": 7.33335,
+    "num_ratings": 2297,
+    "categories": [
+      "Civilization",
+      "Economic",
+      "Negotiation",
+      "Science Fiction",
+      "Space Exploration",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Action Retrieval",
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "King of the Hill",
+      "Map Deformation",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Variable Phase Order",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 30549,
+    "name": "Pandemic",
+    "year_published": 2008,
+    "rating": 7.5,
+    "num_plays": 2,
+    "players": "2-4",
+    "complexity": 2.3941,
+    "bgg_rating": 7.51354,
+    "num_ratings": 134947,
+    "categories": [
+      "Medical",
+      "Travel"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Chaining",
+      "Contracts",
+      "Cooperative Game",
+      "Events",
+      "Hand Management",
+      "Multi-Use Cards",
+      "Point to Point Movement",
+      "Set Collection",
+      "Simulation",
+      "Solo / Solitaire Game",
+      "Tags",
+      "Trading",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 232043,
+    "name": "Queendomino",
+    "year_published": 2017,
+    "rating": 7.0,
+    "num_plays": 2,
+    "players": "2-4",
+    "complexity": 2.0698,
+    "bgg_rating": 7.13678,
+    "num_ratings": 11812,
+    "categories": [
+      "Fantasy",
+      "Medieval",
+      "Puzzle",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Enclosure",
+      "Market",
+      "Open Drafting",
+      "Pattern Building",
+      "Tile Placement",
+      "Turn Order: Claim Action"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 319966,
+    "name": "The King Is Dead: Second Edition",
+    "year_published": 2020,
+    "rating": 9.0,
+    "num_plays": 2,
+    "players": "2-4",
+    "complexity": 2.17,
+    "bgg_rating": 7.58797,
+    "num_ratings": 8603,
+    "categories": [
+      "Medieval",
+      "Political",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Campaign / Battle Card Driven",
+      "Communication Limits",
+      "Hand Management",
+      "Map Reduction",
+      "Memory",
+      "Stock Holding",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 299450,
+    "name": "Tsukuyumi: Full Moon Down (Second Edition)",
+    "year_published": 2020,
+    "rating": 9.0,
+    "num_plays": 2,
+    "players": "2-4",
+    "complexity": 3.6552,
+    "bgg_rating": 7.49339,
+    "num_ratings": 532,
+    "categories": [
+      "Abstract Strategy",
+      "Fantasy",
+      "Miniatures",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Closed Drafting",
+      "Hexagon Grid",
+      "Modular Board",
+      "Variable Phase Order",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 290484,
+    "name": "Unsettled",
+    "year_published": 2021,
+    "rating": 10.0,
+    "num_plays": 2,
+    "players": "2-4",
+    "complexity": 3.2846,
+    "bgg_rating": 8.05993,
+    "num_ratings": 3838,
+    "categories": [
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Action Retrieval",
+      "Cooperative Game",
+      "Modular Board",
+      "Scenario / Mission / Campaign Game",
+      "Tech Trees / Tech Tracks",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 290484,
+    "name": "Unsettled",
+    "year_published": 2021,
+    "rating": 9.0,
+    "num_plays": 2,
+    "players": "2-4",
+    "complexity": 3.2846,
+    "bgg_rating": 8.05993,
+    "num_ratings": 3838,
+    "categories": [
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Action Retrieval",
+      "Cooperative Game",
+      "Modular Board",
+      "Scenario / Mission / Campaign Game",
+      "Tech Trees / Tech Tracks",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 110277,
+    "name": "Among the Stars",
+    "year_published": 2012,
+    "rating": 7.5,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 2.2377,
+    "bgg_rating": 7.00909,
+    "num_ratings": 7379,
+    "categories": [
+      "Card Game",
+      "City Building",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Closed Drafting",
+      "Open Drafting",
+      "Simultaneous Action Selection",
+      "Tile Placement",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 139976,
+    "name": "Cthulhu Wars",
+    "year_published": 2015,
+    "rating": 7.5,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 3.1466,
+    "bgg_rating": 7.83923,
+    "num_ratings": 6858,
+    "categories": [
+      "Fantasy",
+      "Fighting",
+      "Horror"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Dice Rolling",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 344839,
+    "name": "Dog Lover",
+    "year_published": 2021,
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 1.8387,
+    "bgg_rating": 6.69968,
+    "num_ratings": 1478,
+    "categories": [
+      "Animals",
+      "Card Game"
+    ],
+    "mechanics": [
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Set Collection",
+      "Square Grid",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 262941,
+    "name": "Dominant Species: Marine",
+    "year_published": 2021,
+    "rating": 9.0,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 3.6923,
+    "bgg_rating": 7.85292,
+    "num_ratings": 2919,
+    "categories": [
+      "Animals",
+      "Environmental",
+      "Prehistoric"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Map Addition",
+      "Open Drafting",
+      "Tile Placement",
+      "Variable Phase Order",
+      "Variable Player Powers",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 65244,
+    "name": "Forbidden Island",
+    "year_published": 2010,
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 1.739,
+    "bgg_rating": 6.75039,
+    "num_ratings": 54400,
+    "categories": [
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Events",
+      "Grid Movement",
+      "Hand Management",
+      "Map Reduction",
+      "Modular Board",
+      "Pick-up and Deliver",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Square Grid",
+      "Tile Placement",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 31481,
+    "name": "Galaxy Trucker",
+    "year_published": 2007,
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 2.3283,
+    "bgg_rating": 7.32197,
+    "num_ratings": 35746,
+    "categories": [
+      "Real-time",
+      "Science Fiction",
+      "Space Exploration",
+      "Transportation"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Events",
+      "Grid Coverage",
+      "Open Drafting",
+      "Pattern Building",
+      "Push Your Luck",
+      "Real-Time",
+      "Relative Movement",
+      "Square Grid",
+      "Team-Based Game",
+      "Tile Placement",
+      "Track Movement",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 8203,
+    "name": "Hey, That's My Fish!",
+    "year_published": 2003,
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 1.4446,
+    "bgg_rating": 6.69939,
+    "num_ratings": 22769,
+    "categories": [
+      "Abstract Strategy",
+      "Animals"
+    ],
+    "mechanics": [
+      "Grid Movement",
+      "Hexagon Grid",
+      "Map Reduction",
+      "Modular Board",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 272738,
+    "name": "Jaws",
+    "year_published": 2019,
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 2.1778,
+    "bgg_rating": 7.06139,
+    "num_ratings": 6978,
+    "categories": [
+      "Animals",
+      "Fighting",
+      "Movies / TV / Radio theme",
+      "Nautical"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Area Movement",
+      "Card Play Conflict Resolution",
+      "Hidden Movement",
+      "Map Deformation",
+      "Map Reduction",
+      "Modular Board",
+      "Player Elimination",
+      "Secret Unit Deployment",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 379629,
+    "name": "Knarr",
+    "year_published": 2023,
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 1.9087,
+    "bgg_rating": 7.47168,
+    "num_ratings": 8041,
+    "categories": "Card Game",
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Race",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 264141,
+    "name": "Kodachi",
+    "year_published": 2019,
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 1.8261,
+    "bgg_rating": 7.28895,
+    "num_ratings": 513,
+    "categories": "Card Game",
+    "mechanics": [
+      "Deck Construction",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Open Drafting",
+      "Push Your Luck",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 193322,
+    "name": "Master of Orion: The Board Game",
+    "year_published": 2016,
+    "rating": 6.0,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 2.4384,
+    "bgg_rating": 6.90738,
+    "num_ratings": 2005,
+    "categories": [
+      "Card Game",
+      "Economic",
+      "Science Fiction",
+      "Space Exploration",
+      "Video Game Theme"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Hand Management",
+      "Multi-Use Cards",
+      "Take That",
+      "Turn Order: Progressive",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 147299,
+    "name": "Pocket Imperium",
+    "year_published": 2013,
+    "rating": 6.2,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 1.9459,
+    "bgg_rating": 6.18682,
+    "num_ratings": 780,
+    "categories": [
+      "Print & Play",
+      "Science Fiction",
+      "Space Exploration",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Action Queue",
+      "Area Majority / Influence",
+      "Modular Board",
+      "Simultaneous Action Selection"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 192153,
+    "name": "Reign of Cthulhu",
+    "year_published": 2016,
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 2.1652,
+    "bgg_rating": 7.35714,
+    "num_ratings": 11046,
+    "categories": [
+      "Horror",
+      "Novel-based"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Hand Management",
+      "Point to Point Movement",
+      "Set Collection",
+      "Trading",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 309297,
+    "name": "SCOPE Stalingrad",
+    "year_published": 2020,
+    "rating": 6.0,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 1.5333,
+    "bgg_rating": 6.82875,
+    "num_ratings": 296,
+    "categories": [
+      "Card Game",
+      "Deduction",
+      "Memory",
+      "Wargame",
+      "World War II"
+    ],
+    "mechanics": [
+      "Hidden Movement",
+      "Memory",
+      "Secret Unit Deployment",
+      "Team-Based Game"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 253284,
+    "name": "Ticket to Ride: New York",
+    "year_published": 2018,
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 1.2632,
+    "bgg_rating": 6.88015,
+    "num_ratings": 7725,
+    "categories": "Trains",
+    "mechanics": [
+      "Hand Management",
+      "Network and Route Building",
+      "Open Drafting",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 260923,
+    "name": "Titan",
+    "year_published": 2022,
+    "rating": 9.0,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 3.5,
+    "bgg_rating": 6.97113,
+    "num_ratings": 203,
+    "categories": [
+      "Industry / Manufacturing",
+      "Science Fiction",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Network and Route Building",
+      "Take That",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 115746,
+    "name": "War of the Ring: Second Edition",
+    "year_published": 2011,
+    "rating": 9.0,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 4.2239,
+    "bgg_rating": 8.55205,
+    "num_ratings": 25070,
+    "categories": [
+      "Fantasy",
+      "Fighting",
+      "Novel-based",
+      "Territory Building",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Card Play Conflict Resolution",
+      "Dice Rolling",
+      "Events",
+      "Hand Management",
+      "Movement Points",
+      "Team-Based Game",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 362944,
+    "name": "War of the Ring: The Card Game",
+    "year_published": 2022,
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 2.9809,
+    "bgg_rating": 7.60321,
+    "num_ratings": 4833,
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Novel-based"
+    ],
+    "mechanics": [
+      "Campaign / Battle Card Driven",
+      "Card Play Conflict Resolution",
+      "Hand Management",
+      "Team-Based Game"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 232832,
+    "name": "Century: Golem Edition",
+    "year_published": 2017,
+    "rating": 9.0,
+    "num_plays": 22,
+    "players": "2-5",
+    "complexity": 1.7168,
+    "bgg_rating": 7.57649,
+    "num_ratings": 14134,
+    "categories": [
+      "Card Game",
+      "Economic",
+      "Fantasy"
+    ],
+    "mechanics": [
+      "Action Retrieval",
+      "Auction: Dutch",
+      "Contracts",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Increase Value of Unchosen Resources",
+      "Open Drafting",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 209685,
+    "name": "Century: Spice Road",
+    "year_published": 2017,
+    "rating": 7.2,
+    "num_plays": 15,
+    "players": "2-5",
+    "complexity": 1.7986,
+    "bgg_rating": 7.29009,
+    "num_ratings": 27690,
+    "categories": [
+      "Card Game",
+      "Economic",
+      "Medieval"
+    ],
+    "mechanics": [
+      "Action Retrieval",
+      "Auction: Dutch",
+      "Contracts",
+      "Deck, Bag, and Pool Building",
+      "End Game Bonuses",
+      "Hand Management",
+      "Increase Value of Unchosen Resources",
+      "Open Drafting",
+      "Set Collection",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 822,
+    "name": "Carcassonne",
+    "year_published": 2000,
+    "rating": 7.8,
+    "num_plays": 10,
+    "players": "2-5",
+    "complexity": 1.885,
+    "bgg_rating": 7.41633,
+    "num_ratings": 139563,
+    "categories": [
+      "Medieval",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Enclosure",
+      "Kill Steal",
+      "Map Addition",
+      "Pattern Building",
+      "Square Grid",
+      "Tile Placement"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 291453,
+    "name": "SCOUT",
+    "year_published": 2019,
+    "rating": 8.0,
+    "num_plays": 8,
+    "players": "2-5",
+    "complexity": 1.3856,
+    "bgg_rating": 7.78921,
+    "num_ratings": 27940,
+    "categories": "Card Game",
+    "mechanics": [
+      "Hand Management",
+      "Ladder Climbing",
+      "Score-and-Reset Game"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 242302,
+    "name": "Space Base",
+    "year_published": 2018,
+    "rating": 9.1,
+    "num_plays": 8,
+    "players": "2-5",
+    "complexity": 2.1315,
+    "bgg_rating": 7.53966,
+    "num_ratings": 23429,
+    "categories": [
+      "Dice",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Open Drafting",
+      "Random Production"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 133473,
+    "name": "Sushi Go!",
+    "year_published": 2013,
+    "rating": 7.0,
+    "num_plays": 8,
+    "players": "2-5",
+    "complexity": 1.1644,
+    "bgg_rating": 6.9823,
+    "num_ratings": 52344,
+    "categories": [
+      "Card Game",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Closed Drafting",
+      "End Game Bonuses",
+      "Hand Management",
+      "Score-and-Reset Game",
+      "Set Collection",
+      "Simultaneous Action Selection"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 329151,
+    "name": "Draconic Dice",
+    "year_published": 2021,
+    "rating": 7.0,
+    "num_plays": 5,
+    "players": "2-5",
+    "complexity": 1.1429,
+    "bgg_rating": 6.33396,
+    "num_ratings": 75,
+    "categories": "Dice",
+    "mechanics": "Dice Rolling"
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 218509,
+    "name": "Empires of the Void II",
+    "year_published": 2018,
+    "rating": 9.1,
+    "num_plays": 3,
+    "players": "2-5",
+    "complexity": 3.472,
+    "bgg_rating": 7.44154,
+    "num_ratings": 2811,
+    "categories": [
+      "Civilization",
+      "Economic",
+      "Exploration",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Follow",
+      "Hand Management",
+      "Modular Board",
+      "Pick-up and Deliver",
+      "Point to Point Movement",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 324856,
+    "name": "The Crew: Mission Deep Sea",
+    "year_published": 2021,
+    "rating": 0.0,
+    "num_plays": 3,
+    "players": "2-5",
+    "complexity": 2.0502,
+    "bgg_rating": 8.05009,
+    "num_ratings": 25445,
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Mythology",
+      "Nautical"
+    ],
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Deduction",
+      "Hand Management",
+      "Scenario / Mission / Campaign Game",
+      "Trick-taking"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 284083,
+    "name": "The Crew: The Quest for Planet Nine",
+    "year_published": 2019,
+    "rating": 7.0,
+    "num_plays": 3,
+    "players": "2-5",
+    "complexity": 1.9659,
+    "bgg_rating": 7.75607,
+    "num_ratings": 48552,
+    "categories": [
+      "Card Game",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Hand Management",
+      "Scenario / Mission / Campaign Game",
+      "Trick-taking"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 300442,
+    "name": "Trekking the World",
+    "year_published": 2020,
+    "rating": 7.0,
+    "num_plays": 3,
+    "players": "2-5",
+    "complexity": 1.8936,
+    "bgg_rating": 7.03753,
+    "num_ratings": 3567,
+    "categories": [
+      "Educational",
+      "Environmental",
+      "Travel"
+    ],
+    "mechanics": [
+      "Contracts",
+      "Hand Management",
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Point to Point Movement",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 286160,
+    "name": "Godspeed",
+    "year_published": 2020,
+    "rating": 9.0,
+    "num_plays": 2,
+    "players": "2-5",
+    "complexity": 2.75,
+    "bgg_rating": 6.99837,
+    "num_ratings": 1032,
+    "categories": "Science Fiction",
+    "mechanics": [
+      "Auction / Bidding",
+      "Turn Order: Auction",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 380707,
+    "name": "Vindication: Archive of the Ancients",
+    "year_published": 2023,
+    "rating": 10.0,
+    "num_plays": 2,
+    "players": "2-5",
+    "complexity": 3,
+    "bgg_rating": 8.56606,
+    "num_ratings": 274,
+    "categories": "Fantasy",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Map Addition",
+      "Modular Board",
+      "Variable Phase Order"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 172225,
+    "name": "Exploding Kittens",
+    "year_published": 2015,
+    "rating": 6.0,
+    "num_plays": 1,
+    "players": "2-5",
+    "complexity": 1.0807,
+    "bgg_rating": 6.06944,
+    "num_ratings": 41488,
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Comic Book / Strip",
+      "Humor"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Hot Potato",
+      "Player Elimination",
+      "Push Your Luck",
+      "Set Collection",
+      "Take That"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 136063,
+    "name": "Forbidden Desert",
+    "year_published": 2013,
+    "rating": 5.0,
+    "num_plays": 1,
+    "players": "2-5",
+    "complexity": 2.0413,
+    "bgg_rating": 7.05943,
+    "num_ratings": 32846,
+    "categories": [
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Bias",
+      "Cooperative Game",
+      "Grid Movement",
+      "Hand Management",
+      "Map Deformation",
+      "Modular Board",
+      "Pick-up and Deliver",
+      "Solo / Solitaire Game",
+      "Square Grid",
+      "Tile Placement",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 369258,
+    "name": "Isle of Skye: Big Box",
+    "year_published": 2022,
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "2-5",
+    "complexity": 2.125,
+    "bgg_rating": 7.93897,
+    "num_ratings": 567,
+    "categories": [
+      "Economic",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Auction / Bidding",
+      "Catch the Leader",
+      "I Cut, You Choose",
+      "Set Collection",
+      "Tile Placement",
+      "Turn Order: Progressive"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 297562,
+    "name": "Kemet: Blood and Sand",
+    "year_published": 2021,
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "2-5",
+    "complexity": 3.1965,
+    "bgg_rating": 7.90331,
+    "num_ratings": 6175,
+    "categories": [
+      "Ancient",
+      "Fighting",
+      "Mythology",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Card Play Conflict Resolution",
+      "Hand Management",
+      "Open Drafting",
+      "Tech Trees / Tech Tracks"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 156009,
+    "name": "Port Royal",
+    "year_published": 2014,
+    "rating": 6.7,
+    "num_plays": 1,
+    "players": "2-5",
+    "complexity": 1.6332,
+    "bgg_rating": 7.10379,
+    "num_ratings": 19158,
+    "categories": [
+      "Card Game",
+      "Economic",
+      "Nautical",
+      "Pirates"
+    ],
+    "mechanics": [
+      "Contracts",
+      "Events",
+      "Income",
+      "Move Through Deck",
+      "Open Drafting",
+      "Ownership",
+      "Push Your Luck",
+      "Race",
+      "Set Collection",
+      "Tags"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 172047,
+    "name": "The Others",
+    "year_published": 2016,
+    "rating": 8.0,
+    "num_plays": 1,
+    "players": "2-5",
+    "complexity": 3.0565,
+    "bgg_rating": 7.28173,
+    "num_ratings": 4259,
+    "categories": [
+      "Fantasy",
+      "Fighting",
+      "Horror",
+      "Miniatures"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Dice Rolling",
+      "Interrupts",
+      "Modular Board",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 14996,
+    "name": "Ticket to Ride: Europe",
+    "year_published": 2005,
+    "rating": 6.5,
+    "num_plays": 1,
+    "players": "2-5",
+    "complexity": 1.9155,
+    "bgg_rating": 7.5238,
+    "num_ratings": 85333,
+    "categories": "Trains",
+    "mechanics": [
+      "Connections",
+      "Contracts",
+      "End Game Bonuses",
+      "Hand Management",
+      "Network and Route Building",
+      "Open Drafting",
+      "Push Your Luck",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 223040,
+    "name": "Fantasy Realms",
+    "year_published": 2017,
+    "rating": 9.0,
+    "num_plays": 15,
+    "players": "2-6",
+    "complexity": 1.8142,
+    "bgg_rating": 7.50213,
+    "num_ratings": 18352,
+    "categories": [
+      "Card Game",
+      "Fantasy"
+    ],
+    "mechanics": [
+      "End Game Bonuses",
+      "Hand Management",
+      "Open Drafting",
+      "Set Collection",
+      "Tags"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 11971,
+    "name": "Cockroach Poker",
+    "year_published": 2004,
+    "rating": 6.0,
+    "num_plays": 6,
+    "players": "2-6",
+    "complexity": 1.0969,
+    "bgg_rating": 6.80185,
+    "num_ratings": 16363,
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Set Collection",
+      "Single Loser Game"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 133848,
+    "name": "Euphoria: Build a Better Dystopia",
+    "year_published": 2013,
+    "rating": 8.0,
+    "num_plays": 6,
+    "players": "2-6",
+    "complexity": 3.112,
+    "bgg_rating": 7.16344,
+    "num_ratings": 11411,
+    "categories": "Science Fiction",
+    "mechanics": [
+      "Dice Rolling",
+      "Hand Management",
+      "Race",
+      "Set Collection",
+      "Trading",
+      "Variable Player Powers",
+      "Worker Placement",
+      "Worker Placement with Dice Workers"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 122842,
+    "name": "Exodus: Proxima Centauri",
+    "year_published": 2012,
+    "rating": 10.0,
+    "num_plays": 6,
+    "players": "2-6",
+    "complexity": 3.6091,
+    "bgg_rating": 7.13523,
+    "num_ratings": 1750,
+    "categories": [
+      "Civilization",
+      "Fighting",
+      "Science Fiction",
+      "Space Exploration",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Auction / Bidding",
+      "Dice Rolling",
+      "Follow",
+      "Hexagon Grid",
+      "Modular Board",
+      "Simultaneous Action Selection",
+      "Take That",
+      "Tech Trees / Tech Tracks",
+      "Trading",
+      "Voting"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 353470,
+    "name": "Star Wars: Jabba's Palace – A Love Letter Game",
+    "year_published": 2022,
+    "rating": 7.0,
+    "num_plays": 6,
+    "players": "2-6",
+    "complexity": 1.25,
+    "bgg_rating": 7.19372,
+    "num_ratings": 3560,
+    "categories": [
+      "Card Game",
+      "Movies / TV / Radio theme",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Deduction",
+      "Hand Management",
+      "Player Elimination",
+      "Score-and-Reset Game",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 131357,
+    "name": "Coup",
+    "year_published": 2012,
+    "rating": 7.0,
+    "num_plays": 5,
+    "players": "2-6",
+    "complexity": 1.4152,
+    "bgg_rating": 6.97519,
+    "num_ratings": 52156,
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Deduction",
+      "Party Game",
+      "Political"
+    ],
+    "mechanics": [
+      "Hidden Roles",
+      "Memory",
+      "Player Elimination",
+      "Take That",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 274960,
+    "name": "Point Salad",
+    "year_published": 2019,
+    "rating": 7.0,
+    "num_plays": 5,
+    "players": "2-6",
+    "complexity": 1.1529,
+    "bgg_rating": 7.08964,
+    "num_ratings": 23215,
+    "categories": "Card Game",
+    "mechanics": [
+      "Contracts",
+      "End Game Bonuses",
+      "Open Drafting",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 4279,
+    "name": "Flux",
+    "year_published": 1986,
+    "rating": 5.0,
+    "num_plays": 3,
+    "players": "2-6",
+    "complexity": 1.3846,
+    "bgg_rating": 5.45436,
+    "num_ratings": 298,
+    "categories": [
+      "Fantasy",
+      "Fighting",
+      "Territory Building"
+    ],
+    "mechanics": "Hexagon Grid"
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 313841,
+    "name": "Lunar Base",
+    "year_published": 2021,
+    "rating": 7.0,
+    "num_plays": 3,
+    "players": "2-6",
+    "complexity": 2.0476,
+    "bgg_rating": 7.10936,
+    "num_ratings": 446,
+    "categories": [
+      "Card Game",
+      "City Building",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Open Drafting",
+      "Race",
+      "Take That",
+      "Tile Placement",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 250467,
+    "name": "Red Alert: Space Fleet Warfare",
+    "year_published": 2019,
+    "rating": 8.2,
+    "num_plays": 3,
+    "players": "2-6",
+    "complexity": 2.3529,
+    "bgg_rating": 7.77423,
+    "num_ratings": 343,
+    "categories": [
+      "Miniatures",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Hand Management",
+      "Hexagon Grid",
+      "Modular Board"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 159473,
+    "name": "Quartermaster General",
+    "year_published": 2014,
+    "rating": 7.0,
+    "num_plays": 2,
+    "players": "2-6",
+    "complexity": 2.2866,
+    "bgg_rating": 7.2591,
+    "num_ratings": 2870,
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Campaign / Battle Card Driven",
+      "Hand Management",
+      "Team-Based Game"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 347117,
+    "name": "Star Trek: Missions",
+    "year_published": 2022,
+    "rating": 8.0,
+    "num_plays": 2,
+    "players": "2-6",
+    "complexity": 2,
+    "bgg_rating": 6.73275,
+    "num_ratings": 694,
+    "categories": [
+      "Card Game",
+      "Movies / TV / Radio theme",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Open Drafting",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 145976,
+    "name": "Talon",
+    "year_published": 2016,
+    "rating": 8.0,
+    "num_plays": 2,
+    "players": "2-6",
+    "complexity": 2.6,
+    "bgg_rating": 7.38151,
+    "num_ratings": 886,
+    "categories": [
+      "Science Fiction",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Impulse Movement",
+      "Scenario / Mission / Campaign Game",
+      "Simulation",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 220700,
+    "name": "Cobra Paw",
+    "year_published": 2017,
+    "rating": 6.9,
+    "num_plays": 1,
+    "players": "2-6",
+    "complexity": 1,
+    "bgg_rating": 6.27284,
+    "num_ratings": 1349,
+    "categories": [
+      "Action / Dexterity",
+      "Children's Game",
+      "Real-time"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Pattern Recognition"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 62219,
+    "name": "Dominant Species",
+    "year_published": 2010,
+    "rating": 9.0,
+    "num_plays": 1,
+    "players": "2-6",
+    "complexity": 4.0447,
+    "bgg_rating": 7.802,
+    "num_ratings": 22379,
+    "categories": [
+      "Animals",
+      "Environmental",
+      "Prehistoric"
+    ],
+    "mechanics": [
+      "Action Drafting",
+      "Action Queue",
+      "Area Majority / Influence",
+      "End Game Bonuses",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Map Addition",
+      "Take That",
+      "Tile Placement",
+      "Turn Order: Claim Action",
+      "Variable Player Powers",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 283355,
+    "name": "Dune",
+    "year_published": 2019,
+    "rating": 8.0,
+    "num_plays": 1,
+    "players": "2-6",
+    "complexity": 3.9807,
+    "bgg_rating": 7.91628,
+    "num_ratings": 10756,
+    "categories": [
+      "Bluffing",
+      "Fighting",
+      "Negotiation",
+      "Novel-based",
+      "Political",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Alliances",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Auction / Bidding",
+      "Bribery",
+      "Card Play Conflict Resolution",
+      "Force Commitment",
+      "Map Deformation",
+      "Negotiation",
+      "Predictive Bid",
+      "Roles with Asymmetric Information",
+      "Take That",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 246900,
+    "name": "Eclipse: Second Dawn for the Galaxy",
+    "year_published": 2020,
+    "rating": 10.0,
+    "num_plays": 1,
+    "players": "2-6",
+    "complexity": 3.6651,
+    "bgg_rating": 8.38856,
+    "num_ratings": 17345,
+    "categories": [
+      "Civilization",
+      "Exploration",
+      "Science Fiction",
+      "Space Exploration",
+      "Territory Building",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Alliances",
+      "Area Majority / Influence",
+      "Area-Impulse",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Hidden Victory Points",
+      "Hot Potato",
+      "Income",
+      "Modular Board",
+      "Passed Action Token",
+      "Tech Trees / Tech Tracks",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 233868,
+    "name": "HATE",
+    "year_published": 2019,
+    "rating": 8.0,
+    "num_plays": 1,
+    "players": "2-6",
+    "complexity": 2.4878,
+    "bgg_rating": 7.65561,
+    "num_ratings": 1139,
+    "categories": [
+      "Comic Book / Strip",
+      "Fantasy",
+      "Fighting",
+      "Mature / Adult",
+      "Miniatures"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Grid Movement",
+      "Tile Placement",
+      "Variable Player Powers",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 59959,
+    "name": "Letters from Whitechapel",
+    "year_published": 2011,
+    "rating": 8.0,
+    "num_plays": 1,
+    "players": "2-6",
+    "complexity": 2.6398,
+    "bgg_rating": 7.32931,
+    "num_ratings": 17037,
+    "categories": [
+      "Bluffing",
+      "Deduction",
+      "Murder / Mystery",
+      "Post-Napoleonic"
+    ],
+    "mechanics": [
+      "Hidden Movement",
+      "Memory",
+      "Point to Point Movement",
+      "Questions and Answers",
+      "Secret Unit Deployment",
+      "Team-Based Game"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 331979,
+    "name": "Quartermaster General WW2: 2nd Edition",
+    "year_published": 2020,
+    "rating": 8.0,
+    "num_plays": 1,
+    "players": "2-6",
+    "complexity": 2.619,
+    "bgg_rating": 7.6863,
+    "num_ratings": 688,
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Campaign / Battle Card Driven",
+      "Command Cards",
+      "Hand Management",
+      "Team-Based Game"
+    ]
+  },
+  {
+    "group_key": "2-7",
+    "bgg_id": 181304,
+    "name": "Mysterium",
+    "year_published": 2015,
+    "rating": 7.0,
+    "num_plays": 6,
+    "players": "2-7",
+    "complexity": 1.8899,
+    "bgg_rating": 7.19043,
+    "num_ratings": 49104,
+    "categories": [
+      "Deduction",
+      "Murder / Mystery",
+      "Party Game",
+      "Real-time"
+    ],
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Deduction",
+      "Finale Ending",
+      "Hand Management",
+      "Pattern Recognition",
+      "Real-Time",
+      "Storytelling",
+      "Voting"
+    ]
+  },
+  {
+    "group_key": "2-7",
+    "bgg_id": 194879,
+    "name": "Not Alone",
+    "year_published": 2016,
+    "rating": 7.0,
+    "num_plays": 1,
+    "players": "2-7",
+    "complexity": 2,
+    "bgg_rating": 6.95492,
+    "num_ratings": 11967,
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Deduction",
+      "Horror",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Hidden Movement",
+      "Race",
+      "Simultaneous Action Selection",
+      "Team-Based Game"
+    ]
+  },
+  {
+    "group_key": "2-75",
+    "bgg_id": 232524,
+    "name": "Welcome to Dino World",
+    "year_published": 2017,
+    "rating": 7.2,
+    "num_plays": 2,
+    "players": "2-75",
+    "complexity": 2.375,
+    "bgg_rating": 6.71487,
+    "num_ratings": 1269,
+    "categories": [
+      "Dice",
+      "Fantasy",
+      "Print & Play"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Enclosure",
+      "Line Drawing",
+      "Paper-and-Pencil"
+    ]
+  },
+  {
+    "group_key": "2-8",
+    "bgg_id": 178900,
+    "name": "Codenames",
+    "year_published": 2015,
+    "rating": 6.0,
+    "num_plays": 5,
+    "players": "2-8",
+    "complexity": 1.2553,
+    "bgg_rating": 7.525,
+    "num_ratings": 103823,
+    "categories": [
+      "Card Game",
+      "Deduction",
+      "Party Game",
+      "Spies / Secret Agents",
+      "Word Game"
+    ],
+    "mechanics": [
+      "Communication Limits",
+      "Deduction",
+      "Memory",
+      "Race",
+      "Team-Based Game"
+    ]
+  },
+  {
+    "group_key": "2-8",
+    "bgg_id": 234190,
+    "name": "Unstable Unicorns",
+    "year_published": 2017,
+    "rating": 6.0,
+    "num_plays": 1,
+    "players": "2-8",
+    "complexity": 1.4906,
+    "bgg_rating": 6.22622,
+    "num_ratings": 11711,
+    "categories": [
+      "Card Game",
+      "Humor",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Set Collection",
+      "Take That"
+    ]
+  },
+  {
+    "group_key": "2-99",
     "bgg_id": 62871,
     "name": "Zombie Dice",
     "year_published": 2010,
+    "rating": 7.2,
+    "num_plays": 1,
+    "players": "2-99",
+    "complexity": 1.0923,
+    "bgg_rating": 6.22983,
+    "num_ratings": 19233,
+    "categories": [
+      "Dice",
+      "Horror",
+      "Humor",
+      "Party Game",
+      "Zombies"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "Push Your Luck",
+      "Re-rolling and Locking"
+    ]
+  },
+  {
+    "group_key": "3-5",
+    "bgg_id": 3076,
+    "name": "Puerto Rico",
+    "year_published": 2002,
+    "rating": 8.6,
+    "num_plays": 12,
+    "players": "3-5",
+    "complexity": 3.2664,
+    "bgg_rating": 7.89913,
+    "num_ratings": 74218,
+    "categories": [
+      "City Building",
+      "Economic",
+      "Farming"
+    ],
+    "mechanics": [
+      "Action Drafting",
+      "End Game Bonuses",
+      "Follow",
+      "Hidden Victory Points",
+      "Increase Value of Unchosen Resources",
+      "Turn Order: Progressive",
+      "Variable Phase Order"
+    ]
+  },
+  {
+    "group_key": "3-5",
+    "bgg_id": 39463,
+    "name": "Cosmic Encounter",
+    "year_published": 2008,
+    "rating": 8.5,
+    "num_plays": 8,
+    "players": "3-5",
+    "complexity": 2.5814,
+    "bgg_rating": 7.50745,
+    "num_ratings": 34889,
+    "categories": [
+      "Bluffing",
+      "Negotiation",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Alliances",
+      "Card Play Conflict Resolution",
+      "Hand Management",
+      "Interrupts",
+      "Negotiation",
+      "Prisoner's Dilemma",
+      "Race",
+      "Simultaneous Action Selection",
+      "Take That",
+      "Trading",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "3-5",
+    "bgg_id": 82222,
+    "name": "Xia: Legends of a Drift System",
+    "year_published": 2014,
+    "rating": 9.8,
+    "num_plays": 5,
+    "players": "3-5",
+    "complexity": 3.2015,
+    "bgg_rating": 7.85681,
+    "num_ratings": 11098,
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fighting",
+      "Science Fiction",
+      "Space Exploration",
+      "Transportation"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Dice Rolling",
+      "Grid Movement",
+      "Map Addition",
+      "Modular Board",
+      "Pick-up and Deliver",
+      "Race",
+      "Roll / Spin and Move",
+      "Tile Placement",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "3-5",
+    "bgg_id": 105593,
+    "name": "Cheating Moth",
+    "year_published": 2011,
+    "rating": 6.0,
+    "num_plays": 1,
+    "players": "3-5",
+    "complexity": 1.162,
+    "bgg_rating": 6.40597,
+    "num_ratings": 6496,
+    "categories": [
+      "Action / Dexterity",
+      "Card Game"
+    ],
+    "mechanics": "Hand Management"
+  },
+  {
+    "group_key": "3-6",
+    "bgg_id": 37111,
+    "name": "Battlestar Galactica: The Board Game",
+    "year_published": 2008,
+    "rating": 10.0,
+    "num_plays": 1,
+    "players": "3-6",
+    "complexity": 3.2513,
+    "bgg_rating": 7.73105,
+    "num_ratings": 37629,
+    "categories": [
+      "Bluffing",
+      "Deduction",
+      "Movies / TV / Radio theme",
+      "Negotiation",
+      "Political",
+      "Science Fiction",
+      "Space Exploration",
+      "Spies / Secret Agents"
+    ],
+    "mechanics": [
+      "Area Movement",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hand Management",
+      "Hidden Roles",
+      "Once-Per-Game Abilities",
+      "Role Playing",
+      "Semi-Cooperative Game",
+      "Team-Based Game",
+      "Traitor Game",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Voting"
+    ]
+  },
+  {
+    "group_key": "3-6",
+    "bgg_id": 160968,
+    "name": "Homeland: The Game",
+    "year_published": 2015,
+    "rating": 6.0,
+    "num_plays": 1,
+    "players": "3-6",
+    "complexity": 2.6531,
+    "bgg_rating": 6.49403,
+    "num_ratings": 1157,
+    "categories": [
+      "Deduction",
+      "Movies / TV / Radio theme",
+      "Spies / Secret Agents"
+    ],
+    "mechanics": [
+      "Memory",
+      "Secret Unit Deployment",
+      "Semi-Cooperative Game",
+      "Traitor Game",
+      "Voting"
+    ]
+  },
+  {
+    "group_key": "3-6",
+    "bgg_id": 123096,
+    "name": "Space Cadets",
+    "year_published": 2012,
+    "rating": 8.0,
+    "num_plays": 1,
+    "players": "3-6",
+    "complexity": 2.7471,
+    "bgg_rating": 6.54793,
+    "num_ratings": 3439,
+    "categories": [
+      "Action / Dexterity",
+      "Puzzle",
+      "Real-time",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Flicking",
+      "Grid Movement",
+      "Memory",
+      "Modular Board",
+      "Pattern Building",
+      "Pattern Recognition",
+      "Programmed Movement",
+      "Push Your Luck",
+      "Re-rolling and Locking",
+      "Real-Time",
+      "Scenario / Mission / Campaign Game",
+      "Set Collection",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "3-6",
+    "bgg_id": 340466,
+    "name": "Unfathomable",
+    "year_published": 2021,
+    "rating": 9.0,
+    "num_plays": 1,
+    "players": "3-6",
+    "complexity": 3.1244,
+    "bgg_rating": 7.46459,
+    "num_ratings": 7227,
+    "categories": [
+      "Bluffing",
+      "Deduction",
+      "Fantasy",
+      "Horror",
+      "Novel-based"
+    ],
+    "mechanics": [
+      "Area Movement",
+      "Hand Management",
+      "Hidden Roles",
+      "Team-Based Game",
+      "Traitor Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "3-7",
+    "bgg_id": 12942,
+    "name": "No Thanks!",
+    "year_published": 2004,
+    "rating": 6.0,
+    "num_plays": 7,
+    "players": "3-7",
+    "complexity": 1.1299,
+    "bgg_rating": 7.08036,
+    "num_ratings": 30585,
+    "categories": "Card Game",
+    "mechanics": [
+      "Auction / Bidding",
+      "Closed Economy Auction",
+      "Push Your Luck",
+      "Score-and-Reset Game",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "3-8",
+    "bgg_id": 143741,
+    "name": "BANG! The Dice Game",
+    "year_published": 2013,
+    "rating": 6.0,
+    "num_plays": 5,
+    "players": "3-8",
+    "complexity": 1.2789,
+    "bgg_rating": 6.8764,
+    "num_ratings": 26392,
+    "categories": [
+      "American West",
+      "Bluffing",
+      "Deduction",
+      "Dice",
+      "Fighting",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Hidden Roles",
+      "Player Elimination",
+      "Push Your Luck",
+      "Re-rolling and Locking",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "3-8",
+    "bgg_id": 194626,
+    "name": "Happy Salmon",
+    "year_published": 2016,
+    "rating": 4.0,
+    "num_plays": 1,
+    "players": "3-8",
+    "complexity": 1.0584,
+    "bgg_rating": 6.64714,
+    "num_ratings": 6956,
+    "categories": [
+      "Animals",
+      "Children's Game",
+      "Party Game",
+      "Real-time"
+    ],
+    "mechanics": "Real-Time"
+  },
+  {
+    "group_key": "4-8",
+    "bgg_id": 142079,
+    "name": "Space Cadets: Dice Duel",
+    "year_published": 2013,
+    "rating": 8.0,
+    "num_plays": 3,
+    "players": "4-8",
+    "complexity": 2.0874,
+    "bgg_rating": 6.73444,
+    "num_ratings": 3101,
+    "categories": [
+      "Dice",
+      "Fighting",
+      "Party Game",
+      "Real-time",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Action Queue",
+      "Dice Rolling",
+      "Grid Movement",
+      "Real-Time",
+      "Team-Based Game"
+    ]
+  },
+  {
+    "group_key": "4-8",
+    "bgg_id": 253786,
+    "name": "Don't Mess with Cthulhu Deluxe",
+    "year_published": 2018,
     "rating": 0.0,
-    "num_plays": 1
+    "num_plays": 1,
+    "players": "4-8",
+    "complexity": 1.2353,
+    "bgg_rating": 7.33806,
+    "num_ratings": 877,
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Deduction",
+      "Horror",
+      "Negotiation",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Team-Based Game",
+      "Traitor Game"
+    ]
+  },
+  {
+    "group_key": "4-9",
+    "bgg_id": 202426,
+    "name": "Sidereal Confluence",
+    "year_published": 2017,
+    "rating": 9.0,
+    "num_plays": 3,
+    "players": "4-9",
+    "complexity": 3.5671,
+    "bgg_rating": 7.76025,
+    "num_ratings": 6208,
+    "categories": [
+      "Economic",
+      "Negotiation",
+      "Real-time",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Auction: Sealed Bid",
+      "Hidden Victory Points",
+      "Income",
+      "Negotiation",
+      "Real-Time",
+      "Simultaneous Action Selection",
+      "Tech Trees / Tech Tracks",
+      "Trading",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "5-10",
+    "bgg_id": 41114,
+    "name": "The Resistance",
+    "year_published": 2009,
+    "rating": 6.0,
+    "num_plays": 1,
+    "players": "5-10",
+    "complexity": 1.5908,
+    "bgg_rating": 7.19032,
+    "num_ratings": 42662,
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Deduction",
+      "Negotiation",
+      "Party Game",
+      "Print & Play",
+      "Science Fiction",
+      "Spies / Secret Agents"
+    ],
+    "mechanics": [
+      "Hidden Roles",
+      "Memory",
+      "Roles with Asymmetric Information",
+      "Simultaneous Action Selection",
+      "Team-Based Game",
+      "Traitor Game",
+      "Voting"
+    ]
   }
 ]

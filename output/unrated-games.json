@@ -1,0 +1,379 @@
+[
+  {
+    "group_key": "1-4",
+    "bgg_id": 230244,
+    "name": "Black Angel",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 3.87,
+    "bgg_rating": 7.18317,
+    "categories": [
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Bias",
+      "Dice Rolling",
+      "Hand Management",
+      "Map Addition",
+      "Map Reduction",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Variable Set-up",
+      "Worker Placement with Dice Workers"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 230251,
+    "name": "Mint Delivery",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "1-5",
+    "complexity": 1.6316,
+    "bgg_rating": 6.1537,
+    "categories": [
+      "Economic",
+      "Industry / Manufacturing"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Contracts",
+      "Increase Value of Unchosen Resources",
+      "Pick-up and Deliver",
+      "Point to Point Movement"
+    ]
+  },
+  {
+    "group_key": "4-8",
+    "bgg_id": 253786,
+    "name": "Don't Mess with Cthulhu Deluxe",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "4-8",
+    "complexity": 1.2353,
+    "bgg_rating": 7.33806,
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Deduction",
+      "Horror",
+      "Negotiation",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Team-Based Game",
+      "Traitor Game"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 284653,
+    "name": "Mind MGMT: The Psychic Espionage “Game.”",
+    "current_rating": 0.0,
+    "num_plays": 2,
+    "players": "1-5",
+    "complexity": 2.9097,
+    "bgg_rating": 7.78229,
+    "categories": [
+      "Comic Book / Strip",
+      "Deduction",
+      "Spies / Secret Agents"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Deduction",
+      "Grid Movement",
+      "Hidden Movement",
+      "Paper-and-Pencil",
+      "Point to Point Movement",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 298231,
+    "name": "Skyrise",
+    "current_rating": 0.0,
+    "num_plays": 3,
+    "players": "2-4",
+    "complexity": 2.2447,
+    "bgg_rating": 7.67036,
+    "categories": "Territory Building",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Auction / Bidding",
+      "Constrained Bidding",
+      "End Game Bonuses",
+      "Modular Board",
+      "Set Collection",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 304510,
+    "name": "Pampero",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 3.94,
+    "bgg_rating": 7.46082,
+    "categories": [
+      "Card Game",
+      "Economic",
+      "Environmental"
+    ],
+    "mechanics": [
+      "Action Retrieval",
+      "End Game Bonuses",
+      "Hand Management",
+      "Income",
+      "Loans",
+      "Neighbor Scope",
+      "Point to Point Movement",
+      "Set Collection",
+      "Turn Order: Stat-Based"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 324856,
+    "name": "The Crew: Mission Deep Sea",
+    "current_rating": 0.0,
+    "num_plays": 3,
+    "players": "2-5",
+    "complexity": 2.0502,
+    "bgg_rating": 8.05009,
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Mythology",
+      "Nautical"
+    ],
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Deduction",
+      "Hand Management",
+      "Scenario / Mission / Campaign Game",
+      "Trick-taking"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 347305,
+    "name": "Inventions: Evolution of Ideas",
+    "current_rating": 0.0,
+    "num_plays": 5,
+    "players": "1-4",
+    "complexity": 4.5902,
+    "bgg_rating": 7.92105,
+    "categories": [
+      "Civilization",
+      "Industry / Manufacturing"
+    ],
+    "mechanics": [
+      "Point to Point Movement",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 358661,
+    "name": "Andromeda's Edge",
+    "current_rating": 0.0,
+    "num_plays": 3,
+    "players": "2-4",
+    "complexity": 3.745,
+    "bgg_rating": 8.25263,
+    "categories": [
+      "Fighting",
+      "Science Fiction",
+      "Space Exploration",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Events",
+      "Hand Management",
+      "Hexagon Grid",
+      "Tech Trees / Tech Tracks",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 368173,
+    "name": "Let's Go! To Japan",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 2.25,
+    "bgg_rating": 7.5811,
+    "categories": [
+      "Card Game",
+      "Transportation",
+      "Travel"
+    ],
+    "mechanics": [
+      "Closed Drafting",
+      "Contracts",
+      "End Game Bonuses",
+      "Hand Management",
+      "Melding and Splaying",
+      "Multi-Use Cards",
+      "Set Collection",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Storytelling",
+      "Tags"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 373600,
+    "name": "Cthulhu: Death May Die – Fear of the Unknown",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "1-5",
+    "complexity": 2.6977,
+    "bgg_rating": 8.71982,
+    "categories": [
+      "Fantasy",
+      "Fighting",
+      "Horror",
+      "Miniatures",
+      "Novel-based"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 375459,
+    "name": "Speakeasy",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 4.4119,
+    "bgg_rating": 8.45963,
+    "categories": [
+      "Economic",
+      "Industry / Manufacturing",
+      "Mafia",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Hand Management",
+      "Pick-up and Deliver",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 381715,
+    "name": "Teotihuacan: City of Gods – Deluxe Master Set",
+    "current_rating": 0.0,
+    "num_plays": 2,
+    "players": "1-4",
+    "complexity": 3.9062,
+    "bgg_rating": 8.40683,
+    "categories": "Ancient",
+    "mechanics": [
+      "Area Movement",
+      "Rondel",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Track Movement",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Worker Placement with Dice Workers"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 408253,
+    "name": "Tiny Epic Cthulhu: Deluxe Edition",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 3,
+    "bgg_rating": 7.31833,
+    "categories": [
+      "Horror",
+      "Mythology",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Matching",
+      "Multi-Use Cards",
+      "Push Your Luck",
+      "Roll / Spin and Move",
+      "Set Collection",
+      "Solo / Solitaire Game"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 417197,
+    "name": "Rebirth",
+    "current_rating": 0.0,
+    "num_plays": 3,
+    "players": "2-4",
+    "complexity": 1.9781,
+    "bgg_rating": 7.75732,
+    "categories": [
+      "Environmental",
+      "Fantasy",
+      "Farming",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Contracts",
+      "End Game Bonuses",
+      "Hexagon Grid",
+      "Tile Placement"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 425630,
+    "name": "Baghdad: The City of Peace",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 3.3571,
+    "bgg_rating": 7.63686,
+    "categories": [
+      "Arabian",
+      "City Building",
+      "Medieval"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Rondel",
+      "Solo / Solitaire Game",
+      "Worker Placement"
+    ]
+  }
+]
