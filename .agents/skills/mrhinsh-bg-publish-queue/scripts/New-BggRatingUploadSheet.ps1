@@ -1,7 +1,7 @@
 [CmdletBinding()]
 param(
-    [string]$InputPath = '.\output\unrated-ranked-by-plays.json',
-    [string]$OutPath = '.\output\bgg-rating-upload-sheet.csv'
+    [string]$InputPath = '.\data\working\unrated\intake-ranked.json',
+    [string]$OutPath = '.\data\publish\sheets\bgg-rating-upload-sheet.csv'
 )
 
 Set-StrictMode -Version Latest
@@ -9,6 +9,11 @@ $ErrorActionPreference = 'Stop'
 
 if (-not (Test-Path $InputPath)) {
     throw "Input file not found: $InputPath"
+}
+
+$outDir = Split-Path -Path $OutPath -Parent
+if ($outDir -and -not (Test-Path $outDir)) {
+    New-Item -ItemType Directory -Path $outDir | Out-Null
 }
 
 $items = @(Get-Content -Path $InputPath -Raw | ConvertFrom-Json)

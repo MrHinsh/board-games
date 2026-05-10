@@ -1,8 +1,8 @@
 [CmdletBinding()]
 param(
-    [string]$SheetPath = '.\output\bgg-rating-upload-sheet.csv',
-    [string]$UnratedPath = '.\output\unrated-ranked-by-plays.json',
-    [string]$PlayedPath = '.\output\played-games.json'
+    [string]$SheetPath = '.\data\publish\sheets\bgg-rating-upload-sheet.csv',
+    [string]$UnratedPath = '.\data\working\unrated\intake-ranked.json',
+    [string]$PlayedPath = '.\data\working\canonical\games.json'
 )
 
 Set-StrictMode -Version Latest

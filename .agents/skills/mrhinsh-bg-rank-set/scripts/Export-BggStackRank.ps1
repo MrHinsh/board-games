@@ -1,7 +1,9 @@
 [CmdletBinding()]
 param(
-    [string]$InputPath = '.\output\played-games.json',
-    [string]$OutDir = '.\output',
+    [string]$InputPath = '.\data\working\canonical\games.json',
+    [string]$OutDir = '.\data\reports\ranking',
+    [string]$UnratedPath = '.\data\working\unrated\intake.json',
+    [string]$UnratedRankedPath = '.\data\working\unrated\intake-ranked.json',
     [string]$GroupField = 'group_key'
 )
 
@@ -114,13 +116,25 @@ $ranked = foreach ($ratingBucket in ($rated | Group-Object { [int][math]::Floor(
     }
 }
 
-$jsonPath = Join-Path $OutDir 'stackranked-games.json'
-$csvPath = Join-Path $OutDir 'stackranked-games.csv'
-$unratedJsonPath = Join-Path $OutDir 'unrated-games.json'
-$unratedCsvPath = Join-Path $OutDir 'unrated-games.csv'
+$jsonPath = Join-Path $OutDir 'stackranked.json'
+$csvPath = Join-Path $OutDir 'stackranked.csv'
+$unratedJsonPath = $UnratedPath
+$unratedCsvPath = Join-Path $OutDir 'unrated.csv'
+
+$unratedDir = Split-Path -Path $UnratedPath -Parent
+if ($unratedDir -and -not (Test-Path $unratedDir)) {
+    New-Item -ItemType Directory -Path $unratedDir | Out-Null
+}
+
+$unratedRankedDir = Split-Path -Path $UnratedRankedPath -Parent
+if ($unratedRankedDir -and -not (Test-Path $unratedRankedDir)) {
+    New-Item -ItemType Directory -Path $unratedRankedDir | Out-Null
+}
 
 $ranked | ConvertTo-Json -Depth 10 | Set-Content -Path $jsonPath -Encoding UTF8
 $ranked | Export-Csv -Path $csvPath -NoTypeInformation -Encoding UTF8
+
+$unratedExport = @()
 
 $unrated | Select-Object @{ Name = 'group_key'; Expression = { Get-FieldValue -Item $_ -FieldName $GroupField -DefaultValue 'all' } },
                           @{ Name = 'bgg_id'; Expression = { Get-FieldValue -Item $_ -FieldName 'bgg_id' -DefaultValue 0 } },
@@ -137,6 +151,11 @@ $unrated | Select-Object @{ Name = 'group_key'; Expression = { Get-FieldValue -I
 
 $unratedExport | Export-Csv -Path $unratedCsvPath -NoTypeInformation -Encoding UTF8
 
+$unratedExport |
+    Sort-Object @{ Expression = { [int](Get-FieldValue -Item $_ -FieldName 'num_plays' -DefaultValue 0) }; Descending = $true },
+                @{ Expression = { Get-FieldValue -Item $_ -FieldName 'name' -DefaultValue '' } } |
+    ConvertTo-Json -Depth 10 | Set-Content -Path $UnratedRankedPath -Encoding UTF8
+
 $ranked
 
 [pscustomobject]@{
@@ -146,4 +165,5 @@ $ranked
     Csv = $csvPath
     UnratedJson = $unratedJsonPath
     UnratedCsv = $unratedCsvPath
+    UnratedRankedJson = $UnratedRankedPath
 }

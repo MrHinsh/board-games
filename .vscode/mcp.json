@@ -14,8 +14,7 @@
         "kdaniel/bgg-mcp"
       ],
       "env": {
-        "BGG_USERNAME": "MrHinsh",
-        "BGG_API_KEY": ""
+        "BGG_USERNAME": "MrHinsh"
       }
     }
   }
