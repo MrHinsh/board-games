@@ -1,8 +1,7 @@
 [CmdletBinding()]
-[Diagnostics.CodeAnalysis.SuppressMessageAttribute('PSAvoidUsingPlainTextForPassword', '', Justification = 'BGG login API requires plaintext password in JSON body; input is collected as PSCredential.')]
 param(
     [Parameter(Mandatory = $true)]
-    [pscredential]$Credential,
+    [string]$Username,
 
     [Parameter(Mandatory = $true)]
     [int]$GameId,
@@ -11,14 +10,64 @@ param(
     [ValidateRange(0, 10)]
     [decimal]$Rating,
 
-    [string]$Endpoint = 'https://boardgamegeek.com'
+    [string]$Endpoint = 'https://boardgamegeek.com',
+    [string]$Cookie,
+    [string]$SessionFile = '.\.local\secrets\bgg-session.json'
 )
 
 Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
 
-$effectiveUsername = $Credential.UserName
-$passwordText = $Credential.GetNetworkCredential().Password
+function Resolve-BggCookie {
+    param(
+        [string]$Cookie,
+        [string]$SessionFile
+    )
+
+    if ($Cookie) {
+        return $Cookie.Trim()
+    }
+
+    if (Test-Path $SessionFile) {
+        $cached = Get-Content -Path $SessionFile -Raw | ConvertFrom-Json
+        if ($cached.cookie) {
+            return ([string]$cached.cookie).Trim()
+        }
+    }
+
+    if ($env:BGG_COOKIE) {
+        return ([string]$env:BGG_COOKIE).Trim()
+    }
+
+    throw "No BGG cookie found. Run .\\Login-Bgg.ps1 first to populate $SessionFile."
+}
+
+function Resolve-BggUsername {
+    param(
+        [string]$Username,
+        [string]$SessionFile
+    )
+
+    if ($Username) {
+        return $Username
+    }
+
+    if (Test-Path $SessionFile) {
+        $cached = Get-Content -Path $SessionFile -Raw | ConvertFrom-Json
+        if ($cached.username) {
+            return [string]$cached.username
+        }
+    }
+
+    if ($env:BGG_USERNAME) {
+        return [string]$env:BGG_USERNAME
+    }
+
+    throw 'No BGG username found. Provide -Username or run .\\Login-Bgg.ps1 first.'
+}
+
+$cookieString = Resolve-BggCookie -Cookie $Cookie -SessionFile $SessionFile
+$effectiveUsername = Resolve-BggUsername -Username $Username -SessionFile $SessionFile
 
 function Get-BggCollectionItem {
     param(
@@ -27,14 +76,16 @@ function Get-BggCollectionItem {
         [Parameter(Mandatory = $true)]
         [int]$GameId,
         [Parameter(Mandatory = $true)]
-        [string]$Endpoint
+        [string]$Endpoint,
+        [Parameter(Mandatory = $true)]
+        [hashtable]$Headers
     )
 
     $uri = "$Endpoint/xmlapi2/collection?username=$([uri]::EscapeDataString($Username))&id=$GameId&stats=1"
 
     $timeout = 1
     for ($attempt = 0; $attempt -lt 6; $attempt++) {
-        $response = Invoke-WebRequest -Uri $uri -Method Get
+        $response = Invoke-WebRequest -Uri $uri -Method Get -Headers $Headers
         if ($response.StatusCode -eq 202) {
             Start-Sleep -Seconds $timeout
             $timeout = [Math]::Min($timeout * 2, 16)
@@ -58,7 +109,9 @@ function Get-BggCollectionItem {
     throw 'BGG collection lookup timed out while waiting for prepared data.'
 }
 
-$collectionItem = Get-BggCollectionItem -Username $effectiveUsername -GameId $GameId -Endpoint $Endpoint
+$baseHeaders = @{ Cookie = $cookieString }
+
+$collectionItem = Get-BggCollectionItem -Username $effectiveUsername -GameId $GameId -Endpoint $Endpoint -Headers $baseHeaders
 if ($null -eq $collectionItem) {
     throw "Game $GameId is not present in $effectiveUsername's BGG collection. Add it to collection first, then set a rating."
 }
@@ -76,23 +129,10 @@ if ($collectionItem.stats -and $collectionItem.stats.rating -and $collectionItem
     }
 }
 
-$session = New-Object Microsoft.PowerShell.Commands.WebRequestSession
-$loginHeaders = @{ 'content-type' = 'application/json' }
-$loginPayload = @{
-    credentials = @{
-        username = $effectiveUsername
-        password = $passwordText
-    }
+$formHeaders = @{
+    'content-type' = 'application/x-www-form-urlencoded'
+    Cookie = $cookieString
 }
-
-$null = Invoke-WebRequest `
-    -Uri "$Endpoint/login/api/v1" `
-    -Method Post `
-    -WebSession $session `
-    -Headers $loginHeaders `
-    -Body ($loginPayload | ConvertTo-Json -Depth 5 -Compress)
-
-$formHeaders = @{ 'content-type' = 'application/x-www-form-urlencoded' }
 $ratingText = $Rating.ToString('0.###', [System.Globalization.CultureInfo]::InvariantCulture)
 $form = @{
     fieldname = 'rating'
@@ -107,7 +147,6 @@ $form = @{
 $response = Invoke-WebRequest `
     -Uri "$Endpoint/geekcollection.php" `
     -Method Post `
-    -WebSession $session `
     -Headers $formHeaders `
     -Body $form
 
@@ -115,7 +154,7 @@ if ($response.StatusCode -ne 200) {
     throw "BGG rating update failed with HTTP $($response.StatusCode)."
 }
 
-$updatedItem = Get-BggCollectionItem -Username $effectiveUsername -GameId $GameId -Endpoint $Endpoint
+$updatedItem = Get-BggCollectionItem -Username $effectiveUsername -GameId $GameId -Endpoint $Endpoint -Headers $baseHeaders
 $afterRating = $null
 if ($updatedItem -and $updatedItem.stats -and $updatedItem.stats.rating -and $updatedItem.stats.rating.value) {
     $value = [string]$updatedItem.stats.rating.value

@@ -1,9 +1,6 @@
 [CmdletBinding()]
 param(
     [Parameter(Mandatory = $true)]
-    [pscredential]$Credential,
-
-    [Parameter(Mandatory = $true)]
     [int]$GameId,
 
     [ValidatePattern('^\d{4}-\d{2}-\d{2}$')]
@@ -18,31 +15,44 @@ param(
     [string]$Location = '',
     [string]$Comments = '',
 
-    [string]$Endpoint = 'https://boardgamegeek.com'
+    [string]$Endpoint = 'https://boardgamegeek.com',
+    [string]$Cookie,
+    [string]$SessionFile = '.\.local\secrets\bgg-session.json'
 )
 
 Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
 
-$username = $Credential.UserName
-$passwordText = $Credential.GetNetworkCredential().Password
+function Resolve-BggCookie {
+    param(
+        [string]$Cookie,
+        [string]$SessionFile
+    )
 
-$session = New-Object Microsoft.PowerShell.Commands.WebRequestSession
-$headers = @{ 'content-type' = 'application/json' }
-
-$loginPayload = @{
-    credentials = @{
-        username = $username
-        password = $passwordText
+    if ($Cookie) {
+        return $Cookie.Trim()
     }
+
+    if (Test-Path $SessionFile) {
+        $cached = Get-Content -Path $SessionFile -Raw | ConvertFrom-Json
+        if ($cached.cookie) {
+            return ([string]$cached.cookie).Trim()
+        }
+    }
+
+    if ($env:BGG_COOKIE) {
+        return ([string]$env:BGG_COOKIE).Trim()
+    }
+
+    throw "No BGG cookie found. Run .\\Login-Bgg.ps1 first to populate $SessionFile."
 }
 
-$null = Invoke-WebRequest `
-    -Uri "$Endpoint/login/api/v1" `
-    -Method Post `
-    -WebSession $session `
-    -Headers $headers `
-    -Body ($loginPayload | ConvertTo-Json -Depth 5 -Compress)
+$cookieString = Resolve-BggCookie -Cookie $Cookie -SessionFile $SessionFile
+
+$headers = @{
+    'content-type' = 'application/json'
+    Cookie = $cookieString
+}
 
 $playPayload = @{
     ajax = 1
@@ -66,7 +76,6 @@ if (-not [string]::IsNullOrWhiteSpace($Comments)) {
 $response = Invoke-WebRequest `
     -Uri "$Endpoint/geekplay.php" `
     -Method Post `
-    -WebSession $session `
     -Headers $headers `
     -Body ($playPayload | ConvertTo-Json -Depth 10 -Compress)
 

@@ -31,7 +31,7 @@ if ($ApiKey) {
     $dockerArgs += @('-e', "BGG_API_KEY=$ApiKey")
 }
 if ($Cookie) {
-    $dockerArgs += @('-e', "BGG_COOKIE=$Cookie")
+    Write-Warning 'Cookie parameter is ignored. MCP authentication should be configured via API key/environment only.'
 }
 if ($Username) {
     $dockerArgs += @('-e', "BGG_USERNAME=$Username")

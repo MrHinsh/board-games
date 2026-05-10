@@ -1,1 +1,16 @@
-{}
+{
+  "run_at": "2026-05-10T16:20:34.9922487+01:00",
+  "raw_snapshot": ".\\data\\raw\\bgg\\collection\\2026-05-10T162034Z.json",
+  "total_from_snapshot": 1,
+  "total_in_canonical": 257,
+  "added": 1,
+  "updated": 0,
+  "unchanged": 0,
+  "new_games": [
+    {
+      "bgg_id": 0,
+      "name": ""
+    }
+  ],
+  "updated_games": []
+}

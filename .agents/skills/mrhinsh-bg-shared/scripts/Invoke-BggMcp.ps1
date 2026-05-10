@@ -63,8 +63,9 @@ function Invoke-BggMcpTool {
     if ($ApiKey) {
         $queryPairs.Add('BGG_API_KEY=' + [System.Uri]::EscapeDataString($ApiKey))
     }
+
     if ($Cookie) {
-        $queryPairs.Add('BGG_COOKIE=' + [System.Uri]::EscapeDataString($Cookie))
+        Write-Verbose 'Cookie parameter is ignored for MCP calls. Configure authentication in the MCP server environment.'
     }
 
     if ($queryPairs.Count -gt 0) {

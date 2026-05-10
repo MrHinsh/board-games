@@ -80,7 +80,12 @@ foreach ($batch in ($ids | ForEach-Object -Begin { $buf = [System.Collections.Ge
     $details = @(Invoke-BggMcpTool -ToolName 'bgg-details' -Arguments @{ ids = $batch } `
         -Endpoint $Endpoint -Username $Username -ApiKey $ApiKey -Cookie $Cookie)
     foreach ($d in $details) {
-        if ($null -ne $d -and $null -ne $d.id) { $detailMap[[int]$d.id] = $d }
+        if ($null -eq $d) { continue }
+
+        $idProp = $d.PSObject.Properties['id']
+        if ($null -eq $idProp -or $null -eq $idProp.Value -or $idProp.Value -eq '') { continue }
+
+        $detailMap[[int]$idProp.Value] = $d
     }
 }
 
