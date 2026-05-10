@@ -1,0 +1,6 @@
+# Local secrets/cache — never commit credentials
+.local/
+
+# Build artifacts
+tools/bgg-mcp/build/
+tools/bgg-mcp/bgg-mcp.exe
