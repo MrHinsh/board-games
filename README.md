@@ -133,17 +133,9 @@ Generate top report:
 
 ## Rating System
 
-### Meaning of ratings
-
-- 10: all-time essential
-- 9: exceptional
-- 8: strong keeper
-- 7: good, happy to play
-- 6: okay, situational
-- 1-5: weak fit for your collection
-- 0: unrated (intake)
-
 ### Tier mapping used in discussion
+
+Rating intent: 10 highest preference, 6 acceptable, 1-5 low preference, 0 unrated.
 
 - S tier: 10
 - A tier: 9
