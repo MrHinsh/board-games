@@ -28,6 +28,7 @@ This document defines how this repository rates games and converts tier plus ran
 - D tier -> 6
 - F tier -> 1..5
 - U tier -> 0 (unrated)
+- X tier -> exit collection marker, excluded from ranked conversion
 
 Notes:
 - U is not converted to ranked decimal score; it stays 0.
@@ -35,7 +36,7 @@ Notes:
 
 ## Variables
 
-- t: tier label in {S, A, B, C, D, F, U}
+- t: tier label in {S, A, B, C, D, F, U, X}
 - b: integer source bucket in 1..10
 - r: rank in tier bucket (1-based, 1 is best)
 - n: number of games in that same tier bucket
@@ -50,6 +51,9 @@ For F:
 
 For U:
 - no conversion, keep rating 0
+
+For X:
+- no conversion, keep current canonical rating unchanged
 
 ## Conversion Formula
 
@@ -90,6 +94,7 @@ Example C (S-tier singleton):
 - n must be >= 1
 - r must satisfy 1 <= r <= n
 - tier U cannot be converted
+- tier X cannot be converted
 - tier F requires explicit source bucket b in 1..5
 
 ## Source Of Truth

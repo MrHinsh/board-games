@@ -1066,6 +1066,84 @@
     "bgg_game_url": "https://boardgamegeek.com/boardgame/173346"
   },
   {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 59,
+    "bgg_id": 321608,
+    "name": "Hegemony: Lead Your Class to Victory",
+    "current_rating": 7.761,
+    "num_plays": 3,
+    "players": "2-4",
+    "complexity": 4.255,
+    "bgg_rating": 8.37442,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/321608"
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 60,
+    "bgg_id": 233868,
+    "name": "HATE",
+    "current_rating": 7.44,
+    "num_plays": 1,
+    "players": "2-6",
+    "complexity": 2.4878,
+    "bgg_rating": 7.65561,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/233868"
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 61,
+    "bgg_id": 172047,
+    "name": "The Others",
+    "current_rating": 7.309,
+    "num_plays": 1,
+    "players": "2-5",
+    "complexity": 3.0565,
+    "bgg_rating": 7.28173,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/172047"
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 62,
+    "bgg_id": 295293,
+    "name": "The Thing: The Boardgame",
+    "current_rating": 7.285,
+    "num_plays": 1,
+    "players": "1-8",
+    "complexity": 2.9576,
+    "bgg_rating": 7.61878,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/295293"
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 63,
+    "bgg_id": 257089,
+    "name": "Big Trouble in Little China: The Game – Deluxe Edition",
+    "current_rating": 7.119,
+    "num_plays": 4,
+    "players": "1-6",
+    "complexity": 3,
+    "bgg_rating": 7.73951,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/257089"
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 64,
+    "bgg_id": 408253,
+    "name": "Tiny Epic Cthulhu: Deluxe Edition",
+    "current_rating": 7.274,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 3,
+    "bgg_rating": 7.31833,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/408253"
+  },
+  {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 1,
@@ -1225,19 +1303,6 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 13,
-    "bgg_id": 194594,
-    "name": "Dice Forge",
-    "current_rating": 8.032,
-    "num_plays": 3,
-    "players": "2-4",
-    "complexity": 1.9724,
-    "bgg_rating": 7.21274,
-    "bgg_game_url": "https://boardgamegeek.com/boardgame/194594"
-  },
-  {
-    "tier": "B",
-    "source_bucket": 8,
-    "rank_in_tier": 14,
     "bgg_id": 163412,
     "name": "Patchwork",
     "current_rating": 7.928,
@@ -1250,7 +1315,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 15,
+    "rank_in_tier": 14,
     "bgg_id": 133848,
     "name": "Euphoria: Build a Better Dystopia",
     "current_rating": 7.916,
@@ -1263,7 +1328,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 16,
+    "rank_in_tier": 15,
     "bgg_id": 221194,
     "name": "Dinosaur Island",
     "current_rating": 7.904,
@@ -1276,7 +1341,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 17,
+    "rank_in_tier": 16,
     "bgg_id": 361545,
     "name": "Twilight Inscription",
     "current_rating": 7.892,
@@ -1289,7 +1354,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 18,
+    "rank_in_tier": 17,
     "bgg_id": 242574,
     "name": "Century: Eastern Wonders",
     "current_rating": 7.88,
@@ -1302,7 +1367,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 19,
+    "rank_in_tier": 18,
     "bgg_id": 289566,
     "name": "Hunted: Kobayashi Tower",
     "current_rating": 7.868,
@@ -1315,7 +1380,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 20,
+    "rank_in_tier": 19,
     "bgg_id": 299178,
     "name": "Small Railroad Empires",
     "current_rating": 7.856,
@@ -1328,7 +1393,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 21,
+    "rank_in_tier": 20,
     "bgg_id": 163967,
     "name": "Tiny Epic Galaxies",
     "current_rating": 7.844,
@@ -1341,20 +1406,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 22,
-    "bgg_id": 269210,
-    "name": "Twice as Clever!",
-    "current_rating": 7.832,
-    "num_plays": 4,
-    "players": "1-4",
-    "complexity": 2.2718,
-    "bgg_rating": 7.41377,
-    "bgg_game_url": "https://boardgamegeek.com/boardgame/269210"
-  },
-  {
-    "tier": "B",
-    "source_bucket": 8,
-    "rank_in_tier": 23,
+    "rank_in_tier": 21,
     "bgg_id": 366495,
     "name": "Undaunted: Battle of Britain",
     "current_rating": 7.821,
@@ -1367,7 +1419,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 24,
+    "rank_in_tier": 22,
     "bgg_id": 248490,
     "name": "Atlantis Rising (Second Edition)",
     "current_rating": 7.809,
@@ -1380,7 +1432,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 25,
+    "rank_in_tier": 23,
     "bgg_id": 264052,
     "name": "Circadians: First Light",
     "current_rating": 7.797,
@@ -1393,7 +1445,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 26,
+    "rank_in_tier": 24,
     "bgg_id": 183571,
     "name": "Deep Space D-6",
     "current_rating": 7.785,
@@ -1406,7 +1458,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 27,
+    "rank_in_tier": 25,
     "bgg_id": 317859,
     "name": "Forests of Pangaia",
     "current_rating": 7.773,
@@ -1419,33 +1471,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 28,
-    "bgg_id": 321608,
-    "name": "Hegemony: Lead Your Class to Victory",
-    "current_rating": 7.761,
-    "num_plays": 3,
-    "players": "2-4",
-    "complexity": 4.255,
-    "bgg_rating": 8.37442,
-    "bgg_game_url": "https://boardgamegeek.com/boardgame/321608"
-  },
-  {
-    "tier": "B",
-    "source_bucket": 8,
-    "rank_in_tier": 29,
-    "bgg_id": 200077,
-    "name": "Mint Works",
-    "current_rating": 7.749,
-    "num_plays": 3,
-    "players": "1-4",
-    "complexity": 1.7308,
-    "bgg_rating": 6.88551,
-    "bgg_game_url": "https://boardgamegeek.com/boardgame/200077"
-  },
-  {
-    "tier": "B",
-    "source_bucket": 8,
-    "rank_in_tier": 30,
+    "rank_in_tier": 26,
     "bgg_id": 242684,
     "name": "Reavers of Midgard",
     "current_rating": 7.737,
@@ -1458,7 +1484,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 31,
+    "rank_in_tier": 27,
     "bgg_id": 307002,
     "name": "Regicide",
     "current_rating": 7.725,
@@ -1471,7 +1497,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 32,
+    "rank_in_tier": 28,
     "bgg_id": 298231,
     "name": "Skyrise",
     "current_rating": 7.714,
@@ -1484,7 +1510,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 33,
+    "rank_in_tier": 29,
     "bgg_id": 284616,
     "name": "Small Samurai Empires",
     "current_rating": 7.702,
@@ -1497,7 +1523,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 34,
+    "rank_in_tier": 30,
     "bgg_id": 142079,
     "name": "Space Cadets: Dice Duel",
     "current_rating": 7.69,
@@ -1510,7 +1536,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 35,
+    "rank_in_tier": 31,
     "bgg_id": 324856,
     "name": "The Crew: Mission Deep Sea",
     "current_rating": 7.678,
@@ -1523,7 +1549,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 36,
+    "rank_in_tier": 32,
     "bgg_id": 274364,
     "name": "Watergate",
     "current_rating": 7.666,
@@ -1536,7 +1562,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 37,
+    "rank_in_tier": 33,
     "bgg_id": 231581,
     "name": "AuZtralia",
     "current_rating": 7.654,
@@ -1549,7 +1575,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 38,
+    "rank_in_tier": 34,
     "bgg_id": 356768,
     "name": "Bloc by Bloc: Uprising",
     "current_rating": 7.642,
@@ -1562,7 +1588,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 39,
+    "rank_in_tier": 35,
     "bgg_id": 317457,
     "name": "Dinosaur World",
     "current_rating": 7.63,
@@ -1575,7 +1601,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 40,
+    "rank_in_tier": 36,
     "bgg_id": 316554,
     "name": "Dune: Imperium",
     "current_rating": 7.618,
@@ -1588,7 +1614,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 41,
+    "rank_in_tier": 37,
     "bgg_id": 315727,
     "name": "Last Light",
     "current_rating": 7.607,
@@ -1601,20 +1627,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 42,
-    "bgg_id": 146652,
-    "name": "Legendary Encounters: An Alien Deck Building Game",
-    "current_rating": 7.595,
-    "num_plays": 2,
-    "players": "1-5",
-    "complexity": 2.7067,
-    "bgg_rating": 7.7529,
-    "bgg_game_url": "https://boardgamegeek.com/boardgame/146652"
-  },
-  {
-    "tier": "B",
-    "source_bucket": 8,
-    "rank_in_tier": 43,
+    "rank_in_tier": 38,
     "bgg_id": 340865,
     "name": "Lords of Ragnarok",
     "current_rating": 7.583,
@@ -1627,7 +1640,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 44,
+    "rank_in_tier": 39,
     "bgg_id": 306881,
     "name": "Railroad Ink Challenge: Lush Green Edition",
     "current_rating": 7.571,
@@ -1640,20 +1653,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 45,
-    "bgg_id": 177639,
-    "name": "Raptor",
-    "current_rating": 7.559,
-    "num_plays": 2,
-    "players": "2",
-    "complexity": 2.0761,
-    "bgg_rating": 7.21071,
-    "bgg_game_url": "https://boardgamegeek.com/boardgame/177639"
-  },
-  {
-    "tier": "B",
-    "source_bucket": 8,
-    "rank_in_tier": 46,
+    "rank_in_tier": 40,
     "bgg_id": 347117,
     "name": "Star Trek: Missions",
     "current_rating": 7.547,
@@ -1666,7 +1666,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 47,
+    "rank_in_tier": 41,
     "bgg_id": 145976,
     "name": "Talon",
     "current_rating": 7.535,
@@ -1679,7 +1679,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 48,
+    "rank_in_tier": 42,
     "bgg_id": 291508,
     "name": "Tiny Epic Dinosaurs",
     "current_rating": 7.523,
@@ -1692,7 +1692,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 49,
+    "rank_in_tier": 43,
     "bgg_id": 268864,
     "name": "Undaunted: Normandy",
     "current_rating": 7.511,
@@ -1705,7 +1705,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 50,
+    "rank_in_tier": 44,
     "bgg_id": 230244,
     "name": "Black Angel",
     "current_rating": 7.5,
@@ -1718,20 +1718,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 51,
-    "bgg_id": 283095,
-    "name": "Cosmic Colonies",
-    "current_rating": 7.488,
-    "num_plays": 1,
-    "players": "1-5",
-    "complexity": 2.0625,
-    "bgg_rating": 6.90399,
-    "bgg_game_url": "https://boardgamegeek.com/boardgame/283095"
-  },
-  {
-    "tier": "B",
-    "source_bucket": 8,
-    "rank_in_tier": 52,
+    "rank_in_tier": 45,
     "bgg_id": 318009,
     "name": "Dinosaur Island: Rawr 'n Write",
     "current_rating": 7.476,
@@ -1744,7 +1731,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 53,
+    "rank_in_tier": 46,
     "bgg_id": 283355,
     "name": "Dune",
     "current_rating": 7.464,
@@ -1757,7 +1744,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 54,
+    "rank_in_tier": 47,
     "bgg_id": 252752,
     "name": "Genotype: A Mendelian Genetics Game",
     "current_rating": 7.452,
@@ -1770,20 +1757,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 55,
-    "bgg_id": 233868,
-    "name": "HATE",
-    "current_rating": 7.44,
-    "num_plays": 1,
-    "players": "2-6",
-    "complexity": 2.4878,
-    "bgg_rating": 7.65561,
-    "bgg_game_url": "https://boardgamegeek.com/boardgame/233868"
-  },
-  {
-    "tier": "B",
-    "source_bucket": 8,
-    "rank_in_tier": 56,
+    "rank_in_tier": 48,
     "bgg_id": 318184,
     "name": "Imperium: Classics",
     "current_rating": 7.428,
@@ -1796,7 +1770,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 57,
+    "rank_in_tier": 49,
     "bgg_id": 368173,
     "name": "Let's Go! To Japan",
     "current_rating": 7.416,
@@ -1809,7 +1783,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 58,
+    "rank_in_tier": 50,
     "bgg_id": 59959,
     "name": "Letters from Whitechapel",
     "current_rating": 7.404,
@@ -1822,7 +1796,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 59,
+    "rank_in_tier": 51,
     "bgg_id": 358386,
     "name": "Moon",
     "current_rating": 7.392,
@@ -1835,7 +1809,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 60,
+    "rank_in_tier": 52,
     "bgg_id": 325941,
     "name": "Nemo's War: The Ultimate Edition",
     "current_rating": 7.381,
@@ -1848,7 +1822,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 61,
+    "rank_in_tier": 53,
     "bgg_id": 331979,
     "name": "Quartermaster General WW2: 2nd Edition",
     "current_rating": 7.369,
@@ -1861,7 +1835,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 62,
+    "rank_in_tier": 54,
     "bgg_id": 255984,
     "name": "Sleeping Gods",
     "current_rating": 7.357,
@@ -1874,7 +1848,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 63,
+    "rank_in_tier": 55,
     "bgg_id": 123096,
     "name": "Space Cadets",
     "current_rating": 7.345,
@@ -1887,7 +1861,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 64,
+    "rank_in_tier": 56,
     "bgg_id": 345542,
     "name": "Stellar Expedition",
     "current_rating": 7.333,
@@ -1900,7 +1874,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 65,
+    "rank_in_tier": 57,
     "bgg_id": 292375,
     "name": "The Great Wall",
     "current_rating": 7.321,
@@ -1913,20 +1887,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 66,
-    "bgg_id": 172047,
-    "name": "The Others",
-    "current_rating": 7.309,
-    "num_plays": 1,
-    "players": "2-5",
-    "complexity": 3.0565,
-    "bgg_rating": 7.28173,
-    "bgg_game_url": "https://boardgamegeek.com/boardgame/172047"
-  },
-  {
-    "tier": "B",
-    "source_bucket": 8,
-    "rank_in_tier": 67,
+    "rank_in_tier": 58,
     "bgg_id": 279537,
     "name": "The Search for Planet X",
     "current_rating": 7.297,
@@ -1939,33 +1900,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 68,
-    "bgg_id": 295293,
-    "name": "The Thing: The Boardgame",
-    "current_rating": 7.285,
-    "num_plays": 1,
-    "players": "1-8",
-    "complexity": 2.9576,
-    "bgg_rating": 7.61878,
-    "bgg_game_url": "https://boardgamegeek.com/boardgame/295293"
-  },
-  {
-    "tier": "B",
-    "source_bucket": 8,
-    "rank_in_tier": 69,
-    "bgg_id": 408253,
-    "name": "Tiny Epic Cthulhu: Deluxe Edition",
-    "current_rating": 7.274,
-    "num_plays": 1,
-    "players": "1-4",
-    "complexity": 3,
-    "bgg_rating": 7.31833,
-    "bgg_game_url": "https://boardgamegeek.com/boardgame/408253"
-  },
-  {
-    "tier": "B",
-    "source_bucket": 8,
-    "rank_in_tier": 70,
+    "rank_in_tier": 59,
     "bgg_id": 285826,
     "name": "Ultra Tiny Epic Galaxies",
     "current_rating": 7.262,
@@ -1978,7 +1913,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 71,
+    "rank_in_tier": 60,
     "bgg_id": 306735,
     "name": "Under Falling Skies",
     "current_rating": 7.25,
@@ -1991,7 +1926,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 72,
+    "rank_in_tier": 61,
     "bgg_id": 233867,
     "name": "Welcome To...",
     "current_rating": 7.238,
@@ -2004,7 +1939,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 73,
+    "rank_in_tier": 62,
     "bgg_id": 48726,
     "name": "Alien Frontiers",
     "current_rating": 7.226,
@@ -2017,20 +1952,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 74,
-    "bgg_id": 147020,
-    "name": "Star Realms",
-    "current_rating": 7.214,
-    "num_plays": 1,
-    "players": "2",
-    "complexity": 1.9145,
-    "bgg_rating": 7.55116,
-    "bgg_game_url": "https://boardgamegeek.com/boardgame/147020"
-  },
-  {
-    "tier": "B",
-    "source_bucket": 8,
-    "rank_in_tier": 75,
+    "rank_in_tier": 63,
     "bgg_id": 205597,
     "name": "Jump Drive",
     "current_rating": 7.202,
@@ -2043,7 +1965,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 76,
+    "rank_in_tier": 64,
     "bgg_id": 822,
     "name": "Carcassonne",
     "current_rating": 7.19,
@@ -2056,7 +1978,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 77,
+    "rank_in_tier": 65,
     "bgg_id": 270673,
     "name": "Silver & Gold",
     "current_rating": 7.178,
@@ -2069,7 +1991,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 78,
+    "rank_in_tier": 66,
     "bgg_id": 123260,
     "name": "Suburbia",
     "current_rating": 7.166,
@@ -2082,7 +2004,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 79,
+    "rank_in_tier": 67,
     "bgg_id": 100423,
     "name": "Elder Sign",
     "current_rating": 7.155,
@@ -2095,7 +2017,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 80,
+    "rank_in_tier": 68,
     "bgg_id": 140934,
     "name": "Arboretum",
     "current_rating": 7.143,
@@ -2108,33 +2030,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 81,
-    "bgg_id": 260300,
-    "name": "Dungeon Mayhem",
-    "current_rating": 7.131,
-    "num_plays": 5,
-    "players": "2-4",
-    "complexity": 1.1518,
-    "bgg_rating": 6.86018,
-    "bgg_game_url": "https://boardgamegeek.com/boardgame/260300"
-  },
-  {
-    "tier": "B",
-    "source_bucket": 8,
-    "rank_in_tier": 82,
-    "bgg_id": 257089,
-    "name": "Big Trouble in Little China: The Game – Deluxe Edition",
-    "current_rating": 7.119,
-    "num_plays": 4,
-    "players": "1-6",
-    "complexity": 3,
-    "bgg_rating": 7.73951,
-    "bgg_game_url": "https://boardgamegeek.com/boardgame/257089"
-  },
-  {
-    "tier": "B",
-    "source_bucket": 8,
-    "rank_in_tier": 83,
+    "rank_in_tier": 69,
     "bgg_id": 171273,
     "name": "FUSE",
     "current_rating": 7.107,
@@ -2147,20 +2043,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 84,
-    "bgg_id": 30549,
-    "name": "Pandemic",
-    "current_rating": 7.095,
-    "num_plays": 2,
-    "players": "2-4",
-    "complexity": 2.3941,
-    "bgg_rating": 7.51354,
-    "bgg_game_url": "https://boardgamegeek.com/boardgame/30549"
-  },
-  {
-    "tier": "B",
-    "source_bucket": 8,
-    "rank_in_tier": 85,
+    "rank_in_tier": 70,
     "bgg_id": 110277,
     "name": "Among the Stars",
     "current_rating": 7.083,
@@ -2173,7 +2056,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 86,
+    "rank_in_tier": 71,
     "bgg_id": 139976,
     "name": "Cthulhu Wars",
     "current_rating": 7.071,
@@ -2186,7 +2069,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 87,
+    "rank_in_tier": 72,
     "bgg_id": 343900,
     "name": "Senjutsu: Battle For Japan",
     "current_rating": 7.059,
@@ -2199,7 +2082,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 88,
+    "rank_in_tier": 73,
     "bgg_id": 255674,
     "name": "Imhotep: The Duel",
     "current_rating": 7.048,
@@ -2212,7 +2095,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 89,
+    "rank_in_tier": 74,
     "bgg_id": 209685,
     "name": "Century: Spice Road",
     "current_rating": 7.036,
@@ -2225,7 +2108,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 90,
+    "rank_in_tier": 75,
     "bgg_id": 232524,
     "name": "Welcome to Dino World",
     "current_rating": 7.024,
@@ -2238,20 +2121,7 @@
   {
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 91,
-    "bgg_id": 62871,
-    "name": "Zombie Dice",
-    "current_rating": 7.012,
-    "num_plays": 1,
-    "players": "2-99",
-    "complexity": 1.0923,
-    "bgg_rating": 6.22983,
-    "bgg_game_url": "https://boardgamegeek.com/boardgame/62871"
-  },
-  {
-    "tier": "B",
-    "source_bucket": 8,
-    "rank_in_tier": 92,
+    "rank_in_tier": 76,
     "bgg_id": 4396,
     "name": "Odin's Ravens",
     "current_rating": 7.0,
@@ -2265,6 +2135,136 @@
     "tier": "C",
     "source_bucket": 7,
     "rank_in_tier": 1,
+    "bgg_id": 194594,
+    "name": "Dice Forge",
+    "current_rating": 8.032,
+    "num_plays": 3,
+    "players": "2-4",
+    "complexity": 1.9724,
+    "bgg_rating": 7.21274,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/194594"
+  },
+  {
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 2,
+    "bgg_id": 269210,
+    "name": "Twice as Clever!",
+    "current_rating": 7.832,
+    "num_plays": 4,
+    "players": "1-4",
+    "complexity": 2.2718,
+    "bgg_rating": 7.41377,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/269210"
+  },
+  {
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 3,
+    "bgg_id": 200077,
+    "name": "Mint Works",
+    "current_rating": 7.749,
+    "num_plays": 3,
+    "players": "1-4",
+    "complexity": 1.7308,
+    "bgg_rating": 6.88551,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/200077"
+  },
+  {
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 4,
+    "bgg_id": 146652,
+    "name": "Legendary Encounters: An Alien Deck Building Game",
+    "current_rating": 7.595,
+    "num_plays": 2,
+    "players": "1-5",
+    "complexity": 2.7067,
+    "bgg_rating": 7.7529,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/146652"
+  },
+  {
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 5,
+    "bgg_id": 177639,
+    "name": "Raptor",
+    "current_rating": 7.559,
+    "num_plays": 2,
+    "players": "2",
+    "complexity": 2.0761,
+    "bgg_rating": 7.21071,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/177639"
+  },
+  {
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 6,
+    "bgg_id": 283095,
+    "name": "Cosmic Colonies",
+    "current_rating": 7.488,
+    "num_plays": 1,
+    "players": "1-5",
+    "complexity": 2.0625,
+    "bgg_rating": 6.90399,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/283095"
+  },
+  {
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 7,
+    "bgg_id": 147020,
+    "name": "Star Realms",
+    "current_rating": 7.214,
+    "num_plays": 1,
+    "players": "2",
+    "complexity": 1.9145,
+    "bgg_rating": 7.55116,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/147020"
+  },
+  {
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 8,
+    "bgg_id": 260300,
+    "name": "Dungeon Mayhem",
+    "current_rating": 7.131,
+    "num_plays": 5,
+    "players": "2-4",
+    "complexity": 1.1518,
+    "bgg_rating": 6.86018,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/260300"
+  },
+  {
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 9,
+    "bgg_id": 30549,
+    "name": "Pandemic",
+    "current_rating": 7.095,
+    "num_plays": 2,
+    "players": "2-4",
+    "complexity": 2.3941,
+    "bgg_rating": 7.51354,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/30549"
+  },
+  {
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 10,
+    "bgg_id": 62871,
+    "name": "Zombie Dice",
+    "current_rating": 7.012,
+    "num_plays": 1,
+    "players": "2-99",
+    "complexity": 1.0923,
+    "bgg_rating": 6.22983,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/62871"
+  },
+  {
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 11,
     "bgg_id": 432,
     "name": "Take 5",
     "current_rating": 6.999,
@@ -2277,7 +2277,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 2,
+    "rank_in_tier": 12,
     "bgg_id": 230802,
     "name": "Azul",
     "current_rating": 6.981,
@@ -2290,7 +2290,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 3,
+    "rank_in_tier": 13,
     "bgg_id": 270314,
     "name": "Ohanami",
     "current_rating": 6.963,
@@ -2303,7 +2303,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 4,
+    "rank_in_tier": 14,
     "bgg_id": 178044,
     "name": "Small Star Empires",
     "current_rating": 6.945,
@@ -2316,7 +2316,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 5,
+    "rank_in_tier": 15,
     "bgg_id": 133473,
     "name": "Sushi Go!",
     "current_rating": 6.926,
@@ -2329,7 +2329,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 6,
+    "rank_in_tier": 16,
     "bgg_id": 50,
     "name": "Lost Cities",
     "current_rating": 6.908,
@@ -2342,7 +2342,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 7,
+    "rank_in_tier": 17,
     "bgg_id": 181304,
     "name": "Mysterium",
     "current_rating": 6.89,
@@ -2355,7 +2355,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 8,
+    "rank_in_tier": 18,
     "bgg_id": 353470,
     "name": "Star Wars: Jabba's Palace – A Love Letter Game",
     "current_rating": 6.872,
@@ -2368,7 +2368,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 9,
+    "rank_in_tier": 19,
     "bgg_id": 131357,
     "name": "Coup",
     "current_rating": 6.854,
@@ -2381,7 +2381,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 10,
+    "rank_in_tier": 20,
     "bgg_id": 329151,
     "name": "Draconic Dice",
     "current_rating": 6.836,
@@ -2394,7 +2394,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 11,
+    "rank_in_tier": 21,
     "bgg_id": 264241,
     "name": "Mandala",
     "current_rating": 6.817,
@@ -2407,7 +2407,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 12,
+    "rank_in_tier": 22,
     "bgg_id": 274960,
     "name": "Point Salad",
     "current_rating": 6.799,
@@ -2420,7 +2420,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 13,
+    "rank_in_tier": 23,
     "bgg_id": 129622,
     "name": "Love Letter",
     "current_rating": 6.781,
@@ -2433,7 +2433,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 14,
+    "rank_in_tier": 24,
     "bgg_id": 313841,
     "name": "Lunar Base",
     "current_rating": 6.763,
@@ -2446,7 +2446,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 15,
+    "rank_in_tier": 25,
     "bgg_id": 284083,
     "name": "The Crew: The Quest for Planet Nine",
     "current_rating": 6.745,
@@ -2459,7 +2459,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 16,
+    "rank_in_tier": 26,
     "bgg_id": 300442,
     "name": "Trekking the World",
     "current_rating": 6.727,
@@ -2472,7 +2472,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 17,
+    "rank_in_tier": 27,
     "bgg_id": 247367,
     "name": "Air, Land, & Sea",
     "current_rating": 6.708,
@@ -2485,7 +2485,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 18,
+    "rank_in_tier": 28,
     "bgg_id": 284653,
     "name": "Mind MGMT: The Psychic Espionage “Game.”",
     "current_rating": 6.69,
@@ -2498,7 +2498,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 19,
+    "rank_in_tier": 29,
     "bgg_id": 159473,
     "name": "Quartermaster General",
     "current_rating": 6.672,
@@ -2511,7 +2511,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 20,
+    "rank_in_tier": 30,
     "bgg_id": 232043,
     "name": "Queendomino",
     "current_rating": 6.654,
@@ -2524,7 +2524,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 21,
+    "rank_in_tier": 31,
     "bgg_id": 274037,
     "name": "Solar Storm",
     "current_rating": 6.636,
@@ -2537,7 +2537,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 22,
+    "rank_in_tier": 32,
     "bgg_id": 279720,
     "name": "Streets",
     "current_rating": 6.618,
@@ -2550,7 +2550,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 23,
+    "rank_in_tier": 33,
     "bgg_id": 290359,
     "name": "Undaunted: North Africa",
     "current_rating": 6.599,
@@ -2563,7 +2563,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 24,
+    "rank_in_tier": 34,
     "bgg_id": 256852,
     "name": "Aliens: Another Glorious Day in the Corps",
     "current_rating": 6.581,
@@ -2576,7 +2576,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 25,
+    "rank_in_tier": 35,
     "bgg_id": 347521,
     "name": "Blitzkrieg!: World War Two in 20 Minutes (Second Edition)",
     "current_rating": 6.563,
@@ -2589,7 +2589,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 26,
+    "rank_in_tier": 36,
     "bgg_id": 170223,
     "name": "Centauri Saga",
     "current_rating": 6.545,
@@ -2602,7 +2602,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 27,
+    "rank_in_tier": 37,
     "bgg_id": 344839,
     "name": "Dog Lover",
     "current_rating": 6.527,
@@ -2615,7 +2615,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 28,
+    "rank_in_tier": 38,
     "bgg_id": 253786,
     "name": "Don't Mess with Cthulhu Deluxe",
     "current_rating": 6.509,
@@ -2628,7 +2628,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 29,
+    "rank_in_tier": 39,
     "bgg_id": 65244,
     "name": "Forbidden Island",
     "current_rating": 6.49,
@@ -2641,7 +2641,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 30,
+    "rank_in_tier": 40,
     "bgg_id": 31481,
     "name": "Galaxy Trucker",
     "current_rating": 6.472,
@@ -2654,7 +2654,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 31,
+    "rank_in_tier": 41,
     "bgg_id": 278120,
     "name": "God of War: The Card Game",
     "current_rating": 6.454,
@@ -2667,7 +2667,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 32,
+    "rank_in_tier": 42,
     "bgg_id": 158600,
     "name": "Hanamikoji",
     "current_rating": 6.436,
@@ -2680,7 +2680,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 33,
+    "rank_in_tier": 43,
     "bgg_id": 195314,
     "name": "Herbaceous",
     "current_rating": 6.418,
@@ -2693,7 +2693,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 34,
+    "rank_in_tier": 44,
     "bgg_id": 8203,
     "name": "Hey, That's My Fish!",
     "current_rating": 6.4,
@@ -2706,7 +2706,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 35,
+    "rank_in_tier": 45,
     "bgg_id": 369258,
     "name": "Isle of Skye: Big Box",
     "current_rating": 6.381,
@@ -2719,7 +2719,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 36,
+    "rank_in_tier": 46,
     "bgg_id": 272738,
     "name": "Jaws",
     "current_rating": 6.363,
@@ -2732,7 +2732,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 37,
+    "rank_in_tier": 47,
     "bgg_id": 297562,
     "name": "Kemet: Blood and Sand",
     "current_rating": 6.345,
@@ -2745,7 +2745,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 38,
+    "rank_in_tier": 48,
     "bgg_id": 379629,
     "name": "Knarr",
     "current_rating": 6.327,
@@ -2758,7 +2758,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 39,
+    "rank_in_tier": 49,
     "bgg_id": 264141,
     "name": "Kodachi",
     "current_rating": 6.309,
@@ -2771,7 +2771,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 40,
+    "rank_in_tier": 50,
     "bgg_id": 267401,
     "name": "Lawyer Up",
     "current_rating": 6.291,
@@ -2784,7 +2784,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 41,
+    "rank_in_tier": 51,
     "bgg_id": 192638,
     "name": "Multiuniversum",
     "current_rating": 6.272,
@@ -2797,7 +2797,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 42,
+    "rank_in_tier": 52,
     "bgg_id": 194879,
     "name": "Not Alone",
     "current_rating": 6.254,
@@ -2810,7 +2810,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 43,
+    "rank_in_tier": 53,
     "bgg_id": 256713,
     "name": "One Deck Galaxy",
     "current_rating": 6.236,
@@ -2823,7 +2823,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 44,
+    "rank_in_tier": 54,
     "bgg_id": 192153,
     "name": "Reign of Cthulhu",
     "current_rating": 6.218,
@@ -2836,7 +2836,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 45,
+    "rank_in_tier": 55,
     "bgg_id": 38453,
     "name": "Space Alert",
     "current_rating": 6.2,
@@ -2849,7 +2849,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 46,
+    "rank_in_tier": 56,
     "bgg_id": 182631,
     "name": "Star Realms: Colony Wars",
     "current_rating": 6.182,
@@ -2862,7 +2862,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 47,
+    "rank_in_tier": 57,
     "bgg_id": 296108,
     "name": "Terraforming Mars: The Dice Game",
     "current_rating": 6.163,
@@ -2875,7 +2875,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 48,
+    "rank_in_tier": 58,
     "bgg_id": 253284,
     "name": "Ticket to Ride: New York",
     "current_rating": 6.145,
@@ -2888,7 +2888,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 49,
+    "rank_in_tier": 59,
     "bgg_id": 241724,
     "name": "Villagers",
     "current_rating": 6.127,
@@ -2901,7 +2901,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 50,
+    "rank_in_tier": 60,
     "bgg_id": 362944,
     "name": "War of the Ring: The Card Game",
     "current_rating": 6.109,
@@ -2914,7 +2914,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 51,
+    "rank_in_tier": 61,
     "bgg_id": 223779,
     "name": "Pocket Mars",
     "current_rating": 6.091,
@@ -2927,7 +2927,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 52,
+    "rank_in_tier": 62,
     "bgg_id": 220700,
     "name": "Cobra Paw",
     "current_rating": 6.073,
@@ -2940,7 +2940,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 53,
+    "rank_in_tier": 63,
     "bgg_id": 156009,
     "name": "Port Royal",
     "current_rating": 6.054,
@@ -2953,7 +2953,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 54,
+    "rank_in_tier": 64,
     "bgg_id": 14996,
     "name": "Ticket to Ride: Europe",
     "current_rating": 6.036,
@@ -2966,7 +2966,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 55,
+    "rank_in_tier": 65,
     "bgg_id": 179275,
     "name": "One Deck Dungeon",
     "current_rating": 6.018,
@@ -2979,7 +2979,7 @@
   {
     "tier": "C",
     "source_bucket": 7,
-    "rank_in_tier": 56,
+    "rank_in_tier": 66,
     "bgg_id": 147299,
     "name": "Pocket Imperium",
     "current_rating": 6.0,

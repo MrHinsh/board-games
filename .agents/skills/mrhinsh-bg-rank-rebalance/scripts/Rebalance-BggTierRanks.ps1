@@ -59,7 +59,7 @@ if ($ImportPath) {
 }
 
 $rankOrder = [System.Collections.Generic.List[object]]::new()
-foreach ($group in ($membership | Where-Object { $_.tier -ne 'U' } | Group-Object ranking_group)) {
+foreach ($group in ($membership | Where-Object { -not (Test-IsNonRankedTier -Tier ([string]$_.tier)) } | Group-Object ranking_group)) {
     $ordered = @($group.Group | Sort-Object @{ Expression = {
                     if ($importedById.ContainsKey([int]$_.bgg_id)) { $importedById[[int]$_.bgg_id] }
                     elseif ($null -eq $_.rank_in_tier -or $_.rank_in_tier -eq '') { [int]::MaxValue }
@@ -96,8 +96,8 @@ foreach ($group in ($membership | Where-Object { $_.tier -ne 'U' } | Group-Objec
     }
 }
 
-$unrated = @($membership | Where-Object { $_.tier -eq 'U' })
-foreach ($item in $unrated) {
+$nonRanked = @($membership | Where-Object { Test-IsNonRankedTier -Tier ([string]$_.tier) })
+foreach ($item in $nonRanked) {
     if ($item.PSObject.Properties['rank_in_tier']) {
         $item.rank_in_tier = $null
     } else {
@@ -105,9 +105,9 @@ foreach ($item in $unrated) {
     }
 
     if ($item.PSObject.Properties['proposed_rating']) {
-        $item.proposed_rating = 0.0
+        $item.proposed_rating = if ([string]$item.tier -eq 'U') { 0.0 } else { [double]$item.current_rating }
     } else {
-        $item | Add-Member -NotePropertyName proposed_rating -NotePropertyValue 0.0
+        $item | Add-Member -NotePropertyName proposed_rating -NotePropertyValue (if ([string]$item.tier -eq 'U') { 0.0 } else { [double]$item.current_rating })
     }
 }
 
@@ -138,7 +138,7 @@ if (-not $QueueOnly) {
         }
     }
 
-    foreach ($item in $unrated) {
+    foreach ($item in ($nonRanked | Where-Object { $_.tier -eq 'U' })) {
         $id = [int]$item.bgg_id
         if ($canonicalById.ContainsKey($id)) {
             $canonicalById[$id].rating = 0.0

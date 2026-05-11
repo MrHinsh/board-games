@@ -39,7 +39,16 @@ function Write-JsonFile {
 }
 
 function Get-TierOrder {
-    return @('S', 'A', 'B', 'C', 'D', 'F', 'U')
+    return @('S', 'A', 'B', 'C', 'D', 'F', 'U', 'X')
+}
+
+function Test-IsNonRankedTier {
+    param(
+        [Parameter(Mandatory = $true)]
+        [string]$Tier
+    )
+
+    return $Tier -in @('U', 'X')
 }
 
 function Get-TierSortWeight {
@@ -84,6 +93,10 @@ function Get-TierRankingGroupKey {
 
     if ($Tier -eq 'F') {
         return 'F'
+    }
+
+    if ($Tier -eq 'X') {
+        return 'X'
     }
 
     return "$Tier|$SourceBucket"
@@ -133,6 +146,10 @@ function Convert-TierRankToBggRating {
 
     if ($Tier -eq 'U') {
         return 0.0
+    }
+
+    if ($Tier -eq 'X') {
+        throw 'Tier X is an exit tier and is excluded from rating conversion.'
     }
 
     if ($TierCount -lt 1) {

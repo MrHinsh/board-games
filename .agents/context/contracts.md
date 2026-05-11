@@ -117,7 +117,7 @@ Type:
 
 Required fields:
 
-- `tier`: string in `{S,A,B,C,D,F,U}`
+- `tier`: string in `{S,A,B,C,D,F,U,X}`
 - `tier_sort`: integer
 - `source_bucket`: integer
 - `bgg_id`: integer
@@ -141,6 +141,7 @@ Optional fields:
 Rules:
 
 - Tier `U` indicates unrated entries.
+- Tier `X` indicates exit candidates and is excluded from ranked scoring.
 - `source_bucket` is explicit for F tier and preserved even when tier is F.
 - `rank_in_tier` is 1-based within each `(tier, source_bucket)` group.
 
@@ -190,7 +191,7 @@ Required fields:
 
 Rules:
 
-- Contains only ranked entries, non-U tiers.
+- Contains only ranked entries, non-`U` and non-`X` tiers.
 - `proposed_rating` is the final decimal score used for canonical update and publish queue.
 
 ## Reconcile Report Contract

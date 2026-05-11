@@ -231,6 +231,7 @@ Rating intent: 10 highest preference, 6 acceptable, 1-5 low preference, 0 unrate
 - D tier: 6
 - F tier: 1-5
 - U tier: 0
+- X tier: exit collection marker, excluded from rebalance
 
 ### Stack rank behavior
 

@@ -12,15 +12,17 @@ Primary tier mapping:
 - D -> 6
 - F -> merged single tier spanning 1.000..4.999
 - U -> 0 (unrated)
+- X -> exit collection marker, excluded from ranked scoring
 
 Interpretation:
 - U is excluded from ranked scoring.
+- X is excluded from ranked scoring and preserves its existing canonical rating.
 - F is one logical ranking group even if items originated from integer ratings 1..5.
 - Source bucket may be retained as provenance, but F rebalance ignores it for grouping.
 
 ## Variables
 
-- t: tier label in {S, A, B, C, D, F, U}
+- t: tier label in {S, A, B, C, D, F, U, X}
 - b: source integer bucket in 1..10
 - r: rank in tier bucket, 1-based (1 is best)
 - n: total items in that same tier bucket
@@ -35,6 +37,9 @@ For F:
 
 For U:
 - no bucket conversion; keep rating 0.
+
+For X:
+- no bucket conversion; keep current canonical rating unchanged.
 
 ## Target Band Base
 
@@ -113,4 +118,5 @@ Example 5: merged F tier, rank 10 of 10
 - Reject n < 1.
 - Reject r < 1 or r > n.
 - Reject tier U for conversion; U remains 0.
+- Reject tier X for conversion; X remains an operational exit marker.
 - F no longer requires grouping by source bucket.

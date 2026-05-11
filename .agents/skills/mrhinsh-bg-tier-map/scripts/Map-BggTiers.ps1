@@ -29,9 +29,15 @@ $membership = foreach ($game in ($canonical | Sort-Object @{ Expression = { [dou
     $gameId = [int]$game.bgg_id
     $currentRating = [double]$game.rating
     $existing = $existingById[$gameId]
+    $existingTier = if ($null -ne $existing -and $existing.PSObject.Properties['tier']) { [string]$existing.tier } else { '' }
     $existingBucket = if ($null -ne $existing -and $existing.PSObject.Properties['source_bucket']) { [int]$existing.source_bucket } else { -1 }
-    $sourceBucket = Get-InitialBucketFromRating -Rating $currentRating -ExistingBucket $existingBucket
-    $tier = Get-TierLabelFromBucket -Bucket $sourceBucket
+    if ($existingTier -eq 'X') {
+        $tier = 'X'
+        $sourceBucket = if ($existingBucket -ge 0) { $existingBucket } else { 0 }
+    } else {
+        $sourceBucket = Get-InitialBucketFromRating -Rating $currentRating -ExistingBucket $existingBucket
+        $tier = Get-TierLabelFromBucket -Bucket $sourceBucket
+    }
 
     if (-not $IncludeUnrated -and $tier -eq 'U') {
         continue
@@ -39,7 +45,7 @@ $membership = foreach ($game in ($canonical | Sort-Object @{ Expression = { [dou
 
     $rankInTier = $null
     $rankingGroup = Get-TierRankingGroupKey -Tier $tier -SourceBucket $sourceBucket
-    if (-not $ForceRebuildRanks -and $null -ne $existing -and $existing.PSObject.Properties['rank_in_tier']) {
+    if (-not (Test-IsNonRankedTier -Tier $tier) -and -not $ForceRebuildRanks -and $null -ne $existing -and $existing.PSObject.Properties['rank_in_tier']) {
         $existingGroup = if ($existing.PSObject.Properties['ranking_group']) { [string]$existing.ranking_group } else { '' }
         if ($existingGroup -eq $rankingGroup) {
             $rankInTier = $existing.rank_in_tier
@@ -78,7 +84,9 @@ $rankedMembership = foreach ($group in ($membership | Group-Object ranking_group
     $index = 0
     foreach ($item in $ordered) {
         $index++
-        if ($ForceRebuildRanks -or $null -eq $item.rank_in_tier -or $item.rank_in_tier -eq '') {
+        if (Test-IsNonRankedTier -Tier ([string]$item.tier)) {
+            $item.rank_in_tier = $null
+        } elseif ($ForceRebuildRanks -or $null -eq $item.rank_in_tier -or $item.rank_in_tier -eq '') {
             $item.rank_in_tier = $index
         }
         $item

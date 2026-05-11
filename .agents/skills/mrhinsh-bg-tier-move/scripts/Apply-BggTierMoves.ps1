@@ -4,7 +4,7 @@ param(
     [string]$QueuePath = '.\data\publish\queue\pending-tier-moves.json',
     [string]$ImportPath,
     [int]$GameId,
-    [ValidateSet('S', 'A', 'B', 'C', 'D', 'F', 'U')]
+    [ValidateSet('S', 'A', 'B', 'C', 'D', 'F', 'U', 'X')]
     [string]$Tier,
     [int]$SourceBucket = -1,
     [string]$Notes = ''
@@ -29,6 +29,7 @@ function Resolve-SourceBucket {
         'C' { return 7 }
         'D' { return 6 }
         'U' { return 0 }
+        'X' { return 0 }
         'F' {
             if ($SourceBucket -lt 1 -or $SourceBucket -gt 5) {
                 return 5
@@ -133,7 +134,9 @@ $rebuilt = foreach ($group in ($membershipById.Values | Group-Object ranking_gro
     $index = 0
     foreach ($item in $ordered) {
         $index++
-        if ($null -eq $item.rank_in_tier -or $item.rank_in_tier -eq '') {
+        if (Test-IsNonRankedTier -Tier ([string]$item.tier)) {
+            $item.rank_in_tier = $null
+        } elseif ($null -eq $item.rank_in_tier -or $item.rank_in_tier -eq '') {
             $item.rank_in_tier = $index
         }
         $item
