@@ -2,11 +2,11 @@
   {
     "tier": "S",
     "tier_sort": 0,
-    "count": 25,
+    "count": 24,
     "source_buckets": [
       {
         "bucket": 10,
-        "count": 25
+        "count": 24
       }
     ]
   },
@@ -24,22 +24,22 @@
   {
     "tier": "B",
     "tier_sort": 2,
-    "count": 85,
+    "count": 76,
     "source_buckets": [
       {
         "bucket": 8,
-        "count": 85
+        "count": 76
       }
     ]
   },
   {
     "tier": "C",
     "tier_sort": 3,
-    "count": 56,
+    "count": 66,
     "source_buckets": [
       {
         "bucket": 7,
-        "count": 56
+        "count": 66
       }
     ]
   },
@@ -66,6 +66,17 @@
       {
         "bucket": 4,
         "count": 1
+      }
+    ]
+  },
+  {
+    "tier": "U",
+    "tier_sort": 6,
+    "count": 116,
+    "source_buckets": [
+      {
+        "bucket": 0,
+        "count": 116
       }
     ]
   }

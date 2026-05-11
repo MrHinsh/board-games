@@ -1,0 +1,19 @@
+{
+  "bgg_id": 0,
+  "name": "",
+  "year_published": 0,
+  "rating": 0.0,
+  "num_plays": 0,
+  "collection": false,
+  "previously_owned": false,
+  "want_to_play": false,
+  "want_to_buy": false,
+  "collection_to_exit": false,
+  "collection_status": "NotOwned",
+  "players": null,
+  "complexity": null,
+  "bgg_rating": null,
+  "num_ratings": null,
+  "categories": null,
+  "mechanics": null
+}
