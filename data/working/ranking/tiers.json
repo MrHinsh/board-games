@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "tier": "S",
+    "tier_sort": 0,
+    "count": 25,
+    "source_buckets": [
+      {
+        "bucket": 10,
+        "count": 25
+      }
+    ]
+  },
+  {
+    "tier": "A",
+    "tier_sort": 1,
+    "count": 64,
+    "source_buckets": [
+      {
+        "bucket": 9,
+        "count": 64
+      }
+    ]
+  },
+  {
+    "tier": "B",
+    "tier_sort": 2,
+    "count": 85,
+    "source_buckets": [
+      {
+        "bucket": 8,
+        "count": 85
+      }
+    ]
+  },
+  {
+    "tier": "C",
+    "tier_sort": 3,
+    "count": 56,
+    "source_buckets": [
+      {
+        "bucket": 7,
+        "count": 56
+      }
+    ]
+  },
+  {
+    "tier": "D",
+    "tier_sort": 4,
+    "count": 20,
+    "source_buckets": [
+      {
+        "bucket": 6,
+        "count": 20
+      }
+    ]
+  },
+  {
+    "tier": "F",
+    "tier_sort": 5,
+    "count": 6,
+    "source_buckets": [
+      {
+        "bucket": 5,
+        "count": 5
+      },
+      {
+        "bucket": 4,
+        "count": 1
+      }
+    ]
+  }
+]

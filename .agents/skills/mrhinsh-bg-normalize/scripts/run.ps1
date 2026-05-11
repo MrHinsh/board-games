@@ -1,7 +1,16 @@
 [CmdletBinding()]
-param()
+param(
+	[string]$MembershipPath = '.\data\working\ranking\tier-membership.json',
+	[string]$TierExportDir = '.\data\publish\tiers',
+	[string]$RankingExportDir = '.\data\publish\ranking',
+	[string]$TierImportPath = '.\data\publish\tiers\tier-engine-import.csv',
+	[string]$RankingImportDir = '.\data\publish\ranking\import',
+	[string]$PendingTierMovesPath = '.\data\publish\queue\pending-tier-moves.json',
+	[string]$NormalizedRankingImportPath = '.\data\working\ranking\external-ordering.json'
+)
 
 Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
 
-throw 'This skill does not have an implemented run script yet. Add implementation to scripts/run.ps1.'
+$scriptPath = Join-Path $PSScriptRoot 'Normalize-BggExternalRankingData.ps1'
+& $scriptPath -MembershipPath $MembershipPath -TierExportDir $TierExportDir -RankingExportDir $RankingExportDir -TierImportPath $TierImportPath -RankingImportDir $RankingImportDir -PendingTierMovesPath $PendingTierMovesPath -NormalizedRankingImportPath $NormalizedRankingImportPath

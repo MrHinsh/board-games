@@ -1,27 +1,20 @@
 # mrhinsh-bg-tier-map
 
 Purpose:
-- TODO: describe this skill's responsibility.
+- Build first-class tier membership from canonical game ratings.
+- Export a tier-engine-friendly file for external tier tools.
 
 Inputs:
-- TODO: input file paths and required fields.
+- data/working/canonical/games.json
+- optional existing data/working/ranking/tier-membership.json
 
 Outputs:
-- TODO: output file paths and schema expectations.
-
-Preconditions:
-- TODO: dependencies, required files, or services.
-
-Postconditions:
-- TODO: what must be true after successful run.
-
-Idempotency:
-- TODO: describe safe re-run behavior.
-
-Failure Modes:
-- TODO: common failures and operator action.
+- data/working/ranking/tier-membership.json
+- data/working/ranking/tiers.json
+- data/publish/tiers/tier-engine-export.json
+- data/publish/tiers/tier-engine-export.csv
 
 Example:
 ```powershell
-# TODO: add a concrete example
+./.agents/skills/mrhinsh-bg-tier-map/scripts/run.ps1
 ```

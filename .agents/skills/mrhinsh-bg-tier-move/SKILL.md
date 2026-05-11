@@ -1,27 +1,19 @@
 # mrhinsh-bg-tier-move
 
 Purpose:
-- TODO: describe this skill's responsibility.
+- Apply tier moves imported from external tier tools or direct operator commands.
 
 Inputs:
-- TODO: input file paths and required fields.
+- data/working/ranking/tier-membership.json
+- optional data/publish/queue/pending-tier-moves.json
+- optional import CSV/JSON with bgg_id, tier, source_bucket
 
 Outputs:
-- TODO: output file paths and schema expectations.
+- updated data/working/ranking/tier-membership.json
+- cleared queue file after processing when queue mode is used
 
-Preconditions:
-- TODO: dependencies, required files, or services.
-
-Postconditions:
-- TODO: what must be true after successful run.
-
-Idempotency:
-- TODO: describe safe re-run behavior.
-
-Failure Modes:
-- TODO: common failures and operator action.
-
-Example:
+Examples:
 ```powershell
-# TODO: add a concrete example
+./.agents/skills/mrhinsh-bg-tier-move/scripts/run.ps1
+./.agents/skills/mrhinsh-bg-tier-move/scripts/run.ps1 -GameId 12345 -Tier A
 ```

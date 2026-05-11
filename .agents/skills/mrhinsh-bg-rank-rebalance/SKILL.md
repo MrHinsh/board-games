@@ -1,27 +1,20 @@
 # mrhinsh-bg-rank-rebalance
 
 Purpose:
-- TODO: describe this skill's responsibility.
+- Convert tier membership and rank-in-tier into final decimal BGG ratings.
+- Update canonical data and generate pending rating updates queue.
 
 Inputs:
-- TODO: input file paths and required fields.
+- data/working/ranking/tier-membership.json
+- optional data/working/ranking/external-ordering.json
 
 Outputs:
-- TODO: output file paths and schema expectations.
+- data/working/ranking/rank-order.json
+- data/publish/queue/pending-rating-updates.json
+- updated data/working/canonical/games.json
 
-Preconditions:
-- TODO: dependencies, required files, or services.
-
-Postconditions:
-- TODO: what must be true after successful run.
-
-Idempotency:
-- TODO: describe safe re-run behavior.
-
-Failure Modes:
-- TODO: common failures and operator action.
-
-Example:
+Examples:
 ```powershell
-# TODO: add a concrete example
+./.agents/skills/mrhinsh-bg-rank-rebalance/scripts/run.ps1
+./.agents/skills/mrhinsh-bg-rank-rebalance/scripts/run.ps1 -ImportPath .\data\working\ranking\external-ordering.json
 ```

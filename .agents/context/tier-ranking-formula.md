@@ -10,12 +10,13 @@ Primary tier mapping:
 - B -> 8
 - C -> 7
 - D -> 6
-- F -> 1..5
+- F -> merged single tier spanning 1.000..4.999
 - U -> 0 (unrated)
 
 Interpretation:
 - U is excluded from ranked scoring.
-- F spans multiple source buckets. When converting F, you must provide a source bucket in 1..5.
+- F is one logical ranking group even if items originated from integer ratings 1..5.
+- Source bucket may be retained as provenance, but F rebalance ignores it for grouping.
 
 ## Variables
 
@@ -30,7 +31,7 @@ For S/A/B/C/D:
 - b = {10, 9, 8, 7, 6} respectively
 
 For F:
-- b must be explicitly chosen in 1..5.
+- use a merged F band from 1.000 to 4.999.
 
 For U:
 - no bucket conversion; keep rating 0.
@@ -48,6 +49,12 @@ Examples:
 - b=9 -> base=8 (range 8.000 to 8.999)
 - b=1 -> base=1 (range 1.000 to 1.999)
 
+Merged F uses a different band:
+
+$$
+F_{min} = 1.000, \quad F_{max} = 4.999
+$$
+
 ## Rank-In-Tier To Decimal
 
 If n = 1:
@@ -60,6 +67,20 @@ If n > 1:
 
 $$
 proposed = \mathrm{round}\left(base + \frac{(n-r)}{(n-1)} \times 0.999,\ 3\right)
+$$
+
+For F tier, use the merged band instead:
+
+If n = 1:
+
+$$
+proposed_F = 4.999
+$$
+
+If n > 1:
+
+$$
+proposed_F = \mathrm{round}\left(1 + \frac{(n-r)}{(n-1)} \times 3.999,\ 3\right)
 $$
 
 Properties:
@@ -81,9 +102,15 @@ Example 3: S tier singleton
 - b=10, n=1
 - proposed = 9.999
 
+Example 4: merged F tier, rank 1 of 10
+- proposed_F = round(1 + (9/9)*3.999, 3) = 4.999
+
+Example 5: merged F tier, rank 10 of 10
+- proposed_F = round(1 + (0/9)*3.999, 3) = 1.000
+
 ## Validation Rules
 
 - Reject n < 1.
 - Reject r < 1 or r > n.
 - Reject tier U for conversion; U remains 0.
-- Reject tier F when explicit bucket b in 1..5 is missing.
+- F no longer requires grouping by source bucket.

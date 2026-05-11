@@ -1,7 +1,16 @@
 [CmdletBinding()]
-param()
+param(
+	[string]$CanonicalPath = '.\data\working\canonical\games.json',
+	[string]$MembershipPath = '.\data\working\ranking\tier-membership.json',
+	[string]$TiersPath = '.\data\working\ranking\tiers.json',
+	[string]$TierExportJson = '.\data\publish\tiers\tier-engine-export.json',
+	[string]$TierExportCsv = '.\data\publish\tiers\tier-engine-export.csv',
+	[switch]$IncludeUnrated,
+	[switch]$ForceRebuildRanks
+)
 
 Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
 
-throw 'This skill does not have an implemented run script yet. Add implementation to scripts/run.ps1.'
+$scriptPath = Join-Path $PSScriptRoot 'Map-BggTiers.ps1'
+& $scriptPath -CanonicalPath $CanonicalPath -MembershipPath $MembershipPath -TiersPath $TiersPath -TierExportJson $TierExportJson -TierExportCsv $TierExportCsv -IncludeUnrated:$IncludeUnrated -ForceRebuildRanks:$ForceRebuildRanks

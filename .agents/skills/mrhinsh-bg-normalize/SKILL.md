@@ -1,27 +1,21 @@
 # mrhinsh-bg-normalize
 
 Purpose:
-- TODO: describe this skill's responsibility.
+- Export tier/ranking files for external tools.
+- Normalize external imports into internal queue/order files.
 
 Inputs:
-- TODO: input file paths and required fields.
+- data/working/ranking/tier-membership.json
+- optional data/publish/tiers/tier-engine-import.csv
+- optional data/publish/ranking/import/*.csv or *.json
 
 Outputs:
-- TODO: output file paths and schema expectations.
-
-Preconditions:
-- TODO: dependencies, required files, or services.
-
-Postconditions:
-- TODO: what must be true after successful run.
-
-Idempotency:
-- TODO: describe safe re-run behavior.
-
-Failure Modes:
-- TODO: common failures and operator action.
+- data/publish/tiers/tier-engine-export.csv
+- data/publish/ranking/tier-*-ranking.csv
+- data/publish/queue/pending-tier-moves.json
+- data/working/ranking/external-ordering.json
 
 Example:
 ```powershell
-# TODO: add a concrete example
+./.agents/skills/mrhinsh-bg-normalize/scripts/run.ps1
 ```
