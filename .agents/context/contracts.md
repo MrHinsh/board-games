@@ -27,6 +27,8 @@ Optional metadata fields:
 - `complexity`: number or null
 - `bgg_rating`: number or null
 - `num_ratings`: integer or null
+- `bgg_comment`: string
+- `notes`: string
 - `collection`: boolean or null
 - `previously_owned`: boolean or null
 - `want_to_play`: boolean or null
@@ -95,6 +97,8 @@ Optional fields:
 - `players`: string or null
 - `complexity`: number or null
 - `bgg_rating`: number or null
+- `bgg_comment`: string
+- `notes`: string
 - `categories`: string array
 - `mechanics`: string array
 
@@ -131,6 +135,8 @@ Optional fields:
 - `players`: string or null
 - `complexity`: number or null
 - `bgg_rating`: number or null
+- `bgg_comment`: string
+- `notes`: string
 - `categories`: string array
 - `mechanics`: string array
 
@@ -174,6 +180,8 @@ Optional fields:
 - `complexity`: number or null
 - `bgg_rating`: number or null
 - `num_ratings`: integer or null
+- `bgg_comment`: string
+- `notes`: string
 - `categories`: string array
 - `mechanics`: string array
 - `bgg_game_url`: string
@@ -259,6 +267,35 @@ Rules:
 
 - `added + updated + unchanged` should equal `total_from_snapshot` after dedupe assumptions.
 
+## Duplicate Collection Report Contract
+
+Path:
+
+- `data/reports/quality/duplicate-collection-report.json`
+
+Required fields:
+
+- `run_at`: ISO-8601 timestamp
+- `username`: string
+- `duplicate_count`: integer
+- `duplicates`: array
+
+Required fields per duplicate entry:
+
+- `bgg_id`: integer
+- `name`: string
+- `copies`: integer
+- `collids`: integer array
+- `ratings`: string array
+- `unique_ratings`: string array
+- `ratings_match`: boolean
+
+Rules:
+
+- Report is sourced from the live BGG owned collection query.
+- Duplicate entries are grouped by `bgg_id` where more than one `collid` exists.
+- `ratings_match` is `true` only when all duplicate rows have the same personal rating text.
+
 ## CSV Rating Sheet Contract
 
 Path:
@@ -271,6 +308,8 @@ Required columns:
 - `name`
 - `num_plays`
 - `current_rating`
+- `bgg_comment`
+- `notes`
 - `new_rating`
 - `bgg_game_url`
 
@@ -278,6 +317,34 @@ Rules:
 
 - `new_rating` accepts integer values 1..10.
 - Blank `new_rating` means no change.
+- Blank `notes` means no change when importing from the CSV workflow.
+
+## Unrated CSV Report Contract
+
+Paths:
+
+- `data/reports/ranking/unrated.csv`
+- `data/reports/ranking/unrated-played.csv`
+
+Required columns:
+
+- `group_key`
+- `bgg_id`
+- `name`
+- `current_rating`
+- `num_plays`
+- `players`
+- `complexity`
+- `bgg_rating`
+- `bgg_comment`
+- `notes`
+- `categories`
+- `mechanics`
+
+Rules:
+
+- `unrated.csv` contains canonical entries where `current_rating` is `0`.
+- `unrated-played.csv` is the subset of `unrated.csv` where `num_plays` is greater than `0`.
 
 ## Pending Tier Moves Contract
 
@@ -364,3 +431,35 @@ Rules:
 - PubMeeple output CSVs must contain `rank` and `item` columns.
 - `item` values are matched case-insensitively after whitespace normalization against publish ranking `name`.
 - matched PubMeeple order reorders the corresponding publish ranking CSV and contributes `bgg_id`-based rows to `external-ordering.json`.
+
+## Publish Ranking CSV Contract
+
+Paths:
+
+- `data/publish/ranking/tier-*-ranking.csv`
+
+Required columns:
+
+- `tier`
+- `source_bucket`
+- `rank_in_tier`
+- `bgg_id`
+- `name`
+- `current_rating`
+- `num_plays`
+- `collection`
+- `previously_owned`
+- `want_to_play`
+- `want_to_buy`
+- `collection_to_exit`
+- `collection_status`
+- `bgg_comment`
+- `notes`
+- `bgg_game_url`
+
+Rules:
+
+- Ranked tiers are exported from canonical tier membership.
+- `tier-P-ranking.csv` is a publish-only pending list sourced from canonical `U` entries where `num_plays` is greater than `0`.
+- `P` is not a canonical tier and is not consumed by rank rebalance.
+- Only ranked tiers participate in PubMeeple round-trip ordering.

@@ -81,7 +81,7 @@ Write-Host "    Snapshot: $($fresh.Count) games  |  Canonical: $($canonicalByBgg
 # ---------------------------------------------------------------------------
 Write-Host "[2/3] Merging..." -ForegroundColor Cyan
 
-$safeFields = @('num_plays','bgg_rating','num_ratings','complexity','players','categories','mechanics','year_published','name','collection','previously_owned','want_to_play','want_to_buy','collection_to_exit','collection_status')
+$safeFields = @('num_plays','bgg_rating','num_ratings','complexity','players','categories','mechanics','year_published','name','collection','previously_owned','want_to_play','want_to_buy','collection_to_exit','collection_status','bgg_comment')
 
 $added     = [System.Collections.Generic.List[object]]::new()
 $updated   = [System.Collections.Generic.List[object]]::new()
@@ -141,6 +141,8 @@ foreach ($freshGame in $fresh) {
             num_ratings    = $freshGame.num_ratings
             categories     = $freshGame.categories
             mechanics      = $freshGame.mechanics
+            bgg_comment    = if ($freshGame.PSObject.Properties['bgg_comment']) { [string]$freshGame.bgg_comment } else { '' }
+            notes          = ''
         }
         $canonicalByBggId[$id] = $newEntry
         [void]$added.Add([pscustomobject]@{ bgg_id = $id; name = $freshGame.name })
@@ -174,6 +176,8 @@ if ($added.Count -gt 0) {
                 players        = $g.players
                 complexity     = $g.complexity
                 bgg_rating     = $g.bgg_rating
+                bgg_comment    = if ($g.PSObject.Properties['bgg_comment']) { [string]$g.bgg_comment } else { '' }
+                notes          = if ($g.PSObject.Properties['notes']) { [string]$g.notes } else { '' }
                 categories     = $g.categories
                 mechanics      = $g.mechanics
             }

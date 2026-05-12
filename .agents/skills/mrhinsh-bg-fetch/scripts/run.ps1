@@ -176,6 +176,7 @@ foreach ($item in $rawItems) {
         num_ratings    = Get-DetailVal -Item $det -Field 'num_ratings'
         categories     = Get-DetailVal -Item $det -Field 'categories' -Default @()
         mechanics      = Get-DetailVal -Item $det -Field 'mechanics' -Default @()
+        bgg_comment    = Get-Val -Item $item -Field 'comment' -Default ''
     }
     if (-not $byBggId.ContainsKey($id) -or [int]$entry.num_plays -gt [int]$byBggId[$id].num_plays) {
         $byBggId[$id] = $entry

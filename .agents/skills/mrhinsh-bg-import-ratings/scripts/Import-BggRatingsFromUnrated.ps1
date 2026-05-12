@@ -8,6 +8,25 @@ param(
 Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
 
+function Set-ObjectProperty {
+    param(
+        [Parameter(Mandatory = $true)]
+        [object]$Target,
+
+        [Parameter(Mandatory = $true)]
+        [string]$Name,
+
+        $Value
+    )
+
+    $property = $Target.PSObject.Properties[$Name]
+    if ($property) {
+        $property.Value = $Value
+    } else {
+        $Target | Add-Member -NotePropertyName $Name -NotePropertyValue $Value
+    }
+}
+
 if (-not (Test-Path $UnratedPath)) {
     throw "Unrated file not found: $UnratedPath"
 }
@@ -22,9 +41,14 @@ $played = @(Get-Content -Path $PlayedPath -Raw | ConvertFrom-Json)
 
 # Build a map of bgg_id -> new_rating from unrated file
 $updates = @{}
+$noteUpdates = @{}
 foreach ($item in $unratedData) {
     if ($item.current_rating -and [double]$item.current_rating -gt 0) {
         $updates[[int]$item.bgg_id] = [double]$item.current_rating
+    }
+
+    if ($item.PSObject.Properties['notes'] -and -not [string]::IsNullOrWhiteSpace([string]$item.notes)) {
+        $noteUpdates[[int]$item.bgg_id] = ([string]$item.notes).Trim()
     }
 }
 
@@ -48,6 +72,10 @@ foreach ($item in $played) {
             }
         }
     }
+
+    if ($noteUpdates.ContainsKey($id)) {
+        Set-ObjectProperty -Target $item -Name 'notes' -Value ([string]$noteUpdates[$id])
+    }
 }
 
 $played | ConvertTo-Json -Depth 10 | Set-Content -Path $PlayedPath -Encoding UTF8
@@ -62,6 +90,10 @@ if (Test-Path $UnratedGamesPath) {
         if ($updates.ContainsKey($id)) {
             $item.current_rating = $updates[$id]
             $updatedUnrated++
+        }
+
+        if ($noteUpdates.ContainsKey($id)) {
+            Set-ObjectProperty -Target $item -Name 'notes' -Value ([string]$noteUpdates[$id])
         }
     }
     $unratedGames | ConvertTo-Json -Depth 10 | Set-Content -Path $UnratedGamesPath -Encoding UTF8

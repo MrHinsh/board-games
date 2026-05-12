@@ -17,3 +17,8 @@
 - Preserve existing script entrypoints where possible.
 - Keep output paths aligned with `data/` structure.
 - Avoid introducing new secret storage locations.
+
+## Current Command Surface
+- Prefer `mrhinsh-bg-pull` for the end-to-end local rebuild flow.
+- Prefer `mrhinsh-bg-push` for syncing queued BGG ratings.
+- Older lower-level skills still exist for targeted maintenance work.

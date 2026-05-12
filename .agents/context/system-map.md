@@ -6,6 +6,12 @@
 - Data layer: `data/` stores raw snapshots, canonical working data, reports, and publish artifacts.
 - Tooling layer: `tools/bgg-mcp/` hosts MCP server implementation.
 
+## Primary Operator Surface
+
+- `mrhinsh-bg-pull` is the main read-side orchestration entrypoint.
+- `mrhinsh-bg-push` is the main write-side orchestration entrypoint.
+- Existing lower-level skills remain available behind those surfaces.
+
 ## Core Flow
 
 1. Fetch.

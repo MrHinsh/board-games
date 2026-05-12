@@ -115,6 +115,8 @@ $membership = foreach ($group in ($canonicalGroups.GetEnumerator() | Sort-Object
         complexity = $game.complexity
         bgg_rating = $game.bgg_rating
         num_ratings = $game.num_ratings
+        bgg_comment = if ($game.PSObject.Properties['bgg_comment']) { [string]$game.bgg_comment } else { '' }
+        notes = if ($game.PSObject.Properties['notes']) { [string]$game.notes } else { '' }
         categories = @($game.categories)
         mechanics = @($game.mechanics)
         bgg_game_url = Get-BggGameUrl -GameId $gameId
@@ -158,7 +160,7 @@ $tierSummaries = foreach ($tier in (Get-TierOrder)) {
     }
 }
 
-$tierEngineExport = $rankedMembership | Select-Object tier, source_bucket, rank_in_tier, bgg_id, name, current_rating, num_plays, collection, previously_owned, want_to_play, want_to_buy, collection_to_exit, collection_status, players, complexity, bgg_rating, bgg_game_url
+$tierEngineExport = $rankedMembership | Select-Object tier, source_bucket, rank_in_tier, bgg_id, name, current_rating, num_plays, collection, previously_owned, want_to_play, want_to_buy, collection_to_exit, collection_status, players, complexity, bgg_rating, bgg_comment, notes, bgg_game_url
 
 Write-JsonFile -Path $MembershipPath -Value $rankedMembership
 Write-JsonFile -Path $TiersPath -Value $tierSummaries

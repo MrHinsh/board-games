@@ -1,6 +1,8 @@
 [CmdletBinding()]
 param(
 	[string]$MembershipPath = '.\data\working\ranking\tier-membership.json',
+	[string]$CanonicalPath = '.\data\working\canonical\games.json',
+	[string]$UnratedRankedPath = '.\data\working\unrated\intake-ranked.json',
 	[string]$TierExportDir = '.\data\publish\tiers',
 	[string]$RankingExportDir = '.\data\publish\ranking',
 	[string]$TierImportPath = '.\data\publish\tiers\tier-engine-import.csv',
@@ -15,4 +17,4 @@ Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
 
 $scriptPath = Join-Path $PSScriptRoot 'Normalize-BggExternalRankingData.ps1'
-& $scriptPath -MembershipPath $MembershipPath -TierExportDir $TierExportDir -RankingExportDir $RankingExportDir -TierImportPath $TierImportPath -RankingImportDir $RankingImportDir -PubMeepleInputDir $PubMeepleInputDir -PubMeepleOutputDir $PubMeepleOutputDir -PendingTierMovesPath $PendingTierMovesPath -NormalizedRankingImportPath $NormalizedRankingImportPath
+& $scriptPath -MembershipPath $MembershipPath -CanonicalPath $CanonicalPath -UnratedRankedPath $UnratedRankedPath -TierExportDir $TierExportDir -RankingExportDir $RankingExportDir -TierImportPath $TierImportPath -RankingImportDir $RankingImportDir -PubMeepleInputDir $PubMeepleInputDir -PubMeepleOutputDir $PubMeepleOutputDir -PendingTierMovesPath $PendingTierMovesPath -NormalizedRankingImportPath $NormalizedRankingImportPath

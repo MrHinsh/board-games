@@ -110,6 +110,8 @@ $ranked = foreach ($ratingBucket in ($rated | Group-Object { [int][math]::Floor(
             players = Get-FieldValue -Item $item -FieldName 'players' -DefaultValue $null
             complexity = Get-FieldValue -Item $item -FieldName 'complexity' -DefaultValue $null
             bgg_rating = Get-FieldValue -Item $item -FieldName 'bgg_rating' -DefaultValue $null
+            bgg_comment = Get-FieldValue -Item $item -FieldName 'bgg_comment' -DefaultValue ''
+            notes = Get-FieldValue -Item $item -FieldName 'notes' -DefaultValue ''
             categories = Get-FieldValue -Item $item -FieldName 'categories' -DefaultValue @()
             mechanics = Get-FieldValue -Item $item -FieldName 'mechanics' -DefaultValue @()
         }
@@ -120,6 +122,7 @@ $jsonPath = Join-Path $OutDir 'stackranked.json'
 $csvPath = Join-Path $OutDir 'stackranked.csv'
 $unratedJsonPath = $UnratedPath
 $unratedCsvPath = Join-Path $OutDir 'unrated.csv'
+$unratedPlayedCsvPath = Join-Path $OutDir 'unrated-played.csv'
 
 $unratedDir = Split-Path -Path $UnratedPath -Parent
 if ($unratedDir -and -not (Test-Path $unratedDir)) {
@@ -144,12 +147,17 @@ $unrated | Select-Object @{ Name = 'group_key'; Expression = { Get-FieldValue -I
                           @{ Name = 'players'; Expression = { Get-FieldValue -Item $_ -FieldName 'players' -DefaultValue $null } },
                           @{ Name = 'complexity'; Expression = { Get-FieldValue -Item $_ -FieldName 'complexity' -DefaultValue $null } },
                           @{ Name = 'bgg_rating'; Expression = { Get-FieldValue -Item $_ -FieldName 'bgg_rating' -DefaultValue $null } },
+                          @{ Name = 'bgg_comment'; Expression = { Get-FieldValue -Item $_ -FieldName 'bgg_comment' -DefaultValue '' } },
+                          @{ Name = 'notes'; Expression = { Get-FieldValue -Item $_ -FieldName 'notes' -DefaultValue '' } },
                           @{ Name = 'categories'; Expression = { Get-FieldValue -Item $_ -FieldName 'categories' -DefaultValue @() } },
                           @{ Name = 'mechanics'; Expression = { Get-FieldValue -Item $_ -FieldName 'mechanics' -DefaultValue @() } } |
     Tee-Object -Variable unratedExport |
     ConvertTo-Json -Depth 10 | Set-Content -Path $unratedJsonPath -Encoding UTF8
 
 $unratedExport | Export-Csv -Path $unratedCsvPath -NoTypeInformation -Encoding UTF8
+$unratedExport |
+    Where-Object { [int](Get-FieldValue -Item $_ -FieldName 'num_plays' -DefaultValue 0) -gt 0 } |
+    Export-Csv -Path $unratedPlayedCsvPath -NoTypeInformation -Encoding UTF8
 
 $unratedExport |
     Sort-Object @{ Expression = { [int](Get-FieldValue -Item $_ -FieldName 'num_plays' -DefaultValue 0) }; Descending = $true },
@@ -165,5 +173,6 @@ $ranked
     Csv = $csvPath
     UnratedJson = $unratedJsonPath
     UnratedCsv = $unratedCsvPath
+    UnratedPlayedCsv = $unratedPlayedCsvPath
     UnratedRankedJson = $UnratedRankedPath
 }

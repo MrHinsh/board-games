@@ -1,6 +1,8 @@
 [CmdletBinding()]
 param(
     [string]$MembershipPath = '.\data\working\ranking\tier-membership.json',
+    [string]$CanonicalPath = '.\data\working\canonical\games.json',
+    [string]$UnratedRankedPath = '.\data\working\unrated\intake-ranked.json',
     [string]$TierExportDir = '.\data\publish\tiers',
     [string]$RankingExportDir = '.\data\publish\ranking',
     [string]$TierImportPath = '.\data\publish\tiers\tier-engine-import.csv',
@@ -164,6 +166,14 @@ if ($membership.Count -eq 0) {
     throw "Tier membership file is empty or missing: $MembershipPath"
 }
 
+$canonical = @(Read-JsonFile -Path $CanonicalPath -Default @())
+$canonicalById = @{}
+foreach ($item in $canonical) {
+    $canonicalById[[int]$item.bgg_id] = $item
+}
+
+$unratedRanked = @(Read-JsonFile -Path $UnratedRankedPath -Default @())
+
 New-Item -ItemType Directory -Path $TierExportDir -Force | Out-Null
 New-Item -ItemType Directory -Path $RankingExportDir -Force | Out-Null
 New-Item -ItemType Directory -Path $PubMeepleInputDir -Force | Out-Null
@@ -172,11 +182,65 @@ New-Item -ItemType Directory -Path $PubMeepleOutputDir -Force | Out-Null
 Get-ChildItem -Path $RankingExportDir -Filter 'tier-*-ranking.csv' -File -ErrorAction SilentlyContinue | Remove-Item -Force
 Get-ChildItem -Path $PubMeepleInputDir -Filter 'tier-*-ranking.txt' -File -ErrorAction SilentlyContinue | Remove-Item -Force
 
-$engineExport = $membership | Select-Object tier, source_bucket, rank_in_tier, bgg_id, name, current_rating, num_plays, collection, previously_owned, want_to_play, want_to_buy, collection_to_exit, collection_status, players, complexity, bgg_rating, bgg_game_url
+$engineExport = $membership | Select-Object tier, source_bucket, rank_in_tier, bgg_id, name, current_rating, num_plays, collection, previously_owned, want_to_play, want_to_buy, collection_to_exit, collection_status, players, complexity, bgg_rating, bgg_comment, notes, bgg_game_url
 $engineExport | Export-Csv -Path (Join-Path $TierExportDir 'tier-engine-export.csv') -NoTypeInformation -Encoding UTF8
 Write-JsonFile -Path (Join-Path $TierExportDir 'tier-engine-export.json') -Value $engineExport
 
 $normalizedRanking = [System.Collections.Generic.List[object]]::new()
+
+$pendingRows = @(
+    $unratedRanked |
+        Where-Object { [double]$_.current_rating -le 0.0005 } |
+        Where-Object { [int]$_.num_plays -gt 0 } |
+        Sort-Object @{ Expression = { [int]$_.num_plays }; Descending = $true }, name |
+        ForEach-Object {
+            $canonicalItem = $canonicalById[[int]$_.bgg_id]
+            $collection = $false
+            $previouslyOwned = $false
+            $wantToPlay = $false
+            $wantToBuy = $false
+            $collectionToExit = $false
+            $collectionStatus = 'NotOwned'
+
+            if ($null -ne $canonicalItem) {
+                $collection = ($canonicalItem.PSObject.Properties['collection'] -and [bool]$canonicalItem.collection)
+                $previouslyOwned = ($canonicalItem.PSObject.Properties['previously_owned'] -and [bool]$canonicalItem.previously_owned)
+                $wantToPlay = ($canonicalItem.PSObject.Properties['want_to_play'] -and [bool]$canonicalItem.want_to_play)
+                $wantToBuy = ($canonicalItem.PSObject.Properties['want_to_buy'] -and [bool]$canonicalItem.want_to_buy)
+                $collectionToExit = ($canonicalItem.PSObject.Properties['collection_to_exit'] -and [bool]$canonicalItem.collection_to_exit)
+
+                if ($collectionToExit) {
+                    $collectionStatus = 'OwnedToExit'
+                } elseif ($collection) {
+                    $collectionStatus = 'Owned'
+                }
+            }
+
+            [pscustomobject]@{
+                tier = 'P'
+                source_bucket = 0
+                rank_in_tier = $null
+                bgg_id = [int]$_.bgg_id
+                name = [string]$_.name
+                current_rating = [double]$_.current_rating
+                num_plays = [int]$_.num_plays
+                collection = $collection
+                previously_owned = $previouslyOwned
+                want_to_play = $wantToPlay
+                want_to_buy = $wantToBuy
+                collection_to_exit = $collectionToExit
+                collection_status = $collectionStatus
+                bgg_comment = if ($_.PSObject.Properties['bgg_comment']) { [string]$_.bgg_comment } else { '' }
+                notes = if ($_.PSObject.Properties['notes']) { [string]$_.notes } else { '' }
+                bgg_game_url = Get-BggGameUrl -GameId ([int]$_.bgg_id)
+            }
+        }
+)
+
+if ($pendingRows.Count -gt 0) {
+    $pendingRankingFilePath = Join-Path $RankingExportDir 'tier-P-ranking.csv'
+    $pendingRows | Export-Csv -Path $pendingRankingFilePath -NoTypeInformation -Encoding UTF8
+}
 
 foreach ($group in ($membership | Where-Object { $_.tier -ne 'U' } | Group-Object ranking_group)) {
     $first = $group.Group | Select-Object -First 1
@@ -186,7 +250,7 @@ foreach ($group in ($membership | Where-Object { $_.tier -ne 'U' } | Group-Objec
         "tier-$($first.tier)-ranking.csv"
     }
 
-    $rows = @($group.Group | Sort-Object @{ Expression = { if ($null -eq $_.rank_in_tier -or $_.rank_in_tier -eq '') { [int]::MaxValue } else { [int]$_.rank_in_tier } } }, @{ Expression = { [int]$_.num_plays }; Descending = $true }, name | Select-Object tier, source_bucket, rank_in_tier, bgg_id, name, current_rating, num_plays, collection, previously_owned, want_to_play, want_to_buy, collection_to_exit, collection_status, bgg_game_url)
+    $rows = @($group.Group | Sort-Object @{ Expression = { if ($null -eq $_.rank_in_tier -or $_.rank_in_tier -eq '') { [int]::MaxValue } else { [int]$_.rank_in_tier } } }, @{ Expression = { [int]$_.num_plays }; Descending = $true }, name | Select-Object tier, source_bucket, rank_in_tier, bgg_id, name, current_rating, num_plays, collection, previously_owned, want_to_play, want_to_buy, collection_to_exit, collection_status, bgg_comment, notes, bgg_game_url)
 
     $pubMeepleFilePath = Join-Path $PubMeepleOutputDir $fileName
     $pubMeepleImport = Get-ReorderedRowsFromPubMeeple -RankingRows $rows -PubMeepleCsvPath $pubMeepleFilePath

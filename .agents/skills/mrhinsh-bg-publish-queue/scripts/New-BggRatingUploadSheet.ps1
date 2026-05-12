@@ -29,6 +29,8 @@ $sheet = $items |
                   @{ Name = 'name'; Expression = { $_.name } },
                   @{ Name = 'num_plays'; Expression = { $_.num_plays } },
                   @{ Name = 'current_rating'; Expression = { $_.current_rating } },
+                  @{ Name = 'bgg_comment'; Expression = { if ($_.PSObject.Properties['bgg_comment']) { $_.bgg_comment } else { '' } } },
+                  @{ Name = 'notes'; Expression = { if ($_.PSObject.Properties['notes']) { $_.notes } else { '' } } },
                   @{ Name = 'new_rating'; Expression = { '' } },
                   @{ Name = 'bgg_game_url'; Expression = { "https://boardgamegeek.com/boardgame/$($_.bgg_id)" } }
 

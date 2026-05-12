@@ -8,6 +8,25 @@ param(
 Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
 
+function Set-ObjectProperty {
+    param(
+        [Parameter(Mandatory = $true)]
+        [object]$Target,
+
+        [Parameter(Mandatory = $true)]
+        [string]$Name,
+
+        $Value
+    )
+
+    $property = $Target.PSObject.Properties[$Name]
+    if ($property) {
+        $property.Value = $Value
+    } else {
+        $Target | Add-Member -NotePropertyName $Name -NotePropertyValue $Value
+    }
+}
+
 if (-not (Test-Path $SheetPath)) {
     throw "Sheet file not found: $SheetPath"
 }
@@ -22,8 +41,21 @@ if (-not (Test-Path $PlayedPath)) {
 
 $sheet = Import-Csv -Path $SheetPath
 $updates = @{}
+$noteUpdates = @{}
 
 foreach ($row in $sheet) {
+    $id = 0
+    if (-not [int]::TryParse([string]$row.bgg_id, [ref]$id)) {
+        continue
+    }
+
+    if ($row.PSObject.Properties['notes']) {
+        $noteText = [string]$row.notes
+        if (-not [string]::IsNullOrWhiteSpace($noteText)) {
+            $noteUpdates[$id] = $noteText.Trim()
+        }
+    }
+
     if (-not $row.new_rating) {
         continue
     }
@@ -42,11 +74,6 @@ foreach ($row in $sheet) {
         continue
     }
 
-    $id = 0
-    if (-not [int]::TryParse([string]$row.bgg_id, [ref]$id)) {
-        continue
-    }
-
     $updates[$id] = $parsed
 }
 
@@ -60,6 +87,10 @@ foreach ($item in $unrated) {
         $item.current_rating = [double]$updates[$id]
         $updatedUnrated++
     }
+
+    if ($noteUpdates.ContainsKey($id)) {
+        Set-ObjectProperty -Target $item -Name 'notes' -Value ([string]$noteUpdates[$id])
+    }
 }
 
 $updatedPlayed = 0
@@ -69,6 +100,10 @@ foreach ($item in $played) {
         $item.rating = [double]$updates[$id]
         $updatedPlayed++
     }
+
+    if ($noteUpdates.ContainsKey($id)) {
+        Set-ObjectProperty -Target $item -Name 'notes' -Value ([string]$noteUpdates[$id])
+    }
 }
 
 $unrated | ConvertTo-Json -Depth 10 | Set-Content -Path $UnratedPath -Encoding UTF8
@@ -77,6 +112,7 @@ $played | ConvertTo-Json -Depth 10 | Set-Content -Path $PlayedPath -Encoding UTF
 [pscustomobject]@{
     SheetRows = @($sheet).Count
     RatingsToApply = $updates.Count
+    NotesToApply = $noteUpdates.Count
     UpdatedUnratedRows = $updatedUnrated
     UpdatedPlayedRows = $updatedPlayed
 }
