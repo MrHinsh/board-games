@@ -29,6 +29,25 @@ param(
 Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
 
+function Set-ObjectProperty {
+    param(
+        [Parameter(Mandatory = $true)]
+        [object]$Target,
+
+        [Parameter(Mandatory = $true)]
+        [string]$Name,
+
+        $Value
+    )
+
+    $property = $Target.PSObject.Properties[$Name]
+    if ($property) {
+        $property.Value = $Value
+    } else {
+        $Target | Add-Member -NotePropertyName $Name -NotePropertyValue $Value
+    }
+}
+
 # ---------------------------------------------------------------------------
 # Load inputs
 # ---------------------------------------------------------------------------
@@ -60,7 +79,7 @@ Write-Host "    Snapshot: $($fresh.Count) games  |  Canonical: $($canonicalByBgg
 # ---------------------------------------------------------------------------
 Write-Host "[2/3] Merging..." -ForegroundColor Cyan
 
-$safeFields = @('num_plays','bgg_rating','num_ratings','complexity','players','categories','mechanics','year_published','name')
+$safeFields = @('num_plays','bgg_rating','num_ratings','complexity','players','categories','mechanics','year_published','name','collection','previously_owned','want_to_play','want_to_buy','collection_to_exit','collection_status')
 
 $added     = [System.Collections.Generic.List[object]]::new()
 $updated   = [System.Collections.Generic.List[object]]::new()
@@ -80,7 +99,7 @@ foreach ($freshGame in $fresh) {
             $newVal = $freshGame.$field
 
             if (($oldVal | ConvertTo-Json -Compress) -ne ($newVal | ConvertTo-Json -Compress)) {
-                $existing.$field = $newVal
+                Set-ObjectProperty -Target $existing -Name $field -Value $newVal
                 $changed = $true
             }
         }
@@ -103,6 +122,12 @@ foreach ($freshGame in $fresh) {
             year_published = $freshGame.year_published
             rating         = 0.0
             num_plays      = $freshGame.num_plays
+            collection     = [bool]$freshGame.collection
+            previously_owned = [bool]$freshGame.previously_owned
+            want_to_play   = [bool]$freshGame.want_to_play
+            want_to_buy    = [bool]$freshGame.want_to_buy
+            collection_to_exit = [bool]$freshGame.collection_to_exit
+            collection_status = [string]$freshGame.collection_status
             players        = $freshGame.players
             complexity     = $freshGame.complexity
             bgg_rating     = $freshGame.bgg_rating

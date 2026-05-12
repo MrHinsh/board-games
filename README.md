@@ -165,16 +165,40 @@ Outputs:
 
 - `data/publish/tiers/tier-engine-export.csv`
 - `data/publish/ranking/tier-*-ranking.csv`
+- `data/raw/pubmeeple/in/tier-*-ranking.txt`
 
 Optional imports consumed by normalize:
 
 - `data/publish/tiers/tier-engine-import.csv`
 - `data/publish/ranking/import/*.csv`
 
+PubMeeple rerank input convention:
+
+- Put the rerank CSV under `data/raw/pubmeeple/out/`
+- Use the same tier file name as the generated ranking export, for example `data/raw/pubmeeple/out/tier-S-ranking.csv`
+- Use the generated PubMeeple input list from `data/raw/pubmeeple/in/tier-S-ranking.txt`
+- Expected columns from PubMeeple: `rank`, `item`
+- `item` is matched against the tier ranking CSV `name` column
+- Normalize applies this rerank input automatically when generating `data/publish/ranking/tier-*-ranking.csv`
+- Normalize also converts this rerank input into `data/working/ranking/external-ordering.json`
+- This only rewrites the row order of the target `data/publish/ranking/tier-*-ranking.csv`
+- It does not change `rank_in_tier`, ratings, canonical data, or any other pipeline outputs
+- This input is separate from normalize imports under `data/publish/ranking/import/`
+
 Normalize writes:
 
 - `data/publish/queue/pending-tier-moves.json`
 - `data/working/ranking/external-ordering.json`
+
+When a matching PubMeeple rerank file exists under `data/raw/pubmeeple/out/`, normalize writes its title-matched order into `data/working/ranking/external-ordering.json` so the next rebalance run can apply it.
+
+To apply a PubMeeple rerank file onto a tier CSV in place:
+
+```powershell
+./.agents/skills/mrhinsh-bg-normalize/scripts/Import-PubMeepleTierRanking.ps1 `
+  -PubMeepleCsvPath .\data\raw\pubmeeple\ranking\tier-S-ranking.csv `
+  -RankingCsvPath .\data\publish\ranking\tier-S-ranking.csv
+```
 
 ### Step 3: Apply tier moves from external tool or manual queue
 
@@ -219,6 +243,19 @@ Outputs:
 ```
 
 ## Rating System
+
+## Collection Status Fields
+
+BGG collection metadata is carried alongside ranking data:
+
+- `collection`: mapped from BGG `own`
+- `previously_owned`: mapped from BGG `prevowned`
+- `want_to_play`: mapped from BGG `wanttoplay`
+- `want_to_buy`: mapped from BGG `wanttobuy`
+- `collection_to_exit`: mapped from BGG `fortrade`
+- `collection_status`: derived as `OwnedToExit`, `Owned`, or `NotOwned`
+
+These fields remain blank in publish outputs until a successful authenticated fetch/reconcile cycle populates them from BGG.
 
 ### Tier mapping used in discussion
 

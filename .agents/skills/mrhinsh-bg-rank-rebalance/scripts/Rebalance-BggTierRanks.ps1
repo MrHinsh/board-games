@@ -98,6 +98,8 @@ foreach ($group in ($membership | Where-Object { -not (Test-IsNonRankedTier -Tie
 
 $nonRanked = @($membership | Where-Object { Test-IsNonRankedTier -Tier ([string]$_.tier) })
 foreach ($item in $nonRanked) {
+    $nonRankedProposedRating = if ([string]$item.tier -eq 'U') { 0.0 } else { [double]$item.current_rating }
+
     if ($item.PSObject.Properties['rank_in_tier']) {
         $item.rank_in_tier = $null
     } else {
@@ -105,9 +107,9 @@ foreach ($item in $nonRanked) {
     }
 
     if ($item.PSObject.Properties['proposed_rating']) {
-        $item.proposed_rating = if ([string]$item.tier -eq 'U') { 0.0 } else { [double]$item.current_rating }
+        $item.proposed_rating = $nonRankedProposedRating
     } else {
-        $item | Add-Member -NotePropertyName proposed_rating -NotePropertyValue (if ([string]$item.tier -eq 'U') { 0.0 } else { [double]$item.current_rating })
+        $item | Add-Member -NotePropertyName proposed_rating -NotePropertyValue $nonRankedProposedRating
     }
 }
 

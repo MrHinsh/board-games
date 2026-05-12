@@ -48,20 +48,81 @@ function Get-DetailVal {
     return $p.Value
 }
 
+function Get-StatusFlag {
+    param([object]$Item, [string]$Field)
+
+    $status = Get-Val -Item $Item -Field 'status'
+    if ($null -eq $status) {
+        return $false
+    }
+
+    return [int](Get-Val -Item $status -Field $Field -Default 0) -eq 1
+}
+
+function Get-CollectionStatus {
+    param([object]$Item)
+
+    if (Get-StatusFlag -Item $Item -Field 'fortrade') {
+        return 'OwnedToExit'
+    }
+
+    if (Get-StatusFlag -Item $Item -Field 'own') {
+        return 'Owned'
+    }
+
+    return 'NotOwned'
+}
+
+function Invoke-ValidatedCollectionQuery {
+    param(
+        [Parameter(Mandatory = $true)]
+        [hashtable]$Arguments
+    )
+
+    $result = Invoke-BggMcpTool -ToolName 'bgg-collection' -Arguments $Arguments `
+        -Endpoint $Endpoint -Username $Username -ApiKey $ApiKey -Cookie $Cookie
+
+    if ($result -is [string]) {
+        throw "BGG collection query returned text instead of structured items: $result"
+    }
+
+    $items = @($result | Where-Object {
+            $null -ne $_ -and
+            $_.PSObject.Properties['objectid'] -and
+            [int](Get-Val -Item $_ -Field 'objectid' -Default 0) -gt 0
+        })
+
+    return $items
+}
+
 # ---------------------------------------------------------------------------
 # Step 1 – fetch collection from BGG
 # ---------------------------------------------------------------------------
-Write-Host "[1/3] Fetching played collection from BGG..." -ForegroundColor Cyan
+Write-Host "[1/3] Fetching collection status from BGG..." -ForegroundColor Cyan
 
-$toolArgs = @{ username = $Username; played = $true; owned = $true }
-if (-not $IncludeExpansions) { $toolArgs.subtype = 'boardgame' }
+$collectionQueries = @(
+    @{ username = $Username; owned = $true }
+    @{ username = $Username; wishlist = $true }
+    @{ username = $Username; wanttoplay = $true }
+    @{ username = $Username; wanttobuy = $true }
+    @{ username = $Username; fortrade = $true }
+)
 
-$rawItems = @(Invoke-BggMcpTool -ToolName 'bgg-collection' -Arguments $toolArgs `
-    -Endpoint $Endpoint -Username $Username -ApiKey $ApiKey -Cookie $Cookie)
-
-if (-not $rawItems -or $rawItems.Count -eq 0) {
-    throw "No games returned from BGG. Check MCP server and username."
+if (-not $IncludeExpansions) {
+    foreach ($query in $collectionQueries) {
+        $query.subtype = 'boardgame'
+    }
 }
+
+$rawItems = foreach ($query in $collectionQueries) {
+    Invoke-ValidatedCollectionQuery -Arguments $query
+}
+
+if (-not $rawItems -or @($rawItems).Count -eq 0) {
+    throw "No collection items returned from BGG. Check MCP server authentication and username."
+}
+
+$rawItems = @($rawItems)
 
 Write-Host "    Fetched $($rawItems.Count) collection items."
 
@@ -100,6 +161,12 @@ foreach ($item in $rawItems) {
         year_published = Get-Val -Item $item -Field 'yearpublished' -Default 0
         rating         = [double](Get-Val -Item $item -Field 'rating' -Default 0)
         num_plays      = [int](Get-Val -Item $item -Field 'numplays' -Default 0)
+        collection     = Get-StatusFlag -Item $item -Field 'own'
+        previously_owned = Get-StatusFlag -Item $item -Field 'prevowned'
+        want_to_play   = Get-StatusFlag -Item $item -Field 'wanttoplay'
+        want_to_buy    = Get-StatusFlag -Item $item -Field 'wanttobuy'
+        collection_to_exit = Get-StatusFlag -Item $item -Field 'fortrade'
+        collection_status = Get-CollectionStatus -Item $item
         players        = Get-DetailVal -Item $det -Field 'players'
         complexity     = Get-DetailVal -Item $det -Field 'complexity'
         bgg_rating     = Get-DetailVal -Item $det -Field 'bgg_rating'

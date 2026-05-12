@@ -56,6 +56,13 @@ $membership = foreach ($game in ($canonical | Sort-Object @{ Expression = { [dou
         $rankInTier = $existing.rank_in_tier
     }
 
+    $collection = if ($game.PSObject.Properties['collection']) { [bool]$game.collection } else { $null }
+    $previouslyOwned = if ($game.PSObject.Properties['previously_owned']) { [bool]$game.previously_owned } else { $null }
+    $wantToPlay = if ($game.PSObject.Properties['want_to_play']) { [bool]$game.want_to_play } else { $null }
+    $wantToBuy = if ($game.PSObject.Properties['want_to_buy']) { [bool]$game.want_to_buy } else { $null }
+    $collectionToExit = if ($game.PSObject.Properties['collection_to_exit']) { [bool]$game.collection_to_exit } else { $null }
+    $collectionStatus = if ($game.PSObject.Properties['collection_status']) { [string]$game.collection_status } else { '' }
+
     [pscustomobject]@{
         tier = $tier
         tier_sort = Get-TierSortWeight -Tier $tier
@@ -66,6 +73,12 @@ $membership = foreach ($game in ($canonical | Sort-Object @{ Expression = { [dou
         name = [string]$game.name
         current_rating = $currentRating
         num_plays = [int]$game.num_plays
+        collection = $collection
+        previously_owned = $previouslyOwned
+        want_to_play = $wantToPlay
+        want_to_buy = $wantToBuy
+        collection_to_exit = $collectionToExit
+        collection_status = $collectionStatus
         group_key = [string]$game.group_key
         year_published = [int]$game.year_published
         players = $game.players
@@ -114,7 +127,7 @@ $tierSummaries = foreach ($tier in (Get-TierOrder)) {
     }
 }
 
-$tierEngineExport = $rankedMembership | Select-Object tier, source_bucket, rank_in_tier, bgg_id, name, current_rating, num_plays, players, complexity, bgg_rating, bgg_game_url
+$tierEngineExport = $rankedMembership | Select-Object tier, source_bucket, rank_in_tier, bgg_id, name, current_rating, num_plays, collection, previously_owned, want_to_play, want_to_buy, collection_to_exit, collection_status, players, complexity, bgg_rating, bgg_game_url
 
 Write-JsonFile -Path $MembershipPath -Value $rankedMembership
 Write-JsonFile -Path $TiersPath -Value $tierSummaries

@@ -27,6 +27,12 @@ Optional metadata fields:
 - `complexity`: number or null
 - `bgg_rating`: number or null
 - `num_ratings`: integer or null
+- `collection`: boolean or null
+- `previously_owned`: boolean or null
+- `want_to_play`: boolean or null
+- `want_to_buy`: boolean or null
+- `collection_to_exit`: boolean or null
+- `collection_status`: string in `{Owned,NotOwned,OwnedToExit}` or empty when unknown
 - `categories`: string array
 - `mechanics`: string array
 
@@ -35,6 +41,8 @@ Rules:
 - `bgg_id` is the identity key.
 - `rating` uses personal scale where 0 means unrated.
 - `num_plays` must be non-negative.
+- `collection_to_exit` is sourced from BGG `fortrade` status.
+- Collection status fields remain blank until a successful authenticated fetch/reconcile backfill populates them.
 - `categories` and `mechanics` default to empty arrays.
 
 ## Unrated Intake Contract
@@ -130,6 +138,12 @@ Optional fields:
 
 - `rank_in_tier`: integer or null
 - `proposed_rating`: number or null
+- `collection`: boolean or null
+- `previously_owned`: boolean or null
+- `want_to_play`: boolean or null
+- `want_to_buy`: boolean or null
+- `collection_to_exit`: boolean or null
+- `collection_status`: string in `{Owned,NotOwned,OwnedToExit}` or empty when unknown
 - `players`: string or null
 - `complexity`: number or null
 - `bgg_rating`: number or null
@@ -304,4 +318,37 @@ Required fields:
 Rules:
 
 - Produced by normalize skill from external ranking engine files.
+- Produced by normalize skill from matching PubMeeple rerank files under `data/raw/pubmeeple/out/`.
 - Consumed by rank rebalance using `-ImportPath`.
+
+## PubMeeple Tier Rerank Contract
+
+Generated PubMeeple input list path:
+
+- `data/raw/pubmeeple/in/tier-*-ranking.txt`
+
+Recommended input path:
+
+- `data/raw/pubmeeple/out/tier-*-ranking.csv`
+
+Type:
+
+- CSV
+
+Required columns:
+
+- `rank`
+- `item`
+
+Rules:
+
+- The generated `.txt` list is the outbound input for PubMeeple ranking sessions.
+- `item` matches the `name` column in `data/publish/ranking/tier-*-ranking.csv`.
+- Matching is case-insensitive and whitespace-normalized.
+- Normalize consumes this raw PubMeeple file when generating the target tier ranking CSV.
+- Normalize also emits this order into `data/working/ranking/external-ordering.json` for downstream rebalance.
+- The helper script can also be used to rewrite a target tier ranking CSV manually.
+- The helper does not change `rank_in_tier`, ratings, canonical data, queues, or other generated files.
+- The rerank intake is a separate raw input and is not part of `data/publish/ranking/import/`.
+- Unmatched PubMeeple titles are treated as an error.
+- Tier rows not present in the PubMeeple file are appended after matched rows in their existing order.
