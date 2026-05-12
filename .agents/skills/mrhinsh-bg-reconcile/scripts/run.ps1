@@ -5,10 +5,12 @@
 .DESCRIPTION
     1. Reads the normalized snapshot produced by mrhinsh-bg-fetch.
     2. Loads the existing canonical games list.
-    3. For each game in the snapshot:
-         - Existing game: updates only safe metadata fields. Never clears or lowers a
-           locally-set rating. Play count is raised if BGG reports more plays.
-         - New game: adds to canonical with rating = 0 and appends to intake.
+        3. For each game in the snapshot:
+                 - Existing game: updates only safe metadata fields. Never clears or lowers a
+                     locally-set rating. If canonical is still unrated, seed from BGG's personal rating.
+                     Play count is raised if BGG reports more plays.
+                 - New game: adds to canonical using BGG's personal rating when present; only unrated
+                     games are appended to intake.
     4. Writes the updated canonical file (sorted by group_key then name).
     5. Appends genuinely new games to the unrated intake (sorted by play count desc).
     6. Writes a reconciliation report with added/updated/unchanged counts.
@@ -110,6 +112,11 @@ foreach ($freshGame in $fresh) {
             $changed = $true
         }
 
+        if ([double]$existing.rating -le 0 -and [double]$freshGame.rating -gt 0) {
+            $existing.rating = [double]$freshGame.rating
+            $changed = $true
+        }
+
         if ($changed) { [void]$updated.Add([pscustomobject]@{ bgg_id = $id; name = $existing.name }) }
         else          { $unchanged++ }
 
@@ -120,7 +127,7 @@ foreach ($freshGame in $fresh) {
             bgg_id         = $id
             name           = $freshGame.name
             year_published = $freshGame.year_published
-            rating         = 0.0
+            rating         = [double]$freshGame.rating
             num_plays      = $freshGame.num_plays
             collection     = [bool]$freshGame.collection
             previously_owned = [bool]$freshGame.previously_owned
@@ -154,6 +161,10 @@ if ($added.Count -gt 0) {
         $id = [int]$_.bgg_id
         if ($intakeIds -notcontains $id) {
             $g = $canonicalByBggId[$id]
+            if ([double]$g.rating -gt 0) {
+                return
+            }
+
             [pscustomobject]@{
                 group_key      = $g.group_key
                 bgg_id         = $id

@@ -154,7 +154,7 @@ $browserHeaders = @{
     Cookie = $cookieString
 }
 
-function Get-BggCollectionItem {
+function Get-BggCollectionItems {
     param(
         [Parameter(Mandatory = $true)]
         [string]$Username,
@@ -184,11 +184,11 @@ function Get-BggCollectionItem {
         [xml]$xml = $response.Content
         $items = @($xml.items.item)
         if ($items.Count -eq 0) {
-            return $null
+            return @()
         }
 
-        # We requested a single game id, but keep this defensive.
-        return ($items | Where-Object { [int]$_.objectid -eq $GameId } | Select-Object -First 1)
+        # BGG can return multiple collection rows for the same game id when duplicate copies exist.
+        return @($items | Where-Object { [int]$_.objectid -eq $GameId })
     }
 
     throw 'BGG collection lookup timed out while waiting for prepared data.'
@@ -196,21 +196,24 @@ function Get-BggCollectionItem {
 
 $baseHeaders = @{ Cookie = $cookieString }
 
-$collectionItem = Get-BggCollectionItem -Username $effectiveUsername -GameId $GameId -Endpoint $Endpoint -Headers $baseHeaders
-if ($null -eq $collectionItem) {
+$collectionItems = @(Get-BggCollectionItems -Username $effectiveUsername -GameId $GameId -Endpoint $Endpoint -Headers $baseHeaders)
+if ($collectionItems.Count -eq 0) {
     throw "Game $GameId is not present in $effectiveUsername's BGG collection. Add it to collection first, then set a rating."
 }
 
-$collId = [int]$collectionItem.collid
-if ($collId -le 0) {
-    throw "Could not resolve collection id (collid) for game $GameId."
+$collectionIds = @($collectionItems | ForEach-Object { [int]$_.collid } | Where-Object { $_ -gt 0 } | Select-Object -Unique)
+if ($collectionIds.Count -eq 0) {
+    throw "Could not resolve any collection ids (collid) for game $GameId."
 }
 
 $beforeRating = $null
-if ($collectionItem.stats -and $collectionItem.stats.rating -and $collectionItem.stats.rating.value) {
-    $value = [string]$collectionItem.stats.rating.value
-    if ($value -ne 'N/A') {
-        $beforeRating = [double]$value
+foreach ($collectionItem in $collectionItems) {
+    if ($collectionItem.stats -and $collectionItem.stats.rating -and $collectionItem.stats.rating.value) {
+        $value = [string]$collectionItem.stats.rating.value
+        if ($value -ne 'N/A') {
+            $beforeRating = [double]$value
+            break
+        }
     }
 }
 
@@ -219,53 +222,61 @@ foreach ($entry in $browserHeaders.GetEnumerator()) {
     $editDataHeaders[$entry.Key] = $entry.Value
 }
 
-$editDataUri = "$Endpoint/geekcollection.php?cellid=9&collid=$collId&fieldname=rating&objecttype=thing&objectid=$GameId&ajax=1&action=editdata"
-$editDataResponse = Invoke-WebRequest -Uri $editDataUri -Method Get -Headers $editDataHeaders
-if ($editDataResponse.StatusCode -ne 200) {
-    throw "BGG editdata lookup failed with HTTP $($editDataResponse.StatusCode)."
+$response = $null
+foreach ($collId in $collectionIds) {
+    $editDataUri = "$Endpoint/geekcollection.php?cellid=9&collid=$collId&fieldname=rating&objecttype=thing&objectid=$GameId&ajax=1&action=editdata"
+    $editDataResponse = Invoke-WebRequest -Uri $editDataUri -Method Get -Headers $editDataHeaders
+    if ($editDataResponse.StatusCode -ne 200) {
+        throw "BGG editdata lookup failed with HTTP $($editDataResponse.StatusCode) for collid $collId."
+    }
+
+    $formHeaders = @{}
+    foreach ($entry in $browserHeaders.GetEnumerator()) {
+        $formHeaders[$entry.Key] = $entry.Value
+    }
+    $formHeaders['content-type'] = 'application/x-www-form-urlencoded; charset=UTF-8'
+    $formHeaders['Origin'] = $Endpoint
+    $ratingText = $Rating.ToString('0.###', [System.Globalization.CultureInfo]::InvariantCulture)
+    $form = @{
+        fieldname = 'rating'
+        collid = $collId
+        objecttype = 'thing'
+        objectid = "$GameId"
+        rating = $ratingText
+        B1 = 'Cancel'
+        ajax = 1
+        action = 'savedata'
+    }
+
+    $response = Invoke-WebRequest `
+        -Uri "$Endpoint/geekcollection.php" `
+        -Method Post `
+        -Headers $formHeaders `
+        -Body $form
+
+    if ($response.StatusCode -ne 200) {
+        throw "BGG rating update failed with HTTP $($response.StatusCode) for collid $collId."
+    }
 }
 
-$formHeaders = @{}
-foreach ($entry in $browserHeaders.GetEnumerator()) {
-    $formHeaders[$entry.Key] = $entry.Value
-}
-$formHeaders['content-type'] = 'application/x-www-form-urlencoded; charset=UTF-8'
-$formHeaders['Origin'] = $Endpoint
-$ratingText = $Rating.ToString('0.###', [System.Globalization.CultureInfo]::InvariantCulture)
-$form = @{
-    fieldname = 'rating'
-    collid = $collId
-    objecttype = 'thing'
-    objectid = "$GameId"
-    rating = $ratingText
-    B1 = 'Cancel'
-    ajax = 1
-    action = 'savedata'
-}
-
-$response = Invoke-WebRequest `
-    -Uri "$Endpoint/geekcollection.php" `
-    -Method Post `
-    -Headers $formHeaders `
-    -Body $form
-
-if ($response.StatusCode -ne 200) {
-    throw "BGG rating update failed with HTTP $($response.StatusCode)."
-}
-
-$updatedItem = Get-BggCollectionItem -Username $effectiveUsername -GameId $GameId -Endpoint $Endpoint -Headers $baseHeaders
+$updatedItems = @(Get-BggCollectionItems -Username $effectiveUsername -GameId $GameId -Endpoint $Endpoint -Headers $baseHeaders)
 $afterRating = $null
-if ($updatedItem -and $updatedItem.stats -and $updatedItem.stats.rating -and $updatedItem.stats.rating.value) {
-    $value = [string]$updatedItem.stats.rating.value
-    if ($value -ne 'N/A') {
-        $afterRating = [double]$value
+foreach ($updatedItem in $updatedItems) {
+    if ($updatedItem.stats -and $updatedItem.stats.rating -and $updatedItem.stats.rating.value) {
+        $value = [string]$updatedItem.stats.rating.value
+        if ($value -ne 'N/A') {
+            $afterRating = [double]$value
+            break
+        }
     }
 }
 
 [pscustomobject]@{
     StatusCode = $response.StatusCode
     GameId = $GameId
-    CollectionId = $collId
+    CollectionId = $collectionIds[0]
+    CollectionIds = @($collectionIds)
+    CollectionItemCount = $collectionIds.Count
     RatingBefore = $beforeRating
     RatingRequested = [double]$Rating
     RatingAfter = $afterRating

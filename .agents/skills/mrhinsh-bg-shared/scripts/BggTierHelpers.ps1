@@ -204,6 +204,89 @@ function Get-CanonicalGameMap {
     return $map
 }
 
+function Get-EquivalentGamesConfig {
+    param(
+        [Parameter(Mandatory = $true)]
+        [string]$Path
+    )
+
+    $items = @(Read-JsonFile -Path $Path -Default @())
+    $aliasToPrimary = @{}
+    $groupByPrimary = @{}
+
+    foreach ($item in $items) {
+        $primaryId = if ($item.PSObject.Properties['primary_bgg_id']) { [int]$item.primary_bgg_id } else { 0 }
+        if ($primaryId -le 0) {
+            throw "Equivalent games entry is missing a valid primary_bgg_id in $Path"
+        }
+
+        $ids = [System.Collections.Generic.List[int]]::new()
+        [void]$ids.Add($primaryId)
+
+        foreach ($linkedId in @($item.linked_bgg_ids)) {
+            $normalizedId = [int]$linkedId
+            if ($normalizedId -le 0) {
+                continue
+            }
+
+            if ($normalizedId -eq $primaryId) {
+                continue
+            }
+
+            [void]$ids.Add($normalizedId)
+        }
+
+        $groupIds = @($ids | Select-Object -Unique)
+        foreach ($groupId in $groupIds) {
+            if ($aliasToPrimary.ContainsKey($groupId) -and $aliasToPrimary[$groupId] -ne $primaryId) {
+                throw "Equivalent game id $groupId is assigned to multiple primary ids in $Path"
+            }
+
+            $aliasToPrimary[$groupId] = $primaryId
+        }
+
+        $groupByPrimary[$primaryId] = $groupIds
+    }
+
+    [pscustomobject]@{
+        AliasToPrimary = $aliasToPrimary
+        GroupByPrimary = $groupByPrimary
+    }
+}
+
+function Resolve-EquivalentGameId {
+    param(
+        [Parameter(Mandatory = $true)]
+        [int]$GameId,
+
+        [Parameter(Mandatory = $true)]
+        [object]$EquivalentGames
+    )
+
+    if ($EquivalentGames.AliasToPrimary.ContainsKey($GameId)) {
+        return [int]$EquivalentGames.AliasToPrimary[$GameId]
+    }
+
+    return $GameId
+}
+
+function Get-EquivalentGameIds {
+    param(
+        [Parameter(Mandatory = $true)]
+        [int]$GameId,
+
+        [Parameter(Mandatory = $true)]
+        [object]$EquivalentGames
+    )
+
+    $primaryId = Resolve-EquivalentGameId -GameId $GameId -EquivalentGames $EquivalentGames
+    if ($EquivalentGames.GroupByPrimary.ContainsKey($primaryId)) {
+        return @($EquivalentGames.GroupByPrimary[$primaryId])
+    }
+
+    return @($primaryId)
+}
+
 function Import-TabularData {
     param(
         [Parameter(Mandatory = $true)]

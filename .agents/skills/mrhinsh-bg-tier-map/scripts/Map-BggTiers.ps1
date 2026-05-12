@@ -1,6 +1,7 @@
 [CmdletBinding()]
 param(
     [string]$CanonicalPath = '.\data\working\canonical\games.json',
+    [string]$EquivalentGamesPath = '.\data\working\canonical\equivalent-games.json',
     [string]$MembershipPath = '.\data\working\ranking\tier-membership.json',
     [string]$TiersPath = '.\data\working\ranking\tiers.json',
     [string]$TierExportJson = '.\data\publish\tiers\tier-engine-export.json',
@@ -19,15 +20,38 @@ if ($canonical.Count -eq 0) {
     throw "Canonical file is empty or missing: $CanonicalPath"
 }
 
+$equivalentGames = Get-EquivalentGamesConfig -Path $EquivalentGamesPath
+
 $existingMembership = @(Read-JsonFile -Path $MembershipPath -Default @())
 $existingById = @{}
 foreach ($item in $existingMembership) {
-    $existingById[[int]$item.bgg_id] = $item
+    $identityId = Resolve-EquivalentGameId -GameId ([int]$item.bgg_id) -EquivalentGames $equivalentGames
+    if (-not $existingById.ContainsKey($identityId) -or [int]$item.bgg_id -eq $identityId) {
+        $existingById[$identityId] = $item
+    }
 }
 
-$membership = foreach ($game in ($canonical | Sort-Object @{ Expression = { [double]$_.rating }; Descending = $true }, @{ Expression = { [int]$_.num_plays }; Descending = $true }, name)) {
-    $gameId = [int]$game.bgg_id
-    $currentRating = [double]$game.rating
+$canonicalGroups = @{}
+foreach ($game in $canonical) {
+    $identityId = Resolve-EquivalentGameId -GameId ([int]$game.bgg_id) -EquivalentGames $equivalentGames
+    if (-not $canonicalGroups.ContainsKey($identityId)) {
+        $canonicalGroups[$identityId] = [System.Collections.Generic.List[object]]::new()
+    }
+
+    [void]$canonicalGroups[$identityId].Add($game)
+}
+
+$membership = foreach ($group in ($canonicalGroups.GetEnumerator() | Sort-Object Name)) {
+    $games = @($group.Value)
+    $gameId = [int]$group.Key
+    $representative = @($games | Where-Object { [int]$_.bgg_id -eq $gameId } | Select-Object -First 1)
+    if ($representative.Count -eq 0) {
+        $representative = @($games | Sort-Object @{ Expression = { [double]$_.rating }; Descending = $true }, @{ Expression = { [int]$_.num_plays }; Descending = $true }, name | Select-Object -First 1)
+    }
+
+    $game = $representative[0]
+    $currentRating = @($games | ForEach-Object { [double]$_.rating } | Measure-Object -Maximum).Maximum
+    $numPlays = @($games | ForEach-Object { [int]$_.num_plays } | Measure-Object -Maximum).Maximum
     $existing = $existingById[$gameId]
     $existingTier = if ($null -ne $existing -and $existing.PSObject.Properties['tier']) { [string]$existing.tier } else { '' }
     $existingBucket = if ($null -ne $existing -and $existing.PSObject.Properties['source_bucket']) { [int]$existing.source_bucket } else { -1 }
@@ -56,12 +80,18 @@ $membership = foreach ($game in ($canonical | Sort-Object @{ Expression = { [dou
         $rankInTier = $existing.rank_in_tier
     }
 
-    $collection = if ($game.PSObject.Properties['collection']) { [bool]$game.collection } else { $null }
-    $previouslyOwned = if ($game.PSObject.Properties['previously_owned']) { [bool]$game.previously_owned } else { $null }
-    $wantToPlay = if ($game.PSObject.Properties['want_to_play']) { [bool]$game.want_to_play } else { $null }
-    $wantToBuy = if ($game.PSObject.Properties['want_to_buy']) { [bool]$game.want_to_buy } else { $null }
-    $collectionToExit = if ($game.PSObject.Properties['collection_to_exit']) { [bool]$game.collection_to_exit } else { $null }
-    $collectionStatus = if ($game.PSObject.Properties['collection_status']) { [string]$game.collection_status } else { '' }
+    $collection = @($games | Where-Object { $_.PSObject.Properties['collection'] -and [bool]$_.collection }).Count -gt 0
+    $previouslyOwned = @($games | Where-Object { $_.PSObject.Properties['previously_owned'] -and [bool]$_.previously_owned }).Count -gt 0
+    $wantToPlay = @($games | Where-Object { $_.PSObject.Properties['want_to_play'] -and [bool]$_.want_to_play }).Count -gt 0
+    $wantToBuy = @($games | Where-Object { $_.PSObject.Properties['want_to_buy'] -and [bool]$_.want_to_buy }).Count -gt 0
+    $collectionToExit = @($games | Where-Object { $_.PSObject.Properties['collection_to_exit'] -and [bool]$_.collection_to_exit }).Count -gt 0
+
+    $collectionStatus = 'NotOwned'
+    if ($collectionToExit) {
+        $collectionStatus = 'OwnedToExit'
+    } elseif ($collection) {
+        $collectionStatus = 'Owned'
+    }
 
     [pscustomobject]@{
         tier = $tier
@@ -72,7 +102,7 @@ $membership = foreach ($game in ($canonical | Sort-Object @{ Expression = { [dou
         bgg_id = $gameId
         name = [string]$game.name
         current_rating = $currentRating
-        num_plays = [int]$game.num_plays
+        num_plays = $numPlays
         collection = $collection
         previously_owned = $previouslyOwned
         want_to_play = $wantToPlay
@@ -88,6 +118,7 @@ $membership = foreach ($game in ($canonical | Sort-Object @{ Expression = { [dou
         categories = @($game.categories)
         mechanics = @($game.mechanics)
         bgg_game_url = Get-BggGameUrl -GameId $gameId
+        linked_bgg_ids = @(Get-EquivalentGameIds -GameId $gameId -EquivalentGames $equivalentGames)
         mapped_at = (Get-Date -Format 'o')
     }
 }

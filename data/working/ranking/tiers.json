@@ -2,81 +2,78 @@
   {
     "tier": "S",
     "tier_sort": 0,
-    "count": 24,
+    "count": 27,
     "source_buckets": [
       {
         "bucket": 10,
-        "count": 24
+        "count": 27
       }
     ]
   },
   {
     "tier": "A",
     "tier_sort": 1,
-    "count": 64,
+    "count": 73,
     "source_buckets": [
       {
         "bucket": 9,
-        "count": 64
+        "count": 73
       }
     ]
   },
   {
     "tier": "B",
     "tier_sort": 2,
-    "count": 76,
+    "count": 99,
     "source_buckets": [
       {
         "bucket": 8,
-        "count": 76
+        "count": 99
       }
     ]
   },
   {
     "tier": "C",
     "tier_sort": 3,
-    "count": 66,
+    "count": 98,
     "source_buckets": [
       {
         "bucket": 7,
-        "count": 66
+        "count": 98
       }
     ]
   },
   {
     "tier": "D",
     "tier_sort": 4,
-    "count": 20,
+    "count": 57,
     "source_buckets": [
       {
         "bucket": 6,
-        "count": 20
+        "count": 57
       }
     ]
   },
   {
     "tier": "F",
     "tier_sort": 5,
-    "count": 6,
+    "count": 25,
     "source_buckets": [
       {
         "bucket": 5,
-        "count": 5
+        "count": 14
       },
       {
         "bucket": 4,
-        "count": 1
-      }
-    ]
-  },
-  {
-    "tier": "U",
-    "tier_sort": 6,
-    "count": 116,
-    "source_buckets": [
+        "count": 5
+      },
       {
-        "bucket": 0,
-        "count": 116
+        "bucket": 3,
+        "count": 4
+      },
+      {
+        "bucket": 1,
+        "count": 2
       }
     ]
   }

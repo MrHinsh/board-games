@@ -2,6 +2,7 @@
 param(
     [string]$MembershipPath = '.\data\working\ranking\tier-membership.json',
     [string]$CanonicalPath = '.\data\working\canonical\games.json',
+    [string]$EquivalentGamesPath = '.\data\working\canonical\equivalent-games.json',
     [string]$RankOrderPath = '.\data\working\ranking\rank-order.json',
     [string]$PendingRatingUpdatesPath = '.\data\publish\queue\pending-rating-updates.json',
     [string]$ImportPath,
@@ -23,6 +24,8 @@ $canonicalById = @{}
 foreach ($game in $canonical) {
     $canonicalById[[int]$game.bgg_id] = $game
 }
+
+$equivalentGames = Get-EquivalentGamesConfig -Path $EquivalentGamesPath
 
 $importedById = @{}
 if ($ImportPath) {
@@ -117,26 +120,32 @@ $membership = @($membership | Sort-Object tier_sort, @{ Expression = { [int]$_.s
 Write-JsonFile -Path $MembershipPath -Value $membership
 Write-JsonFile -Path $RankOrderPath -Value @($rankOrder)
 
-$pendingUpdates = @($rankOrder | Where-Object { [math]::Abs([double]$_.delta) -gt 0.0005 } | ForEach-Object {
-    [pscustomobject]@{
-        bgg_id = [int]$_.bgg_id
-        name = [string]$_.name
-        tier = [string]$_.tier
-        source_bucket = [int]$_.source_bucket
-        rank_in_tier = [int]$_.rank_in_tier
-        current_rating = [double]$_.current_rating
-        target_rating = [double]$_.proposed_rating
-        delta = [double]$_.delta
-        status = 'queued'
+$pendingUpdates = [System.Collections.Generic.List[object]]::new()
+foreach ($row in ($rankOrder | Where-Object { [math]::Abs([double]$_.delta) -gt 0.0005 })) {
+    foreach ($targetGameId in (Get-EquivalentGameIds -GameId ([int]$row.bgg_id) -EquivalentGames $equivalentGames)) {
+        $targetGame = if ($canonicalById.ContainsKey([int]$targetGameId)) { $canonicalById[[int]$targetGameId] } else { $null }
+        $currentRating = if ($null -ne $targetGame) { [double]$targetGame.rating } else { [double]$row.current_rating }
+        [void]$pendingUpdates.Add([pscustomobject]@{
+            bgg_id = [int]$targetGameId
+            name = if ($null -ne $targetGame) { [string]$targetGame.name } else { [string]$row.name }
+            tier = [string]$row.tier
+            source_bucket = [int]$row.source_bucket
+            rank_in_tier = [int]$row.rank_in_tier
+            current_rating = $currentRating
+            target_rating = [double]$row.proposed_rating
+            delta = [math]::Round(([double]$row.proposed_rating - $currentRating), 3)
+            status = 'queued'
+        })
     }
-})
+}
 Write-JsonFile -Path $PendingRatingUpdatesPath -Value $pendingUpdates
 
 if (-not $QueueOnly) {
     foreach ($row in $rankOrder) {
-        $id = [int]$row.bgg_id
-        if ($canonicalById.ContainsKey($id)) {
-            $canonicalById[$id].rating = [double]$row.proposed_rating
+        foreach ($id in (Get-EquivalentGameIds -GameId ([int]$row.bgg_id) -EquivalentGames $equivalentGames)) {
+            if ($canonicalById.ContainsKey([int]$id)) {
+                $canonicalById[[int]$id].rating = [double]$row.proposed_rating
+            }
         }
     }
 

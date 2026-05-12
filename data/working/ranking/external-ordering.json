@@ -448,6 +448,69 @@
     "import_file": "tier-A-ranking.csv"
   },
   {
+    "tier": "A",
+    "source_bucket": 9,
+    "bgg_id": 28143,
+    "rank_in_tier": 65,
+    "import_file": "tier-A-ranking.csv"
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "bgg_id": 193037,
+    "rank_in_tier": 66,
+    "import_file": "tier-A-ranking.csv"
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "bgg_id": 224783,
+    "rank_in_tier": 67,
+    "import_file": "tier-A-ranking.csv"
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "bgg_id": 9609,
+    "rank_in_tier": 68,
+    "import_file": "tier-A-ranking.csv"
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "bgg_id": 170216,
+    "rank_in_tier": 69,
+    "import_file": "tier-A-ranking.csv"
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "bgg_id": 43111,
+    "rank_in_tier": 70,
+    "import_file": "tier-A-ranking.csv"
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "bgg_id": 256730,
+    "rank_in_tier": 71,
+    "import_file": "tier-A-ranking.csv"
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "bgg_id": 265017,
+    "rank_in_tier": 72,
+    "import_file": "tier-A-ranking.csv"
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "bgg_id": 247763,
+    "rank_in_tier": 73,
+    "import_file": "tier-A-ranking.csv"
+  },
+  {
     "tier": "S",
     "source_bucket": 10,
     "bgg_id": 381715,
@@ -611,8 +674,29 @@
   {
     "tier": "S",
     "source_bucket": 10,
-    "bgg_id": 229853,
+    "bgg_id": 270239,
     "rank_in_tier": 24,
+    "import_file": "tier-S-ranking.csv"
+  },
+  {
+    "tier": "S",
+    "source_bucket": 10,
+    "bgg_id": 270408,
+    "rank_in_tier": 25,
+    "import_file": "tier-S-ranking.csv"
+  },
+  {
+    "tier": "S",
+    "source_bucket": 10,
+    "bgg_id": 72125,
+    "rank_in_tier": 26,
+    "import_file": "tier-S-ranking.csv"
+  },
+  {
+    "tier": "S",
+    "source_bucket": 10,
+    "bgg_id": 132531,
+    "rank_in_tier": 27,
     "import_file": "tier-S-ranking.csv"
   }
 ]
