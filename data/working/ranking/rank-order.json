@@ -3,7 +3,7 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 1,
-    "tier_count": 74,
+    "tier_count": 66,
     "bgg_id": 325494,
     "name": "ISS Vanguard",
     "current_rating": 8.999,
@@ -15,2113 +15,2113 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 2,
-    "tier_count": 74,
+    "tier_count": 66,
     "bgg_id": 284378,
     "name": "Kanban EV",
     "current_rating": 8.985,
-    "proposed_rating": 8.985,
+    "proposed_rating": 8.984,
     "num_plays": 2,
-    "delta": 0.0
+    "delta": -0.001
   },
   {
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 3,
-    "tier_count": 74,
+    "tier_count": 66,
     "bgg_id": 310100,
     "name": "Nemesis: Lockdown",
-    "current_rating": 8.971,
-    "proposed_rating": 8.972,
+    "current_rating": 8.972,
+    "proposed_rating": 8.968,
     "num_plays": 2,
-    "delta": 0.001
+    "delta": -0.004
   },
   {
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 4,
-    "tier_count": 74,
+    "tier_count": 66,
     "bgg_id": 184267,
     "name": "On Mars",
-    "current_rating": 8.957,
-    "proposed_rating": 8.958,
+    "current_rating": 8.958,
+    "proposed_rating": 8.953,
     "num_plays": 3,
-    "delta": 0.001
+    "delta": -0.005
   },
   {
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 5,
-    "tier_count": 74,
+    "tier_count": 66,
     "bgg_id": 202426,
     "name": "Sidereal Confluence",
     "current_rating": 8.944,
-    "proposed_rating": 8.944,
+    "proposed_rating": 8.938,
     "num_plays": 3,
-    "delta": 0.0
+    "delta": -0.006
   },
   {
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 6,
-    "tier_count": 74,
+    "tier_count": 66,
     "bgg_id": 250467,
     "name": "Red Alert: Space Fleet Warfare",
-    "current_rating": 8.93,
-    "proposed_rating": 8.931,
+    "current_rating": 8.931,
+    "proposed_rating": 8.922,
     "num_plays": 3,
-    "delta": 0.001
+    "delta": -0.009
   },
   {
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 7,
-    "tier_count": 74,
+    "tier_count": 66,
     "bgg_id": 237179,
     "name": "Weather Machine",
-    "current_rating": 8.916,
-    "proposed_rating": 8.917,
+    "current_rating": 8.917,
+    "proposed_rating": 8.907,
     "num_plays": 6,
-    "delta": 0.001
+    "delta": -0.01
   },
   {
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 8,
-    "tier_count": 74,
+    "tier_count": 66,
     "bgg_id": 299450,
     "name": "Tsukuyumi: Full Moon Down (Second Edition)",
-    "current_rating": 8.902,
-    "proposed_rating": 8.903,
+    "current_rating": 8.903,
+    "proposed_rating": 8.891,
+    "num_plays": 2,
+    "delta": -0.012
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 9,
+    "tier_count": 66,
+    "bgg_id": 155065,
+    "name": "Lifeform",
+    "current_rating": 8.89,
+    "proposed_rating": 8.876,
+    "num_plays": 3,
+    "delta": -0.014
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 10,
+    "tier_count": 66,
+    "bgg_id": 172047,
+    "name": "The Others",
+    "current_rating": 8.876,
+    "proposed_rating": 8.861,
+    "num_plays": 1,
+    "delta": -0.015
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 11,
+    "tier_count": 66,
+    "bgg_id": 292126,
+    "name": "Excavation Earth",
+    "current_rating": 8.862,
+    "proposed_rating": 8.845,
+    "num_plays": 2,
+    "delta": -0.017
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 12,
+    "tier_count": 66,
+    "bgg_id": 349948,
+    "name": "Ceres",
+    "current_rating": 8.848,
+    "proposed_rating": 8.83,
+    "num_plays": 2,
+    "delta": -0.018
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 13,
+    "tier_count": 66,
+    "bgg_id": 216132,
+    "name": "Clans of Caledonia",
+    "current_rating": 8.835,
+    "proposed_rating": 8.815,
+    "num_plays": 20,
+    "delta": -0.02
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 14,
+    "tier_count": 66,
+    "bgg_id": 321608,
+    "name": "Hegemony: Lead Your Class to Victory",
+    "current_rating": 8.821,
+    "proposed_rating": 8.799,
+    "num_plays": 3,
+    "delta": -0.022
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 15,
+    "tier_count": 66,
+    "bgg_id": 260923,
+    "name": "Titan",
+    "current_rating": 8.807,
+    "proposed_rating": 8.784,
+    "num_plays": 1,
+    "delta": -0.023
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 16,
+    "tier_count": 66,
+    "bgg_id": 115746,
+    "name": "War of the Ring: Second Edition",
+    "current_rating": 8.794,
+    "proposed_rating": 8.768,
+    "num_plays": 1,
+    "delta": -0.026
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 17,
+    "tier_count": 66,
+    "bgg_id": 356414,
+    "name": "Space Station Phoenix",
+    "current_rating": 8.78,
+    "proposed_rating": 8.753,
+    "num_plays": 6,
+    "delta": -0.027
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 18,
+    "tier_count": 66,
+    "bgg_id": 228341,
+    "name": "Pulsar 2849",
+    "current_rating": 8.766,
+    "proposed_rating": 8.738,
+    "num_plays": 3,
+    "delta": -0.028
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 19,
+    "tier_count": 66,
+    "bgg_id": 373600,
+    "name": "Cthulhu: Death May Die – Fear of the Unknown",
+    "current_rating": 8.753,
+    "proposed_rating": 8.722,
+    "num_plays": 1,
+    "delta": -0.031
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 20,
+    "tier_count": 66,
+    "bgg_id": 257089,
+    "name": "Big Trouble in Little China: The Game – Deluxe Edition",
+    "current_rating": 8.739,
+    "proposed_rating": 8.707,
+    "num_plays": 4,
+    "delta": -0.032
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 21,
+    "tier_count": 66,
+    "bgg_id": 266810,
+    "name": "Paladins of the West Kingdom",
+    "current_rating": 8.725,
+    "proposed_rating": 8.692,
+    "num_plays": 2,
+    "delta": -0.033
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 22,
+    "tier_count": 66,
+    "bgg_id": 306481,
+    "name": "Tawantinsuyu: The Inca Empire",
+    "current_rating": 8.712,
+    "proposed_rating": 8.676,
+    "num_plays": 3,
+    "delta": -0.036
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 23,
+    "tier_count": 66,
+    "bgg_id": 220308,
+    "name": "Gaia Project",
+    "current_rating": 8.698,
+    "proposed_rating": 8.661,
+    "num_plays": 11,
+    "delta": -0.037
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 24,
+    "tier_count": 66,
+    "bgg_id": 218509,
+    "name": "Empires of the Void II",
+    "current_rating": 8.684,
+    "proposed_rating": 8.646,
+    "num_plays": 3,
+    "delta": -0.038
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 25,
+    "tier_count": 66,
+    "bgg_id": 233868,
+    "name": "HATE",
+    "current_rating": 8.671,
+    "proposed_rating": 8.63,
+    "num_plays": 1,
+    "delta": -0.041
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 26,
+    "tier_count": 66,
+    "bgg_id": 126163,
+    "name": "Tzolk'in: The Mayan Calendar",
+    "current_rating": 8.657,
+    "proposed_rating": 8.615,
+    "num_plays": 4,
+    "delta": -0.042
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 27,
+    "tier_count": 66,
+    "bgg_id": 257499,
+    "name": "Arkham Horror (Third Edition)",
+    "current_rating": 8.643,
+    "proposed_rating": 8.599,
+    "num_plays": 3,
+    "delta": -0.044
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 28,
+    "tier_count": 66,
+    "bgg_id": 317985,
+    "name": "Beyond the Sun",
+    "current_rating": 8.63,
+    "proposed_rating": 8.584,
+    "num_plays": 6,
+    "delta": -0.046
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 29,
+    "tier_count": 66,
+    "bgg_id": 265188,
+    "name": "Glen More II: Chronicles",
+    "current_rating": 8.616,
+    "proposed_rating": 8.569,
+    "num_plays": 4,
+    "delta": -0.047
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 30,
+    "tier_count": 66,
+    "bgg_id": 172287,
+    "name": "Champions of Midgard",
+    "current_rating": 8.602,
+    "proposed_rating": 8.553,
+    "num_plays": 7,
+    "delta": -0.049
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 31,
+    "tier_count": 66,
+    "bgg_id": 220792,
+    "name": "The Expanse Board Game",
+    "current_rating": 8.588,
+    "proposed_rating": 8.538,
+    "num_plays": 6,
+    "delta": -0.05
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 32,
+    "tier_count": 66,
+    "bgg_id": 167791,
+    "name": "Terraforming Mars",
+    "current_rating": 8.575,
+    "proposed_rating": 8.523,
+    "num_plays": 15,
+    "delta": -0.052
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 33,
+    "tier_count": 66,
+    "bgg_id": 350458,
+    "name": "Terracotta Army",
+    "current_rating": 8.561,
+    "proposed_rating": 8.507,
+    "num_plays": 1,
+    "delta": -0.054
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 34,
+    "tier_count": 66,
+    "bgg_id": 262941,
+    "name": "Dominant Species: Marine",
+    "current_rating": 8.547,
+    "proposed_rating": 8.492,
+    "num_plays": 1,
+    "delta": -0.055
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 35,
+    "tier_count": 66,
+    "bgg_id": 39463,
+    "name": "Cosmic Encounter",
+    "current_rating": 8.534,
+    "proposed_rating": 8.476,
+    "num_plays": 8,
+    "delta": -0.058
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 36,
+    "tier_count": 66,
+    "bgg_id": 155821,
+    "name": "Inis",
+    "current_rating": 8.52,
+    "proposed_rating": 8.461,
+    "num_plays": 5,
+    "delta": -0.059
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 37,
+    "tier_count": 66,
+    "bgg_id": 205637,
+    "name": "Arkham Horror: The Card Game",
+    "current_rating": 8.506,
+    "proposed_rating": 8.446,
+    "num_plays": 1,
+    "delta": -0.06
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 38,
+    "tier_count": 66,
+    "bgg_id": 295293,
+    "name": "The Thing: The Boardgame",
+    "current_rating": 8.493,
+    "proposed_rating": 8.43,
+    "num_plays": 1,
+    "delta": -0.063
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 39,
+    "tier_count": 66,
+    "bgg_id": 408253,
+    "name": "Tiny Epic Cthulhu: Deluxe Edition",
+    "current_rating": 8.479,
+    "proposed_rating": 8.415,
+    "num_plays": 1,
+    "delta": -0.064
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 40,
+    "tier_count": 66,
+    "bgg_id": 417197,
+    "name": "Rebirth",
+    "current_rating": 8.465,
+    "proposed_rating": 8.4,
+    "num_plays": 3,
+    "delta": -0.065
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 41,
+    "tier_count": 66,
+    "bgg_id": 236457,
+    "name": "Architects of the West Kingdom",
+    "current_rating": 8.452,
+    "proposed_rating": 8.384,
+    "num_plays": 13,
+    "delta": -0.068
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 42,
+    "tier_count": 66,
+    "bgg_id": 198609,
+    "name": "Fate of the Elder Gods",
+    "current_rating": 8.438,
+    "proposed_rating": 8.369,
+    "num_plays": 1,
+    "delta": -0.069
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 43,
+    "tier_count": 66,
+    "bgg_id": 138161,
+    "name": "Firefly: The Game",
+    "current_rating": 8.424,
+    "proposed_rating": 8.353,
+    "num_plays": 3,
+    "delta": -0.071
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 44,
+    "tier_count": 66,
+    "bgg_id": 62219,
+    "name": "Dominant Species",
+    "current_rating": 8.411,
+    "proposed_rating": 8.338,
+    "num_plays": 1,
+    "delta": -0.073
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 45,
+    "tier_count": 66,
+    "bgg_id": 146021,
+    "name": "Eldritch Horror",
+    "current_rating": 8.397,
+    "proposed_rating": 8.323,
+    "num_plays": 1,
+    "delta": -0.074
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 46,
+    "tier_count": 66,
+    "bgg_id": 328871,
+    "name": "Terraforming Mars: Ares Expedition",
+    "current_rating": 8.383,
+    "proposed_rating": 8.307,
+    "num_plays": 3,
+    "delta": -0.076
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 47,
+    "tier_count": 66,
+    "bgg_id": 319966,
+    "name": "The King Is Dead: Second Edition",
+    "current_rating": 8.369,
+    "proposed_rating": 8.292,
+    "num_plays": 2,
+    "delta": -0.077
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 48,
+    "tier_count": 66,
+    "bgg_id": 312251,
+    "name": "Curious Cargo",
+    "current_rating": 8.356,
+    "proposed_rating": 8.277,
+    "num_plays": 2,
+    "delta": -0.079
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 49,
+    "tier_count": 66,
+    "bgg_id": 329148,
+    "name": "Hunted: Wode Ridge",
+    "current_rating": 8.342,
+    "proposed_rating": 8.261,
+    "num_plays": 1,
+    "delta": -0.081
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 50,
+    "tier_count": 66,
+    "bgg_id": 289565,
+    "name": "Hunted: Mining Colony 415",
+    "current_rating": 8.328,
+    "proposed_rating": 8.246,
+    "num_plays": 4,
+    "delta": -0.082
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 51,
+    "tier_count": 66,
+    "bgg_id": 169786,
+    "name": "Scythe",
+    "current_rating": 8.315,
+    "proposed_rating": 8.231,
+    "num_plays": 7,
+    "delta": -0.084
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 52,
+    "tier_count": 66,
+    "bgg_id": 242302,
+    "name": "Space Base",
+    "current_rating": 8.301,
+    "proposed_rating": 8.215,
+    "num_plays": 8,
+    "delta": -0.086
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 53,
+    "tier_count": 66,
+    "bgg_id": 326485,
+    "name": "Cthulhu Wars: Duel",
+    "current_rating": 8.287,
+    "proposed_rating": 8.2,
+    "num_plays": 3,
+    "delta": -0.087
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 54,
+    "tier_count": 66,
+    "bgg_id": 3076,
+    "name": "Puerto Rico",
+    "current_rating": 8.274,
+    "proposed_rating": 8.184,
+    "num_plays": 12,
+    "delta": -0.09
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 55,
+    "tier_count": 66,
+    "bgg_id": 281258,
+    "name": "Sub Terra II: Inferno's Edge",
+    "current_rating": 8.26,
+    "proposed_rating": 8.169,
+    "num_plays": 2,
+    "delta": -0.091
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 56,
+    "tier_count": 66,
+    "bgg_id": 296237,
+    "name": "Warp's Edge",
+    "current_rating": 8.246,
+    "proposed_rating": 8.154,
+    "num_plays": 3,
+    "delta": -0.092
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 57,
+    "tier_count": 66,
+    "bgg_id": 298572,
+    "name": "Cosmic Encounter Duel",
+    "current_rating": 8.233,
+    "proposed_rating": 8.138,
+    "num_plays": 2,
+    "delta": -0.095
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 58,
+    "tier_count": 66,
+    "bgg_id": 247236,
+    "name": "Duelosaur Island",
+    "current_rating": 8.219,
+    "proposed_rating": 8.123,
+    "num_plays": 3,
+    "delta": -0.096
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 59,
+    "tier_count": 66,
+    "bgg_id": 232832,
+    "name": "Century: Golem Edition",
+    "current_rating": 8.164,
+    "proposed_rating": 8.108,
+    "num_plays": 22,
+    "delta": -0.056
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 60,
+    "tier_count": 66,
+    "bgg_id": 28143,
+    "name": "Race for the Galaxy",
+    "current_rating": 8.123,
+    "proposed_rating": 8.092,
+    "num_plays": 16,
+    "delta": -0.031
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 61,
+    "tier_count": 66,
+    "bgg_id": 224783,
+    "name": "Vindication",
+    "current_rating": 8.096,
+    "proposed_rating": 8.077,
+    "num_plays": 2,
+    "delta": -0.019
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 62,
+    "tier_count": 66,
+    "bgg_id": 9609,
+    "name": "War of the Ring",
+    "current_rating": 8.082,
+    "proposed_rating": 8.061,
+    "num_plays": 2,
+    "delta": -0.021
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 63,
+    "tier_count": 66,
+    "bgg_id": 43111,
+    "name": "Chaos in the Old World",
+    "current_rating": 8.055,
+    "proposed_rating": 8.046,
+    "num_plays": 1,
+    "delta": -0.009
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 64,
+    "tier_count": 66,
+    "bgg_id": 256730,
+    "name": "Pipeline",
+    "current_rating": 8.041,
+    "proposed_rating": 8.031,
+    "num_plays": 3,
+    "delta": -0.01
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 65,
+    "tier_count": 66,
+    "bgg_id": 247763,
+    "name": "Underwater Cities",
+    "current_rating": 8.014,
+    "proposed_rating": 8.015,
     "num_plays": 2,
     "delta": 0.001
   },
   {
     "tier": "A",
     "source_bucket": 9,
-    "rank_in_tier": 9,
-    "tier_count": 74,
-    "bgg_id": 155065,
-    "name": "Lifeform",
-    "current_rating": 8.888,
-    "proposed_rating": 8.89,
-    "num_plays": 3,
-    "delta": 0.002
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 10,
-    "tier_count": 74,
-    "bgg_id": 172047,
-    "name": "The Others",
-    "current_rating": 8.874,
-    "proposed_rating": 8.876,
-    "num_plays": 1,
-    "delta": 0.002
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 11,
-    "tier_count": 74,
-    "bgg_id": 292126,
-    "name": "Excavation Earth",
-    "current_rating": 8.86,
-    "proposed_rating": 8.862,
-    "num_plays": 2,
-    "delta": 0.002
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 12,
-    "tier_count": 74,
-    "bgg_id": 349948,
-    "name": "Ceres",
-    "current_rating": 8.846,
-    "proposed_rating": 8.848,
-    "num_plays": 2,
-    "delta": 0.002
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 13,
-    "tier_count": 74,
-    "bgg_id": 216132,
-    "name": "Clans of Caledonia",
-    "current_rating": 8.832,
-    "proposed_rating": 8.835,
-    "num_plays": 20,
-    "delta": 0.003
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 14,
-    "tier_count": 74,
-    "bgg_id": 321608,
-    "name": "Hegemony: Lead Your Class to Victory",
-    "current_rating": 8.819,
-    "proposed_rating": 8.821,
-    "num_plays": 3,
-    "delta": 0.002
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 15,
-    "tier_count": 74,
-    "bgg_id": 260923,
-    "name": "Titan",
-    "current_rating": 8.805,
-    "proposed_rating": 8.807,
-    "num_plays": 1,
-    "delta": 0.002
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 16,
-    "tier_count": 74,
-    "bgg_id": 115746,
-    "name": "War of the Ring: Second Edition",
-    "current_rating": 8.791,
-    "proposed_rating": 8.794,
-    "num_plays": 1,
-    "delta": 0.003
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 17,
-    "tier_count": 74,
-    "bgg_id": 356414,
-    "name": "Space Station Phoenix",
-    "current_rating": 8.777,
-    "proposed_rating": 8.78,
-    "num_plays": 6,
-    "delta": 0.003
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 18,
-    "tier_count": 74,
-    "bgg_id": 228341,
-    "name": "Pulsar 2849",
-    "current_rating": 8.763,
-    "proposed_rating": 8.766,
-    "num_plays": 3,
-    "delta": 0.003
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 19,
-    "tier_count": 74,
-    "bgg_id": 373600,
-    "name": "Cthulhu: Death May Die – Fear of the Unknown",
-    "current_rating": 8.749,
-    "proposed_rating": 8.753,
-    "num_plays": 1,
-    "delta": 0.004
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 20,
-    "tier_count": 74,
-    "bgg_id": 257089,
-    "name": "Big Trouble in Little China: The Game – Deluxe Edition",
-    "current_rating": 8.735,
-    "proposed_rating": 8.739,
-    "num_plays": 4,
-    "delta": 0.004
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 21,
-    "tier_count": 74,
-    "bgg_id": 266810,
-    "name": "Paladins of the West Kingdom",
-    "current_rating": 8.722,
-    "proposed_rating": 8.725,
-    "num_plays": 2,
-    "delta": 0.003
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 22,
-    "tier_count": 74,
-    "bgg_id": 306481,
-    "name": "Tawantinsuyu: The Inca Empire",
-    "current_rating": 8.708,
-    "proposed_rating": 8.712,
-    "num_plays": 3,
-    "delta": 0.004
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 23,
-    "tier_count": 74,
-    "bgg_id": 220308,
-    "name": "Gaia Project",
-    "current_rating": 8.694,
-    "proposed_rating": 8.698,
-    "num_plays": 11,
-    "delta": 0.004
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 24,
-    "tier_count": 74,
-    "bgg_id": 218509,
-    "name": "Empires of the Void II",
-    "current_rating": 8.68,
-    "proposed_rating": 8.684,
-    "num_plays": 3,
-    "delta": 0.004
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 25,
-    "tier_count": 74,
-    "bgg_id": 233868,
-    "name": "HATE",
-    "current_rating": 8.666,
-    "proposed_rating": 8.671,
-    "num_plays": 1,
-    "delta": 0.005
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 26,
-    "tier_count": 74,
-    "bgg_id": 126163,
-    "name": "Tzolk'in: The Mayan Calendar",
-    "current_rating": 8.652,
-    "proposed_rating": 8.657,
-    "num_plays": 4,
-    "delta": 0.005
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 27,
-    "tier_count": 74,
-    "bgg_id": 257499,
-    "name": "Arkham Horror (Third Edition)",
-    "current_rating": 8.638,
-    "proposed_rating": 8.643,
-    "num_plays": 3,
-    "delta": 0.005
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 28,
-    "tier_count": 74,
-    "bgg_id": 317985,
-    "name": "Beyond the Sun",
-    "current_rating": 8.624,
-    "proposed_rating": 8.63,
-    "num_plays": 6,
-    "delta": 0.006
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 29,
-    "tier_count": 74,
-    "bgg_id": 265188,
-    "name": "Glen More II: Chronicles",
-    "current_rating": 8.61,
-    "proposed_rating": 8.616,
-    "num_plays": 4,
-    "delta": 0.006
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 30,
-    "tier_count": 74,
-    "bgg_id": 172287,
-    "name": "Champions of Midgard",
-    "current_rating": 8.597,
-    "proposed_rating": 8.602,
-    "num_plays": 7,
-    "delta": 0.005
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 31,
-    "tier_count": 74,
-    "bgg_id": 220792,
-    "name": "The Expanse Board Game",
-    "current_rating": 8.583,
-    "proposed_rating": 8.588,
-    "num_plays": 6,
-    "delta": 0.005
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 32,
-    "tier_count": 74,
-    "bgg_id": 167791,
-    "name": "Terraforming Mars",
-    "current_rating": 8.569,
-    "proposed_rating": 8.575,
-    "num_plays": 15,
-    "delta": 0.006
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 33,
-    "tier_count": 74,
-    "bgg_id": 350458,
-    "name": "Terracotta Army",
-    "current_rating": 8.555,
-    "proposed_rating": 8.561,
-    "num_plays": 1,
-    "delta": 0.006
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 34,
-    "tier_count": 74,
-    "bgg_id": 262941,
-    "name": "Dominant Species: Marine",
-    "current_rating": 8.541,
-    "proposed_rating": 8.547,
-    "num_plays": 1,
-    "delta": 0.006
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 35,
-    "tier_count": 74,
-    "bgg_id": 39463,
-    "name": "Cosmic Encounter",
-    "current_rating": 8.527,
-    "proposed_rating": 8.534,
-    "num_plays": 8,
-    "delta": 0.007
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 36,
-    "tier_count": 74,
-    "bgg_id": 155821,
-    "name": "Inis",
-    "current_rating": 8.513,
-    "proposed_rating": 8.52,
-    "num_plays": 5,
-    "delta": 0.007
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 37,
-    "tier_count": 74,
-    "bgg_id": 205637,
-    "name": "Arkham Horror: The Card Game",
-    "current_rating": 8.5,
-    "proposed_rating": 8.506,
-    "num_plays": 1,
-    "delta": 0.006
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 38,
-    "tier_count": 74,
-    "bgg_id": 295293,
-    "name": "The Thing: The Boardgame",
-    "current_rating": 8.486,
-    "proposed_rating": 8.493,
-    "num_plays": 1,
-    "delta": 0.007
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 39,
-    "tier_count": 74,
-    "bgg_id": 408253,
-    "name": "Tiny Epic Cthulhu: Deluxe Edition",
-    "current_rating": 8.472,
-    "proposed_rating": 8.479,
-    "num_plays": 1,
-    "delta": 0.007
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 40,
-    "tier_count": 74,
-    "bgg_id": 417197,
-    "name": "Rebirth",
-    "current_rating": 8.458,
-    "proposed_rating": 8.465,
-    "num_plays": 3,
-    "delta": 0.007
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 41,
-    "tier_count": 74,
-    "bgg_id": 236457,
-    "name": "Architects of the West Kingdom",
-    "current_rating": 8.444,
-    "proposed_rating": 8.452,
-    "num_plays": 13,
-    "delta": 0.008
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 42,
-    "tier_count": 74,
-    "bgg_id": 198609,
-    "name": "Fate of the Elder Gods",
-    "current_rating": 8.43,
-    "proposed_rating": 8.438,
-    "num_plays": 1,
-    "delta": 0.008
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 43,
-    "tier_count": 74,
-    "bgg_id": 138161,
-    "name": "Firefly: The Game",
-    "current_rating": 8.416,
-    "proposed_rating": 8.424,
-    "num_plays": 3,
-    "delta": 0.008
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 44,
-    "tier_count": 74,
-    "bgg_id": 62219,
-    "name": "Dominant Species",
-    "current_rating": 8.402,
-    "proposed_rating": 8.411,
-    "num_plays": 1,
-    "delta": 0.009
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 45,
-    "tier_count": 74,
-    "bgg_id": 146021,
-    "name": "Eldritch Horror",
-    "current_rating": 8.388,
-    "proposed_rating": 8.397,
-    "num_plays": 1,
-    "delta": 0.009
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 46,
-    "tier_count": 74,
-    "bgg_id": 328871,
-    "name": "Terraforming Mars: Ares Expedition",
-    "current_rating": 8.375,
-    "proposed_rating": 8.383,
-    "num_plays": 3,
-    "delta": 0.008
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 47,
-    "tier_count": 74,
-    "bgg_id": 319966,
-    "name": "The King Is Dead: Second Edition",
-    "current_rating": 8.361,
-    "proposed_rating": 8.369,
-    "num_plays": 2,
-    "delta": 0.008
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 48,
-    "tier_count": 74,
-    "bgg_id": 312251,
-    "name": "Curious Cargo",
-    "current_rating": 8.347,
-    "proposed_rating": 8.356,
-    "num_plays": 2,
-    "delta": 0.009
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 49,
-    "tier_count": 74,
-    "bgg_id": 329148,
-    "name": "Hunted: Wode Ridge",
-    "current_rating": 8.333,
-    "proposed_rating": 8.342,
-    "num_plays": 1,
-    "delta": 0.009
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 50,
-    "tier_count": 74,
-    "bgg_id": 289565,
-    "name": "Hunted: Mining Colony 415",
-    "current_rating": 8.319,
-    "proposed_rating": 8.328,
-    "num_plays": 4,
-    "delta": 0.009
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 51,
-    "tier_count": 74,
-    "bgg_id": 169786,
-    "name": "Scythe",
-    "current_rating": 8.305,
-    "proposed_rating": 8.315,
-    "num_plays": 7,
-    "delta": 0.01
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 52,
-    "tier_count": 74,
-    "bgg_id": 242302,
-    "name": "Space Base",
-    "current_rating": 8.291,
-    "proposed_rating": 8.301,
-    "num_plays": 8,
-    "delta": 0.01
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 53,
-    "tier_count": 74,
-    "bgg_id": 326485,
-    "name": "Cthulhu Wars: Duel",
-    "current_rating": 8.278,
-    "proposed_rating": 8.287,
-    "num_plays": 3,
-    "delta": 0.009
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 54,
-    "tier_count": 74,
-    "bgg_id": 3076,
-    "name": "Puerto Rico",
-    "current_rating": 8.264,
-    "proposed_rating": 8.274,
-    "num_plays": 12,
-    "delta": 0.01
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 55,
-    "tier_count": 74,
-    "bgg_id": 281258,
-    "name": "Sub Terra II: Inferno's Edge",
-    "current_rating": 8.25,
-    "proposed_rating": 8.26,
-    "num_plays": 2,
-    "delta": 0.01
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 56,
-    "tier_count": 74,
-    "bgg_id": 296237,
-    "name": "Warp's Edge",
-    "current_rating": 8.236,
-    "proposed_rating": 8.246,
-    "num_plays": 3,
-    "delta": 0.01
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 57,
-    "tier_count": 74,
-    "bgg_id": 298572,
-    "name": "Cosmic Encounter Duel",
-    "current_rating": 8.222,
-    "proposed_rating": 8.233,
-    "num_plays": 2,
-    "delta": 0.011
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 58,
-    "tier_count": 74,
-    "bgg_id": 247236,
-    "name": "Duelosaur Island",
-    "current_rating": 8.208,
-    "proposed_rating": 8.219,
-    "num_plays": 3,
-    "delta": 0.011
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 59,
-    "tier_count": 74,
-    "bgg_id": 266524,
-    "name": "PARKS",
-    "current_rating": 8.194,
-    "proposed_rating": 8.205,
-    "num_plays": 2,
-    "delta": 0.011
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 60,
-    "tier_count": 74,
-    "bgg_id": 173346,
-    "name": "7 Wonders Duel",
-    "current_rating": 8.18,
-    "proposed_rating": 8.192,
-    "num_plays": 1,
-    "delta": 0.012
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 61,
-    "tier_count": 74,
-    "bgg_id": 340466,
-    "name": "Unfathomable",
-    "current_rating": 8.166,
-    "proposed_rating": 8.178,
-    "num_plays": 1,
-    "delta": 0.012
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 62,
-    "tier_count": 74,
-    "bgg_id": 232832,
-    "name": "Century: Golem Edition",
-    "current_rating": 8.153,
-    "proposed_rating": 8.164,
-    "num_plays": 22,
-    "delta": 0.011
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 63,
-    "tier_count": 74,
-    "bgg_id": 230253,
-    "name": "Star Realms: Frontiers",
-    "current_rating": 8.139,
-    "proposed_rating": 8.151,
-    "num_plays": 4,
-    "delta": 0.012
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 64,
-    "tier_count": 74,
-    "bgg_id": 223040,
-    "name": "Fantasy Realms",
-    "current_rating": 8.125,
-    "proposed_rating": 8.137,
-    "num_plays": 15,
-    "delta": 0.012
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 65,
-    "tier_count": 74,
-    "bgg_id": 28143,
-    "name": "Race for the Galaxy",
-    "current_rating": 8.111,
-    "proposed_rating": 8.123,
-    "num_plays": 16,
-    "delta": 0.012
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
     "rank_in_tier": 66,
-    "tier_count": 74,
-    "bgg_id": 193037,
-    "name": "Dead of Winter: The Long Night",
-    "current_rating": 8.097,
-    "proposed_rating": 8.109,
-    "num_plays": 2,
-    "delta": 0.012
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 67,
-    "tier_count": 74,
-    "bgg_id": 224783,
-    "name": "Vindication",
-    "current_rating": 8.083,
-    "proposed_rating": 8.096,
-    "num_plays": 2,
-    "delta": 0.013
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 68,
-    "tier_count": 74,
-    "bgg_id": 9609,
-    "name": "War of the Ring",
-    "current_rating": 8.069,
-    "proposed_rating": 8.082,
-    "num_plays": 2,
-    "delta": 0.013
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 69,
-    "tier_count": 74,
-    "bgg_id": 170216,
-    "name": "Blood Rage",
-    "current_rating": 8.056,
-    "proposed_rating": 8.068,
-    "num_plays": 3,
-    "delta": 0.012
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 70,
-    "tier_count": 74,
-    "bgg_id": 43111,
-    "name": "Chaos in the Old World",
-    "current_rating": 8.042,
-    "proposed_rating": 8.055,
-    "num_plays": 1,
-    "delta": 0.013
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 71,
-    "tier_count": 74,
-    "bgg_id": 256730,
-    "name": "Pipeline",
-    "current_rating": 8.028,
-    "proposed_rating": 8.041,
-    "num_plays": 3,
-    "delta": 0.013
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 72,
-    "tier_count": 74,
-    "bgg_id": 265017,
-    "name": "Tortuga 2199",
-    "current_rating": 8.014,
-    "proposed_rating": 8.027,
-    "num_plays": 3,
-    "delta": 0.013
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 73,
-    "tier_count": 74,
-    "bgg_id": 247763,
-    "name": "Underwater Cities",
-    "current_rating": 8.0,
-    "proposed_rating": 8.014,
-    "num_plays": 2,
-    "delta": 0.014
-  },
-  {
-    "tier": "A",
-    "source_bucket": 9,
-    "rank_in_tier": 74,
-    "tier_count": 74,
+    "tier_count": 66,
     "bgg_id": 184921,
     "name": "Bunny Kingdom",
-    "current_rating": 9.0,
+    "current_rating": 8.0,
     "proposed_rating": 8.0,
     "num_plays": 1,
-    "delta": -1.0
+    "delta": 0.0
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 1,
-    "tier_count": 103,
-    "bgg_id": 331401,
-    "name": "Dog Park",
-    "current_rating": 7.999,
+    "tier_count": 111,
+    "bgg_id": 266524,
+    "name": "PARKS",
+    "current_rating": 8.205,
     "proposed_rating": 7.999,
     "num_plays": 2,
-    "delta": 0.0
+    "delta": -0.206
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 2,
-    "tier_count": 103,
-    "bgg_id": 54043,
-    "name": "Jaipur",
-    "current_rating": 7.989,
-    "proposed_rating": 7.989,
-    "num_plays": 18,
-    "delta": 0.0
+    "tier_count": 111,
+    "bgg_id": 331401,
+    "name": "Dog Park",
+    "current_rating": 7.999,
+    "proposed_rating": 7.99,
+    "num_plays": 2,
+    "delta": -0.009
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 3,
-    "tier_count": 103,
-    "bgg_id": 286160,
-    "name": "Godspeed",
-    "current_rating": 7.979,
-    "proposed_rating": 7.979,
-    "num_plays": 2,
-    "delta": 0.0
+    "tier_count": 111,
+    "bgg_id": 173346,
+    "name": "7 Wonders Duel",
+    "current_rating": 8.192,
+    "proposed_rating": 7.981,
+    "num_plays": 1,
+    "delta": -0.211
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 4,
-    "tier_count": 103,
-    "bgg_id": 10630,
-    "name": "Memoir '44",
-    "current_rating": 7.968,
-    "proposed_rating": 7.97,
+    "tier_count": 111,
+    "bgg_id": 54043,
+    "name": "Jaipur",
+    "current_rating": 7.989,
+    "proposed_rating": 7.972,
     "num_plays": 18,
-    "delta": 0.002
+    "delta": -0.017
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 5,
-    "tier_count": 103,
-    "bgg_id": 205059,
-    "name": "Mansions of Madness: Second Edition",
-    "current_rating": 7.958,
-    "proposed_rating": 7.96,
+    "tier_count": 111,
+    "bgg_id": 340466,
+    "name": "Unfathomable",
+    "current_rating": 8.178,
+    "proposed_rating": 7.963,
     "num_plays": 1,
-    "delta": 0.002
+    "delta": -0.215
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 6,
-    "tier_count": 103,
-    "bgg_id": 247143,
-    "name": "Senshi",
-    "current_rating": 7.948,
-    "proposed_rating": 7.95,
-    "num_plays": 9,
-    "delta": 0.002
+    "tier_count": 111,
+    "bgg_id": 286160,
+    "name": "Godspeed",
+    "current_rating": 7.979,
+    "proposed_rating": 7.954,
+    "num_plays": 2,
+    "delta": -0.025
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 7,
-    "tier_count": 103,
-    "bgg_id": 276997,
-    "name": "X-ODUS: Rise of the Corruption",
-    "current_rating": 7.938,
-    "proposed_rating": 7.94,
-    "num_plays": 1,
-    "delta": 0.002
+    "tier_count": 111,
+    "bgg_id": 230253,
+    "name": "Star Realms: Frontiers",
+    "current_rating": 8.151,
+    "proposed_rating": 7.945,
+    "num_plays": 4,
+    "delta": -0.206
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 8,
-    "tier_count": 103,
-    "bgg_id": 226320,
-    "name": "My Little Scythe",
-    "current_rating": 7.928,
-    "proposed_rating": 7.93,
-    "num_plays": 8,
-    "delta": 0.002
+    "tier_count": 111,
+    "bgg_id": 10630,
+    "name": "Memoir '44",
+    "current_rating": 7.97,
+    "proposed_rating": 7.935,
+    "num_plays": 18,
+    "delta": -0.035
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 9,
-    "tier_count": 103,
-    "bgg_id": 226631,
-    "name": "War of the Worlds: The New Wave",
-    "current_rating": 7.917,
-    "proposed_rating": 7.921,
-    "num_plays": 1,
-    "delta": 0.004
+    "tier_count": 111,
+    "bgg_id": 223040,
+    "name": "Fantasy Realms",
+    "current_rating": 8.137,
+    "proposed_rating": 7.926,
+    "num_plays": 15,
+    "delta": -0.211
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 10,
-    "tier_count": 103,
-    "bgg_id": 258779,
-    "name": "Planet Unknown",
-    "current_rating": 7.907,
-    "proposed_rating": 7.911,
-    "num_plays": 8,
-    "delta": 0.004
+    "tier_count": 111,
+    "bgg_id": 205059,
+    "name": "Mansions of Madness: Second Edition",
+    "current_rating": 7.96,
+    "proposed_rating": 7.917,
+    "num_plays": 1,
+    "delta": -0.043
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 11,
-    "tier_count": 103,
-    "bgg_id": 68425,
-    "name": "Eminent Domain",
-    "current_rating": 7.897,
-    "proposed_rating": 7.901,
-    "num_plays": 10,
-    "delta": 0.004
+    "tier_count": 111,
+    "bgg_id": 193037,
+    "name": "Dead of Winter: The Long Night",
+    "current_rating": 8.109,
+    "proposed_rating": 7.908,
+    "num_plays": 2,
+    "delta": -0.201
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 12,
-    "tier_count": 103,
-    "bgg_id": 291453,
-    "name": "SCOUT",
-    "current_rating": 7.887,
-    "proposed_rating": 7.891,
-    "num_plays": 8,
-    "delta": 0.004
+    "tier_count": 111,
+    "bgg_id": 247143,
+    "name": "Senshi",
+    "current_rating": 7.95,
+    "proposed_rating": 7.899,
+    "num_plays": 9,
+    "delta": -0.051
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 13,
-    "tier_count": 103,
-    "bgg_id": 163412,
-    "name": "Patchwork",
-    "current_rating": 7.877,
-    "proposed_rating": 7.881,
-    "num_plays": 7,
-    "delta": 0.004
+    "tier_count": 111,
+    "bgg_id": 170216,
+    "name": "Blood Rage",
+    "current_rating": 8.068,
+    "proposed_rating": 7.89,
+    "num_plays": 3,
+    "delta": -0.178
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 14,
-    "tier_count": 103,
-    "bgg_id": 133848,
-    "name": "Euphoria: Build a Better Dystopia",
-    "current_rating": 7.866,
-    "proposed_rating": 7.872,
-    "num_plays": 6,
-    "delta": 0.006
+    "tier_count": 111,
+    "bgg_id": 276997,
+    "name": "X-ODUS: Rise of the Corruption",
+    "current_rating": 7.94,
+    "proposed_rating": 7.881,
+    "num_plays": 1,
+    "delta": -0.059
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 15,
-    "tier_count": 103,
-    "bgg_id": 221194,
-    "name": "Dinosaur Island",
-    "current_rating": 7.856,
-    "proposed_rating": 7.862,
-    "num_plays": 5,
-    "delta": 0.006
+    "tier_count": 111,
+    "bgg_id": 265017,
+    "name": "Tortuga 2199",
+    "current_rating": 8.027,
+    "proposed_rating": 7.872,
+    "num_plays": 3,
+    "delta": -0.155
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 16,
-    "tier_count": 103,
-    "bgg_id": 361545,
-    "name": "Twilight Inscription",
-    "current_rating": 7.846,
-    "proposed_rating": 7.852,
-    "num_plays": 5,
-    "delta": 0.006
+    "tier_count": 111,
+    "bgg_id": 226320,
+    "name": "My Little Scythe",
+    "current_rating": 7.93,
+    "proposed_rating": 7.863,
+    "num_plays": 8,
+    "delta": -0.067
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 17,
-    "tier_count": 103,
-    "bgg_id": 242574,
-    "name": "Century: Eastern Wonders",
-    "current_rating": 7.836,
-    "proposed_rating": 7.842,
-    "num_plays": 4,
-    "delta": 0.006
+    "tier_count": 111,
+    "bgg_id": 226631,
+    "name": "War of the Worlds: The New Wave",
+    "current_rating": 7.921,
+    "proposed_rating": 7.854,
+    "num_plays": 1,
+    "delta": -0.067
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 18,
-    "tier_count": 103,
-    "bgg_id": 289566,
-    "name": "Hunted: Kobayashi Tower",
-    "current_rating": 7.826,
-    "proposed_rating": 7.832,
-    "num_plays": 4,
-    "delta": 0.006
+    "tier_count": 111,
+    "bgg_id": 258779,
+    "name": "Planet Unknown",
+    "current_rating": 7.911,
+    "proposed_rating": 7.845,
+    "num_plays": 8,
+    "delta": -0.066
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 19,
-    "tier_count": 103,
-    "bgg_id": 299178,
-    "name": "Small Railroad Empires",
-    "current_rating": 7.816,
-    "proposed_rating": 7.823,
-    "num_plays": 4,
-    "delta": 0.007
+    "tier_count": 111,
+    "bgg_id": 68425,
+    "name": "Eminent Domain",
+    "current_rating": 7.901,
+    "proposed_rating": 7.836,
+    "num_plays": 10,
+    "delta": -0.065
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 20,
-    "tier_count": 103,
-    "bgg_id": 163967,
-    "name": "Tiny Epic Galaxies",
-    "current_rating": 7.805,
-    "proposed_rating": 7.813,
-    "num_plays": 4,
-    "delta": 0.008
+    "tier_count": 111,
+    "bgg_id": 291453,
+    "name": "SCOUT",
+    "current_rating": 7.891,
+    "proposed_rating": 7.826,
+    "num_plays": 8,
+    "delta": -0.065
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 21,
-    "tier_count": 103,
-    "bgg_id": 366495,
-    "name": "Undaunted: Battle of Britain",
-    "current_rating": 7.795,
-    "proposed_rating": 7.803,
-    "num_plays": 4,
-    "delta": 0.008
+    "tier_count": 111,
+    "bgg_id": 163412,
+    "name": "Patchwork",
+    "current_rating": 7.881,
+    "proposed_rating": 7.817,
+    "num_plays": 7,
+    "delta": -0.064
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 22,
-    "tier_count": 103,
-    "bgg_id": 248490,
-    "name": "Atlantis Rising (Second Edition)",
-    "current_rating": 7.785,
-    "proposed_rating": 7.793,
-    "num_plays": 3,
-    "delta": 0.008
+    "tier_count": 111,
+    "bgg_id": 133848,
+    "name": "Euphoria: Build a Better Dystopia",
+    "current_rating": 7.872,
+    "proposed_rating": 7.808,
+    "num_plays": 6,
+    "delta": -0.064
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 23,
-    "tier_count": 103,
-    "bgg_id": 264052,
-    "name": "Circadians: First Light",
-    "current_rating": 7.775,
-    "proposed_rating": 7.784,
-    "num_plays": 3,
-    "delta": 0.009
+    "tier_count": 111,
+    "bgg_id": 221194,
+    "name": "Dinosaur Island",
+    "current_rating": 7.862,
+    "proposed_rating": 7.799,
+    "num_plays": 5,
+    "delta": -0.063
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 24,
-    "tier_count": 103,
-    "bgg_id": 183571,
-    "name": "Deep Space D-6",
-    "current_rating": 7.765,
-    "proposed_rating": 7.774,
-    "num_plays": 3,
-    "delta": 0.009
+    "tier_count": 111,
+    "bgg_id": 361545,
+    "name": "Twilight Inscription",
+    "current_rating": 7.852,
+    "proposed_rating": 7.79,
+    "num_plays": 5,
+    "delta": -0.062
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 25,
-    "tier_count": 103,
-    "bgg_id": 317859,
-    "name": "Forests of Pangaia",
-    "current_rating": 7.754,
-    "proposed_rating": 7.764,
-    "num_plays": 3,
-    "delta": 0.01
+    "tier_count": 111,
+    "bgg_id": 242574,
+    "name": "Century: Eastern Wonders",
+    "current_rating": 7.842,
+    "proposed_rating": 7.781,
+    "num_plays": 4,
+    "delta": -0.061
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 26,
-    "tier_count": 103,
-    "bgg_id": 242684,
-    "name": "Reavers of Midgard",
-    "current_rating": 7.744,
-    "proposed_rating": 7.754,
-    "num_plays": 3,
-    "delta": 0.01
+    "tier_count": 111,
+    "bgg_id": 289566,
+    "name": "Hunted: Kobayashi Tower",
+    "current_rating": 7.832,
+    "proposed_rating": 7.772,
+    "num_plays": 4,
+    "delta": -0.06
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 27,
-    "tier_count": 103,
-    "bgg_id": 307002,
-    "name": "Regicide",
-    "current_rating": 7.734,
-    "proposed_rating": 7.744,
-    "num_plays": 3,
-    "delta": 0.01
+    "tier_count": 111,
+    "bgg_id": 299178,
+    "name": "Small Railroad Empires",
+    "current_rating": 7.823,
+    "proposed_rating": 7.763,
+    "num_plays": 4,
+    "delta": -0.06
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 28,
-    "tier_count": 103,
-    "bgg_id": 298231,
-    "name": "Skyrise",
-    "current_rating": 7.724,
-    "proposed_rating": 7.735,
-    "num_plays": 3,
-    "delta": 0.011
+    "tier_count": 111,
+    "bgg_id": 163967,
+    "name": "Tiny Epic Galaxies",
+    "current_rating": 7.813,
+    "proposed_rating": 7.754,
+    "num_plays": 4,
+    "delta": -0.059
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 29,
-    "tier_count": 103,
-    "bgg_id": 284616,
-    "name": "Small Samurai Empires",
-    "current_rating": 7.714,
-    "proposed_rating": 7.725,
-    "num_plays": 3,
-    "delta": 0.011
+    "tier_count": 111,
+    "bgg_id": 366495,
+    "name": "Undaunted: Battle of Britain",
+    "current_rating": 7.803,
+    "proposed_rating": 7.745,
+    "num_plays": 4,
+    "delta": -0.058
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 30,
-    "tier_count": 103,
-    "bgg_id": 142079,
-    "name": "Space Cadets: Dice Duel",
-    "current_rating": 7.703,
-    "proposed_rating": 7.715,
+    "tier_count": 111,
+    "bgg_id": 248490,
+    "name": "Atlantis Rising (Second Edition)",
+    "current_rating": 7.793,
+    "proposed_rating": 7.736,
     "num_plays": 3,
-    "delta": 0.012
+    "delta": -0.057
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 31,
-    "tier_count": 103,
-    "bgg_id": 324856,
-    "name": "The Crew: Mission Deep Sea",
-    "current_rating": 7.693,
-    "proposed_rating": 7.705,
+    "tier_count": 111,
+    "bgg_id": 264052,
+    "name": "Circadians: First Light",
+    "current_rating": 7.784,
+    "proposed_rating": 7.727,
     "num_plays": 3,
-    "delta": 0.012
+    "delta": -0.057
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 32,
-    "tier_count": 103,
-    "bgg_id": 274364,
-    "name": "Watergate",
-    "current_rating": 7.683,
-    "proposed_rating": 7.695,
+    "tier_count": 111,
+    "bgg_id": 183571,
+    "name": "Deep Space D-6",
+    "current_rating": 7.774,
+    "proposed_rating": 7.717,
     "num_plays": 3,
-    "delta": 0.012
+    "delta": -0.057
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 33,
-    "tier_count": 103,
-    "bgg_id": 231581,
-    "name": "AuZtralia",
-    "current_rating": 7.673,
-    "proposed_rating": 7.686,
-    "num_plays": 2,
-    "delta": 0.013
+    "tier_count": 111,
+    "bgg_id": 317859,
+    "name": "Forests of Pangaia",
+    "current_rating": 7.764,
+    "proposed_rating": 7.708,
+    "num_plays": 3,
+    "delta": -0.056
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 34,
-    "tier_count": 103,
-    "bgg_id": 356768,
-    "name": "Bloc by Bloc: Uprising",
-    "current_rating": 7.663,
-    "proposed_rating": 7.676,
-    "num_plays": 2,
-    "delta": 0.013
+    "tier_count": 111,
+    "bgg_id": 242684,
+    "name": "Reavers of Midgard",
+    "current_rating": 7.754,
+    "proposed_rating": 7.699,
+    "num_plays": 3,
+    "delta": -0.055
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 35,
-    "tier_count": 103,
-    "bgg_id": 317457,
-    "name": "Dinosaur World",
-    "current_rating": 7.652,
-    "proposed_rating": 7.666,
-    "num_plays": 2,
-    "delta": 0.014
+    "tier_count": 111,
+    "bgg_id": 307002,
+    "name": "Regicide",
+    "current_rating": 7.744,
+    "proposed_rating": 7.69,
+    "num_plays": 3,
+    "delta": -0.054
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 36,
-    "tier_count": 103,
-    "bgg_id": 316554,
-    "name": "Dune: Imperium",
-    "current_rating": 7.642,
-    "proposed_rating": 7.656,
-    "num_plays": 2,
-    "delta": 0.014
+    "tier_count": 111,
+    "bgg_id": 298231,
+    "name": "Skyrise",
+    "current_rating": 7.735,
+    "proposed_rating": 7.681,
+    "num_plays": 3,
+    "delta": -0.054
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 37,
-    "tier_count": 103,
-    "bgg_id": 315727,
-    "name": "Last Light",
-    "current_rating": 7.632,
-    "proposed_rating": 7.646,
-    "num_plays": 2,
-    "delta": 0.014
+    "tier_count": 111,
+    "bgg_id": 284616,
+    "name": "Small Samurai Empires",
+    "current_rating": 7.725,
+    "proposed_rating": 7.672,
+    "num_plays": 3,
+    "delta": -0.053
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 38,
-    "tier_count": 103,
-    "bgg_id": 340865,
-    "name": "Lords of Ragnarok",
-    "current_rating": 7.622,
-    "proposed_rating": 7.637,
-    "num_plays": 2,
-    "delta": 0.015
+    "tier_count": 111,
+    "bgg_id": 142079,
+    "name": "Space Cadets: Dice Duel",
+    "current_rating": 7.715,
+    "proposed_rating": 7.663,
+    "num_plays": 3,
+    "delta": -0.052
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 39,
-    "tier_count": 103,
-    "bgg_id": 306881,
-    "name": "Railroad Ink Challenge: Lush Green Edition",
-    "current_rating": 7.612,
-    "proposed_rating": 7.627,
-    "num_plays": 2,
-    "delta": 0.015
+    "tier_count": 111,
+    "bgg_id": 324856,
+    "name": "The Crew: Mission Deep Sea",
+    "current_rating": 7.705,
+    "proposed_rating": 7.654,
+    "num_plays": 3,
+    "delta": -0.051
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 40,
-    "tier_count": 103,
-    "bgg_id": 347117,
-    "name": "Star Trek: Missions",
-    "current_rating": 7.601,
-    "proposed_rating": 7.617,
-    "num_plays": 2,
-    "delta": 0.016
+    "tier_count": 111,
+    "bgg_id": 274364,
+    "name": "Watergate",
+    "current_rating": 7.695,
+    "proposed_rating": 7.645,
+    "num_plays": 3,
+    "delta": -0.05
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 41,
-    "tier_count": 103,
-    "bgg_id": 145976,
-    "name": "Talon",
-    "current_rating": 7.591,
-    "proposed_rating": 7.607,
+    "tier_count": 111,
+    "bgg_id": 231581,
+    "name": "AuZtralia",
+    "current_rating": 7.686,
+    "proposed_rating": 7.636,
     "num_plays": 2,
-    "delta": 0.016
+    "delta": -0.05
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 42,
-    "tier_count": 103,
-    "bgg_id": 291508,
-    "name": "Tiny Epic Dinosaurs",
-    "current_rating": 7.581,
-    "proposed_rating": 7.597,
+    "tier_count": 111,
+    "bgg_id": 356768,
+    "name": "Bloc by Bloc: Uprising",
+    "current_rating": 7.676,
+    "proposed_rating": 7.627,
     "num_plays": 2,
-    "delta": 0.016
+    "delta": -0.049
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 43,
-    "tier_count": 103,
-    "bgg_id": 268864,
-    "name": "Undaunted: Normandy",
-    "current_rating": 7.571,
-    "proposed_rating": 7.588,
+    "tier_count": 111,
+    "bgg_id": 317457,
+    "name": "Dinosaur World",
+    "current_rating": 7.666,
+    "proposed_rating": 7.618,
     "num_plays": 2,
-    "delta": 0.017
+    "delta": -0.048
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 44,
-    "tier_count": 103,
-    "bgg_id": 230244,
-    "name": "Black Angel",
-    "current_rating": 7.561,
-    "proposed_rating": 7.578,
-    "num_plays": 1,
-    "delta": 0.017
+    "tier_count": 111,
+    "bgg_id": 316554,
+    "name": "Dune: Imperium",
+    "current_rating": 7.656,
+    "proposed_rating": 7.608,
+    "num_plays": 2,
+    "delta": -0.048
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 45,
-    "tier_count": 103,
-    "bgg_id": 318009,
-    "name": "Dinosaur Island: Rawr 'n Write",
-    "current_rating": 7.55,
-    "proposed_rating": 7.568,
-    "num_plays": 1,
-    "delta": 0.018
+    "tier_count": 111,
+    "bgg_id": 315727,
+    "name": "Last Light",
+    "current_rating": 7.646,
+    "proposed_rating": 7.599,
+    "num_plays": 2,
+    "delta": -0.047
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 46,
-    "tier_count": 103,
-    "bgg_id": 283355,
-    "name": "Dune",
-    "current_rating": 7.54,
-    "proposed_rating": 7.558,
-    "num_plays": 1,
-    "delta": 0.018
+    "tier_count": 111,
+    "bgg_id": 340865,
+    "name": "Lords of Ragnarok",
+    "current_rating": 7.637,
+    "proposed_rating": 7.59,
+    "num_plays": 2,
+    "delta": -0.047
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 47,
-    "tier_count": 103,
-    "bgg_id": 252752,
-    "name": "Genotype: A Mendelian Genetics Game",
-    "current_rating": 7.53,
-    "proposed_rating": 7.548,
-    "num_plays": 1,
-    "delta": 0.018
+    "tier_count": 111,
+    "bgg_id": 306881,
+    "name": "Railroad Ink Challenge: Lush Green Edition",
+    "current_rating": 7.627,
+    "proposed_rating": 7.581,
+    "num_plays": 2,
+    "delta": -0.046
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 48,
-    "tier_count": 103,
-    "bgg_id": 318184,
-    "name": "Imperium: Classics",
-    "current_rating": 7.52,
-    "proposed_rating": 7.539,
-    "num_plays": 1,
-    "delta": 0.019
+    "tier_count": 111,
+    "bgg_id": 347117,
+    "name": "Star Trek: Missions",
+    "current_rating": 7.617,
+    "proposed_rating": 7.572,
+    "num_plays": 2,
+    "delta": -0.045
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 49,
-    "tier_count": 103,
-    "bgg_id": 368173,
-    "name": "Let's Go! To Japan",
-    "current_rating": 7.51,
-    "proposed_rating": 7.529,
-    "num_plays": 1,
-    "delta": 0.019
+    "tier_count": 111,
+    "bgg_id": 145976,
+    "name": "Talon",
+    "current_rating": 7.607,
+    "proposed_rating": 7.563,
+    "num_plays": 2,
+    "delta": -0.044
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 50,
-    "tier_count": 103,
-    "bgg_id": 59959,
-    "name": "Letters from Whitechapel",
-    "current_rating": 7.5,
-    "proposed_rating": 7.519,
-    "num_plays": 1,
-    "delta": 0.019
+    "tier_count": 111,
+    "bgg_id": 291508,
+    "name": "Tiny Epic Dinosaurs",
+    "current_rating": 7.597,
+    "proposed_rating": 7.554,
+    "num_plays": 2,
+    "delta": -0.043
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 51,
-    "tier_count": 103,
-    "bgg_id": 358386,
-    "name": "Moon",
-    "current_rating": 7.489,
-    "proposed_rating": 7.509,
-    "num_plays": 1,
-    "delta": 0.02
+    "tier_count": 111,
+    "bgg_id": 268864,
+    "name": "Undaunted: Normandy",
+    "current_rating": 7.588,
+    "proposed_rating": 7.545,
+    "num_plays": 2,
+    "delta": -0.043
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 52,
-    "tier_count": 103,
-    "bgg_id": 325941,
-    "name": "Nemo's War: The Ultimate Edition",
-    "current_rating": 7.479,
-    "proposed_rating": 7.5,
+    "tier_count": 111,
+    "bgg_id": 230244,
+    "name": "Black Angel",
+    "current_rating": 7.578,
+    "proposed_rating": 7.536,
     "num_plays": 1,
-    "delta": 0.021
+    "delta": -0.042
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 53,
-    "tier_count": 103,
-    "bgg_id": 331979,
-    "name": "Quartermaster General WW2: 2nd Edition",
-    "current_rating": 7.469,
-    "proposed_rating": 7.49,
+    "tier_count": 111,
+    "bgg_id": 318009,
+    "name": "Dinosaur Island: Rawr 'n Write",
+    "current_rating": 7.568,
+    "proposed_rating": 7.527,
     "num_plays": 1,
-    "delta": 0.021
+    "delta": -0.041
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 54,
-    "tier_count": 103,
-    "bgg_id": 255984,
-    "name": "Sleeping Gods",
-    "current_rating": 7.459,
-    "proposed_rating": 7.48,
+    "tier_count": 111,
+    "bgg_id": 283355,
+    "name": "Dune",
+    "current_rating": 7.558,
+    "proposed_rating": 7.518,
     "num_plays": 1,
-    "delta": 0.021
+    "delta": -0.04
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 55,
-    "tier_count": 103,
-    "bgg_id": 123096,
-    "name": "Space Cadets",
-    "current_rating": 7.449,
-    "proposed_rating": 7.47,
+    "tier_count": 111,
+    "bgg_id": 252752,
+    "name": "Genotype: A Mendelian Genetics Game",
+    "current_rating": 7.548,
+    "proposed_rating": 7.509,
     "num_plays": 1,
-    "delta": 0.021
+    "delta": -0.039
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 56,
-    "tier_count": 103,
-    "bgg_id": 345542,
-    "name": "Stellar Expedition",
-    "current_rating": 7.438,
-    "proposed_rating": 7.46,
+    "tier_count": 111,
+    "bgg_id": 318184,
+    "name": "Imperium: Classics",
+    "current_rating": 7.539,
+    "proposed_rating": 7.5,
     "num_plays": 1,
-    "delta": 0.022
+    "delta": -0.039
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 57,
-    "tier_count": 103,
-    "bgg_id": 292375,
-    "name": "The Great Wall",
-    "current_rating": 7.428,
-    "proposed_rating": 7.451,
+    "tier_count": 111,
+    "bgg_id": 368173,
+    "name": "Let's Go! To Japan",
+    "current_rating": 7.529,
+    "proposed_rating": 7.49,
     "num_plays": 1,
-    "delta": 0.023
+    "delta": -0.039
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 58,
-    "tier_count": 103,
-    "bgg_id": 279537,
-    "name": "The Search for Planet X",
-    "current_rating": 7.418,
-    "proposed_rating": 7.441,
+    "tier_count": 111,
+    "bgg_id": 59959,
+    "name": "Letters from Whitechapel",
+    "current_rating": 7.519,
+    "proposed_rating": 7.481,
     "num_plays": 1,
-    "delta": 0.023
+    "delta": -0.038
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 59,
-    "tier_count": 103,
-    "bgg_id": 285826,
-    "name": "Ultra Tiny Epic Galaxies",
-    "current_rating": 7.408,
-    "proposed_rating": 7.431,
+    "tier_count": 111,
+    "bgg_id": 358386,
+    "name": "Moon",
+    "current_rating": 7.509,
+    "proposed_rating": 7.472,
     "num_plays": 1,
-    "delta": 0.023
+    "delta": -0.037
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 60,
-    "tier_count": 103,
-    "bgg_id": 306735,
-    "name": "Under Falling Skies",
-    "current_rating": 7.398,
-    "proposed_rating": 7.421,
+    "tier_count": 111,
+    "bgg_id": 325941,
+    "name": "Nemo's War: The Ultimate Edition",
+    "current_rating": 7.5,
+    "proposed_rating": 7.463,
     "num_plays": 1,
-    "delta": 0.023
+    "delta": -0.037
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 61,
-    "tier_count": 103,
-    "bgg_id": 233867,
-    "name": "Welcome To...",
-    "current_rating": 7.387,
-    "proposed_rating": 7.411,
-    "num_plays": 4,
-    "delta": 0.024
+    "tier_count": 111,
+    "bgg_id": 331979,
+    "name": "Quartermaster General WW2: 2nd Edition",
+    "current_rating": 7.49,
+    "proposed_rating": 7.454,
+    "num_plays": 1,
+    "delta": -0.036
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 62,
-    "tier_count": 103,
-    "bgg_id": 48726,
-    "name": "Alien Frontiers",
-    "current_rating": 7.377,
-    "proposed_rating": 7.402,
-    "num_plays": 3,
-    "delta": 0.025
+    "tier_count": 111,
+    "bgg_id": 255984,
+    "name": "Sleeping Gods",
+    "current_rating": 7.48,
+    "proposed_rating": 7.445,
+    "num_plays": 1,
+    "delta": -0.035
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 63,
-    "tier_count": 103,
-    "bgg_id": 205597,
-    "name": "Jump Drive",
-    "current_rating": 7.367,
-    "proposed_rating": 7.392,
-    "num_plays": 19,
-    "delta": 0.025
+    "tier_count": 111,
+    "bgg_id": 123096,
+    "name": "Space Cadets",
+    "current_rating": 7.47,
+    "proposed_rating": 7.436,
+    "num_plays": 1,
+    "delta": -0.034
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 64,
-    "tier_count": 103,
-    "bgg_id": 822,
-    "name": "Carcassonne",
-    "current_rating": 7.357,
-    "proposed_rating": 7.382,
-    "num_plays": 10,
-    "delta": 0.025
+    "tier_count": 111,
+    "bgg_id": 345542,
+    "name": "Stellar Expedition",
+    "current_rating": 7.46,
+    "proposed_rating": 7.427,
+    "num_plays": 1,
+    "delta": -0.033
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 65,
-    "tier_count": 103,
-    "bgg_id": 270673,
-    "name": "Silver & Gold",
-    "current_rating": 7.347,
-    "proposed_rating": 7.372,
-    "num_plays": 4,
-    "delta": 0.025
+    "tier_count": 111,
+    "bgg_id": 292375,
+    "name": "The Great Wall",
+    "current_rating": 7.451,
+    "proposed_rating": 7.418,
+    "num_plays": 1,
+    "delta": -0.033
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 66,
-    "tier_count": 103,
-    "bgg_id": 123260,
-    "name": "Suburbia",
-    "current_rating": 7.336,
-    "proposed_rating": 7.362,
+    "tier_count": 111,
+    "bgg_id": 279537,
+    "name": "The Search for Planet X",
+    "current_rating": 7.441,
+    "proposed_rating": 7.409,
     "num_plays": 1,
-    "delta": 0.026
+    "delta": -0.032
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 67,
-    "tier_count": 103,
-    "bgg_id": 100423,
-    "name": "Elder Sign",
-    "current_rating": 7.326,
-    "proposed_rating": 7.353,
-    "num_plays": 6,
-    "delta": 0.027
+    "tier_count": 111,
+    "bgg_id": 285826,
+    "name": "Ultra Tiny Epic Galaxies",
+    "current_rating": 7.431,
+    "proposed_rating": 7.4,
+    "num_plays": 1,
+    "delta": -0.031
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 68,
-    "tier_count": 103,
-    "bgg_id": 140934,
-    "name": "Arboretum",
-    "current_rating": 7.316,
-    "proposed_rating": 7.343,
-    "num_plays": 6,
-    "delta": 0.027
+    "tier_count": 111,
+    "bgg_id": 306735,
+    "name": "Under Falling Skies",
+    "current_rating": 7.421,
+    "proposed_rating": 7.391,
+    "num_plays": 1,
+    "delta": -0.03
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 69,
-    "tier_count": 103,
-    "bgg_id": 171273,
-    "name": "FUSE",
-    "current_rating": 7.306,
-    "proposed_rating": 7.333,
-    "num_plays": 3,
-    "delta": 0.027
+    "tier_count": 111,
+    "bgg_id": 233867,
+    "name": "Welcome To...",
+    "current_rating": 7.411,
+    "proposed_rating": 7.381,
+    "num_plays": 4,
+    "delta": -0.03
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 70,
-    "tier_count": 103,
-    "bgg_id": 110277,
-    "name": "Among the Stars",
-    "current_rating": 7.296,
-    "proposed_rating": 7.323,
-    "num_plays": 1,
-    "delta": 0.027
+    "tier_count": 111,
+    "bgg_id": 48726,
+    "name": "Alien Frontiers",
+    "current_rating": 7.402,
+    "proposed_rating": 7.372,
+    "num_plays": 3,
+    "delta": -0.03
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 71,
-    "tier_count": 103,
-    "bgg_id": 139976,
-    "name": "Cthulhu Wars",
-    "current_rating": 7.285,
-    "proposed_rating": 7.313,
-    "num_plays": 1,
-    "delta": 0.028
+    "tier_count": 111,
+    "bgg_id": 205597,
+    "name": "Jump Drive",
+    "current_rating": 7.392,
+    "proposed_rating": 7.363,
+    "num_plays": 19,
+    "delta": -0.029
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 72,
-    "tier_count": 103,
-    "bgg_id": 343900,
-    "name": "Senjutsu: Battle For Japan",
-    "current_rating": 7.275,
-    "proposed_rating": 7.304,
-    "num_plays": 1,
-    "delta": 0.029
+    "tier_count": 111,
+    "bgg_id": 822,
+    "name": "Carcassonne",
+    "current_rating": 7.382,
+    "proposed_rating": 7.354,
+    "num_plays": 10,
+    "delta": -0.028
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 73,
-    "tier_count": 103,
-    "bgg_id": 255674,
-    "name": "Imhotep: The Duel",
-    "current_rating": 7.265,
-    "proposed_rating": 7.294,
-    "num_plays": 2,
-    "delta": 0.029
+    "tier_count": 111,
+    "bgg_id": 270673,
+    "name": "Silver & Gold",
+    "current_rating": 7.372,
+    "proposed_rating": 7.345,
+    "num_plays": 4,
+    "delta": -0.027
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 74,
-    "tier_count": 103,
-    "bgg_id": 209685,
-    "name": "Century: Spice Road",
-    "current_rating": 7.255,
-    "proposed_rating": 7.284,
-    "num_plays": 15,
-    "delta": 0.029
+    "tier_count": 111,
+    "bgg_id": 123260,
+    "name": "Suburbia",
+    "current_rating": 7.362,
+    "proposed_rating": 7.336,
+    "num_plays": 1,
+    "delta": -0.026
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 75,
-    "tier_count": 103,
-    "bgg_id": 232524,
-    "name": "Welcome to Dino World",
-    "current_rating": 7.245,
-    "proposed_rating": 7.274,
-    "num_plays": 2,
-    "delta": 0.029
+    "tier_count": 111,
+    "bgg_id": 100423,
+    "name": "Elder Sign",
+    "current_rating": 7.353,
+    "proposed_rating": 7.327,
+    "num_plays": 6,
+    "delta": -0.026
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 76,
-    "tier_count": 103,
-    "bgg_id": 4396,
-    "name": "Odin's Ravens",
-    "current_rating": 7.234,
-    "proposed_rating": 7.264,
-    "num_plays": 1,
-    "delta": 0.03
+    "tier_count": 111,
+    "bgg_id": 140934,
+    "name": "Arboretum",
+    "current_rating": 7.343,
+    "proposed_rating": 7.318,
+    "num_plays": 6,
+    "delta": -0.025
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 77,
-    "tier_count": 103,
-    "bgg_id": 256669,
-    "name": "Scorpius Freighter",
-    "current_rating": 7.224,
-    "proposed_rating": 7.255,
-    "num_plays": 2,
-    "delta": 0.031
+    "tier_count": 111,
+    "bgg_id": 171273,
+    "name": "FUSE",
+    "current_rating": 7.333,
+    "proposed_rating": 7.309,
+    "num_plays": 3,
+    "delta": -0.024
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 78,
-    "tier_count": 103,
-    "bgg_id": 192291,
-    "name": "Sushi Go Party!",
-    "current_rating": 7.214,
-    "proposed_rating": 7.245,
-    "num_plays": 2,
-    "delta": 0.031
+    "tier_count": 111,
+    "bgg_id": 110277,
+    "name": "Among the Stars",
+    "current_rating": 7.323,
+    "proposed_rating": 7.3,
+    "num_plays": 1,
+    "delta": -0.023
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 79,
-    "tier_count": 103,
-    "bgg_id": 28086,
-    "name": "Age of War",
-    "current_rating": 7.204,
-    "proposed_rating": 7.235,
+    "tier_count": 111,
+    "bgg_id": 139976,
+    "name": "Cthulhu Wars",
+    "current_rating": 7.313,
+    "proposed_rating": 7.291,
     "num_plays": 1,
-    "delta": 0.031
+    "delta": -0.022
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 80,
-    "tier_count": 103,
-    "bgg_id": 287954,
-    "name": "Azul: Summer Pavilion",
-    "current_rating": 7.194,
-    "proposed_rating": 7.225,
+    "tier_count": 111,
+    "bgg_id": 343900,
+    "name": "Senjutsu: Battle For Japan",
+    "current_rating": 7.304,
+    "proposed_rating": 7.282,
     "num_plays": 1,
-    "delta": 0.031
+    "delta": -0.022
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 81,
-    "tier_count": 103,
-    "bgg_id": 110327,
-    "name": "Lords of Waterdeep",
-    "current_rating": 7.183,
-    "proposed_rating": 7.215,
-    "num_plays": 1,
-    "delta": 0.032
+    "tier_count": 111,
+    "bgg_id": 255674,
+    "name": "Imhotep: The Duel",
+    "current_rating": 7.294,
+    "proposed_rating": 7.272,
+    "num_plays": 2,
+    "delta": -0.022
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 82,
-    "tier_count": 103,
-    "bgg_id": 312484,
-    "name": "Lost Ruins of Arnak",
-    "current_rating": 7.173,
-    "proposed_rating": 7.206,
-    "num_plays": 1,
-    "delta": 0.033
+    "tier_count": 111,
+    "bgg_id": 209685,
+    "name": "Century: Spice Road",
+    "current_rating": 7.284,
+    "proposed_rating": 7.263,
+    "num_plays": 15,
+    "delta": -0.021
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 83,
-    "tier_count": 103,
-    "bgg_id": 281152,
-    "name": "On the Underground: London / Berlin",
-    "current_rating": 7.163,
-    "proposed_rating": 7.196,
-    "num_plays": 1,
-    "delta": 0.033
+    "tier_count": 111,
+    "bgg_id": 232524,
+    "name": "Welcome to Dino World",
+    "current_rating": 7.274,
+    "proposed_rating": 7.254,
+    "num_plays": 2,
+    "delta": -0.02
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 84,
-    "tier_count": 103,
-    "bgg_id": 180040,
-    "name": "Villages of Valeria",
-    "current_rating": 7.153,
-    "proposed_rating": 7.186,
+    "tier_count": 111,
+    "bgg_id": 4396,
+    "name": "Odin's Ravens",
+    "current_rating": 7.264,
+    "proposed_rating": 7.245,
     "num_plays": 1,
-    "delta": 0.033
+    "delta": -0.019
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 85,
-    "tier_count": 103,
-    "bgg_id": 163602,
-    "name": "XCOM: The Board Game",
-    "current_rating": 7.143,
-    "proposed_rating": 7.176,
-    "num_plays": 1,
-    "delta": 0.033
+    "tier_count": 111,
+    "bgg_id": 256669,
+    "name": "Scorpius Freighter",
+    "current_rating": 7.255,
+    "proposed_rating": 7.236,
+    "num_plays": 2,
+    "delta": -0.019
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 86,
-    "tier_count": 103,
-    "bgg_id": 13,
-    "name": "Catan",
-    "current_rating": 7.133,
-    "proposed_rating": 7.166,
-    "num_plays": 0,
-    "delta": 0.033
+    "tier_count": 111,
+    "bgg_id": 192291,
+    "name": "Sushi Go Party!",
+    "current_rating": 7.245,
+    "proposed_rating": 7.227,
+    "num_plays": 2,
+    "delta": -0.018
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 87,
-    "tier_count": 103,
-    "bgg_id": 189660,
-    "name": "XenoShyft: Dreadmire",
-    "current_rating": 7.122,
-    "proposed_rating": 7.157,
-    "num_plays": 2,
-    "delta": 0.035
+    "tier_count": 111,
+    "bgg_id": 28086,
+    "name": "Age of War",
+    "current_rating": 7.235,
+    "proposed_rating": 7.218,
+    "num_plays": 1,
+    "delta": -0.017
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 88,
-    "tier_count": 103,
-    "bgg_id": 256382,
-    "name": "Disney Villainous: The Worst Takes it All",
-    "current_rating": 7.112,
-    "proposed_rating": 7.147,
-    "num_plays": 5,
-    "delta": 0.035
+    "tier_count": 111,
+    "bgg_id": 287954,
+    "name": "Azul: Summer Pavilion",
+    "current_rating": 7.225,
+    "proposed_rating": 7.209,
+    "num_plays": 1,
+    "delta": -0.016
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 89,
-    "tier_count": 103,
-    "bgg_id": 68448,
-    "name": "7 Wonders",
-    "current_rating": 7.102,
-    "proposed_rating": 7.137,
-    "num_plays": 9,
-    "delta": 0.035
+    "tier_count": 111,
+    "bgg_id": 110327,
+    "name": "Lords of Waterdeep",
+    "current_rating": 7.215,
+    "proposed_rating": 7.2,
+    "num_plays": 1,
+    "delta": -0.015
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 90,
-    "tier_count": 103,
-    "bgg_id": 205716,
-    "name": "New Angeles",
-    "current_rating": 7.092,
-    "proposed_rating": 7.127,
+    "tier_count": 111,
+    "bgg_id": 312484,
+    "name": "Lost Ruins of Arnak",
+    "current_rating": 7.206,
+    "proposed_rating": 7.191,
     "num_plays": 1,
-    "delta": 0.035
+    "delta": -0.015
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 91,
-    "tier_count": 103,
-    "bgg_id": 120677,
-    "name": "Terra Mystica",
-    "current_rating": 7.082,
-    "proposed_rating": 7.118,
-    "num_plays": 8,
-    "delta": 0.036
+    "tier_count": 111,
+    "bgg_id": 281152,
+    "name": "On the Underground: London / Berlin",
+    "current_rating": 7.196,
+    "proposed_rating": 7.182,
+    "num_plays": 1,
+    "delta": -0.014
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 92,
-    "tier_count": 103,
-    "bgg_id": 267370,
-    "name": "Cities: Skylines – The Board Game",
-    "current_rating": 7.071,
-    "proposed_rating": 7.108,
-    "num_plays": 2,
-    "delta": 0.037
+    "tier_count": 111,
+    "bgg_id": 180040,
+    "name": "Villages of Valeria",
+    "current_rating": 7.186,
+    "proposed_rating": 7.173,
+    "num_plays": 1,
+    "delta": -0.013
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 93,
-    "tier_count": 103,
-    "bgg_id": 34635,
-    "name": "Stone Age",
-    "current_rating": 7.061,
-    "proposed_rating": 7.098,
-    "num_plays": 2,
-    "delta": 0.037
+    "tier_count": 111,
+    "bgg_id": 163602,
+    "name": "XCOM: The Board Game",
+    "current_rating": 7.176,
+    "proposed_rating": 7.163,
+    "num_plays": 1,
+    "delta": -0.013
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 94,
-    "tier_count": 103,
-    "bgg_id": 224517,
-    "name": "Brass: Birmingham",
-    "current_rating": 7.051,
-    "proposed_rating": 7.088,
-    "num_plays": 1,
-    "delta": 0.037
+    "tier_count": 111,
+    "bgg_id": 13,
+    "name": "Catan",
+    "current_rating": 7.166,
+    "proposed_rating": 7.154,
+    "num_plays": 0,
+    "delta": -0.012
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 95,
-    "tier_count": 103,
-    "bgg_id": 278553,
-    "name": "Silver",
-    "current_rating": 7.041,
-    "proposed_rating": 7.078,
-    "num_plays": 1,
-    "delta": 0.037
+    "tier_count": 111,
+    "bgg_id": 189660,
+    "name": "XenoShyft: Dreadmire",
+    "current_rating": 7.157,
+    "proposed_rating": 7.145,
+    "num_plays": 2,
+    "delta": -0.012
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 96,
-    "tier_count": 103,
-    "bgg_id": 185343,
-    "name": "Anachrony",
-    "current_rating": 7.031,
-    "proposed_rating": 7.069,
-    "num_plays": 1,
-    "delta": 0.038
+    "tier_count": 111,
+    "bgg_id": 256382,
+    "name": "Disney Villainous: The Worst Takes it All",
+    "current_rating": 7.147,
+    "proposed_rating": 7.136,
+    "num_plays": 5,
+    "delta": -0.011
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 97,
-    "tier_count": 103,
-    "bgg_id": 254632,
-    "name": "Hyperspace",
-    "current_rating": 7.02,
-    "proposed_rating": 7.059,
-    "num_plays": 2,
-    "delta": 0.039
+    "tier_count": 111,
+    "bgg_id": 68448,
+    "name": "7 Wonders",
+    "current_rating": 7.137,
+    "proposed_rating": 7.127,
+    "num_plays": 9,
+    "delta": -0.01
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 98,
-    "tier_count": 103,
-    "bgg_id": 146910,
-    "name": "Wildcatters",
-    "current_rating": 7.01,
-    "proposed_rating": 7.049,
+    "tier_count": 111,
+    "bgg_id": 205716,
+    "name": "New Angeles",
+    "current_rating": 7.127,
+    "proposed_rating": 7.118,
     "num_plays": 1,
-    "delta": 0.039
+    "delta": -0.009
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 99,
-    "tier_count": 103,
-    "bgg_id": 160610,
-    "name": "Thunderbirds",
-    "current_rating": 7.0,
-    "proposed_rating": 7.039,
-    "num_plays": 1,
-    "delta": 0.039
+    "tier_count": 111,
+    "bgg_id": 120677,
+    "name": "Terra Mystica",
+    "current_rating": 7.118,
+    "proposed_rating": 7.109,
+    "num_plays": 8,
+    "delta": -0.009
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 100,
-    "tier_count": 103,
-    "bgg_id": 6249,
-    "name": "Alhambra",
-    "current_rating": 8.0,
-    "proposed_rating": 7.029,
-    "num_plays": 3,
-    "delta": -0.971
+    "tier_count": 111,
+    "bgg_id": 267370,
+    "name": "Cities: Skylines – The Board Game",
+    "current_rating": 7.108,
+    "proposed_rating": 7.1,
+    "num_plays": 2,
+    "delta": -0.008
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 101,
-    "tier_count": 103,
-    "bgg_id": 366013,
-    "name": "Heat: Pedal to the Metal",
-    "current_rating": 8.0,
-    "proposed_rating": 7.02,
+    "tier_count": 111,
+    "bgg_id": 34635,
+    "name": "Stone Age",
+    "current_rating": 7.098,
+    "proposed_rating": 7.091,
     "num_plays": 2,
-    "delta": -0.98
+    "delta": -0.007
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 102,
-    "tier_count": 103,
-    "bgg_id": 144733,
-    "name": "Russian Railroads",
-    "current_rating": 8.0,
-    "proposed_rating": 7.01,
-    "num_plays": 2,
-    "delta": -0.99
+    "tier_count": 111,
+    "bgg_id": 224517,
+    "name": "Brass: Birmingham",
+    "current_rating": 7.088,
+    "proposed_rating": 7.082,
+    "num_plays": 1,
+    "delta": -0.006
   },
   {
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 103,
-    "tier_count": 103,
+    "tier_count": 111,
+    "bgg_id": 278553,
+    "name": "Silver",
+    "current_rating": 7.078,
+    "proposed_rating": 7.073,
+    "num_plays": 1,
+    "delta": -0.005
+  },
+  {
+    "tier": "B",
+    "source_bucket": 8,
+    "rank_in_tier": 104,
+    "tier_count": 111,
+    "bgg_id": 185343,
+    "name": "Anachrony",
+    "current_rating": 7.069,
+    "proposed_rating": 7.064,
+    "num_plays": 1,
+    "delta": -0.005
+  },
+  {
+    "tier": "B",
+    "source_bucket": 8,
+    "rank_in_tier": 105,
+    "tier_count": 111,
+    "bgg_id": 254632,
+    "name": "Hyperspace",
+    "current_rating": 7.059,
+    "proposed_rating": 7.054,
+    "num_plays": 2,
+    "delta": -0.005
+  },
+  {
+    "tier": "B",
+    "source_bucket": 8,
+    "rank_in_tier": 106,
+    "tier_count": 111,
+    "bgg_id": 146910,
+    "name": "Wildcatters",
+    "current_rating": 7.049,
+    "proposed_rating": 7.045,
+    "num_plays": 1,
+    "delta": -0.004
+  },
+  {
+    "tier": "B",
+    "source_bucket": 8,
+    "rank_in_tier": 107,
+    "tier_count": 111,
+    "bgg_id": 160610,
+    "name": "Thunderbirds",
+    "current_rating": 7.039,
+    "proposed_rating": 7.036,
+    "num_plays": 1,
+    "delta": -0.003
+  },
+  {
+    "tier": "B",
+    "source_bucket": 8,
+    "rank_in_tier": 108,
+    "tier_count": 111,
+    "bgg_id": 6249,
+    "name": "Alhambra",
+    "current_rating": 7.029,
+    "proposed_rating": 7.027,
+    "num_plays": 3,
+    "delta": -0.002
+  },
+  {
+    "tier": "B",
+    "source_bucket": 8,
+    "rank_in_tier": 109,
+    "tier_count": 111,
+    "bgg_id": 366013,
+    "name": "Heat: Pedal to the Metal",
+    "current_rating": 7.02,
+    "proposed_rating": 7.018,
+    "num_plays": 2,
+    "delta": -0.002
+  },
+  {
+    "tier": "B",
+    "source_bucket": 8,
+    "rank_in_tier": 110,
+    "tier_count": 111,
+    "bgg_id": 144733,
+    "name": "Russian Railroads",
+    "current_rating": 7.01,
+    "proposed_rating": 7.009,
+    "num_plays": 2,
+    "delta": -0.001
+  },
+  {
+    "tier": "B",
+    "source_bucket": 8,
+    "rank_in_tier": 111,
+    "tier_count": 111,
     "bgg_id": 54,
     "name": "Tikal",
-    "current_rating": 8.0,
+    "current_rating": 7.0,
     "proposed_rating": 7.0,
     "num_plays": 1,
-    "delta": -1.0
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2154,10 +2154,10 @@
     "tier_count": 104,
     "bgg_id": 200077,
     "name": "Mint Works",
-    "current_rating": 6.978,
+    "current_rating": 6.98,
     "proposed_rating": 6.98,
     "num_plays": 3,
-    "delta": 0.002
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2166,10 +2166,10 @@
     "tier_count": 104,
     "bgg_id": 146652,
     "name": "Legendary Encounters: An Alien Deck Building Game",
-    "current_rating": 6.968,
+    "current_rating": 6.97,
     "proposed_rating": 6.97,
     "num_plays": 2,
-    "delta": 0.002
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2178,10 +2178,10 @@
     "tier_count": 104,
     "bgg_id": 177639,
     "name": "Raptor",
-    "current_rating": 6.958,
+    "current_rating": 6.96,
     "proposed_rating": 6.96,
     "num_plays": 2,
-    "delta": 0.002
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2190,10 +2190,10 @@
     "tier_count": 104,
     "bgg_id": 283095,
     "name": "Cosmic Colonies",
-    "current_rating": 6.948,
+    "current_rating": 6.951,
     "proposed_rating": 6.951,
     "num_plays": 1,
-    "delta": 0.003
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2202,10 +2202,10 @@
     "tier_count": 104,
     "bgg_id": 147020,
     "name": "Star Realms",
-    "current_rating": 6.937,
+    "current_rating": 6.941,
     "proposed_rating": 6.941,
     "num_plays": 1,
-    "delta": 0.004
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2214,10 +2214,10 @@
     "tier_count": 104,
     "bgg_id": 260300,
     "name": "Dungeon Mayhem",
-    "current_rating": 6.927,
+    "current_rating": 6.931,
     "proposed_rating": 6.931,
     "num_plays": 5,
-    "delta": 0.004
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2226,10 +2226,10 @@
     "tier_count": 104,
     "bgg_id": 30549,
     "name": "Pandemic",
-    "current_rating": 6.917,
+    "current_rating": 6.921,
     "proposed_rating": 6.921,
     "num_plays": 2,
-    "delta": 0.004
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2238,10 +2238,10 @@
     "tier_count": 104,
     "bgg_id": 62871,
     "name": "Zombie Dice",
-    "current_rating": 6.906,
+    "current_rating": 6.912,
     "proposed_rating": 6.912,
     "num_plays": 1,
-    "delta": 0.006
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2250,10 +2250,10 @@
     "tier_count": 104,
     "bgg_id": 432,
     "name": "Take 5",
-    "current_rating": 6.896,
+    "current_rating": 6.902,
     "proposed_rating": 6.902,
     "num_plays": 22,
-    "delta": 0.006
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2262,10 +2262,10 @@
     "tier_count": 104,
     "bgg_id": 230802,
     "name": "Azul",
-    "current_rating": 6.886,
+    "current_rating": 6.892,
     "proposed_rating": 6.892,
     "num_plays": 19,
-    "delta": 0.006
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2274,10 +2274,10 @@
     "tier_count": 104,
     "bgg_id": 270314,
     "name": "Ohanami",
-    "current_rating": 6.875,
+    "current_rating": 6.883,
     "proposed_rating": 6.883,
     "num_plays": 13,
-    "delta": 0.008
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2286,10 +2286,10 @@
     "tier_count": 104,
     "bgg_id": 178044,
     "name": "Small Star Empires",
-    "current_rating": 6.865,
+    "current_rating": 6.873,
     "proposed_rating": 6.873,
     "num_plays": 8,
-    "delta": 0.008
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2298,10 +2298,10 @@
     "tier_count": 104,
     "bgg_id": 133473,
     "name": "Sushi Go!",
-    "current_rating": 6.855,
+    "current_rating": 6.863,
     "proposed_rating": 6.863,
     "num_plays": 8,
-    "delta": 0.008
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2310,10 +2310,10 @@
     "tier_count": 104,
     "bgg_id": 50,
     "name": "Lost Cities",
-    "current_rating": 6.845,
+    "current_rating": 6.854,
     "proposed_rating": 6.854,
     "num_plays": 7,
-    "delta": 0.009
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2322,10 +2322,10 @@
     "tier_count": 104,
     "bgg_id": 181304,
     "name": "Mysterium",
-    "current_rating": 6.834,
+    "current_rating": 6.844,
     "proposed_rating": 6.844,
     "num_plays": 6,
-    "delta": 0.01
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2334,10 +2334,10 @@
     "tier_count": 104,
     "bgg_id": 353470,
     "name": "Star Wars: Jabba's Palace – A Love Letter Game",
-    "current_rating": 6.824,
+    "current_rating": 6.834,
     "proposed_rating": 6.834,
     "num_plays": 6,
-    "delta": 0.01
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2346,10 +2346,10 @@
     "tier_count": 104,
     "bgg_id": 131357,
     "name": "Coup",
-    "current_rating": 6.814,
+    "current_rating": 6.824,
     "proposed_rating": 6.824,
     "num_plays": 5,
-    "delta": 0.01
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2358,10 +2358,10 @@
     "tier_count": 104,
     "bgg_id": 329151,
     "name": "Draconic Dice",
-    "current_rating": 6.803,
+    "current_rating": 6.815,
     "proposed_rating": 6.815,
     "num_plays": 5,
-    "delta": 0.012
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2370,10 +2370,10 @@
     "tier_count": 104,
     "bgg_id": 264241,
     "name": "Mandala",
-    "current_rating": 6.793,
+    "current_rating": 6.805,
     "proposed_rating": 6.805,
     "num_plays": 5,
-    "delta": 0.012
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2382,10 +2382,10 @@
     "tier_count": 104,
     "bgg_id": 274960,
     "name": "Point Salad",
-    "current_rating": 6.783,
+    "current_rating": 6.795,
     "proposed_rating": 6.795,
     "num_plays": 5,
-    "delta": 0.012
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2394,10 +2394,10 @@
     "tier_count": 104,
     "bgg_id": 129622,
     "name": "Love Letter",
-    "current_rating": 6.772,
+    "current_rating": 6.786,
     "proposed_rating": 6.786,
     "num_plays": 3,
-    "delta": 0.014
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2406,10 +2406,10 @@
     "tier_count": 104,
     "bgg_id": 313841,
     "name": "Lunar Base",
-    "current_rating": 6.762,
+    "current_rating": 6.776,
     "proposed_rating": 6.776,
     "num_plays": 3,
-    "delta": 0.014
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2418,10 +2418,10 @@
     "tier_count": 104,
     "bgg_id": 284083,
     "name": "The Crew: The Quest for Planet Nine",
-    "current_rating": 6.752,
+    "current_rating": 6.766,
     "proposed_rating": 6.766,
     "num_plays": 3,
-    "delta": 0.014
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2430,10 +2430,10 @@
     "tier_count": 104,
     "bgg_id": 300442,
     "name": "Trekking the World",
-    "current_rating": 6.742,
+    "current_rating": 6.757,
     "proposed_rating": 6.757,
     "num_plays": 3,
-    "delta": 0.015
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2442,10 +2442,10 @@
     "tier_count": 104,
     "bgg_id": 247367,
     "name": "Air, Land, & Sea",
-    "current_rating": 6.731,
+    "current_rating": 6.747,
     "proposed_rating": 6.747,
     "num_plays": 2,
-    "delta": 0.016
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2454,10 +2454,10 @@
     "tier_count": 104,
     "bgg_id": 284653,
     "name": "Mind MGMT: The Psychic Espionage “Game.”",
-    "current_rating": 6.721,
+    "current_rating": 6.737,
     "proposed_rating": 6.737,
     "num_plays": 2,
-    "delta": 0.016
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2466,10 +2466,10 @@
     "tier_count": 104,
     "bgg_id": 159473,
     "name": "Quartermaster General",
-    "current_rating": 6.711,
+    "current_rating": 6.727,
     "proposed_rating": 6.727,
     "num_plays": 2,
-    "delta": 0.016
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2478,10 +2478,10 @@
     "tier_count": 104,
     "bgg_id": 232043,
     "name": "Queendomino",
-    "current_rating": 6.7,
+    "current_rating": 6.718,
     "proposed_rating": 6.718,
     "num_plays": 2,
-    "delta": 0.018
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2490,10 +2490,10 @@
     "tier_count": 104,
     "bgg_id": 274037,
     "name": "Solar Storm",
-    "current_rating": 6.69,
+    "current_rating": 6.708,
     "proposed_rating": 6.708,
     "num_plays": 2,
-    "delta": 0.018
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2502,10 +2502,10 @@
     "tier_count": 104,
     "bgg_id": 279720,
     "name": "Streets",
-    "current_rating": 6.68,
+    "current_rating": 6.698,
     "proposed_rating": 6.698,
     "num_plays": 2,
-    "delta": 0.018
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2514,10 +2514,10 @@
     "tier_count": 104,
     "bgg_id": 290359,
     "name": "Undaunted: North Africa",
-    "current_rating": 6.669,
+    "current_rating": 6.689,
     "proposed_rating": 6.689,
     "num_plays": 2,
-    "delta": 0.02
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2526,10 +2526,10 @@
     "tier_count": 104,
     "bgg_id": 256852,
     "name": "Aliens: Another Glorious Day in the Corps",
-    "current_rating": 6.659,
+    "current_rating": 6.679,
     "proposed_rating": 6.679,
     "num_plays": 1,
-    "delta": 0.02
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2538,10 +2538,10 @@
     "tier_count": 104,
     "bgg_id": 347521,
     "name": "Blitzkrieg!: World War Two in 20 Minutes (Second Edition)",
-    "current_rating": 6.649,
+    "current_rating": 6.669,
     "proposed_rating": 6.669,
     "num_plays": 1,
-    "delta": 0.02
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2550,10 +2550,10 @@
     "tier_count": 104,
     "bgg_id": 170223,
     "name": "Centauri Saga",
-    "current_rating": 6.639,
+    "current_rating": 6.66,
     "proposed_rating": 6.66,
     "num_plays": 1,
-    "delta": 0.021
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2562,10 +2562,10 @@
     "tier_count": 104,
     "bgg_id": 344839,
     "name": "Dog Lover",
-    "current_rating": 6.628,
+    "current_rating": 6.65,
     "proposed_rating": 6.65,
     "num_plays": 1,
-    "delta": 0.022
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2574,10 +2574,10 @@
     "tier_count": 104,
     "bgg_id": 253786,
     "name": "Don't Mess with Cthulhu Deluxe",
-    "current_rating": 6.618,
+    "current_rating": 6.64,
     "proposed_rating": 6.64,
     "num_plays": 1,
-    "delta": 0.022
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2586,10 +2586,10 @@
     "tier_count": 104,
     "bgg_id": 65244,
     "name": "Forbidden Island",
-    "current_rating": 6.608,
+    "current_rating": 6.63,
     "proposed_rating": 6.63,
     "num_plays": 1,
-    "delta": 0.022
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2598,10 +2598,10 @@
     "tier_count": 104,
     "bgg_id": 31481,
     "name": "Galaxy Trucker",
-    "current_rating": 6.597,
+    "current_rating": 6.621,
     "proposed_rating": 6.621,
     "num_plays": 1,
-    "delta": 0.024
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2610,10 +2610,10 @@
     "tier_count": 104,
     "bgg_id": 278120,
     "name": "God of War: The Card Game",
-    "current_rating": 6.587,
+    "current_rating": 6.611,
     "proposed_rating": 6.611,
     "num_plays": 1,
-    "delta": 0.024
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2622,10 +2622,10 @@
     "tier_count": 104,
     "bgg_id": 158600,
     "name": "Hanamikoji",
-    "current_rating": 6.577,
+    "current_rating": 6.601,
     "proposed_rating": 6.601,
     "num_plays": 1,
-    "delta": 0.024
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2634,10 +2634,10 @@
     "tier_count": 104,
     "bgg_id": 195314,
     "name": "Herbaceous",
-    "current_rating": 6.566,
+    "current_rating": 6.592,
     "proposed_rating": 6.592,
     "num_plays": 1,
-    "delta": 0.026
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2646,10 +2646,10 @@
     "tier_count": 104,
     "bgg_id": 8203,
     "name": "Hey, That's My Fish!",
-    "current_rating": 6.556,
+    "current_rating": 6.582,
     "proposed_rating": 6.582,
     "num_plays": 1,
-    "delta": 0.026
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2658,10 +2658,10 @@
     "tier_count": 104,
     "bgg_id": 369258,
     "name": "Isle of Skye: Big Box",
-    "current_rating": 6.546,
+    "current_rating": 6.572,
     "proposed_rating": 6.572,
     "num_plays": 1,
-    "delta": 0.026
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2670,10 +2670,10 @@
     "tier_count": 104,
     "bgg_id": 272738,
     "name": "Jaws",
-    "current_rating": 6.536,
+    "current_rating": 6.563,
     "proposed_rating": 6.563,
     "num_plays": 1,
-    "delta": 0.027
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2682,10 +2682,10 @@
     "tier_count": 104,
     "bgg_id": 297562,
     "name": "Kemet: Blood and Sand",
-    "current_rating": 6.525,
+    "current_rating": 6.553,
     "proposed_rating": 6.553,
     "num_plays": 1,
-    "delta": 0.028
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2694,10 +2694,10 @@
     "tier_count": 104,
     "bgg_id": 379629,
     "name": "Knarr",
-    "current_rating": 6.515,
+    "current_rating": 6.543,
     "proposed_rating": 6.543,
     "num_plays": 1,
-    "delta": 0.028
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2706,10 +2706,10 @@
     "tier_count": 104,
     "bgg_id": 264141,
     "name": "Kodachi",
-    "current_rating": 6.505,
+    "current_rating": 6.533,
     "proposed_rating": 6.533,
     "num_plays": 1,
-    "delta": 0.028
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2718,10 +2718,10 @@
     "tier_count": 104,
     "bgg_id": 267401,
     "name": "Lawyer Up",
-    "current_rating": 6.494,
+    "current_rating": 6.524,
     "proposed_rating": 6.524,
     "num_plays": 1,
-    "delta": 0.03
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2730,10 +2730,10 @@
     "tier_count": 104,
     "bgg_id": 192638,
     "name": "Multiuniversum",
-    "current_rating": 6.484,
+    "current_rating": 6.514,
     "proposed_rating": 6.514,
     "num_plays": 1,
-    "delta": 0.03
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2742,10 +2742,10 @@
     "tier_count": 104,
     "bgg_id": 194879,
     "name": "Not Alone",
-    "current_rating": 6.474,
+    "current_rating": 6.504,
     "proposed_rating": 6.504,
     "num_plays": 1,
-    "delta": 0.03
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2754,10 +2754,10 @@
     "tier_count": 104,
     "bgg_id": 256713,
     "name": "One Deck Galaxy",
-    "current_rating": 6.463,
+    "current_rating": 6.495,
     "proposed_rating": 6.495,
     "num_plays": 1,
-    "delta": 0.032
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2766,10 +2766,10 @@
     "tier_count": 104,
     "bgg_id": 192153,
     "name": "Reign of Cthulhu",
-    "current_rating": 6.453,
+    "current_rating": 6.485,
     "proposed_rating": 6.485,
     "num_plays": 1,
-    "delta": 0.032
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2778,10 +2778,10 @@
     "tier_count": 104,
     "bgg_id": 38453,
     "name": "Space Alert",
-    "current_rating": 6.443,
+    "current_rating": 6.475,
     "proposed_rating": 6.475,
     "num_plays": 1,
-    "delta": 0.032
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2790,10 +2790,10 @@
     "tier_count": 104,
     "bgg_id": 182631,
     "name": "Star Realms: Colony Wars",
-    "current_rating": 6.433,
+    "current_rating": 6.466,
     "proposed_rating": 6.466,
     "num_plays": 1,
-    "delta": 0.033
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2802,10 +2802,10 @@
     "tier_count": 104,
     "bgg_id": 296108,
     "name": "Terraforming Mars: The Dice Game",
-    "current_rating": 6.422,
+    "current_rating": 6.456,
     "proposed_rating": 6.456,
     "num_plays": 1,
-    "delta": 0.034
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2814,10 +2814,10 @@
     "tier_count": 104,
     "bgg_id": 253284,
     "name": "Ticket to Ride: New York",
-    "current_rating": 6.412,
+    "current_rating": 6.446,
     "proposed_rating": 6.446,
     "num_plays": 1,
-    "delta": 0.034
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2826,10 +2826,10 @@
     "tier_count": 104,
     "bgg_id": 241724,
     "name": "Villagers",
-    "current_rating": 6.402,
+    "current_rating": 6.436,
     "proposed_rating": 6.436,
     "num_plays": 1,
-    "delta": 0.034
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2838,10 +2838,10 @@
     "tier_count": 104,
     "bgg_id": 362944,
     "name": "War of the Ring: The Card Game",
-    "current_rating": 6.391,
+    "current_rating": 6.427,
     "proposed_rating": 6.427,
     "num_plays": 1,
-    "delta": 0.036
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2850,10 +2850,10 @@
     "tier_count": 104,
     "bgg_id": 223779,
     "name": "Pocket Mars",
-    "current_rating": 6.381,
+    "current_rating": 6.417,
     "proposed_rating": 6.417,
     "num_plays": 6,
-    "delta": 0.036
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2862,10 +2862,10 @@
     "tier_count": 104,
     "bgg_id": 220700,
     "name": "Cobra Paw",
-    "current_rating": 6.371,
+    "current_rating": 6.407,
     "proposed_rating": 6.407,
     "num_plays": 1,
-    "delta": 0.036
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2874,10 +2874,10 @@
     "tier_count": 104,
     "bgg_id": 156009,
     "name": "Port Royal",
-    "current_rating": 6.36,
+    "current_rating": 6.398,
     "proposed_rating": 6.398,
     "num_plays": 1,
-    "delta": 0.038
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2886,10 +2886,10 @@
     "tier_count": 104,
     "bgg_id": 14996,
     "name": "Ticket to Ride: Europe",
-    "current_rating": 6.35,
+    "current_rating": 6.388,
     "proposed_rating": 6.388,
     "num_plays": 1,
-    "delta": 0.038
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2898,10 +2898,10 @@
     "tier_count": 104,
     "bgg_id": 179275,
     "name": "One Deck Dungeon",
-    "current_rating": 6.34,
+    "current_rating": 6.378,
     "proposed_rating": 6.378,
     "num_plays": 1,
-    "delta": 0.038
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2910,10 +2910,10 @@
     "tier_count": 104,
     "bgg_id": 147299,
     "name": "Pocket Imperium",
-    "current_rating": 6.33,
+    "current_rating": 6.369,
     "proposed_rating": 6.369,
     "num_plays": 1,
-    "delta": 0.039
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2922,10 +2922,10 @@
     "tier_count": 104,
     "bgg_id": 172,
     "name": "For Sale",
-    "current_rating": 6.319,
+    "current_rating": 6.359,
     "proposed_rating": 6.359,
     "num_plays": 11,
-    "delta": 0.04
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2934,10 +2934,10 @@
     "tier_count": 104,
     "bgg_id": 107529,
     "name": "Kingdom Builder",
-    "current_rating": 6.309,
+    "current_rating": 6.349,
     "proposed_rating": 6.349,
     "num_plays": 7,
-    "delta": 0.04
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2946,10 +2946,10 @@
     "tier_count": 104,
     "bgg_id": 245654,
     "name": "Railroad Ink: Deep Blue Edition",
-    "current_rating": 6.299,
+    "current_rating": 6.339,
     "proposed_rating": 6.339,
     "num_plays": 6,
-    "delta": 0.04
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2958,10 +2958,10 @@
     "tier_count": 104,
     "bgg_id": 271324,
     "name": "It's a Wonderful World",
-    "current_rating": 6.288,
+    "current_rating": 6.33,
     "proposed_rating": 6.33,
     "num_plays": 4,
-    "delta": 0.042
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2970,10 +2970,10 @@
     "tier_count": 104,
     "bgg_id": 166857,
     "name": "Antike II",
-    "current_rating": 6.278,
+    "current_rating": 6.32,
     "proposed_rating": 6.32,
     "num_plays": 3,
-    "delta": 0.042
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2982,10 +2982,10 @@
     "tier_count": 104,
     "bgg_id": 251830,
     "name": "Alhambra: Mega Box",
-    "current_rating": 6.268,
+    "current_rating": 6.31,
     "proposed_rating": 6.31,
     "num_plays": 2,
-    "delta": 0.042
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -2994,10 +2994,10 @@
     "tier_count": 104,
     "bgg_id": 69789,
     "name": "Ascension: Deckbuilding Game",
-    "current_rating": 6.257,
+    "current_rating": 6.301,
     "proposed_rating": 6.301,
     "num_plays": 2,
-    "delta": 0.044
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3006,10 +3006,10 @@
     "tier_count": 104,
     "bgg_id": 98778,
     "name": "Hanabi",
-    "current_rating": 6.247,
+    "current_rating": 6.291,
     "proposed_rating": 6.291,
     "num_plays": 2,
-    "delta": 0.044
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3018,10 +3018,10 @@
     "tier_count": 104,
     "bgg_id": 210274,
     "name": "Petrichor",
-    "current_rating": 6.237,
+    "current_rating": 6.281,
     "proposed_rating": 6.281,
     "num_plays": 2,
-    "delta": 0.044
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3030,10 +3030,10 @@
     "tier_count": 104,
     "bgg_id": 183006,
     "name": "Qwinto",
-    "current_rating": 6.227,
+    "current_rating": 6.272,
     "proposed_rating": 6.272,
     "num_plays": 2,
-    "delta": 0.045
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3042,10 +3042,10 @@
     "tier_count": 104,
     "bgg_id": 254713,
     "name": "The Artemis Project",
-    "current_rating": 6.216,
+    "current_rating": 6.262,
     "proposed_rating": 6.262,
     "num_plays": 2,
-    "delta": 0.046
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3054,10 +3054,10 @@
     "tier_count": 104,
     "bgg_id": 189932,
     "name": "Tyrants of the Underdark",
-    "current_rating": 6.206,
+    "current_rating": 6.252,
     "proposed_rating": 6.252,
     "num_plays": 2,
-    "delta": 0.046
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3066,10 +3066,10 @@
     "tier_count": 104,
     "bgg_id": 213893,
     "name": "Yamataï",
-    "current_rating": 6.196,
+    "current_rating": 6.242,
     "proposed_rating": 6.242,
     "num_plays": 2,
-    "delta": 0.046
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3078,10 +3078,10 @@
     "tier_count": 104,
     "bgg_id": 283393,
     "name": "Aquatica",
-    "current_rating": 6.185,
+    "current_rating": 6.233,
     "proposed_rating": 6.233,
     "num_plays": 1,
-    "delta": 0.048
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3090,10 +3090,10 @@
     "tier_count": 104,
     "bgg_id": 143515,
     "name": "Coal Baron",
-    "current_rating": 6.175,
+    "current_rating": 6.223,
     "proposed_rating": 6.223,
     "num_plays": 1,
-    "delta": 0.048
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3102,10 +3102,10 @@
     "tier_count": 104,
     "bgg_id": 169654,
     "name": "Deep Sea Adventure",
-    "current_rating": 6.165,
+    "current_rating": 6.213,
     "proposed_rating": 6.213,
     "num_plays": 1,
-    "delta": 0.048
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3114,10 +3114,10 @@
     "tier_count": 104,
     "bgg_id": 158435,
     "name": "Dogs of War",
-    "current_rating": 6.154,
+    "current_rating": 6.204,
     "proposed_rating": 6.204,
     "num_plays": 1,
-    "delta": 0.05
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3126,10 +3126,10 @@
     "tier_count": 104,
     "bgg_id": 96260,
     "name": "Dominant Species: The Card Game",
-    "current_rating": 6.144,
+    "current_rating": 6.194,
     "proposed_rating": 6.194,
     "num_plays": 1,
-    "delta": 0.05
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3138,10 +3138,10 @@
     "tier_count": 104,
     "bgg_id": 269573,
     "name": "Dracarys Dice",
-    "current_rating": 6.134,
+    "current_rating": 6.184,
     "proposed_rating": 6.184,
     "num_plays": 1,
-    "delta": 0.05
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3150,10 +3150,10 @@
     "tier_count": 104,
     "bgg_id": 193738,
     "name": "Great Western Trail",
-    "current_rating": 6.124,
+    "current_rating": 6.175,
     "proposed_rating": 6.175,
     "num_plays": 1,
-    "delta": 0.051
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3162,10 +3162,10 @@
     "tier_count": 104,
     "bgg_id": 275034,
     "name": "Judge Dredd: Helter Skelter",
-    "current_rating": 6.113,
+    "current_rating": 6.165,
     "proposed_rating": 6.165,
     "num_plays": 1,
-    "delta": 0.052
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3174,10 +3174,10 @@
     "tier_count": 104,
     "bgg_id": 139030,
     "name": "Mascarade",
-    "current_rating": 6.103,
+    "current_rating": 6.155,
     "proposed_rating": 6.155,
     "num_plays": 1,
-    "delta": 0.052
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3186,10 +3186,10 @@
     "tier_count": 104,
     "bgg_id": 66589,
     "name": "Navegador",
-    "current_rating": 6.093,
+    "current_rating": 6.145,
     "proposed_rating": 6.145,
     "num_plays": 1,
-    "delta": 0.052
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3198,10 +3198,10 @@
     "tier_count": 104,
     "bgg_id": 300877,
     "name": "New York Zoo",
-    "current_rating": 6.082,
+    "current_rating": 6.136,
     "proposed_rating": 6.136,
     "num_plays": 1,
-    "delta": 0.054
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3210,10 +3210,10 @@
     "tier_count": 104,
     "bgg_id": 329082,
     "name": "Radlands",
-    "current_rating": 6.072,
+    "current_rating": 6.126,
     "proposed_rating": 6.126,
     "num_plays": 1,
-    "delta": 0.054
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3222,10 +3222,10 @@
     "tier_count": 104,
     "bgg_id": 237182,
     "name": "Root",
-    "current_rating": 6.062,
+    "current_rating": 6.116,
     "proposed_rating": 6.116,
     "num_plays": 1,
-    "delta": 0.054
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3234,10 +3234,10 @@
     "tier_count": 104,
     "bgg_id": 159503,
     "name": "The Captain Is Dead",
-    "current_rating": 6.051,
+    "current_rating": 6.107,
     "proposed_rating": 6.107,
     "num_plays": 1,
-    "delta": 0.056
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3246,10 +3246,10 @@
     "tier_count": 104,
     "bgg_id": 276894,
     "name": "Ticket to Ride: London",
-    "current_rating": 6.041,
+    "current_rating": 6.097,
     "proposed_rating": 6.097,
     "num_plays": 1,
-    "delta": 0.056
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3258,10 +3258,10 @@
     "tier_count": 104,
     "bgg_id": 128621,
     "name": "Viticulture",
-    "current_rating": 6.031,
+    "current_rating": 6.087,
     "proposed_rating": 6.087,
     "num_plays": 1,
-    "delta": 0.056
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3270,10 +3270,10 @@
     "tier_count": 104,
     "bgg_id": 266192,
     "name": "Wingspan",
-    "current_rating": 6.021,
+    "current_rating": 6.078,
     "proposed_rating": 6.078,
     "num_plays": 1,
-    "delta": 0.057
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3282,10 +3282,10 @@
     "tier_count": 104,
     "bgg_id": 184151,
     "name": "Legend of the Five Rings: The Card Game",
-    "current_rating": 6.01,
+    "current_rating": 6.068,
     "proposed_rating": 6.068,
     "num_plays": 1,
-    "delta": 0.058
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3294,10 +3294,10 @@
     "tier_count": 104,
     "bgg_id": 368017,
     "name": "Point City",
-    "current_rating": 6.0,
+    "current_rating": 6.058,
     "proposed_rating": 6.058,
     "num_plays": 0,
-    "delta": 0.058
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3306,10 +3306,10 @@
     "tier_count": 104,
     "bgg_id": 41,
     "name": "Can't Stop",
-    "current_rating": 7.0,
+    "current_rating": 6.048,
     "proposed_rating": 6.048,
     "num_plays": 7,
-    "delta": -0.952
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3318,10 +3318,10 @@
     "tier_count": 104,
     "bgg_id": 263918,
     "name": "Cartographers",
-    "current_rating": 7.0,
+    "current_rating": 6.039,
     "proposed_rating": 6.039,
     "num_plays": 1,
-    "delta": -0.961
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3330,10 +3330,10 @@
     "tier_count": 104,
     "bgg_id": 407180,
     "name": "Ganz schön clever: Deluxe",
-    "current_rating": 7.0,
+    "current_rating": 6.029,
     "proposed_rating": 6.029,
     "num_plays": 1,
-    "delta": -0.971
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3342,10 +3342,10 @@
     "tier_count": 104,
     "bgg_id": 63975,
     "name": "Mountain Goats",
-    "current_rating": 7.0,
+    "current_rating": 6.019,
     "proposed_rating": 6.019,
     "num_plays": 1,
-    "delta": -0.981
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3354,10 +3354,10 @@
     "tier_count": 104,
     "bgg_id": 73439,
     "name": "Troyes",
-    "current_rating": 7.0,
+    "current_rating": 6.01,
     "proposed_rating": 6.01,
     "num_plays": 1,
-    "delta": -0.99
+    "delta": 0.0
   },
   {
     "tier": "C",
@@ -3366,10 +3366,10 @@
     "tier_count": 104,
     "bgg_id": 27588,
     "name": "Zooloretto",
-    "current_rating": 7.0,
+    "current_rating": 6.0,
     "proposed_rating": 6.0,
     "num_plays": 1,
-    "delta": -1.0
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3390,10 +3390,10 @@
     "tier_count": 62,
     "bgg_id": 12942,
     "name": "No Thanks!",
-    "current_rating": 5.981,
+    "current_rating": 5.983,
     "proposed_rating": 5.983,
     "num_plays": 7,
-    "delta": 0.002
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3402,10 +3402,10 @@
     "tier_count": 62,
     "bgg_id": 11971,
     "name": "Cockroach Poker",
-    "current_rating": 5.963,
+    "current_rating": 5.966,
     "proposed_rating": 5.966,
     "num_plays": 6,
-    "delta": 0.003
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3414,10 +3414,10 @@
     "tier_count": 62,
     "bgg_id": 143741,
     "name": "BANG! The Dice Game",
-    "current_rating": 5.945,
+    "current_rating": 5.95,
     "proposed_rating": 5.95,
     "num_plays": 5,
-    "delta": 0.005
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3426,10 +3426,10 @@
     "tier_count": 62,
     "bgg_id": 178900,
     "name": "Codenames",
-    "current_rating": 5.928,
+    "current_rating": 5.933,
     "proposed_rating": 5.933,
     "num_plays": 5,
-    "delta": 0.005
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3438,10 +3438,10 @@
     "tier_count": 62,
     "bgg_id": 811,
     "name": "Rummikub",
-    "current_rating": 5.91,
+    "current_rating": 5.917,
     "proposed_rating": 5.917,
     "num_plays": 5,
-    "delta": 0.007
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3450,10 +3450,10 @@
     "tier_count": 62,
     "bgg_id": 303554,
     "name": "Winter Kingdom",
-    "current_rating": 5.892,
+    "current_rating": 5.901,
     "proposed_rating": 5.901,
     "num_plays": 4,
-    "delta": 0.009
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3462,10 +3462,10 @@
     "tier_count": 62,
     "bgg_id": 122298,
     "name": "Morels",
-    "current_rating": 5.874,
+    "current_rating": 5.884,
     "proposed_rating": 5.884,
     "num_plays": 2,
-    "delta": 0.01
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3474,10 +3474,10 @@
     "tier_count": 62,
     "bgg_id": 337070,
     "name": "Arkham Noir: Case #3 – Infinite Gulfs of Darkness",
-    "current_rating": 5.856,
+    "current_rating": 5.868,
     "proposed_rating": 5.868,
     "num_plays": 1,
-    "delta": 0.012
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3486,10 +3486,10 @@
     "tier_count": 62,
     "bgg_id": 105593,
     "name": "Cheating Moth",
-    "current_rating": 5.838,
+    "current_rating": 5.852,
     "proposed_rating": 5.852,
     "num_plays": 1,
-    "delta": 0.014
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3498,10 +3498,10 @@
     "tier_count": 62,
     "bgg_id": 376747,
     "name": "Deep Dive",
-    "current_rating": 5.821,
+    "current_rating": 5.835,
     "proposed_rating": 5.835,
     "num_plays": 1,
-    "delta": 0.014
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3510,10 +3510,10 @@
     "tier_count": 62,
     "bgg_id": 172225,
     "name": "Exploding Kittens",
-    "current_rating": 5.803,
+    "current_rating": 5.819,
     "proposed_rating": 5.819,
     "num_plays": 1,
-    "delta": 0.016
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3522,10 +3522,10 @@
     "tier_count": 62,
     "bgg_id": 345088,
     "name": "Founders of Teotihuacan",
-    "current_rating": 5.785,
+    "current_rating": 5.802,
     "proposed_rating": 5.802,
     "num_plays": 1,
-    "delta": 0.017
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3534,10 +3534,10 @@
     "tier_count": 62,
     "bgg_id": 160968,
     "name": "Homeland: The Game",
-    "current_rating": 5.767,
+    "current_rating": 5.786,
     "proposed_rating": 5.786,
     "num_plays": 1,
-    "delta": 0.019
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3546,10 +3546,10 @@
     "tier_count": 62,
     "bgg_id": 240957,
     "name": "Judge Dredd: The Cursed Earth",
-    "current_rating": 5.749,
+    "current_rating": 5.77,
     "proposed_rating": 5.77,
     "num_plays": 1,
-    "delta": 0.021
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3558,10 +3558,10 @@
     "tier_count": 62,
     "bgg_id": 193322,
     "name": "Master of Orion: The Board Game",
-    "current_rating": 5.731,
+    "current_rating": 5.753,
     "proposed_rating": 5.753,
     "num_plays": 1,
-    "delta": 0.022
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3570,10 +3570,10 @@
     "tier_count": 62,
     "bgg_id": 230251,
     "name": "Mint Delivery",
-    "current_rating": 5.714,
+    "current_rating": 5.737,
     "proposed_rating": 5.737,
     "num_plays": 1,
-    "delta": 0.023
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3582,10 +3582,10 @@
     "tier_count": 62,
     "bgg_id": 309297,
     "name": "SCOPE Stalingrad",
-    "current_rating": 5.696,
+    "current_rating": 5.721,
     "proposed_rating": 5.721,
     "num_plays": 1,
-    "delta": 0.025
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3594,10 +3594,10 @@
     "tier_count": 62,
     "bgg_id": 41114,
     "name": "The Resistance",
-    "current_rating": 5.678,
+    "current_rating": 5.704,
     "proposed_rating": 5.704,
     "num_plays": 1,
-    "delta": 0.026
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3606,10 +3606,10 @@
     "tier_count": 62,
     "bgg_id": 234190,
     "name": "Unstable Unicorns",
-    "current_rating": 5.66,
+    "current_rating": 5.688,
     "proposed_rating": 5.688,
     "num_plays": 1,
-    "delta": 0.028
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3618,10 +3618,10 @@
     "tier_count": 62,
     "bgg_id": 281075,
     "name": "Welcome to New Las Vegas",
-    "current_rating": 5.642,
+    "current_rating": 5.671,
     "proposed_rating": 5.671,
     "num_plays": 5,
-    "delta": 0.029
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3630,10 +3630,10 @@
     "tier_count": 62,
     "bgg_id": 158899,
     "name": "Colt Express",
-    "current_rating": 5.624,
+    "current_rating": 5.655,
     "proposed_rating": 5.655,
     "num_plays": 4,
-    "delta": 0.031
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3642,10 +3642,10 @@
     "tier_count": 62,
     "bgg_id": 207062,
     "name": "Dungeons & Dragons: Rock Paper Wizard",
-    "current_rating": 5.607,
+    "current_rating": 5.639,
     "proposed_rating": 5.639,
     "num_plays": 3,
-    "delta": 0.032
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3654,10 +3654,10 @@
     "tier_count": 62,
     "bgg_id": 359502,
     "name": "Casting Shadows",
-    "current_rating": 5.589,
+    "current_rating": 5.622,
     "proposed_rating": 5.622,
     "num_plays": 2,
-    "delta": 0.033
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3666,10 +3666,10 @@
     "tier_count": 62,
     "bgg_id": 124361,
     "name": "Concordia",
-    "current_rating": 5.571,
+    "current_rating": 5.606,
     "proposed_rating": 5.606,
     "num_plays": 2,
-    "delta": 0.035
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3678,10 +3678,10 @@
     "tier_count": 62,
     "bgg_id": 256570,
     "name": "Crown of Emara",
-    "current_rating": 5.553,
+    "current_rating": 5.59,
     "proposed_rating": 5.59,
     "num_plays": 2,
-    "delta": 0.037
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3690,10 +3690,10 @@
     "tier_count": 62,
     "bgg_id": 173090,
     "name": "The Game",
-    "current_rating": 5.535,
+    "current_rating": 5.573,
     "proposed_rating": 5.573,
     "num_plays": 2,
-    "delta": 0.038
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3702,10 +3702,10 @@
     "tier_count": 62,
     "bgg_id": 103343,
     "name": "A Game of Thrones: The Board Game (Second Edition)",
-    "current_rating": 5.517,
+    "current_rating": 5.557,
     "proposed_rating": 5.557,
     "num_plays": 1,
-    "delta": 0.04
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3714,10 +3714,10 @@
     "tier_count": 62,
     "bgg_id": 181293,
     "name": "Alien Artifacts",
-    "current_rating": 5.5,
+    "current_rating": 5.54,
     "proposed_rating": 5.54,
     "num_plays": 1,
-    "delta": 0.04
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3726,10 +3726,10 @@
     "tier_count": 62,
     "bgg_id": 5420,
     "name": "Assassin: The Final Game",
-    "current_rating": 5.482,
+    "current_rating": 5.524,
     "proposed_rating": 5.524,
     "num_plays": 1,
-    "delta": 0.042
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3738,10 +3738,10 @@
     "tier_count": 62,
     "bgg_id": 213266,
     "name": "Circle the Wagons",
-    "current_rating": 5.464,
+    "current_rating": 5.508,
     "proposed_rating": 5.508,
     "num_plays": 1,
-    "delta": 0.044
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3750,10 +3750,10 @@
     "tier_count": 62,
     "bgg_id": 238972,
     "name": "Cogs and Commissars",
-    "current_rating": 5.446,
+    "current_rating": 5.491,
     "proposed_rating": 5.491,
     "num_plays": 1,
-    "delta": 0.045
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3762,10 +3762,10 @@
     "tier_count": 62,
     "bgg_id": 269511,
     "name": "Cooper Island",
-    "current_rating": 5.428,
+    "current_rating": 5.475,
     "proposed_rating": 5.475,
     "num_plays": 1,
-    "delta": 0.047
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3774,10 +3774,10 @@
     "tier_count": 62,
     "bgg_id": 269595,
     "name": "Copenhagen",
-    "current_rating": 5.41,
+    "current_rating": 5.459,
     "proposed_rating": 5.459,
     "num_plays": 1,
-    "delta": 0.049
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3786,10 +3786,10 @@
     "tier_count": 62,
     "bgg_id": 280480,
     "name": "Crystal Palace",
-    "current_rating": 5.392,
+    "current_rating": 5.442,
     "proposed_rating": 5.442,
     "num_plays": 1,
-    "delta": 0.05
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3798,10 +3798,10 @@
     "tier_count": 62,
     "bgg_id": 244271,
     "name": "Dice Throne: Season Two – Battle Chest",
-    "current_rating": 5.375,
+    "current_rating": 5.426,
     "proposed_rating": 5.426,
     "num_plays": 1,
-    "delta": 0.051
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3810,10 +3810,10 @@
     "tier_count": 62,
     "bgg_id": 169124,
     "name": "Flick 'em Up!",
-    "current_rating": 5.357,
+    "current_rating": 5.409,
     "proposed_rating": 5.409,
     "num_plays": 1,
-    "delta": 0.052
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3822,10 +3822,10 @@
     "tier_count": 62,
     "bgg_id": 249703,
     "name": "Gentes: Deluxified Edition",
-    "current_rating": 5.339,
+    "current_rating": 5.393,
     "proposed_rating": 5.393,
     "num_plays": 1,
-    "delta": 0.054
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3834,10 +3834,10 @@
     "tier_count": 62,
     "bgg_id": 134157,
     "name": "Guilds of London",
-    "current_rating": 5.321,
+    "current_rating": 5.377,
     "proposed_rating": 5.377,
     "num_plays": 1,
-    "delta": 0.056
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3846,10 +3846,10 @@
     "tier_count": 62,
     "bgg_id": 134253,
     "name": "Hostage Negotiator",
-    "current_rating": 5.303,
+    "current_rating": 5.36,
     "proposed_rating": 5.36,
     "num_plays": 1,
-    "delta": 0.057
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3858,10 +3858,10 @@
     "tier_count": 62,
     "bgg_id": 70323,
     "name": "King of Tokyo",
-    "current_rating": 5.285,
+    "current_rating": 5.344,
     "proposed_rating": 5.344,
     "num_plays": 1,
-    "delta": 0.059
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3870,10 +3870,10 @@
     "tier_count": 62,
     "bgg_id": 1219,
     "name": "Labyrinth",
-    "current_rating": 5.268,
+    "current_rating": 5.328,
     "proposed_rating": 5.328,
     "num_plays": 1,
-    "delta": 0.06
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3882,10 +3882,10 @@
     "tier_count": 62,
     "bgg_id": 285774,
     "name": "Marvel Champions: The Card Game",
-    "current_rating": 5.25,
+    "current_rating": 5.311,
     "proposed_rating": 5.311,
     "num_plays": 1,
-    "delta": 0.061
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3894,10 +3894,10 @@
     "tier_count": 62,
     "bgg_id": 126042,
     "name": "Nations",
-    "current_rating": 5.232,
+    "current_rating": 5.295,
     "proposed_rating": 5.295,
     "num_plays": 1,
-    "delta": 0.063
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3906,10 +3906,10 @@
     "tier_count": 62,
     "bgg_id": 255692,
     "name": "New Frontiers",
-    "current_rating": 5.214,
+    "current_rating": 5.278,
     "proposed_rating": 5.278,
     "num_plays": 1,
-    "delta": 0.064
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3918,10 +3918,10 @@
     "tier_count": 62,
     "bgg_id": 162041,
     "name": "Ninja Taisen",
-    "current_rating": 5.196,
+    "current_rating": 5.262,
     "proposed_rating": 5.262,
     "num_plays": 1,
-    "delta": 0.066
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3930,10 +3930,10 @@
     "tier_count": 62,
     "bgg_id": 270445,
     "name": "Omerta",
-    "current_rating": 5.178,
+    "current_rating": 5.246,
     "proposed_rating": 5.246,
     "num_plays": 1,
-    "delta": 0.068
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3942,10 +3942,10 @@
     "tier_count": 62,
     "bgg_id": 147949,
     "name": "One Night Ultimate Werewolf",
-    "current_rating": 5.161,
+    "current_rating": 5.229,
     "proposed_rating": 5.229,
     "num_plays": 1,
-    "delta": 0.068
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3954,10 +3954,10 @@
     "tier_count": 62,
     "bgg_id": 170199,
     "name": "Solarius Mission",
-    "current_rating": 5.143,
+    "current_rating": 5.213,
     "proposed_rating": 5.213,
     "num_plays": 1,
-    "delta": 0.07
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3966,10 +3966,10 @@
     "tier_count": 62,
     "bgg_id": 419143,
     "name": "Spectrum",
-    "current_rating": 5.125,
+    "current_rating": 5.197,
     "proposed_rating": 5.197,
     "num_plays": 1,
-    "delta": 0.072
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3978,10 +3978,10 @@
     "tier_count": 62,
     "bgg_id": 244522,
     "name": "That's Pretty Clever!",
-    "current_rating": 5.107,
+    "current_rating": 5.18,
     "proposed_rating": 5.18,
     "num_plays": 1,
-    "delta": 0.073
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -3990,10 +3990,10 @@
     "tier_count": 62,
     "bgg_id": 204574,
     "name": "The Flow of History",
-    "current_rating": 5.089,
+    "current_rating": 5.164,
     "proposed_rating": 5.164,
     "num_plays": 1,
-    "delta": 0.075
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -4002,10 +4002,10 @@
     "tier_count": 62,
     "bgg_id": 257283,
     "name": "Tiny Epic Mechs",
-    "current_rating": 5.071,
+    "current_rating": 5.147,
     "proposed_rating": 5.147,
     "num_plays": 1,
-    "delta": 0.076
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -4014,10 +4014,10 @@
     "tier_count": 62,
     "bgg_id": 244654,
     "name": "Wildlands",
-    "current_rating": 5.054,
+    "current_rating": 5.131,
     "proposed_rating": 5.131,
     "num_plays": 1,
-    "delta": 0.077
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -4026,10 +4026,10 @@
     "tier_count": 62,
     "bgg_id": 115105,
     "name": "Kittens in a Blender",
-    "current_rating": 5.036,
+    "current_rating": 5.115,
     "proposed_rating": 5.115,
     "num_plays": 1,
-    "delta": 0.079
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -4038,10 +4038,10 @@
     "tier_count": 62,
     "bgg_id": 356123,
     "name": "Turing Machine",
-    "current_rating": 5.018,
+    "current_rating": 5.098,
     "proposed_rating": 5.098,
     "num_plays": 8,
-    "delta": 0.08
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -4050,10 +4050,10 @@
     "tier_count": 62,
     "bgg_id": 378848,
     "name": "Camel Up: The Card Game",
-    "current_rating": 5.0,
+    "current_rating": 5.082,
     "proposed_rating": 5.082,
     "num_plays": 0,
-    "delta": 0.082
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -4062,10 +4062,10 @@
     "tier_count": 62,
     "bgg_id": 303734,
     "name": "Golems",
-    "current_rating": 6.0,
+    "current_rating": 5.066,
     "proposed_rating": 5.066,
     "num_plays": 2,
-    "delta": -0.934
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -4074,10 +4074,10 @@
     "tier_count": 62,
     "bgg_id": 302520,
     "name": "Hues and Cues",
-    "current_rating": 6.0,
+    "current_rating": 5.049,
     "proposed_rating": 5.049,
     "num_plays": 2,
-    "delta": -0.951
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -4086,10 +4086,10 @@
     "tier_count": 62,
     "bgg_id": 204583,
     "name": "Kingdomino",
-    "current_rating": 6.0,
+    "current_rating": 5.033,
     "proposed_rating": 5.033,
     "num_plays": 2,
-    "delta": -0.967
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -4098,10 +4098,10 @@
     "tier_count": 62,
     "bgg_id": 73761,
     "name": "K2",
-    "current_rating": 6.0,
+    "current_rating": 5.016,
     "proposed_rating": 5.016,
     "num_plays": 1,
-    "delta": -0.984
+    "delta": 0.0
   },
   {
     "tier": "D",
@@ -4110,10 +4110,10 @@
     "tier_count": 62,
     "bgg_id": 180974,
     "name": "Potion Explosion",
-    "current_rating": 6.0,
+    "current_rating": 5.0,
     "proposed_rating": 5.0,
     "num_plays": 1,
-    "delta": -1.0
+    "delta": 0.0
   },
   {
     "tier": "F",
@@ -4434,10 +4434,10 @@
     "tier_count": 28,
     "bgg_id": 382518,
     "name": "Sankoré: The Pride of Mansa Musa",
-    "current_rating": 9.961,
+    "current_rating": 9.962,
     "proposed_rating": 9.962,
     "num_plays": 7,
-    "delta": 0.001
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4446,10 +4446,10 @@
     "tier_count": 28,
     "bgg_id": 337627,
     "name": "Voidfall",
-    "current_rating": 9.922,
+    "current_rating": 9.925,
     "proposed_rating": 9.925,
     "num_plays": 13,
-    "delta": 0.003
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4458,10 +4458,10 @@
     "tier_count": 28,
     "bgg_id": 367150,
     "name": "Dune: War for Arrakis",
-    "current_rating": 9.884,
+    "current_rating": 9.888,
     "proposed_rating": 9.888,
     "num_plays": 2,
-    "delta": 0.004
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4470,10 +4470,10 @@
     "tier_count": 28,
     "bgg_id": 391137,
     "name": "Galactic Cruise",
-    "current_rating": 9.845,
+    "current_rating": 9.851,
     "proposed_rating": 9.851,
     "num_plays": 5,
-    "delta": 0.006
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4482,10 +4482,10 @@
     "tier_count": 28,
     "bgg_id": 375459,
     "name": "Speakeasy",
-    "current_rating": 9.807,
+    "current_rating": 9.814,
     "proposed_rating": 9.814,
     "num_plays": 1,
-    "delta": 0.007
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4494,10 +4494,10 @@
     "tier_count": 28,
     "bgg_id": 122842,
     "name": "Exodus: Proxima Centauri",
-    "current_rating": 9.768,
+    "current_rating": 9.777,
     "proposed_rating": 9.777,
     "num_plays": 6,
-    "delta": 0.009
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4506,10 +4506,10 @@
     "tier_count": 28,
     "bgg_id": 297030,
     "name": "Tekhenu: Obelisk of the Sun",
-    "current_rating": 9.73,
+    "current_rating": 9.74,
     "proposed_rating": 9.74,
     "num_plays": 5,
-    "delta": 0.01
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4518,10 +4518,10 @@
     "tier_count": 28,
     "bgg_id": 82222,
     "name": "Xia: Legends of a Drift System",
-    "current_rating": 9.692,
+    "current_rating": 9.703,
     "proposed_rating": 9.703,
     "num_plays": 5,
-    "delta": 0.011
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4530,10 +4530,10 @@
     "tier_count": 28,
     "bgg_id": 304510,
     "name": "Pampero",
-    "current_rating": 9.653,
+    "current_rating": 9.666,
     "proposed_rating": 9.666,
     "num_plays": 1,
-    "delta": 0.013
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4542,10 +4542,10 @@
     "tier_count": 28,
     "bgg_id": 347305,
     "name": "Inventions: Evolution of Ideas",
-    "current_rating": 9.615,
+    "current_rating": 9.629,
     "proposed_rating": 9.629,
     "num_plays": 5,
-    "delta": 0.014
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4554,10 +4554,10 @@
     "tier_count": 28,
     "bgg_id": 348877,
     "name": "Lobotomy 2: Manhunt",
-    "current_rating": 9.576,
+    "current_rating": 9.592,
     "proposed_rating": 9.592,
     "num_plays": 2,
-    "delta": 0.016
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4566,10 +4566,10 @@
     "tier_count": 28,
     "bgg_id": 358661,
     "name": "Andromeda's Edge",
-    "current_rating": 9.538,
+    "current_rating": 9.555,
     "proposed_rating": 9.555,
     "num_plays": 3,
-    "delta": 0.017
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4578,10 +4578,10 @@
     "tier_count": 28,
     "bgg_id": 246900,
     "name": "Eclipse: Second Dawn for the Galaxy",
-    "current_rating": 9.5,
+    "current_rating": 9.518,
     "proposed_rating": 9.518,
     "num_plays": 1,
-    "delta": 0.018
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4590,10 +4590,10 @@
     "tier_count": 28,
     "bgg_id": 418059,
     "name": "SETI: Search for Extraterrestrial Intelligence",
-    "current_rating": 9.461,
+    "current_rating": 9.481,
     "proposed_rating": 9.481,
     "num_plays": 6,
-    "delta": 0.02
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4602,10 +4602,10 @@
     "tier_count": 28,
     "bgg_id": 345868,
     "name": "Federation",
-    "current_rating": 9.423,
+    "current_rating": 9.444,
     "proposed_rating": 9.444,
     "num_plays": 15,
-    "delta": 0.021
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4614,10 +4614,10 @@
     "tier_count": 28,
     "bgg_id": 167355,
     "name": "Nemesis",
-    "current_rating": 9.384,
+    "current_rating": 9.407,
     "proposed_rating": 9.407,
     "num_plays": 2,
-    "delta": 0.023
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4626,10 +4626,10 @@
     "tier_count": 28,
     "bgg_id": 425630,
     "name": "Baghdad: The City of Peace",
-    "current_rating": 9.346,
+    "current_rating": 9.37,
     "proposed_rating": 9.37,
     "num_plays": 1,
-    "delta": 0.024
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4638,10 +4638,10 @@
     "tier_count": 28,
     "bgg_id": 253344,
     "name": "Cthulhu: Death May Die",
-    "current_rating": 9.307,
+    "current_rating": 9.333,
     "proposed_rating": 9.333,
     "num_plays": 6,
-    "delta": 0.026
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4650,10 +4650,10 @@
     "tier_count": 28,
     "bgg_id": 380707,
     "name": "Vindication: Archive of the Ancients",
-    "current_rating": 9.269,
+    "current_rating": 9.296,
     "proposed_rating": 9.296,
     "num_plays": 2,
-    "delta": 0.027
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4662,10 +4662,10 @@
     "tier_count": 28,
     "bgg_id": 290484,
     "name": "Unsettled",
-    "current_rating": 9.231,
+    "current_rating": 9.259,
     "proposed_rating": 9.259,
     "num_plays": 2,
-    "delta": 0.028
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4674,10 +4674,10 @@
     "tier_count": 28,
     "bgg_id": 277659,
     "name": "Final Girl",
-    "current_rating": 9.192,
+    "current_rating": 9.222,
     "proposed_rating": 9.222,
     "num_plays": 1,
-    "delta": 0.03
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4686,10 +4686,10 @@
     "tier_count": 28,
     "bgg_id": 37111,
     "name": "Battlestar Galactica: The Board Game",
-    "current_rating": 9.154,
+    "current_rating": 9.185,
     "proposed_rating": 9.185,
     "num_plays": 1,
-    "delta": 0.031
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4698,10 +4698,10 @@
     "tier_count": 28,
     "bgg_id": 270239,
     "name": "Moonrakers",
-    "current_rating": 9.115,
+    "current_rating": 9.148,
     "proposed_rating": 9.148,
     "num_plays": 1,
-    "delta": 0.033
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4710,10 +4710,10 @@
     "tier_count": 28,
     "bgg_id": 270408,
     "name": "Exodus Chronicles",
-    "current_rating": 9.077,
+    "current_rating": 9.111,
     "proposed_rating": 9.111,
     "num_plays": 0,
-    "delta": 0.034
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4722,10 +4722,10 @@
     "tier_count": 28,
     "bgg_id": 72125,
     "name": "Eclipse: New Dawn for the Galaxy",
-    "current_rating": 9.038,
+    "current_rating": 9.074,
     "proposed_rating": 9.074,
     "num_plays": 2,
-    "delta": 0.036
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4734,10 +4734,10 @@
     "tier_count": 28,
     "bgg_id": 132531,
     "name": "Roll for the Galaxy",
-    "current_rating": 9.0,
+    "current_rating": 9.037,
     "proposed_rating": 9.037,
     "num_plays": 7,
-    "delta": 0.037
+    "delta": 0.0
   },
   {
     "tier": "S",
@@ -4746,9 +4746,9 @@
     "tier_count": 28,
     "bgg_id": 329500,
     "name": "Unconscious Mind",
-    "current_rating": 10.0,
+    "current_rating": 9.0,
     "proposed_rating": 9.0,
     "num_plays": 1,
-    "delta": -1.0
+    "delta": 0.0
   }
 ]

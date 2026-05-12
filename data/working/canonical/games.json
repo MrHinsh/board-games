@@ -27,14 +27,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1",
     "bgg_id": 183571,
     "name": "Deep Space D-6",
     "year_published": 2015,
-    "rating": 7.774,
+    "rating": 7.717,
     "num_plays": 3,
     "players": "1",
     "complexity": 1.6639,
@@ -56,7 +57,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1",
@@ -88,7 +90,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1",
@@ -123,7 +126,8 @@
       "Variable Set-up",
       "Worker Placement",
       "Worker Placement, Different Worker Types"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1",
@@ -153,7 +157,8 @@
       "Open Drafting",
       "Solo / Solitaire Game",
       "Stat Check Resolution"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1",
@@ -180,7 +185,8 @@
     "mechanics": [
       "Action Points",
       "Dice Rolling"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1",
@@ -211,7 +217,8 @@
       "Solo / Solitaire Game",
       "Sudden Death Ending",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1",
@@ -240,7 +247,8 @@
       "Dice Rolling",
       "Rondel",
       "Solo / Solitaire Game"
-    ]
+    ],
+    "bgg_comment": "⏩"
   },
   {
     "group_key": "1",
@@ -274,14 +282,15 @@
       "Worker Placement",
       "Worker Placement with Dice Workers",
       "Worker Placement, Different Worker Types"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1",
     "bgg_id": 306735,
     "name": "Under Falling Skies",
     "year_published": 2020,
-    "rating": 7.421,
+    "rating": 7.391,
     "num_plays": 1,
     "players": "1",
     "complexity": 2.3937,
@@ -309,14 +318,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1",
     "bgg_id": 296237,
     "name": "Warp's Edge",
     "year_published": 2020,
-    "rating": 8.246,
+    "rating": 8.154,
     "num_plays": 3,
     "players": "1",
     "complexity": 2.3896,
@@ -332,7 +342,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-100",
@@ -367,14 +378,15 @@
       "Square Grid",
       "Take That",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-100",
     "bgg_id": 233867,
     "name": "Welcome To...",
     "year_published": 2018,
-    "rating": 7.411,
+    "rating": 7.381,
     "num_plays": 4,
     "players": "1-100",
     "complexity": 1.8422,
@@ -396,14 +408,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-2",
     "bgg_id": 205637,
     "name": "Arkham Horror: The Card Game",
     "year_published": 2016,
-    "rating": 8.506,
+    "rating": 8.446,
     "num_plays": 1,
     "players": "1-2",
     "complexity": 3.5655,
@@ -440,7 +453,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-2",
@@ -472,7 +486,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-2",
@@ -501,14 +516,15 @@
       "Chit-Pull System",
       "Simulation",
       "Solo / Solitaire Game"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-2",
     "bgg_id": 247236,
     "name": "Duelosaur Island",
     "year_published": 2018,
-    "rating": 8.219,
+    "rating": 8.123,
     "num_plays": 3,
     "players": "1-2",
     "complexity": 2.3803,
@@ -533,7 +549,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-2",
@@ -556,14 +573,15 @@
     "mechanics": [
       "Open Drafting",
       "Set Collection"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-2",
     "bgg_id": 289566,
     "name": "Hunted: Kobayashi Tower",
     "year_published": 2021,
-    "rating": 7.832,
+    "rating": 7.772,
     "num_plays": 4,
     "players": "1-2",
     "complexity": 2,
@@ -583,7 +601,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-2",
@@ -610,14 +629,15 @@
       "Dice Rolling",
       "Push Your Luck",
       "Solo / Solitaire Game"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-2",
     "bgg_id": 289565,
     "name": "Hunted: Mining Colony 415",
     "year_published": 2021,
-    "rating": 8.328,
+    "rating": 8.246,
     "num_plays": 4,
     "players": "1-2",
     "complexity": 1.8182,
@@ -638,7 +658,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-2",
@@ -665,14 +686,15 @@
     "mechanics": [
       "Flicking",
       "Push Your Luck"
-    ]
+    ],
+    "bgg_comment": "⏩"
   },
   {
     "group_key": "1-2",
     "bgg_id": 329148,
     "name": "Hunted: Wode Ridge",
     "year_published": 2023,
-    "rating": 8.342,
+    "rating": 8.261,
     "num_plays": 1,
     "players": "1-2",
     "complexity": 1.8,
@@ -694,7 +716,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-2",
@@ -720,7 +743,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-2",
@@ -746,7 +770,8 @@
       "Pattern Building",
       "Set Collection",
       "Solo / Solitaire Game"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-2",
@@ -784,7 +809,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-2",
@@ -813,7 +839,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-2",
@@ -840,7 +867,8 @@
     "mechanics": [
       "Action Points",
       "Dice Rolling"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-2",
@@ -869,7 +897,8 @@
       "Scenario / Mission / Campaign Game",
       "Solo / Solitaire Game",
       "Storytelling"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-2",
@@ -902,7 +931,8 @@
       "Move Through Deck",
       "Solo / Solitaire Game",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -936,7 +966,8 @@
       "Turn Order: Stat-Based",
       "Variable Player Powers",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -964,14 +995,15 @@
       "I Cut, You Choose",
       "Open Drafting",
       "Tile Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 185343,
     "name": "Anachrony",
     "year_published": 2017,
-    "rating": 7.069,
+    "rating": 7.064,
     "num_plays": 1,
     "collection": false,
     "previously_owned": false,
@@ -1002,7 +1034,8 @@
       "Variable Set-up",
       "Worker Placement",
       "Worker Placement, Different Worker Types"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -1041,7 +1074,8 @@
       "Tags",
       "Track Movement",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -1083,7 +1117,8 @@
       "Track Movement",
       "Variable Player Powers",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -1111,7 +1146,8 @@
       "Solo / Solitaire Game",
       "Variable Player Powers",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": "2021\\03"
   },
   {
     "group_key": "1-4",
@@ -1138,7 +1174,8 @@
       "Deck, Bag, and Pool Building",
       "Hand Management",
       "Open Drafting"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -1164,14 +1201,15 @@
     "mechanics": [
       "Area Majority / Influence",
       "Tech Trees / Tech Tracks"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 231581,
     "name": "AuZtralia",
     "year_published": 2018,
-    "rating": 7.686,
+    "rating": 7.636,
     "num_plays": 2,
     "players": "1-4",
     "complexity": 2.8873,
@@ -1198,7 +1236,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -1231,7 +1270,8 @@
       "Tile Placement",
       "Track Movement",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -1260,14 +1300,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 230244,
     "name": "Black Angel",
     "year_published": 2019,
-    "rating": 7.578,
+    "rating": 7.536,
     "num_plays": 1,
     "players": "1-4",
     "complexity": 3.87,
@@ -1293,14 +1334,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 356768,
     "name": "Bloc by Bloc: Uprising",
     "year_published": 2022,
-    "rating": 7.676,
+    "rating": 7.627,
     "num_plays": 2,
     "players": "1-4",
     "complexity": 2.5789,
@@ -1329,7 +1371,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -1368,7 +1411,8 @@
       "Set Collection",
       "Solo / Solitaire Game",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -1398,14 +1442,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": true,
-    "collection_status": "OwnedToExit"
+    "collection_status": "OwnedToExit",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 349948,
     "name": "Ceres",
     "year_published": 2023,
-    "rating": 8.848,
+    "rating": 8.83,
     "num_plays": 2,
     "players": "1-4",
     "complexity": 3.2653,
@@ -1425,14 +1470,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 264052,
     "name": "Circadians: First Light",
     "year_published": 2019,
-    "rating": 7.784,
+    "rating": 7.727,
     "num_plays": 3,
     "players": "1-4",
     "complexity": 3.3723,
@@ -1458,14 +1504,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 267370,
     "name": "Cities: Skylines – The Board Game",
     "year_published": 2019,
-    "rating": 7.108,
+    "rating": 7.1,
     "num_plays": 2,
     "collection": false,
     "previously_owned": true,
@@ -1487,14 +1534,15 @@
       "Modular Board",
       "Tile Placement",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 216132,
     "name": "Clans of Caledonia",
     "year_published": 2017,
-    "rating": 8.835,
+    "rating": 8.815,
     "num_plays": 20,
     "players": "1-4",
     "complexity": 3.4684,
@@ -1521,7 +1569,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -1554,7 +1603,8 @@
       "Solo / Solitaire Game",
       "Tile Placement",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -1584,7 +1634,8 @@
       "Turn Order: Claim Action",
       "Worker Placement",
       "Worker Placement, Different Worker Types"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -1617,7 +1668,8 @@
       "Rondel",
       "Solo / Solitaire Game",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -1641,14 +1693,15 @@
       "Set Collection",
       "Tile Placement",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": "2020\\03"
   },
   {
     "group_key": "1-4",
     "bgg_id": 221194,
     "name": "Dinosaur Island",
     "year_published": 2017,
-    "rating": 7.862,
+    "rating": 7.799,
     "num_plays": 5,
     "players": "1-4",
     "complexity": 3.045,
@@ -1672,14 +1725,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 318009,
     "name": "Dinosaur Island: Rawr 'n Write",
     "year_published": 2021,
-    "rating": 7.568,
+    "rating": 7.527,
     "num_plays": 1,
     "players": "1-4",
     "complexity": 2.8534,
@@ -1704,14 +1758,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 331401,
     "name": "Dog Park",
     "year_published": 2022,
-    "rating": 7.999,
+    "rating": 7.99,
     "num_plays": 2,
     "players": "1-4",
     "complexity": 2.1618,
@@ -1736,7 +1791,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -1766,7 +1822,8 @@
       "Point to Point Movement",
       "Set Collection",
       "Turn Order: Stat-Based"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -1793,14 +1850,15 @@
       "Cooperative Game",
       "Solo / Solitaire Game",
       "Storytelling"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 316554,
     "name": "Dune: Imperium",
     "year_published": 2020,
-    "rating": 7.656,
+    "rating": 7.608,
     "num_plays": 2,
     "players": "1-4",
     "complexity": 3.0768,
@@ -1834,7 +1892,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": "Need more plays to see if its a keeper"
   },
   {
     "group_key": "1-4",
@@ -1873,7 +1932,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -1907,7 +1967,8 @@
       "Push Your Luck",
       "Role Playing",
       "Storytelling"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -1943,7 +2004,8 @@
       "Solo / Solitaire Game",
       "Storytelling",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -1974,14 +2036,15 @@
       "Income",
       "Pick-up and Deliver",
       "Solo / Solitaire Game"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 292126,
     "name": "Excavation Earth",
     "year_published": 2021,
-    "rating": 8.862,
+    "rating": 8.845,
     "num_plays": 2,
     "players": "1-4",
     "complexity": 3.8077,
@@ -2005,7 +2068,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -2037,14 +2101,15 @@
       "Tech Trees / Tech Tracks",
       "Track Movement",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 198609,
     "name": "Fate of the Elder Gods",
     "year_published": 2017,
-    "rating": 8.438,
+    "rating": 8.369,
     "num_plays": 1,
     "players": "1-4",
     "complexity": 2.8276,
@@ -2072,14 +2137,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 138161,
     "name": "Firefly: The Game",
     "year_published": 2013,
-    "rating": 8.424,
+    "rating": 8.353,
     "num_plays": 3,
     "players": "1-4",
     "complexity": 2.956,
@@ -2108,7 +2174,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -2143,14 +2210,15 @@
       "Storytelling",
       "Variable Player Powers",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 317859,
     "name": "Forests of Pangaia",
     "year_published": 2023,
-    "rating": 7.764,
+    "rating": 7.708,
     "num_plays": 3,
     "players": "1-4",
     "complexity": 2.3696,
@@ -2171,7 +2239,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -2202,7 +2271,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -2238,14 +2308,15 @@
       "Solo / Solitaire Game",
       "Variable Set-up",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 220308,
     "name": "Gaia Project",
     "year_published": 2017,
-    "rating": 8.698,
+    "rating": 8.661,
     "num_plays": 11,
     "players": "1-4",
     "complexity": 4.403,
@@ -2277,7 +2348,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -2320,7 +2392,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": "Production"
   },
   {
     "group_key": "1-4",
@@ -2349,7 +2422,8 @@
       "Paper-and-Pencil",
       "Re-rolling and Locking",
       "Solo / Solitaire Game"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -2378,7 +2452,8 @@
       "Open Drafting",
       "Set Collection",
       "Turn Order: Claim Action"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -2406,7 +2481,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": true,
-    "collection_status": "OwnedToExit"
+    "collection_status": "OwnedToExit",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -2430,7 +2506,8 @@
       "Area Majority / Influence",
       "Hand Management",
       "Modular Board"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -2457,14 +2534,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 318184,
     "name": "Imperium: Classics",
     "year_published": 2021,
-    "rating": 7.539,
+    "rating": 7.5,
     "num_plays": 1,
     "players": "1-4",
     "complexity": 3.6197,
@@ -2492,7 +2570,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -2518,7 +2597,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -2553,7 +2633,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -2582,14 +2663,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 284378,
     "name": "Kanban EV",
     "year_published": 2020,
-    "rating": 8.985,
+    "rating": 8.984,
     "num_plays": 2,
     "players": "1-4",
     "complexity": 4.2877,
@@ -2610,14 +2692,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 368173,
     "name": "Let's Go! To Japan",
     "year_published": 2024,
-    "rating": 7.529,
+    "rating": 7.49,
     "num_plays": 1,
     "players": "1-4",
     "complexity": 2.25,
@@ -2646,7 +2729,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -2679,14 +2763,15 @@
       "Race",
       "Simultaneous Action Selection",
       "Tile Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 340865,
     "name": "Lords of Ragnarok",
     "year_published": 2023,
-    "rating": 7.637,
+    "rating": 7.59,
     "num_plays": 2,
     "players": "1-4",
     "complexity": 3.7857,
@@ -2715,14 +2800,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 312484,
     "name": "Lost Ruins of Arnak",
     "year_published": 2020,
-    "rating": 7.206,
+    "rating": 7.191,
     "num_plays": 1,
     "collection": false,
     "previously_owned": false,
@@ -2755,7 +2841,8 @@
       "Track Movement",
       "Turn Order: Progressive",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -2792,7 +2879,8 @@
       "Turn Order: Progressive",
       "Variable Player Powers",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -2825,7 +2913,8 @@
       "Point to Point Movement",
       "Roll / Spin and Move",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -2862,7 +2951,8 @@
       "Track Movement",
       "Turn Order: Auction",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -2888,7 +2978,8 @@
     "mechanics": [
       "Auction / Bidding",
       "Tile Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -2918,7 +3009,8 @@
       "Dice Rolling",
       "Events",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -2946,14 +3038,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 325941,
     "name": "Nemo's War: The Ultimate Edition",
     "year_published": 2022,
-    "rating": 7.5,
+    "rating": 7.463,
     "num_plays": 1,
     "players": "1-4",
     "complexity": 3.25,
@@ -2983,7 +3076,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3020,7 +3114,8 @@
       "Tile Placement",
       "Turn Order: Progressive",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3053,7 +3148,8 @@
       "Variable Set-up",
       "Worker Placement",
       "Worker Placement, Different Worker Types"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3088,14 +3184,15 @@
       "Solo / Solitaire Game",
       "Tech Trees / Tech Tracks",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 184267,
     "name": "On Mars",
     "year_published": 2020,
-    "rating": 8.958,
+    "rating": 8.953,
     "num_plays": 3,
     "players": "1-4",
     "complexity": 4.6264,
@@ -3128,7 +3225,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3158,7 +3256,8 @@
       "Turn Order: Stat-Based",
       "Variable Set-up",
       "Worker Placement with Dice Workers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3189,14 +3288,15 @@
       "Tech Trees / Tech Tracks",
       "Variable Set-up",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 266810,
     "name": "Paladins of the West Kingdom",
     "year_published": 2019,
-    "rating": 8.725,
+    "rating": 8.692,
     "num_plays": 2,
     "players": "1-4",
     "complexity": 3.7097,
@@ -3216,7 +3316,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3250,7 +3351,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": "? ship 29th July 2024"
   },
   {
     "group_key": "1-4",
@@ -3278,7 +3380,8 @@
       "Hand Management",
       "Modular Board",
       "Voting"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3306,7 +3409,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3332,7 +3436,8 @@
     "mechanics": [
       "Open Drafting",
       "Set Collection"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3361,14 +3466,15 @@
       "Layering",
       "Open Drafting",
       "Tile Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 306881,
     "name": "Railroad Ink Challenge: Lush Green Edition",
     "year_published": 2021,
-    "rating": 7.627,
+    "rating": 7.581,
     "num_plays": 2,
     "players": "1-4",
     "complexity": 2.1143,
@@ -3393,7 +3499,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3420,14 +3527,15 @@
     "mechanics": [
       "Area Majority / Influence",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 307002,
     "name": "Regicide",
     "year_published": 2020,
-    "rating": 7.744,
+    "rating": 7.69,
     "num_plays": 3,
     "players": "1-4",
     "complexity": 1.9679,
@@ -3452,7 +3560,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3477,7 +3586,8 @@
       "Hidden Victory Points",
       "Variable Player Powers",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3512,7 +3622,8 @@
       "Tile Placement",
       "Variable Player Powers",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3542,7 +3653,8 @@
       "Role Playing",
       "Set Collection",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3581,14 +3693,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 343900,
     "name": "Senjutsu: Battle For Japan",
     "year_published": 2023,
-    "rating": 7.304,
+    "rating": 7.282,
     "num_plays": 1,
     "players": "1-4",
     "complexity": 2.9189,
@@ -3611,7 +3724,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3643,7 +3757,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3669,7 +3784,8 @@
     "mechanics": [
       "Variable Set-up",
       "Worker Placement, Different Worker Types"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3709,14 +3825,15 @@
       "Variable Player Powers",
       "Victory Points as a Resource",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 255984,
     "name": "Sleeping Gods",
     "year_published": 2021,
-    "rating": 7.48,
+    "rating": 7.445,
     "num_plays": 1,
     "players": "1-4",
     "complexity": 3.2624,
@@ -3745,7 +3862,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3776,14 +3894,15 @@
       "Narrative Choice / Paragraph",
       "Push Your Luck",
       "Solo / Solitaire Game"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 299178,
     "name": "Small Railroad Empires",
     "year_published": 2021,
-    "rating": 7.823,
+    "rating": 7.763,
     "num_plays": 4,
     "players": "1-4",
     "complexity": 2.3,
@@ -3806,7 +3925,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3838,7 +3958,8 @@
       "Set Collection",
       "Solo / Solitaire Game",
       "Worker Placement with Dice Workers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3866,7 +3987,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3895,7 +4017,8 @@
       "Area Majority / Influence",
       "Rondel",
       "Set Collection"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3935,7 +4058,8 @@
       "Solo / Solitaire Game",
       "Tech Trees / Tech Tracks",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3965,7 +4089,8 @@
       "Hand Management",
       "Point to Point Movement",
       "Solo / Solitaire Game"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -3995,7 +4120,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -4034,14 +4160,15 @@
       "Tags",
       "Variable Player Powers",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 230253,
     "name": "Star Realms: Frontiers",
     "year_published": 2018,
-    "rating": 8.151,
+    "rating": 7.945,
     "num_plays": 4,
     "players": "1-4",
     "complexity": 1.8844,
@@ -4065,7 +4192,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -4105,7 +4233,8 @@
       "Storytelling",
       "Team-Based Game",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -4129,14 +4258,15 @@
       "Action / Event",
       "Point to Point Movement",
       "Resource to Move"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 345542,
     "name": "Stellar Expedition",
     "year_published": 2023,
-    "rating": 7.46,
+    "rating": 7.427,
     "num_plays": 1,
     "players": "1-4",
     "complexity": 3,
@@ -4158,14 +4288,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 123260,
     "name": "Suburbia",
     "year_published": 2012,
-    "rating": 7.362,
+    "rating": 7.336,
     "num_plays": 1,
     "players": "1-4",
     "complexity": 2.7576,
@@ -4191,7 +4322,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -4223,7 +4355,8 @@
       "Open Drafting",
       "Ownership",
       "Tile Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -4261,7 +4394,8 @@
       "Scenario / Mission / Campaign Game",
       "Solo / Solitaire Game",
       "Storytelling"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -4305,14 +4439,15 @@
       "Solo / Solitaire Game",
       "Storytelling",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 306481,
     "name": "Tawantinsuyu: The Inca Empire",
     "year_published": 2020,
-    "rating": 8.712,
+    "rating": 8.676,
     "num_plays": 3,
     "players": "1-4",
     "complexity": 4.089,
@@ -4340,7 +4475,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -4371,7 +4507,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -4412,7 +4549,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -4442,14 +4580,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": "September 2024 (soon)"
   },
   {
     "group_key": "1-4",
     "bgg_id": 350458,
     "name": "Terracotta Army",
     "year_published": 2022,
-    "rating": 8.561,
+    "rating": 8.507,
     "num_plays": 1,
     "players": "1-4",
     "complexity": 3.396,
@@ -4471,14 +4610,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 328871,
     "name": "Terraforming Mars: Ares Expedition",
     "year_published": 2021,
-    "rating": 8.383,
+    "rating": 8.307,
     "num_plays": 3,
     "players": "1-4",
     "complexity": 2.9241,
@@ -4511,7 +4651,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -4546,7 +4687,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -4574,7 +4716,8 @@
       "Paper-and-Pencil",
       "Re-rolling and Locking",
       "Solo / Solitaire Game"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -4607,7 +4750,8 @@
       "Scenario / Mission / Campaign Game",
       "Storytelling",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -4638,7 +4782,8 @@
       "Simulation",
       "Team-Based Game",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -4667,14 +4812,15 @@
       "Open Drafting",
       "Solo / Solitaire Game",
       "Turn Order: Claim Action"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 292375,
     "name": "The Great Wall",
     "year_published": 2021,
-    "rating": 7.451,
+    "rating": 7.418,
     "num_plays": 1,
     "players": "1-4",
     "complexity": 3.9057,
@@ -4702,14 +4848,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 279537,
     "name": "The Search for Planet X",
     "year_published": 2020,
-    "rating": 7.441,
+    "rating": 7.409,
     "num_plays": 1,
     "players": "1-4",
     "complexity": 2.4343,
@@ -4734,7 +4881,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -4773,7 +4921,8 @@
       "Variable Set-up",
       "Worker Placement",
       "Worker Placement with Dice Workers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -4799,14 +4948,15 @@
       "Grid Movement",
       "Hexagon Grid",
       "Solo / Solitaire Game"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 160610,
     "name": "Thunderbirds",
     "year_published": 2015,
-    "rating": 7.039,
+    "rating": 7.036,
     "num_plays": 1,
     "collection": false,
     "previously_owned": false,
@@ -4832,14 +4982,15 @@
       "Set Collection",
       "Solo / Solitaire Game",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 408253,
     "name": "Tiny Epic Cthulhu: Deluxe Edition",
     "year_published": 2024,
-    "rating": 8.479,
+    "rating": 8.415,
     "num_plays": 1,
     "players": "1-4",
     "complexity": 3,
@@ -4866,14 +5017,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": "November 2024"
   },
   {
     "group_key": "1-4",
     "bgg_id": 291508,
     "name": "Tiny Epic Dinosaurs",
     "year_published": 2020,
-    "rating": 7.597,
+    "rating": 7.554,
     "num_plays": 2,
     "players": "1-4",
     "complexity": 2.6522,
@@ -4897,7 +5049,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -4932,7 +5085,8 @@
       "Tile Placement",
       "Variable Player Powers",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -4966,7 +5120,8 @@
       "Take That",
       "Variable Player Powers",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -4997,7 +5152,8 @@
       "King of the Hill",
       "Open Drafting",
       "Solo / Solitaire Game"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -5025,7 +5181,8 @@
       "Follow",
       "Open Drafting",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -5064,7 +5221,8 @@
       "Variable Set-up",
       "Worker Placement with Dice Workers",
       "Worker Placement, Different Worker Types"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -5092,7 +5250,8 @@
       "Deduction",
       "Paper-and-Pencil",
       "Solo / Solitaire Game"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -5120,7 +5279,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -5156,14 +5316,15 @@
       "Tags",
       "Variable Set-up",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 247763,
     "name": "Underwater Cities",
     "year_published": 2018,
-    "rating": 8.014,
+    "rating": 8.015,
     "num_plays": 2,
     "collection": false,
     "previously_owned": false,
@@ -5191,7 +5352,8 @@
       "Turn Order: Claim Action",
       "Turn Order: Stat-Based",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -5219,7 +5381,8 @@
       "End Game Bonuses",
       "Modular Board",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -5250,7 +5413,8 @@
       "Set Collection",
       "Solo / Solitaire Game",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -5285,7 +5449,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -5322,14 +5487,15 @@
       "Track Movement",
       "Worker Placement with Dice Workers",
       "Worker Placement, Different Worker Types"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 276997,
     "name": "X-ODUS: Rise of the Corruption",
     "year_published": 2020,
-    "rating": 7.94,
+    "rating": 7.881,
     "num_plays": 1,
     "players": "1-4",
     "complexity": 3.3269,
@@ -5353,14 +5519,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 163602,
     "name": "XCOM: The Board Game",
     "year_published": 2015,
-    "rating": 7.176,
+    "rating": 7.163,
     "num_plays": 1,
     "collection": false,
     "previously_owned": true,
@@ -5384,14 +5551,15 @@
       "Push Your Luck",
       "Real-Time",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
     "bgg_id": 189660,
     "name": "XenoShyft: Dreadmire",
     "year_published": 2017,
-    "rating": 7.157,
+    "rating": 7.145,
     "num_plays": 2,
     "collection": false,
     "previously_owned": true,
@@ -5414,7 +5582,8 @@
       "Open Drafting",
       "Solo / Solitaire Game",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-4",
@@ -5444,14 +5613,15 @@
       "Simultaneous Action Selection",
       "Solo / Solitaire Game",
       "Turn Order: Stat-Based"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
     "bgg_id": 236457,
     "name": "Architects of the West Kingdom",
     "year_published": 2018,
-    "rating": 8.452,
+    "rating": 8.384,
     "num_plays": 13,
     "players": "1-5",
     "complexity": 2.7627,
@@ -5484,7 +5654,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -5512,7 +5683,8 @@
       "Set Collection",
       "Tech Trees / Tech Tracks",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -5540,7 +5712,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": true,
-    "collection_status": "OwnedToExit"
+    "collection_status": "OwnedToExit",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -5575,14 +5748,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
     "bgg_id": 373600,
     "name": "Cthulhu: Death May Die – Fear of the Unknown",
     "year_published": 2024,
-    "rating": 8.753,
+    "rating": 8.722,
     "num_plays": 1,
     "players": "1-5",
     "complexity": 2.7273,
@@ -5608,7 +5782,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": "EU Hub: The containers should arrive at the Hub between August 3 and August 10."
   },
   {
     "group_key": "1-5",
@@ -5640,7 +5815,8 @@
       "Tile Placement",
       "Turn Order: Stat-Based",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -5670,7 +5846,8 @@
       "Push Your Luck",
       "Solo / Solitaire Game",
       "Worker Placement with Dice Workers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -5699,7 +5876,8 @@
       "Race",
       "Tile Placement",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -5739,7 +5917,8 @@
       "Tags",
       "Turn Order: Progressive",
       "Worker Placement with Dice Workers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -5766,14 +5945,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": true,
-    "collection_status": "OwnedToExit"
+    "collection_status": "OwnedToExit",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
     "bgg_id": 171273,
     "name": "FUSE",
     "year_published": 2015,
-    "rating": 7.333,
+    "rating": 7.309,
     "num_plays": 3,
     "players": "1-5",
     "complexity": 1.6628,
@@ -5800,14 +5980,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
     "bgg_id": 252752,
     "name": "Genotype: A Mendelian Genetics Game",
     "year_published": 2021,
-    "rating": 7.548,
+    "rating": 7.509,
     "num_plays": 1,
     "players": "1-5",
     "complexity": 2.7841,
@@ -5833,7 +6014,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -5871,7 +6053,8 @@
       "Resource to Move",
       "Simulation",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -5905,7 +6088,8 @@
       "Simultaneous Action Selection",
       "Solo / Solitaire Game",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -5939,7 +6123,8 @@
       "Solo / Solitaire Game",
       "Turn Order: Progressive",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -5977,7 +6162,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -6013,7 +6199,8 @@
       "Solo / Solitaire Game",
       "Track Movement",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -6048,14 +6235,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
     "bgg_id": 205059,
     "name": "Mansions of Madness: Second Edition",
     "year_published": 2016,
-    "rating": 7.96,
+    "rating": 7.917,
     "num_plays": 1,
     "players": "1-5",
     "complexity": 2.6955,
@@ -6092,7 +6280,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": true,
-    "collection_status": "OwnedToExit"
+    "collection_status": "OwnedToExit",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -6125,7 +6314,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -6154,14 +6344,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
     "bgg_id": 358386,
     "name": "Moon",
     "year_published": 2023,
-    "rating": 7.509,
+    "rating": 7.472,
     "num_plays": 1,
     "players": "1-5",
     "complexity": 2.5135,
@@ -6182,7 +6373,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -6213,7 +6405,8 @@
       "Negotiation",
       "Open Drafting",
       "Trading"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -6242,7 +6435,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -6278,7 +6472,8 @@
       "Variable Player Powers",
       "Variable Set-up",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -6317,14 +6512,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
     "bgg_id": 310100,
     "name": "Nemesis: Lockdown",
     "year_published": 2022,
-    "rating": 8.972,
+    "rating": 8.968,
     "num_plays": 2,
     "players": "1-5",
     "complexity": 3.9128,
@@ -6355,7 +6551,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": "Fantastic game"
   },
   {
     "group_key": "1-5",
@@ -6391,7 +6588,8 @@
       "Solo / Solitaire Game",
       "Traitor Game",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": "April 2025"
   },
   {
     "group_key": "1-5",
@@ -6422,7 +6620,8 @@
       "Race",
       "Rondel",
       "Tile Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -6449,14 +6648,15 @@
       "Open Drafting",
       "Turn Order: Claim Action",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
     "bgg_id": 266524,
     "name": "PARKS",
     "year_published": 2019,
-    "rating": 8.205,
+    "rating": 7.999,
     "num_plays": 2,
     "players": "1-5",
     "complexity": 2.1242,
@@ -6484,14 +6684,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
     "bgg_id": 169786,
     "name": "Scythe",
     "year_published": 2016,
-    "rating": 8.315,
+    "rating": 8.231,
     "num_plays": 7,
     "players": "1-5",
     "complexity": 3.4532,
@@ -6527,7 +6728,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -6562,7 +6764,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -6586,14 +6789,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
     "bgg_id": 167791,
     "name": "Terraforming Mars",
     "year_published": 2016,
-    "rating": 8.575,
+    "rating": 8.523,
     "num_plays": 15,
     "players": "1-5",
     "complexity": 3.2713,
@@ -6628,7 +6832,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -6659,7 +6864,8 @@
       "Variable Set-up",
       "Worker Placement with Dice Workers",
       "Worker Placement, Different Worker Types"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -6687,7 +6893,8 @@
       "Cooperative Game",
       "Hand Management",
       "Solo / Solitaire Game"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -6726,14 +6933,15 @@
       "Solo / Solitaire Game",
       "Stat Check Resolution",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
     "bgg_id": 163967,
     "name": "Tiny Epic Galaxies",
     "year_published": 2015,
-    "rating": 7.813,
+    "rating": 7.754,
     "num_plays": 4,
     "players": "1-5",
     "complexity": 2.1547,
@@ -6763,7 +6971,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -6792,14 +7001,15 @@
       "Hand Management",
       "Open Drafting",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
     "bgg_id": 285826,
     "name": "Ultra Tiny Epic Galaxies",
     "year_published": 2019,
-    "rating": 7.431,
+    "rating": 7.4,
     "num_plays": 1,
     "players": "1-5",
     "complexity": 2.1875,
@@ -6828,7 +7038,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -6857,14 +7068,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
     "bgg_id": 180040,
     "name": "Villages of Valeria",
     "year_published": 2017,
-    "rating": 7.186,
+    "rating": 7.173,
     "num_plays": 1,
     "collection": false,
     "previously_owned": false,
@@ -6885,7 +7097,8 @@
       "Follow",
       "Hand Management",
       "Open Drafting"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-5",
@@ -6919,7 +7132,8 @@
       "Set Collection",
       "Solo / Solitaire Game",
       "Turn Order: Progressive"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-50",
@@ -6946,7 +7160,8 @@
       "Pattern Building",
       "Simultaneous Action Selection",
       "Solo / Solitaire Game"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-6",
@@ -6976,14 +7191,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-6",
     "bgg_id": 257499,
     "name": "Arkham Horror (Third Edition)",
     "year_published": 2018,
-    "rating": 8.643,
+    "rating": 8.599,
     "num_plays": 3,
     "players": "1-6",
     "complexity": 3.3733,
@@ -7008,14 +7224,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-6",
     "bgg_id": 257089,
     "name": "Big Trouble in Little China: The Game – Deluxe Edition",
     "year_published": 2018,
-    "rating": 8.739,
+    "rating": 8.707,
     "num_plays": 4,
     "players": "1-6",
     "complexity": 3,
@@ -7047,7 +7264,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-6",
@@ -7074,7 +7292,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-6",
@@ -7099,7 +7318,8 @@
       "Medical",
       "Puzzle"
     ],
-    "mechanics": "Cooperative Game"
+    "mechanics": "Cooperative Game",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-6",
@@ -7135,7 +7355,8 @@
       "Race",
       "Solo / Solitaire Game",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-6",
@@ -7174,7 +7395,8 @@
       "Variable Player Powers",
       "Voting",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-6",
@@ -7212,14 +7434,15 @@
       "Turn Order: Claim Action",
       "Variable Player Powers",
       "Victory Points as a Resource"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-6",
     "bgg_id": 366013,
     "name": "Heat: Pedal to the Metal",
     "year_published": 2022,
-    "rating": 7.02,
+    "rating": 7.018,
     "num_plays": 2,
     "collection": false,
     "previously_owned": false,
@@ -7247,7 +7470,8 @@
       "Solo / Solitaire Game",
       "Track Movement",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-6",
@@ -7277,14 +7501,15 @@
       "Paper-and-Pencil",
       "Simultaneous Action Selection",
       "Solo / Solitaire Game"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-6",
     "bgg_id": 226320,
     "name": "My Little Scythe",
     "year_published": 2018,
-    "rating": 7.93,
+    "rating": 7.863,
     "num_plays": 8,
     "players": "1-6",
     "complexity": 2.0299,
@@ -7317,14 +7542,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-6",
     "bgg_id": 258779,
     "name": "Planet Unknown",
     "year_published": 2022,
-    "rating": 7.911,
+    "rating": 7.845,
     "num_plays": 8,
     "players": "1-6",
     "complexity": 2.2514,
@@ -7365,7 +7591,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-6",
@@ -7399,7 +7626,8 @@
       "Real-Time",
       "Scenario / Mission / Campaign Game",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-6",
@@ -7431,7 +7659,8 @@
       "Paper-and-Pencil",
       "Simultaneous Action Selection",
       "Solo / Solitaire Game"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-6",
@@ -7465,7 +7694,8 @@
       "Roll / Spin and Move",
       "Simulation",
       "Solo / Solitaire Game"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-6",
@@ -7499,14 +7729,15 @@
       "Line of Sight",
       "Modular Board",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-6",
     "bgg_id": 281258,
     "name": "Sub Terra II: Inferno's Edge",
     "year_published": 2023,
-    "rating": 8.26,
+    "rating": 8.169,
     "num_plays": 2,
     "players": "1-6",
     "complexity": 2.1667,
@@ -7538,7 +7769,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": "Probably never delivered!"
   },
   {
     "group_key": "1-6",
@@ -7565,7 +7797,8 @@
       "Hand Management",
       "Set Collection",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-6",
@@ -7599,14 +7832,15 @@
       "Scenario / Mission / Campaign Game",
       "Simultaneous Action Selection",
       "Solo / Solitaire Game"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-7",
     "bgg_id": 248490,
     "name": "Atlantis Rising (Second Edition)",
     "year_published": 2019,
-    "rating": 7.793,
+    "rating": 7.736,
     "num_plays": 3,
     "players": "1-7",
     "complexity": 2.4643,
@@ -7635,7 +7869,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-7",
@@ -7669,7 +7904,8 @@
       "Income",
       "Investment",
       "Simulation"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "1-8",
@@ -7699,14 +7935,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-8",
     "bgg_id": 100423,
     "name": "Elder Sign",
     "year_published": 2011,
-    "rating": 7.353,
+    "rating": 7.327,
     "num_plays": 6,
     "players": "1-8",
     "complexity": 2.3431,
@@ -7735,14 +7972,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-8",
     "bgg_id": 146021,
     "name": "Eldritch Horror",
     "year_published": 2013,
-    "rating": 8.397,
+    "rating": 8.323,
     "num_plays": 1,
     "players": "1-8",
     "complexity": 3.3174,
@@ -7771,14 +8009,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-8",
     "bgg_id": 295293,
     "name": "The Thing: The Boardgame",
     "year_published": 2022,
-    "rating": 8.493,
+    "rating": 8.43,
     "num_plays": 1,
     "players": "1-8",
     "complexity": 2.9576,
@@ -7801,14 +8040,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "1-8",
     "bgg_id": 361545,
     "name": "Twilight Inscription",
     "year_published": 2022,
-    "rating": 7.852,
+    "rating": 7.79,
     "num_plays": 5,
     "players": "1-8",
     "complexity": 3.2155,
@@ -7825,14 +8065,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
     "bgg_id": 173346,
     "name": "7 Wonders Duel",
     "year_published": 2015,
-    "rating": 8.192,
+    "rating": 7.981,
     "num_plays": 1,
     "players": "2",
     "complexity": 2.2272,
@@ -7867,7 +8108,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -7896,7 +8138,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -7924,7 +8167,8 @@
       "Deduction",
       "Paper-and-Pencil",
       "Secret Unit Deployment"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -7955,14 +8199,15 @@
       "Open Drafting",
       "Set Collection",
       "Tile Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
     "bgg_id": 298572,
     "name": "Cosmic Encounter Duel",
     "year_published": 2020,
-    "rating": 8.233,
+    "rating": 8.138,
     "num_plays": 2,
     "players": "2",
     "complexity": 2.381,
@@ -7986,14 +8231,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
     "bgg_id": 326485,
     "name": "Cthulhu Wars: Duel",
     "year_published": 2020,
-    "rating": 8.287,
+    "rating": 8.2,
     "num_plays": 3,
     "players": "2",
     "complexity": 2.8889,
@@ -8016,14 +8262,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
     "bgg_id": 312251,
     "name": "Curious Cargo",
     "year_published": 2020,
-    "rating": 8.356,
+    "rating": 8.277,
     "num_plays": 2,
     "players": "2",
     "complexity": 3.2162,
@@ -8045,7 +8292,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -8075,14 +8323,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
     "bgg_id": 255674,
     "name": "Imhotep: The Duel",
     "year_published": 2018,
-    "rating": 7.294,
+    "rating": 7.272,
     "num_plays": 2,
     "players": "2",
     "complexity": 1.9701,
@@ -8100,14 +8349,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
     "bgg_id": 54043,
     "name": "Jaipur",
     "year_published": 2009,
-    "rating": 7.989,
+    "rating": 7.972,
     "num_plays": 18,
     "players": "2",
     "complexity": 1.4635,
@@ -8136,7 +8386,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -8167,7 +8418,8 @@
       "Secret Unit Deployment",
       "Simultaneous Action Selection",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -8198,7 +8450,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -8222,7 +8475,8 @@
       "Science Fiction",
       "Space Exploration"
     ],
-    "mechanics": "Deck Construction"
+    "mechanics": "Deck Construction",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -8250,7 +8504,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -8277,7 +8532,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -8305,7 +8561,8 @@
       "Grid Movement",
       "Hexagon Grid",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -8334,7 +8591,8 @@
       "Hidden Movement",
       "Map Deformation",
       "Modular Board"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -8361,14 +8619,15 @@
       "Dice Rolling",
       "Rock-Paper-Scissors",
       "Roll / Spin and Move"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
     "bgg_id": 4396,
     "name": "Odin's Ravens",
     "year_published": 2002,
-    "rating": 7.264,
+    "rating": 7.245,
     "num_plays": 1,
     "players": "2",
     "complexity": 1.6802,
@@ -8391,14 +8650,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
     "bgg_id": 163412,
     "name": "Patchwork",
     "year_published": 2014,
-    "rating": 7.881,
+    "rating": 7.817,
     "num_plays": 7,
     "players": "2",
     "complexity": 1.5971,
@@ -8425,7 +8685,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -8454,7 +8715,8 @@
       "Hand Management",
       "Interrupts",
       "Multi-Use Cards"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -8485,7 +8747,8 @@
       "Multi-Use Cards",
       "Take That",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -8518,7 +8781,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -8549,7 +8813,8 @@
       "Modular Board",
       "Scenario / Mission / Campaign Game",
       "Stat Check Resolution"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -8585,7 +8850,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -8615,7 +8881,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -8641,7 +8908,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -8673,7 +8941,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -8704,7 +8973,8 @@
       "Area Movement",
       "Dice Rolling",
       "Hand Management"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -8743,14 +9013,15 @@
       "Tug of War",
       "Variable Player Powers",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
     "bgg_id": 366495,
     "name": "Undaunted: Battle of Britain",
     "year_published": 2023,
-    "rating": 7.803,
+    "rating": 7.745,
     "num_plays": 4,
     "players": "2",
     "complexity": 2.75,
@@ -8776,14 +9047,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
     "bgg_id": 268864,
     "name": "Undaunted: Normandy",
     "year_published": 2019,
-    "rating": 7.588,
+    "rating": 7.545,
     "num_plays": 2,
     "players": "2",
     "complexity": 2.2661,
@@ -8807,7 +9079,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
@@ -8838,14 +9111,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
     "bgg_id": 226631,
     "name": "War of the Worlds: The New Wave",
     "year_published": 2019,
-    "rating": 7.921,
+    "rating": 7.854,
     "num_plays": 1,
     "players": "2",
     "complexity": 2.2083,
@@ -8868,14 +9142,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2",
     "bgg_id": 274364,
     "name": "Watergate",
     "year_published": 2019,
-    "rating": 7.695,
+    "rating": 7.645,
     "num_plays": 3,
     "players": "2",
     "complexity": 2.2924,
@@ -8899,7 +9174,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-10",
@@ -8931,7 +9207,8 @@
       "Memory",
       "Take That",
       "Trick-taking"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-10",
@@ -8959,7 +9236,8 @@
       "Flicking",
       "Pick-up and Deliver",
       "Team-Based Game"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-10",
@@ -8989,7 +9267,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-12",
@@ -9017,7 +9296,8 @@
       "Pattern Building",
       "Take That",
       "Team-Based Game"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-13",
@@ -9046,7 +9326,8 @@
       "Hidden Roles",
       "Memory",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -9078,14 +9359,15 @@
       "Open Drafting",
       "Push Your Luck",
       "Set Collection"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 48726,
     "name": "Alien Frontiers",
     "year_published": 2010,
-    "rating": 7.402,
+    "rating": 7.372,
     "num_plays": 3,
     "players": "2-4",
     "complexity": 2.5647,
@@ -9107,14 +9389,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 110277,
     "name": "Among the Stars",
     "year_published": 2012,
-    "rating": 7.323,
+    "rating": 7.3,
     "num_plays": 1,
     "players": "2-4",
     "complexity": 2.2377,
@@ -9137,7 +9420,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -9174,14 +9458,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": "September 2024"
   },
   {
     "group_key": "2-4",
     "bgg_id": 140934,
     "name": "Arboretum",
     "year_published": 2015,
-    "rating": 7.343,
+    "rating": 7.318,
     "num_plays": 6,
     "players": "2-4",
     "complexity": 2.1118,
@@ -9206,7 +9491,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -9239,7 +9525,8 @@
       "Simulation",
       "Solo / Solitaire Game",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -9266,7 +9553,8 @@
       "Commodity Speculation",
       "Pick-up and Deliver",
       "Roll / Spin and Move"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -9299,14 +9587,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 287954,
     "name": "Azul: Summer Pavilion",
     "year_published": 2019,
-    "rating": 7.225,
+    "rating": 7.209,
     "num_plays": 1,
     "collection": false,
     "previously_owned": false,
@@ -9329,7 +9618,8 @@
       "Set Collection",
       "Tile Placement",
       "Turn Order: Claim Action"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -9357,14 +9647,15 @@
       "Grid Movement",
       "Hexagon Grid",
       "Modular Board"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 317985,
     "name": "Beyond the Sun",
     "year_published": 2020,
-    "rating": 8.63,
+    "rating": 8.584,
     "num_plays": 6,
     "players": "2-4",
     "complexity": 3.1538,
@@ -9390,14 +9681,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 170216,
     "name": "Blood Rage",
     "year_published": 2015,
-    "rating": 8.068,
+    "rating": 7.89,
     "num_plays": 3,
     "collection": false,
     "previously_owned": true,
@@ -9429,7 +9721,8 @@
       "Simultaneous Action Selection",
       "Take That",
       "Turn Order: Progressive"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -9459,14 +9752,15 @@
       "Set Collection",
       "Simultaneous Action Selection",
       "Tags"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 224517,
     "name": "Brass: Birmingham",
     "year_published": 2018,
-    "rating": 7.088,
+    "rating": 7.082,
     "num_plays": 1,
     "collection": false,
     "previously_owned": false,
@@ -9501,7 +9795,8 @@
       "Tile Placement",
       "Turn Order: Stat-Based",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -9533,7 +9828,8 @@
       "Hand Management",
       "Simultaneous Action Selection",
       "Square Grid"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -9566,7 +9862,8 @@
       "Map Addition",
       "Open Drafting",
       "Tile Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -9595,7 +9892,8 @@
       "Race",
       "Roll / Spin and Move",
       "Track Movement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -9623,7 +9921,8 @@
       "Grid Movement",
       "Pick-up and Deliver",
       "Take That"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -9653,7 +9952,8 @@
       "Network and Route Building",
       "Once-Per-Game Abilities",
       "Track Movement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -9684,14 +9984,15 @@
       "Dice Rolling",
       "Hexagon Grid",
       "Player Elimination"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 242574,
     "name": "Century: Eastern Wonders",
     "year_published": 2018,
-    "rating": 7.842,
+    "rating": 7.781,
     "num_plays": 4,
     "players": "2-4",
     "complexity": 2.1081,
@@ -9711,14 +10012,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 172287,
     "name": "Champions of Midgard",
     "year_published": 2015,
-    "rating": 8.602,
+    "rating": 8.553,
     "num_plays": 7,
     "players": "2-4",
     "complexity": 2.6208,
@@ -9743,7 +10045,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -9773,7 +10076,8 @@
       "Variable Player Powers",
       "Variable Set-up",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": "When appropriating a culture, it's good form to respect it. This game misses the mark by mixing in elements that have no place in Maya mythology, like triceratops, 4-leaf clovers, and rubies. The Maya have a rich and deeply symbolic mythology that spans thousands of years, filled with fascinating creatures and deities like the K'iche' Hero Twins, Wayob, and Camazotz. Instead, the game opts for random, misplaced symbols that feel careless and uninformed. If you're going to draw inspiration from a culture, taking the time to understand and honor it should be the minimum standard."
   },
   {
     "group_key": "2-4",
@@ -9806,7 +10110,8 @@
       "Turn Order: Claim Action",
       "Variable Set-up",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -9838,7 +10143,8 @@
       "Set Collection",
       "Tile Placement",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -9867,7 +10173,8 @@
       "Modular Board",
       "Set Collection",
       "Tile Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -9900,14 +10207,15 @@
       "Set Collection",
       "Square Grid",
       "Tile Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 139976,
     "name": "Cthulhu Wars",
     "year_published": 2015,
-    "rating": 7.313,
+    "rating": 7.291,
     "num_plays": 1,
     "players": "2-4",
     "complexity": 3.1466,
@@ -9930,7 +10238,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -9961,7 +10270,8 @@
       "Once-Per-Game Abilities",
       "Tile Placement",
       "Zone of Control"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -9991,14 +10301,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 317457,
     "name": "Dinosaur World",
     "year_published": 2021,
-    "rating": 7.666,
+    "rating": 7.618,
     "num_plays": 2,
     "players": "2-4",
     "complexity": 3.2687,
@@ -10022,7 +10333,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10051,14 +10363,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 262941,
     "name": "Dominant Species: Marine",
     "year_published": 2021,
-    "rating": 8.547,
+    "rating": 8.492,
     "num_plays": 1,
     "players": "2-4",
     "complexity": 3.6923,
@@ -10085,7 +10398,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10113,7 +10427,8 @@
       "Area Majority / Influence",
       "Force Commitment",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10143,14 +10458,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 68425,
     "name": "Eminent Domain",
     "year_published": 2011,
-    "rating": 7.901,
+    "rating": 7.836,
     "num_plays": 10,
     "players": "2-4",
     "complexity": 2.5099,
@@ -10179,7 +10495,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10209,7 +10526,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10247,7 +10565,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10282,7 +10601,8 @@
       "Modular Board",
       "Variable Player Powers",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10311,7 +10631,8 @@
       "Dice Rolling",
       "Grid Movement",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10350,7 +10671,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10376,14 +10698,15 @@
     "mechanics": [
       "Open Drafting",
       "Set Collection"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 265188,
     "name": "Glen More II: Chronicles",
     "year_published": 2019,
-    "rating": 8.616,
+    "rating": 8.569,
     "num_plays": 4,
     "players": "2-4",
     "complexity": 3.006,
@@ -10408,7 +10731,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10438,14 +10762,15 @@
       "Set Collection",
       "Track Movement",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 321608,
     "name": "Hegemony: Lead Your Class to Victory",
     "year_published": 2023,
-    "rating": 8.821,
+    "rating": 8.799,
     "num_plays": 3,
     "players": "2-4",
     "complexity": 4.255,
@@ -10470,7 +10795,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10499,7 +10825,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10529,14 +10856,15 @@
       "Tile Placement",
       "Worker Placement",
       "Worker Placement with Dice Workers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 155821,
     "name": "Inis",
     "year_published": 2016,
-    "rating": 8.52,
+    "rating": 8.461,
     "num_plays": 5,
     "players": "2-4",
     "complexity": 2.9414,
@@ -10568,7 +10896,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10605,7 +10934,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10636,14 +10966,15 @@
       "Kill Steal",
       "Secret Unit Deployment",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 205597,
     "name": "Jump Drive",
     "year_published": 2017,
-    "rating": 7.392,
+    "rating": 7.363,
     "num_plays": 19,
     "players": "2-4",
     "complexity": 2.0154,
@@ -10667,7 +10998,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10701,7 +11033,8 @@
       "Pattern Building",
       "Tile Placement",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10731,7 +11064,8 @@
       "Open Drafting",
       "Tile Placement",
       "Turn Order: Claim Action"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10758,7 +11092,8 @@
     "mechanics": [
       "Hand Management",
       "Rock-Paper-Scissors"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10783,7 +11118,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10810,7 +11146,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": true,
-    "collection_status": "OwnedToExit"
+    "collection_status": "OwnedToExit",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10841,7 +11178,8 @@
       "Point to Point Movement",
       "Slide / Push",
       "Square Grid"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10861,14 +11199,15 @@
     "bgg_rating": 7.565,
     "num_ratings": 20,
     "categories": "Bluffing",
-    "mechanics": "Race"
+    "mechanics": "Race",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 315727,
     "name": "Last Light",
     "year_published": 2023,
-    "rating": 7.646,
+    "rating": 7.599,
     "num_plays": 2,
     "players": "2-4",
     "complexity": 2.7778,
@@ -10900,14 +11239,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 155065,
     "name": "Lifeform",
     "year_published": 2019,
-    "rating": 8.89,
+    "rating": 8.876,
     "num_plays": 3,
     "players": "2-4",
     "complexity": 3.0667,
@@ -10932,7 +11272,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10962,7 +11303,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -10995,14 +11337,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": true,
-    "collection_status": "OwnedToExit"
+    "collection_status": "OwnedToExit",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 10630,
     "name": "Memoir '44",
     "year_published": 2004,
-    "rating": 7.97,
+    "rating": 7.935,
     "num_plays": 18,
     "players": "2-4",
     "complexity": 2.2728,
@@ -11035,7 +11378,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -11063,7 +11407,8 @@
       "Action Drafting",
       "Area Majority / Influence",
       "Follow"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -11095,7 +11440,8 @@
       "Roll / Spin and Move",
       "Set Collection",
       "Track Movement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -11126,7 +11472,8 @@
       "Open Drafting",
       "Push Your Luck",
       "Tags"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -11153,7 +11500,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -11181,7 +11529,8 @@
       "Variable Set-up",
       "Worker Placement",
       "Worker Placement, Different Worker Types"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -11220,14 +11569,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 256730,
     "name": "Pipeline",
     "year_published": 2019,
-    "rating": 8.041,
+    "rating": 8.031,
     "num_plays": 3,
     "collection": false,
     "previously_owned": false,
@@ -11252,7 +11602,8 @@
       "Network and Route Building",
       "Tile Placement",
       "Turn Order: Claim Action"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -11282,7 +11633,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -11313,14 +11665,15 @@
       "Set Collection",
       "Take That",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 228341,
     "name": "Pulsar 2849",
     "year_published": 2017,
-    "rating": 8.766,
+    "rating": 8.738,
     "num_plays": 3,
     "players": "2-4",
     "complexity": 3.3385,
@@ -11342,7 +11695,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -11378,7 +11732,8 @@
       "Simultaneous Action Selection",
       "Track Movement",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -11409,7 +11764,8 @@
       "Grid Movement",
       "Modular Board",
       "Square Grid"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -11441,14 +11797,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 28143,
     "name": "Race for the Galaxy",
     "year_published": 2007,
-    "rating": 8.123,
+    "rating": 8.092,
     "num_plays": 16,
     "collection": false,
     "previously_owned": false,
@@ -11477,14 +11834,15 @@
       "Simultaneous Action Selection",
       "Tags",
       "Variable Phase Order"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 242684,
     "name": "Reavers of Midgard",
     "year_published": 2019,
-    "rating": 7.754,
+    "rating": 7.699,
     "num_plays": 3,
     "players": "2-4",
     "complexity": 2.934,
@@ -11503,14 +11861,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 417197,
     "name": "Rebirth",
     "year_published": 2024,
-    "rating": 8.465,
+    "rating": 8.4,
     "num_plays": 3,
     "players": "2-4",
     "complexity": 1.9781,
@@ -11534,7 +11893,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": "September 2024"
   },
   {
     "group_key": "2-4",
@@ -11565,7 +11925,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -11598,7 +11959,8 @@
       "Take That",
       "Turn Order: Pass Order",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -11640,7 +12002,8 @@
       "Take That",
       "Variable Player Powers",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -11667,14 +12030,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 144733,
     "name": "Russian Railroads",
     "year_published": 2013,
-    "rating": 7.01,
+    "rating": 7.009,
     "num_plays": 2,
     "collection": false,
     "previously_owned": false,
@@ -11695,7 +12059,8 @@
       "Tech Trees / Tech Tracks",
       "Turn Order: Claim Action",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -11726,14 +12091,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 256669,
     "name": "Scorpius Freighter",
     "year_published": 2018,
-    "rating": 7.255,
+    "rating": 7.236,
     "num_plays": 2,
     "collection": false,
     "previously_owned": false,
@@ -11755,7 +12121,8 @@
       "Set Collection",
       "Tile Placement",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -11788,14 +12155,15 @@
       "Take That",
       "Turn Order: Progressive",
       "Victory Points as a Resource"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 247143,
     "name": "Senshi",
     "year_published": 2018,
-    "rating": 7.95,
+    "rating": 7.899,
     "num_plays": 9,
     "players": "2-4",
     "complexity": 1.8333,
@@ -11808,14 +12176,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 278553,
     "name": "Silver",
     "year_published": 2019,
-    "rating": 7.078,
+    "rating": 7.073,
     "num_plays": 1,
     "collection": false,
     "previously_owned": true,
@@ -11832,14 +12201,15 @@
       "Hand Management",
       "Matching",
       "Memory"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 270673,
     "name": "Silver & Gold",
     "year_published": 2019,
-    "rating": 7.372,
+    "rating": 7.345,
     "num_plays": 4,
     "players": "2-4",
     "complexity": 1.2169,
@@ -11862,14 +12232,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 298231,
     "name": "Skyrise",
     "year_published": 2024,
-    "rating": 7.735,
+    "rating": 7.681,
     "num_plays": 3,
     "players": "2-4",
     "complexity": 2.2447,
@@ -11890,14 +12261,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 284616,
     "name": "Small Samurai Empires",
     "year_published": 2020,
-    "rating": 7.725,
+    "rating": 7.672,
     "num_plays": 3,
     "players": "2-4",
     "complexity": 2.7451,
@@ -11919,7 +12291,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -11949,7 +12322,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -11982,14 +12356,15 @@
       "Modular Board",
       "Set Collection",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 356414,
     "name": "Space Station Phoenix",
     "year_published": 2022,
-    "rating": 8.78,
+    "rating": 8.753,
     "num_plays": 6,
     "players": "2-4",
     "complexity": 3.0476,
@@ -12014,7 +12389,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -12050,14 +12426,15 @@
       "Trading",
       "Variable Phase Order",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": "Backed in 2021! ⚠️ Who the F knows!"
   },
   {
     "group_key": "2-4",
     "bgg_id": 34635,
     "name": "Stone Age",
     "year_published": 2008,
-    "rating": 7.098,
+    "rating": 7.091,
     "num_plays": 2,
     "collection": false,
     "previously_owned": false,
@@ -12081,7 +12458,8 @@
       "Set Collection",
       "Turn Order: Progressive",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -12104,14 +12482,15 @@
       "Card Game",
       "Novel-based"
     ],
-    "mechanics": "Set Collection"
+    "mechanics": "Set Collection",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 220792,
     "name": "The Expanse Board Game",
     "year_published": 2017,
-    "rating": 8.588,
+    "rating": 8.538,
     "num_plays": 6,
     "players": "2-4",
     "complexity": 2.8182,
@@ -12138,14 +12517,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 172996,
     "name": "The King Is Dead",
     "year_published": 2015,
-    "rating": 8.369,
+    "rating": 8.292,
     "num_plays": 1,
     "collection": false,
     "previously_owned": false,
@@ -12171,14 +12551,15 @@
       "Team-Based Game",
       "Turn Order: Pass Order",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 319966,
     "name": "The King Is Dead: Second Edition",
     "year_published": 2020,
-    "rating": 8.369,
+    "rating": 8.292,
     "num_plays": 2,
     "players": "2-4",
     "complexity": 2.17,
@@ -12204,7 +12585,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -12231,7 +12613,8 @@
       "Communication Limits",
       "Cooperative Game",
       "Hand Management"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -12262,7 +12645,8 @@
       "Turn Order: Progressive",
       "Worker Placement",
       "Worker Placement with Dice Workers"
-    ]
+    ],
+    "bgg_comment": "Loads of down time for me. I think the theme did not click."
   },
   {
     "group_key": "2-4",
@@ -12287,7 +12671,8 @@
       "Network and Route Building",
       "Open Drafting",
       "Set Collection"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -12312,7 +12697,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -12352,14 +12738,15 @@
       "Tile Placement",
       "Victory Points as a Resource",
       "Zone of Control"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 260923,
     "name": "Titan",
     "year_published": 2022,
-    "rating": 8.807,
+    "rating": 8.784,
     "num_plays": 1,
     "players": "2-4",
     "complexity": 3.5,
@@ -12380,14 +12767,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 265017,
     "name": "Tortuga 2199",
     "year_published": 2020,
-    "rating": 8.027,
+    "rating": 7.872,
     "num_plays": 3,
     "collection": false,
     "previously_owned": false,
@@ -12409,7 +12797,8 @@
       "Deck, Bag, and Pool Building",
       "Grid Movement",
       "Modular Board"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -12444,14 +12833,15 @@
       "Open Drafting",
       "Worker Placement",
       "Worker Placement, Different Worker Types"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 299450,
     "name": "Tsukuyumi: Full Moon Down (Second Edition)",
     "year_published": 2020,
-    "rating": 8.903,
+    "rating": 8.891,
     "num_plays": 2,
     "players": "2-4",
     "complexity": 3.6552,
@@ -12477,7 +12867,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -12509,14 +12900,15 @@
       "Take That",
       "Variable Set-up",
       "Zone of Control"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 126163,
     "name": "Tzolk'in: The Mayan Calendar",
     "year_published": 2012,
-    "rating": 8.657,
+    "rating": 8.615,
     "num_plays": 4,
     "players": "2-4",
     "complexity": 3.6646,
@@ -12542,7 +12934,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -12572,14 +12965,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 9609,
     "name": "War of the Ring",
     "year_published": 2004,
-    "rating": 8.082,
+    "rating": 8.061,
     "num_plays": 2,
     "collection": false,
     "previously_owned": true,
@@ -12607,14 +13001,15 @@
       "Dice Rolling",
       "Events",
       "Hand Management"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 115746,
     "name": "War of the Ring: Second Edition",
     "year_published": 2011,
-    "rating": 8.794,
+    "rating": 8.768,
     "num_plays": 1,
     "players": "2-4",
     "complexity": 4.2239,
@@ -12645,7 +13040,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -12674,14 +13070,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 237179,
     "name": "Weather Machine",
     "year_published": 2022,
-    "rating": 8.917,
+    "rating": 8.907,
     "num_plays": 6,
     "players": "2-4",
     "complexity": 4.5608,
@@ -12702,14 +13099,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
     "bgg_id": 146910,
     "name": "Wildcatters",
     "year_published": 2013,
-    "rating": 7.049,
+    "rating": 7.045,
     "num_plays": 1,
     "collection": false,
     "previously_owned": false,
@@ -12740,7 +13138,8 @@
       "Tags",
       "Turn Order: Stat-Based",
       "Victory Points as a Resource"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -12771,7 +13170,8 @@
       "Kill Steal",
       "Secret Unit Deployment",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -12805,7 +13205,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -12836,7 +13237,8 @@
       "Multi-Use Cards",
       "Solo / Solitaire Game",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-4",
@@ -12862,7 +13264,8 @@
       "Increase Value of Unchosen Resources",
       "Modular Board",
       "Network and Route Building"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -12888,7 +13291,8 @@
       "Open Drafting",
       "Set Collection",
       "Turn Order: Progressive"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -12917,7 +13321,8 @@
       "Open Drafting",
       "Set Collection",
       "Variable Phase Order"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -12950,14 +13355,15 @@
       "Modular Board",
       "Order Counters",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
     "bgg_id": 822,
     "name": "Carcassonne",
     "year_published": 2000,
-    "rating": 7.382,
+    "rating": 7.354,
     "num_plays": 10,
     "players": "2-5",
     "complexity": 1.885,
@@ -12981,7 +13387,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13011,14 +13418,15 @@
       "Map Addition",
       "Pattern Building",
       "Square Grid"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
     "bgg_id": 232832,
     "name": "Century: Golem Edition",
     "year_published": 2017,
-    "rating": 8.164,
+    "rating": 8.108,
     "num_plays": 22,
     "players": "2-5",
     "complexity": 1.7168,
@@ -13044,14 +13452,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
     "bgg_id": 209685,
     "name": "Century: Spice Road",
     "year_published": 2017,
-    "rating": 7.284,
+    "rating": 7.263,
     "num_plays": 15,
     "players": "2-5",
     "complexity": 1.7986,
@@ -13079,7 +13488,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13111,7 +13521,8 @@
       "Hexagon Grid",
       "Income",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13139,7 +13550,8 @@
       "Push Your Luck",
       "Set Collection",
       "Turn Order: Pass Order"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13178,7 +13590,8 @@
       "Point to Point Movement",
       "Set Collection",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13211,14 +13624,15 @@
       "Take That",
       "Turn Order: Auction",
       "Worker Placement with Dice Workers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
     "bgg_id": 193037,
     "name": "Dead of Winter: The Long Night",
     "year_published": 2016,
-    "rating": 8.109,
+    "rating": 7.908,
     "num_plays": 2,
     "collection": false,
     "previously_owned": true,
@@ -13251,7 +13665,8 @@
       "Traitor Game",
       "Variable Player Powers",
       "Voting"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13271,7 +13686,8 @@
     "bgg_rating": 5.70173,
     "num_ratings": 143,
     "categories": "Dice",
-    "mechanics": "Push Your Luck"
+    "mechanics": "Push Your Luck",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13291,7 +13707,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13321,14 +13738,15 @@
       "Die Icon Resolution",
       "Set Collection",
       "Simultaneous Action Selection"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
     "bgg_id": 218509,
     "name": "Empires of the Void II",
     "year_published": 2018,
-    "rating": 8.684,
+    "rating": 8.646,
     "num_plays": 3,
     "players": "2-5",
     "complexity": 3.472,
@@ -13357,7 +13775,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13381,7 +13800,8 @@
       "Betting and Bluffing",
       "Card Play Conflict Resolution",
       "Hand Management"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13413,7 +13833,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": true,
-    "collection_status": "OwnedToExit"
+    "collection_status": "OwnedToExit",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13444,7 +13865,8 @@
       "Open Drafting",
       "Tile Placement",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13481,7 +13903,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13525,14 +13948,15 @@
       "Three Dimensional Movement",
       "Tile Placement",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
     "bgg_id": 286160,
     "name": "Godspeed",
     "year_published": 2020,
-    "rating": 7.979,
+    "rating": 7.954,
     "num_plays": 2,
     "players": "2-5",
     "complexity": 2.75,
@@ -13550,7 +13974,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13581,7 +14006,8 @@
       "Memory",
       "Ordering",
       "Set Collection"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13615,7 +14041,8 @@
       "Pattern Building",
       "Selection Order Bid",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13648,7 +14075,8 @@
       "Secret Unit Deployment",
       "Team-Based Game",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13678,7 +14106,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13711,7 +14140,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13738,14 +14168,15 @@
       "Cooperative Game",
       "Deck, Bag, and Pool Building",
       "Open Drafting"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
     "bgg_id": 110327,
     "name": "Lords of Waterdeep",
     "year_published": 2012,
-    "rating": 7.215,
+    "rating": 7.2,
     "num_plays": 1,
     "collection": false,
     "previously_owned": false,
@@ -13770,7 +14201,8 @@
       "Take That",
       "Turn Order: Claim Action",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13800,7 +14232,8 @@
       "Area Movement",
       "Market",
       "Rondel"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13832,14 +14265,15 @@
       "Turn Order: Claim Action",
       "Variable Phase Order",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
     "bgg_id": 281152,
     "name": "On the Underground: London / Berlin",
     "year_published": 2019,
-    "rating": 7.196,
+    "rating": 7.182,
     "num_plays": 1,
     "collection": false,
     "previously_owned": false,
@@ -13861,7 +14295,8 @@
       "Network and Route Building",
       "Point to Point Movement",
       "Solo / Solitaire Game"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13885,7 +14320,8 @@
       "Area Majority / Influence",
       "Auction / Bidding",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13921,7 +14357,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -13963,14 +14400,15 @@
       "Variable Player Powers",
       "Variable Set-up",
       "Worker Placement with Dice Workers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
     "bgg_id": 291453,
     "name": "SCOUT",
     "year_published": 2019,
-    "rating": 7.891,
+    "rating": 7.826,
     "num_plays": 8,
     "players": "2-5",
     "complexity": 1.3856,
@@ -13987,7 +14425,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -14020,14 +14459,15 @@
       "Variable Player Powers",
       "Variable Set-up",
       "Victory Points as a Resource"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
     "bgg_id": 242302,
     "name": "Space Base",
     "year_published": 2018,
-    "rating": 8.301,
+    "rating": 8.215,
     "num_plays": 8,
     "players": "2-5",
     "complexity": 2.1315,
@@ -14048,7 +14488,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -14078,7 +14519,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -14109,14 +14551,15 @@
       "Hand Management",
       "Modular Board",
       "Point to Point Movement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
     "bgg_id": 120677,
     "name": "Terra Mystica",
     "year_published": 2012,
-    "rating": 7.118,
+    "rating": 7.109,
     "num_plays": 8,
     "collection": false,
     "previously_owned": false,
@@ -14146,14 +14589,15 @@
       "Variable Player Powers",
       "Variable Set-up",
       "Victory Points as a Resource"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
     "bgg_id": 324856,
     "name": "The Crew: Mission Deep Sea",
     "year_published": 2021,
-    "rating": 7.705,
+    "rating": 7.654,
     "num_plays": 3,
     "players": "2-5",
     "complexity": 2.05,
@@ -14178,7 +14622,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -14208,7 +14653,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -14241,14 +14687,15 @@
       "Tags",
       "Take That",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
     "bgg_id": 172047,
     "name": "The Others",
     "year_published": 2016,
-    "rating": 8.876,
+    "rating": 8.861,
     "num_plays": 1,
     "players": "2-5",
     "complexity": 3.0565,
@@ -14274,7 +14721,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -14303,7 +14751,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -14342,7 +14791,8 @@
       "Variable Phase Order",
       "Variable Player Powers",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -14373,14 +14823,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
     "bgg_id": 224783,
     "name": "Vindication",
     "year_published": 2018,
-    "rating": 8.096,
+    "rating": 8.077,
     "num_plays": 2,
     "collection": false,
     "previously_owned": false,
@@ -14406,7 +14857,8 @@
       "Ownership",
       "Variable Phase Order",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -14433,7 +14885,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -14460,7 +14913,8 @@
       "Closed Drafting",
       "Hand Management",
       "Set Collection"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-5",
@@ -14484,14 +14938,15 @@
       "Open Drafting",
       "Set Collection",
       "Tile Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
     "bgg_id": 28086,
     "name": "Age of War",
     "year_published": 2006,
-    "rating": 7.235,
+    "rating": 7.218,
     "num_plays": 1,
     "collection": false,
     "previously_owned": false,
@@ -14518,14 +14973,15 @@
       "Re-rolling and Locking",
       "Set Collection",
       "Take That"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
     "bgg_id": 6249,
     "name": "Alhambra",
     "year_published": 2003,
-    "rating": 7.029,
+    "rating": 7.027,
     "num_plays": 3,
     "collection": false,
     "previously_owned": false,
@@ -14547,7 +15003,8 @@
       "Open Drafting",
       "Set Collection",
       "Tile Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -14575,7 +15032,8 @@
       "Open Drafting",
       "Set Collection",
       "Tile Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -14602,7 +15060,8 @@
     "mechanics": [
       "Betting and Bluffing",
       "Hand Management"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -14629,7 +15088,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -14657,7 +15117,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -14686,7 +15147,8 @@
       "Open Drafting",
       "Take That",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -14718,7 +15180,8 @@
       "Take That",
       "Turn Order: Progressive",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -14750,7 +15213,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -14779,7 +15243,8 @@
       "Pick-up and Deliver",
       "Push Your Luck",
       "Roll / Spin and Move"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -14809,14 +15274,15 @@
       "Take That",
       "Team-Based Game",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
     "bgg_id": 256382,
     "name": "Disney Villainous: The Worst Takes it All",
     "year_published": 2018,
-    "rating": 7.147,
+    "rating": 7.136,
     "num_plays": 5,
     "collection": false,
     "previously_owned": true,
@@ -14841,14 +15307,15 @@
       "Hand Management",
       "Take That",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
     "bgg_id": 62219,
     "name": "Dominant Species",
     "year_published": 2010,
-    "rating": 8.411,
+    "rating": 8.338,
     "num_plays": 1,
     "players": "2-6",
     "complexity": 4.0447,
@@ -14878,7 +15345,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": true,
-    "collection_status": "OwnedToExit"
+    "collection_status": "OwnedToExit",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -14901,14 +15369,15 @@
       "Card Game",
       "Prehistoric"
     ],
-    "mechanics": "Hand Management"
+    "mechanics": "Hand Management",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
     "bgg_id": 283355,
     "name": "Dune",
     "year_published": 2019,
-    "rating": 7.558,
+    "rating": 7.518,
     "num_plays": 1,
     "players": "2-6",
     "complexity": 3.9807,
@@ -14943,7 +15412,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -14981,7 +15451,8 @@
       "Tile Placement",
       "Variable Phase Order",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -15022,7 +15493,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -15052,7 +15524,8 @@
       "Variable Player Powers",
       "Worker Placement",
       "Worker Placement, Different Worker Types"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -15076,14 +15549,15 @@
       "Dice Rolling",
       "Team-Based Game",
       "Tile Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
     "bgg_id": 133848,
     "name": "Euphoria: Build a Better Dystopia",
     "year_published": 2013,
-    "rating": 7.872,
+    "rating": 7.808,
     "num_plays": 6,
     "players": "2-6",
     "complexity": 3.112,
@@ -15105,7 +15579,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -15140,7 +15615,8 @@
       "Simultaneous Action Selection",
       "Take That",
       "Turn Order: Progressive"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -15179,14 +15655,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
     "bgg_id": 223040,
     "name": "Fantasy Realms",
     "year_published": 2017,
-    "rating": 8.137,
+    "rating": 7.926,
     "num_plays": 15,
     "players": "2-6",
     "complexity": 1.8142,
@@ -15208,7 +15685,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -15231,7 +15709,8 @@
     "mechanics": [
       "Hand Management",
       "Set Collection"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -15255,14 +15734,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
     "bgg_id": 233868,
     "name": "HATE",
     "year_published": 2019,
-    "rating": 8.671,
+    "rating": 8.63,
     "num_plays": 1,
     "players": "2-6",
     "complexity": 2.4878,
@@ -15288,14 +15768,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
     "bgg_id": 254632,
     "name": "Hyperspace",
     "year_published": 2025,
-    "rating": 7.059,
+    "rating": 7.054,
     "num_plays": 2,
     "collection": false,
     "previously_owned": false,
@@ -15319,7 +15800,8 @@
       "Dice Rolling",
       "Modular Board",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": "Backed in 2018! ⚠️ Who the F knows!"
   },
   {
     "group_key": "2-6",
@@ -15351,7 +15833,8 @@
       "Open Drafting",
       "Tile Placement",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -15392,7 +15875,8 @@
       "Variable Set-up",
       "Worker Placement",
       "Worker Placement, Different Worker Types"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -15426,14 +15910,15 @@
       "Push Your Luck",
       "Re-rolling and Locking",
       "Take That"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
     "bgg_id": 59959,
     "name": "Letters from Whitechapel",
     "year_published": 2011,
-    "rating": 7.519,
+    "rating": 7.481,
     "num_plays": 1,
     "players": "2-6",
     "complexity": 2.6398,
@@ -15458,7 +15943,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -15489,7 +15975,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -15521,7 +16008,8 @@
       "Line Drawing",
       "Network and Route Building",
       "Pick-up and Deliver"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -15549,7 +16037,8 @@
       "Take That",
       "Team-Based Game",
       "Track Movement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -15574,7 +16063,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -15602,14 +16092,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
     "bgg_id": 331979,
     "name": "Quartermaster General WW2: 2nd Edition",
     "year_published": 2020,
-    "rating": 7.49,
+    "rating": 7.454,
     "num_plays": 1,
     "players": "2-6",
     "complexity": 2.619,
@@ -15631,7 +16122,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -15659,14 +16151,15 @@
       "Follow",
       "Paper-and-Pencil",
       "Pattern Building"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
     "bgg_id": 250467,
     "name": "Red Alert: Space Fleet Warfare",
     "year_published": 2019,
-    "rating": 8.931,
+    "rating": 8.922,
     "num_plays": 3,
     "players": "2-6",
     "complexity": 2.3529,
@@ -15689,14 +16182,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
     "bgg_id": 347117,
     "name": "Star Trek: Missions",
     "year_published": 2022,
-    "rating": 7.617,
+    "rating": 7.572,
     "num_plays": 2,
     "players": "2-6",
     "complexity": 2,
@@ -15716,7 +16210,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -15746,14 +16241,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
     "bgg_id": 145976,
     "name": "Talon",
     "year_published": 2016,
-    "rating": 7.607,
+    "rating": 7.563,
     "num_plays": 2,
     "players": "2-6",
     "complexity": 2.6,
@@ -15777,7 +16273,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-6",
@@ -15807,14 +16304,15 @@
       "Race",
       "Turn Order: Progressive",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-7",
     "bgg_id": 68448,
     "name": "7 Wonders",
     "year_published": 2010,
-    "rating": 7.137,
+    "rating": 7.127,
     "num_plays": 9,
     "collection": false,
     "previously_owned": false,
@@ -15848,7 +16346,8 @@
       "Tech Trees / Tech Tracks",
       "Variable Player Powers",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-7",
@@ -15883,7 +16382,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-7",
@@ -15916,7 +16416,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-7",
@@ -15946,14 +16447,15 @@
       "Hand Management",
       "Open Drafting",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-75",
     "bgg_id": 232524,
     "name": "Welcome to Dino World",
     "year_published": 2017,
-    "rating": 7.274,
+    "rating": 7.254,
     "num_plays": 2,
     "players": "2-75",
     "complexity": 2.375,
@@ -15975,7 +16477,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-8",
@@ -16007,7 +16510,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-8",
@@ -16036,7 +16540,8 @@
       "Predictive Bid",
       "Rock-Paper-Scissors",
       "Trick-taking"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-8",
@@ -16064,14 +16569,15 @@
       "Pattern Building",
       "Take That",
       "Team-Based Game"
-    ]
+    ],
+    "bgg_comment": "Not bad!"
   },
   {
     "group_key": "2-8",
     "bgg_id": 192291,
     "name": "Sushi Go Party!",
     "year_published": 2016,
-    "rating": 7.245,
+    "rating": 7.227,
     "num_plays": 2,
     "collection": false,
     "previously_owned": false,
@@ -16094,7 +16600,8 @@
       "Set Collection",
       "Simultaneous Action Selection",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "2-8",
@@ -16122,7 +16629,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": true,
-    "collection_status": "OwnedToExit"
+    "collection_status": "OwnedToExit",
+    "bgg_comment": ""
   },
   {
     "group_key": "2-99",
@@ -16153,7 +16661,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "3-10",
@@ -16182,7 +16691,8 @@
       "Score-and-Reset Game",
       "Targeted Clues",
       "Turn Order: Progressive"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "3-10",
@@ -16215,7 +16725,8 @@
       "Traitor Game",
       "Variable Player Powers",
       "Voting"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "3-10",
@@ -16251,14 +16762,15 @@
       "Score-and-Reset Game",
       "Take That",
       "Traitor Game"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "3-4",
     "bgg_id": 13,
     "name": "Catan",
     "year_published": 1995,
-    "rating": 7.166,
+    "rating": 7.154,
     "num_plays": 0,
     "collection": false,
     "previously_owned": true,
@@ -16289,14 +16801,15 @@
       "Take That",
       "Trading",
       "Variable Set-up"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "3-4",
     "bgg_id": 43111,
     "name": "Chaos in the Old World",
     "year_published": 2009,
-    "rating": 8.055,
+    "rating": 8.046,
     "num_plays": 1,
     "collection": false,
     "previously_owned": false,
@@ -16325,7 +16838,8 @@
       "Role Playing",
       "Take That",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "3-5",
@@ -16360,7 +16874,8 @@
       "Turn Order: Stat-Based",
       "Variable Phase Order",
       "Victory Points as a Resource"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "3-5",
@@ -16383,14 +16898,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "3-5",
     "bgg_id": 39463,
     "name": "Cosmic Encounter",
     "year_published": 2008,
-    "rating": 8.534,
+    "rating": 8.476,
     "num_plays": 8,
     "players": "3-5",
     "complexity": 2.5814,
@@ -16420,7 +16936,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "3-5",
@@ -16452,7 +16969,8 @@
       "Tug of War",
       "Variable Player Powers",
       "Worker Placement"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "3-5",
@@ -16484,7 +17002,8 @@
       "Area Majority / Influence",
       "Area Movement",
       "Hexagon Grid"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "3-5",
@@ -16511,14 +17030,15 @@
       "Hand Management",
       "Memory",
       "Take That"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "3-5",
     "bgg_id": 3076,
     "name": "Puerto Rico",
     "year_published": 2002,
-    "rating": 8.274,
+    "rating": 8.184,
     "num_plays": 12,
     "players": "3-5",
     "complexity": 3.2664,
@@ -16543,7 +17063,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "3-5",
@@ -16581,7 +17102,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "3-6",
@@ -16625,7 +17147,8 @@
       "Sudden Death Ending",
       "Turn Order: Auction",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "3-6",
@@ -16657,7 +17180,8 @@
       "Area Movement",
       "Rondel",
       "Tech Trees / Tech Tracks"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "3-6",
@@ -16700,7 +17224,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "3-6",
@@ -16723,7 +17248,8 @@
     "mechanics": [
       "Simultaneous Action Selection",
       "Take That"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "3-6",
@@ -16752,7 +17278,8 @@
       "Auction: Turn Order Until Pass",
       "Hand Management",
       "Selection Order Bid"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "3-6",
@@ -16782,7 +17309,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "3-6",
@@ -16812,7 +17340,8 @@
       "Race",
       "Take That",
       "Variable Player Powers"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "3-6",
@@ -16840,7 +17369,8 @@
       "Set Collection",
       "Variable Player Powers",
       "Voting"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "3-6",
@@ -16870,14 +17400,15 @@
       "Hidden Victory Points",
       "Network and Route Building",
       "Stock Holding"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "3-6",
     "bgg_id": 123096,
     "name": "Space Cadets",
     "year_published": 2012,
-    "rating": 7.47,
+    "rating": 7.436,
     "num_plays": 1,
     "players": "3-6",
     "complexity": 2.7471,
@@ -16912,7 +17443,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "3-6",
@@ -16947,7 +17479,8 @@
       "Traitor Game",
       "Variable Player Powers",
       "Voting"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "3-6",
@@ -16995,14 +17528,15 @@
       "Variable Player Powers",
       "Variable Set-up",
       "Voting"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "3-6",
     "bgg_id": 340466,
     "name": "Unfathomable",
     "year_published": 2021,
-    "rating": 8.178,
+    "rating": 7.963,
     "num_plays": 1,
     "players": "3-6",
     "complexity": 3.1244,
@@ -17028,7 +17562,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": true,
-    "collection_status": "OwnedToExit"
+    "collection_status": "OwnedToExit",
+    "bgg_comment": ""
   },
   {
     "group_key": "3-7",
@@ -17054,7 +17589,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "3-8",
@@ -17089,7 +17625,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "3-8",
@@ -17112,7 +17649,8 @@
     "mechanics": [
       "Hand Management",
       "Set Collection"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "3-8",
@@ -17142,7 +17680,8 @@
       "Paper-and-Pencil",
       "Targeted Clues",
       "Team-Based Game"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "3-8",
@@ -17170,7 +17709,8 @@
       "Move Through Deck",
       "Push Your Luck",
       "Simultaneous Action Selection"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "3-8",
@@ -17195,14 +17735,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "4-6",
     "bgg_id": 205716,
     "name": "New Angeles",
     "year_published": 2016,
-    "rating": 7.127,
+    "rating": 7.118,
     "num_plays": 1,
     "collection": false,
     "previously_owned": false,
@@ -17228,7 +17769,8 @@
       "Traitor Game",
       "Variable Player Powers",
       "Voting"
-    ]
+    ],
+    "bgg_comment": ""
   },
   {
     "group_key": "4-8",
@@ -17258,14 +17800,15 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "4-8",
     "bgg_id": 142079,
     "name": "Space Cadets: Dice Duel",
     "year_published": 2013,
-    "rating": 7.715,
+    "rating": 7.663,
     "num_plays": 3,
     "players": "4-8",
     "complexity": 2.0874,
@@ -17291,14 +17834,15 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "4-9",
     "bgg_id": 202426,
     "name": "Sidereal Confluence",
     "year_published": 2017,
-    "rating": 8.944,
+    "rating": 8.938,
     "num_plays": 3,
     "players": "4-9",
     "complexity": 3.5671,
@@ -17327,7 +17871,8 @@
     "want_to_play": true,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "5-10",
@@ -17364,7 +17909,8 @@
     "want_to_play": false,
     "want_to_buy": false,
     "collection_to_exit": false,
-    "collection_status": "Owned"
+    "collection_status": "Owned",
+    "bgg_comment": ""
   },
   {
     "group_key": "unknown",
