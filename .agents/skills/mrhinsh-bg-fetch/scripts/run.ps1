@@ -103,9 +103,12 @@ Write-Host "[1/3] Fetching collection status from BGG..." -ForegroundColor Cyan
 $collectionQueries = @(
     @{ username = $Username; owned = $true }
     @{ username = $Username; wishlist = $true }
+    @{ username = $Username; preordered = $true }
     @{ username = $Username; wanttoplay = $true }
     @{ username = $Username; wanttobuy = $true }
     @{ username = $Username; fortrade = $true }
+    @{ username = $Username; rated = $true }
+    @{ username = $Username; played = $true }
 )
 
 if (-not $IncludeExpansions) {

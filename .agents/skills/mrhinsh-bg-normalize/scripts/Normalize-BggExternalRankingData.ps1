@@ -3,10 +3,10 @@ param(
     [string]$MembershipPath = '.\data\working\ranking\tier-membership.json',
     [string]$TierExportDir = '.\data\publish\tiers',
     [string]$RankingExportDir = '.\data\publish\ranking',
-    [string]$PubMeepleInputDir = '.\data\raw\pubmeeple\in',
-    [string]$PubMeepleOutputDir = '.\data\raw\pubmeeple\out',
     [string]$TierImportPath = '.\data\publish\tiers\tier-engine-import.csv',
     [string]$RankingImportDir = '.\data\publish\ranking\import',
+    [string]$PubMeepleInputDir = '.\data\raw\pubmeeple\in',
+    [string]$PubMeepleOutputDir = '.\data\raw\pubmeeple\out',
     [string]$PendingTierMovesPath = '.\data\publish\queue\pending-tier-moves.json',
     [string]$NormalizedRankingImportPath = '.\data\working\ranking\external-ordering.json'
 )
@@ -45,7 +45,7 @@ function Test-ColumnExists {
 function Get-ReorderedRowsFromPubMeeple {
     param(
         [Parameter(Mandatory = $true)]
-        [object[]]$Rows,
+        [object[]]$RankingRows,
 
         [Parameter(Mandatory = $true)]
         [string]$PubMeepleCsvPath,
@@ -55,13 +55,42 @@ function Get-ReorderedRowsFromPubMeeple {
         [string]$RankingTitleColumn = 'name'
     )
 
-    if ($Rows.Count -eq 0) {
-        return @()
+    $result = [ordered]@{
+        Rows = @($RankingRows)
+        MatchedCount = 0
+    }
+
+    if (-not (Test-Path $PubMeepleCsvPath)) {
+        return [pscustomobject]$result
+    }
+
+    $localRankingRows = @($RankingRows)
+    if ($localRankingRows.Count -eq 0) {
+        return [pscustomobject]$result
+    }
+
+    if (-not (Test-ColumnExists -Row $localRankingRows[0] -ColumnName $RankingTitleColumn)) {
+        throw "Ranking rows are missing required column '$RankingTitleColumn' for PubMeeple import: $PubMeepleCsvPath"
+    }
+
+    $rankingByKey = @{}
+    foreach ($row in $localRankingRows) {
+        $title = [string]$row.$RankingTitleColumn
+        $key = Get-NormalizedTitleKey -Value $title
+        if ($key -eq '') {
+            throw "Ranking rows contain a blank title in column '$RankingTitleColumn' while processing $PubMeepleCsvPath"
+        }
+
+        if ($rankingByKey.ContainsKey($key)) {
+            throw "Ranking rows contain duplicate title '$title' in column '$RankingTitleColumn' while processing $PubMeepleCsvPath"
+        }
+
+        $rankingByKey[$key] = $row
     }
 
     $importRows = @(Import-Csv -Path $PubMeepleCsvPath)
     if ($importRows.Count -eq 0) {
-        throw "PubMeeple CSV is empty: $PubMeepleCsvPath"
+        return [pscustomobject]$result
     }
 
     if (-not (Test-ColumnExists -Row $importRows[0] -ColumnName $ImportTitleColumn)) {
@@ -72,27 +101,12 @@ function Get-ReorderedRowsFromPubMeeple {
         throw "PubMeeple CSV is missing required column '$ImportRankColumn': $PubMeepleCsvPath"
     }
 
-    $rankingByKey = @{}
-    foreach ($row in $Rows) {
-        $title = [string]$row.$RankingTitleColumn
-        $key = Get-NormalizedTitleKey -Value $title
-        if ($key -eq '') {
-            throw "Generated ranking rows contain a blank title in column '$RankingTitleColumn'."
-        }
-
-        if ($rankingByKey.ContainsKey($key)) {
-            throw "Generated ranking rows contain duplicate title matches for '$title' in column '$RankingTitleColumn'."
-        }
-
-        $rankingByKey[$key] = $row
-    }
-
     $orderedImports = [System.Collections.Generic.List[object]]::new()
     $seenImportKeys = @{}
-    $inputSequence = 0
-    foreach ($row in $importRows) {
-        $inputSequence++
+    $sequence = 0
 
+    foreach ($row in $importRows) {
+        $sequence++
         $title = [string]$row.$ImportTitleColumn
         $key = Get-NormalizedTitleKey -Value $title
         if ($key -eq '') {
@@ -100,14 +114,14 @@ function Get-ReorderedRowsFromPubMeeple {
         }
 
         if ($seenImportKeys.ContainsKey($key)) {
-            throw "PubMeeple CSV contains duplicate title matches for '$title' in column '$ImportTitleColumn': $PubMeepleCsvPath"
+            throw "PubMeeple CSV contains duplicate title '$title': $PubMeepleCsvPath"
         }
 
         if (-not $rankingByKey.ContainsKey($key)) {
-            throw "PubMeeple CSV title '$title' does not match any generated ranking row for '$PubMeepleCsvPath'."
+            throw "PubMeeple CSV title '$title' does not match any ranking row in $PubMeepleCsvPath"
         }
 
-        $rankValue = $inputSequence
+        $rankValue = $sequence
         $parsedRank = 0.0
         if (-not [string]::IsNullOrWhiteSpace([string]$row.$ImportRankColumn) -and [double]::TryParse([string]$row.$ImportRankColumn, [ref]$parsedRank)) {
             $rankValue = $parsedRank
@@ -116,30 +130,33 @@ function Get-ReorderedRowsFromPubMeeple {
         [void]$orderedImports.Add([pscustomobject]@{
             key = $key
             rank = $rankValue
-            sequence = $inputSequence
+            sequence = $sequence
         })
         $seenImportKeys[$key] = $true
     }
 
     if ($orderedImports.Count -eq 0) {
-        throw "PubMeeple CSV did not contain any usable rows from columns '$ImportRankColumn' and '$ImportTitleColumn': $PubMeepleCsvPath"
+        return [pscustomobject]$result
     }
 
     $reorderedRows = [System.Collections.Generic.List[object]]::new()
     $consumed = @{}
+
     foreach ($item in @($orderedImports | Sort-Object @{ Expression = { [double]$_.rank } }, @{ Expression = { [int]$_.sequence } })) {
         [void]$reorderedRows.Add($rankingByKey[$item.key])
         $consumed[$item.key] = $true
     }
 
-    foreach ($row in $Rows) {
+    foreach ($row in $localRankingRows) {
         $key = Get-NormalizedTitleKey -Value ([string]$row.$RankingTitleColumn)
         if (-not $consumed.ContainsKey($key)) {
             [void]$reorderedRows.Add($row)
         }
     }
 
-    return @($reorderedRows)
+    $result.Rows = @($reorderedRows)
+    $result.MatchedCount = $orderedImports.Count
+    return [pscustomobject]$result
 }
 
 $membership = @(Read-JsonFile -Path $MembershipPath -Default @())
@@ -150,9 +167,9 @@ if ($membership.Count -eq 0) {
 New-Item -ItemType Directory -Path $TierExportDir -Force | Out-Null
 New-Item -ItemType Directory -Path $RankingExportDir -Force | Out-Null
 New-Item -ItemType Directory -Path $PubMeepleInputDir -Force | Out-Null
+New-Item -ItemType Directory -Path $PubMeepleOutputDir -Force | Out-Null
 
 Get-ChildItem -Path $RankingExportDir -Filter 'tier-*-ranking.csv' -File -ErrorAction SilentlyContinue | Remove-Item -Force
-Get-ChildItem -Path $RankingExportDir -Filter 'tier-*-ranking.txt' -File -ErrorAction SilentlyContinue | Remove-Item -Force
 Get-ChildItem -Path $PubMeepleInputDir -Filter 'tier-*-ranking.txt' -File -ErrorAction SilentlyContinue | Remove-Item -Force
 
 $engineExport = $membership | Select-Object tier, source_bucket, rank_in_tier, bgg_id, name, current_rating, num_plays, collection, previously_owned, want_to_play, want_to_buy, collection_to_exit, collection_status, players, complexity, bgg_rating, bgg_game_url
@@ -170,12 +187,16 @@ foreach ($group in ($membership | Where-Object { $_.tier -ne 'U' } | Group-Objec
     }
 
     $rows = @($group.Group | Sort-Object @{ Expression = { if ($null -eq $_.rank_in_tier -or $_.rank_in_tier -eq '') { [int]::MaxValue } else { [int]$_.rank_in_tier } } }, @{ Expression = { [int]$_.num_plays }; Descending = $true }, name | Select-Object tier, source_bucket, rank_in_tier, bgg_id, name, current_rating, num_plays, collection, previously_owned, want_to_play, want_to_buy, collection_to_exit, collection_status, bgg_game_url)
-    $csvPath = Join-Path $RankingExportDir $fileName
-    $txtPath = Join-Path $PubMeepleInputDir ([System.IO.Path]::ChangeExtension($fileName, '.txt'))
-    $pubMeeplePath = Join-Path $PubMeepleOutputDir $fileName
 
-    if (Test-Path $pubMeeplePath) {
-        $rows = @(Get-ReorderedRowsFromPubMeeple -Rows $rows -PubMeepleCsvPath $pubMeeplePath)
+    $pubMeepleFilePath = Join-Path $PubMeepleOutputDir $fileName
+    $pubMeepleImport = Get-ReorderedRowsFromPubMeeple -RankingRows $rows -PubMeepleCsvPath $pubMeepleFilePath
+    $rows = @($pubMeepleImport.Rows)
+
+    $rankingFilePath = Join-Path $RankingExportDir $fileName
+    $rows | Export-Csv -Path $rankingFilePath -NoTypeInformation -Encoding UTF8
+    @($rows | ForEach-Object { [string]$_.name }) | Set-Content -Path (Join-Path $PubMeepleInputDir ([System.IO.Path]::GetFileNameWithoutExtension($fileName) + '.txt')) -Encoding UTF8
+
+    if ($pubMeepleImport.MatchedCount -gt 0) {
         $sequence = 0
         foreach ($row in $rows) {
             $sequence++
@@ -184,13 +205,10 @@ foreach ($group in ($membership | Where-Object { $_.tier -ne 'U' } | Group-Objec
                 source_bucket = [int]$row.source_bucket
                 bgg_id = [int]$row.bgg_id
                 rank_in_tier = $sequence
-                import_file = [System.IO.Path]::GetFileName($pubMeeplePath)
+                import_file = $fileName
             })
         }
     }
-
-    $rows | Export-Csv -Path $csvPath -NoTypeInformation -Encoding UTF8
-    @($rows | ForEach-Object { [string]$_.name }) | Set-Content -Path $txtPath -Encoding UTF8
 }
 
 $pendingTierMoves = @()
@@ -227,8 +245,6 @@ Write-JsonFile -Path $NormalizedRankingImportPath -Value @($normalizedRanking)
 [pscustomobject]@{
     TierExportDir = $TierExportDir
     RankingExportDir = $RankingExportDir
-    PubMeepleInputDir = $PubMeepleInputDir
-    PubMeepleOutputDir = $PubMeepleOutputDir
     PendingTierMovesPath = $PendingTierMovesPath
     NormalizedRankingImportPath = $NormalizedRankingImportPath
     TierMoveCount = @($pendingTierMoves).Count

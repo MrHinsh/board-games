@@ -165,40 +165,24 @@ Outputs:
 
 - `data/publish/tiers/tier-engine-export.csv`
 - `data/publish/ranking/tier-*-ranking.csv`
-- `data/raw/pubmeeple/in/tier-*-ranking.txt`
 
 Optional imports consumed by normalize:
 
 - `data/publish/tiers/tier-engine-import.csv`
 - `data/publish/ranking/import/*.csv`
-
-PubMeeple rerank input convention:
-
-- Put the rerank CSV under `data/raw/pubmeeple/out/`
-- Use the same tier file name as the generated ranking export, for example `data/raw/pubmeeple/out/tier-S-ranking.csv`
-- Use the generated PubMeeple input list from `data/raw/pubmeeple/in/tier-S-ranking.txt`
-- Expected columns from PubMeeple: `rank`, `item`
-- `item` is matched against the tier ranking CSV `name` column
-- Normalize applies this rerank input automatically when generating `data/publish/ranking/tier-*-ranking.csv`
-- Normalize also converts this rerank input into `data/working/ranking/external-ordering.json`
-- This only rewrites the row order of the target `data/publish/ranking/tier-*-ranking.csv`
-- It does not change `rank_in_tier`, ratings, canonical data, or any other pipeline outputs
-- This input is separate from normalize imports under `data/publish/ranking/import/`
+- `data/raw/pubmeeple/out/tier-*-ranking.csv`
 
 Normalize writes:
 
 - `data/publish/queue/pending-tier-moves.json`
 - `data/working/ranking/external-ordering.json`
+- `data/raw/pubmeeple/in/tier-*-ranking.txt`
 
-When a matching PubMeeple rerank file exists under `data/raw/pubmeeple/out/`, normalize writes its title-matched order into `data/working/ranking/external-ordering.json` so the next rebalance run can apply it.
+PubMeeple flow:
 
-To apply a PubMeeple rerank file onto a tier CSV in place:
-
-```powershell
-./.agents/skills/mrhinsh-bg-normalize/scripts/Import-PubMeepleTierRanking.ps1 `
-  -PubMeepleCsvPath .\data\raw\pubmeeple\ranking\tier-S-ranking.csv `
-  -RankingCsvPath .\data\publish\ranking\tier-S-ranking.csv
-```
+- normalize exports one text file per ranked tier to `data/raw/pubmeeple/in`
+- drop title-only PubMeeple result CSVs into `data/raw/pubmeeple/out`
+- normalize matches `item` to publish ranking `name`, reorders the exported tier CSV, and appends those ranks into `external-ordering.json`
 
 ### Step 3: Apply tier moves from external tool or manual queue
 

@@ -318,37 +318,19 @@ Required fields:
 Rules:
 
 - Produced by normalize skill from external ranking engine files.
-- Produced by normalize skill from matching PubMeeple rerank files under `data/raw/pubmeeple/out/`.
 - Consumed by rank rebalance using `-ImportPath`.
+- PubMeeple title-only files in `data/raw/pubmeeple/out/tier-*-ranking.csv` are normalized into this contract by matching `item` to tier ranking `name`.
 
-## PubMeeple Tier Rerank Contract
+## PubMeeple Round-Trip Contract
 
-Generated PubMeeple input list path:
+Paths:
 
 - `data/raw/pubmeeple/in/tier-*-ranking.txt`
-
-Recommended input path:
-
 - `data/raw/pubmeeple/out/tier-*-ranking.csv`
-
-Type:
-
-- CSV
-
-Required columns:
-
-- `rank`
-- `item`
 
 Rules:
 
-- The generated `.txt` list is the outbound input for PubMeeple ranking sessions.
-- `item` matches the `name` column in `data/publish/ranking/tier-*-ranking.csv`.
-- Matching is case-insensitive and whitespace-normalized.
-- Normalize consumes this raw PubMeeple file when generating the target tier ranking CSV.
-- Normalize also emits this order into `data/working/ranking/external-ordering.json` for downstream rebalance.
-- The helper script can also be used to rewrite a target tier ranking CSV manually.
-- The helper does not change `rank_in_tier`, ratings, canonical data, queues, or other generated files.
-- The rerank intake is a separate raw input and is not part of `data/publish/ranking/import/`.
-- Unmatched PubMeeple titles are treated as an error.
-- Tier rows not present in the PubMeeple file are appended after matched rows in their existing order.
+- normalize exports ranked tier names as newline-delimited text for PubMeeple input.
+- PubMeeple output CSVs must contain `rank` and `item` columns.
+- `item` values are matched case-insensitively after whitespace normalization against publish ranking `name`.
+- matched PubMeeple order reorders the corresponding publish ranking CSV and contributes `bgg_id`-based rows to `external-ordering.json`.
