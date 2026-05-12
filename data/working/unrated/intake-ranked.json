@@ -1,379 +1,3765 @@
 [
   {
-    "group_key": "1-4",
-    "bgg_id": 347305,
-    "name": "Inventions: Evolution of Ideas",
-    "current_rating": 10,
-    "num_plays": 5,
-    "players": "1-4",
-    "complexity": 4.5902,
-    "bgg_rating": 7.92105,
-    "categories": [
-      "Civilization",
-      "Industry / Manufacturing"
-    ],
-    "mechanics": [
-      "Point to Point Movement",
-      "Worker Placement"
-    ]
-  },
-  {
-    "group_key": "2-4",
-    "bgg_id": 358661,
-    "name": "Andromeda's Edge",
-    "current_rating": 10,
+    "group_key": "2-5",
+    "bgg_id": 4390,
+    "name": "Carcassonne: Hunters and Gatherers",
+    "current_rating": 0.0,
     "num_plays": 3,
-    "players": "2-4",
-    "complexity": 3.745,
-    "bgg_rating": 8.25263,
+    "players": "2-5",
+    "complexity": 1.922,
+    "bgg_rating": 7.1307,
+    "bgg_comment": "",
+    "notes": "",
     "categories": [
-      "Fighting",
-      "Science Fiction",
-      "Space Exploration",
+      "Prehistoric",
       "Territory Building"
     ],
     "mechanics": [
       "Area Majority / Influence",
+      "Enclosure",
+      "Kill Steal",
+      "Map Addition",
+      "Pattern Building",
+      "Square Grid"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 264055,
+    "name": "Draftosaurus",
+    "current_rating": 0.0,
+    "num_plays": 3,
+    "players": "2-5",
+    "complexity": 1.2423,
+    "bgg_rating": 7.08184,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Animals",
+      "Prehistoric",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Closed Drafting",
       "Dice Rolling",
-      "End Game Bonuses",
-      "Events",
-      "Hand Management",
+      "Die Icon Resolution",
+      "Set Collection",
+      "Simultaneous Action Selection"
+    ]
+  },
+  {
+    "group_key": "1-6",
+    "bgg_id": 256589,
+    "name": "Rallyman: GT",
+    "current_rating": 0.0,
+    "num_plays": 3,
+    "players": "1-6",
+    "complexity": 2.2,
+    "bgg_rating": 7.10803,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Racing",
+      "Sports"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Different Dice Movement",
+      "Grid Movement",
       "Hexagon Grid",
-      "Tech Trees / Tech Tracks",
-      "Variable Player Powers",
-      "Variable Set-up",
-      "Worker Placement",
-      "Worker Placement, Different Worker Types"
+      "Modular Board",
+      "Push Your Luck",
+      "Race",
+      "Roll / Spin and Move",
+      "Simulation",
+      "Solo / Solitaire Game"
     ]
   },
   {
     "group_key": "2-4",
-    "bgg_id": 417197,
-    "name": "Rebirth",
-    "current_rating": 9,
-    "num_plays": 3,
+    "bgg_id": 54137,
+    "name": "Battle Sheep",
+    "current_rating": 0.0,
+    "num_plays": 2,
     "players": "2-4",
-    "complexity": 1.9781,
-    "bgg_rating": 7.75732,
+    "complexity": 1.4555,
+    "bgg_rating": 6.59767,
+    "bgg_comment": "",
+    "notes": "",
     "categories": [
-      "Environmental",
-      "Fantasy",
-      "Farming",
-      "Science Fiction"
+      "Abstract Strategy",
+      "Animals"
     ],
     "mechanics": [
-      "Area Majority / Influence",
-      "Contracts",
-      "End Game Bonuses",
+      "Enclosure",
+      "Grid Movement",
       "Hexagon Grid",
+      "Modular Board"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 5782,
+    "name": "Coloretto",
+    "current_rating": 0.0,
+    "num_plays": 2,
+    "players": "2-5",
+    "complexity": 1.2703,
+    "bgg_rating": 6.98123,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Animals",
+      "Card Game"
+    ],
+    "mechanics": [
+      "Open Drafting",
+      "Push Your Luck",
+      "Set Collection",
+      "Turn Order: Pass Order"
+    ]
+  },
+  {
+    "group_key": "3-8",
+    "bgg_id": 40004,
+    "name": "Contract Rummy",
+    "current_rating": 0.0,
+    "num_plays": 2,
+    "players": "3-8",
+    "complexity": 1.7059,
+    "bgg_rating": 6.3771,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": "Card Game",
+    "mechanics": [
+      "Hand Management",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 334320,
+    "name": "Langskip",
+    "current_rating": 0.0,
+    "num_plays": 2,
+    "players": "2-4",
+    "complexity": null,
+    "bgg_rating": 7.565,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": "Bluffing",
+    "mechanics": "Race"
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 108745,
+    "name": "Seasons",
+    "current_rating": 0.0,
+    "num_plays": 2,
+    "players": "2-4",
+    "complexity": 2.7847,
+    "bgg_rating": 7.33302,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Card Game",
+      "Fantasy"
+    ],
+    "mechanics": [
+      "Closed Drafting",
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "Hand Management",
+      "Open Drafting",
+      "Tags",
+      "Take That",
+      "Turn Order: Progressive",
+      "Victory Points as a Resource"
+    ]
+  },
+  {
+    "group_key": "1-6",
+    "bgg_id": 206327,
+    "name": "The King's Guild",
+    "current_rating": 0.0,
+    "num_plays": 2,
+    "players": "1-6",
+    "complexity": 2.3556,
+    "bgg_rating": 7.02327,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Fantasy",
+      "Medieval"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Set Collection",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 155987,
+    "name": "Abyss",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 2.3193,
+    "bgg_rating": 7.32232,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Mythology",
+      "Nautical"
+    ],
+    "mechanics": [
+      "Auction / Bidding",
+      "Hand Management",
+      "Memory",
+      "Open Drafting",
+      "Push Your Luck",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 298635,
+    "name": "Alice's Garden",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 1.431,
+    "bgg_rating": 7.11578,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Novel-based",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Grid Coverage",
+      "I Cut, You Choose",
+      "Open Drafting",
       "Tile Placement"
     ]
   },
   {
     "group_key": "2-4",
-    "bgg_id": 298231,
-    "name": "Skyrise",
-    "current_rating": 8,
-    "num_plays": 3,
+    "bgg_id": 296167,
+    "name": "Boomerang: Australia",
+    "current_rating": 0.0,
+    "num_plays": 1,
     "players": "2-4",
-    "complexity": 2.2447,
-    "bgg_rating": 7.67036,
-    "categories": "Territory Building",
-    "mechanics": [
-      "Area Majority / Influence",
-      "Auction / Bidding",
-      "Constrained Bidding",
-      "End Game Bonuses",
-      "Modular Board",
-      "Set Collection",
-      "Variable Set-up"
-    ]
-  },
-  {
-    "group_key": "2-5",
-    "bgg_id": 324856,
-    "name": "The Crew: Mission Deep Sea",
-    "current_rating": 8.0,
-    "num_plays": 3,
-    "players": "2-5",
-    "complexity": 2.0502,
-    "bgg_rating": 8.05009,
-    "categories": [
-      "Adventure",
-      "Card Game",
-      "Mythology",
-      "Nautical"
-    ],
-    "mechanics": [
-      "Communication Limits",
-      "Cooperative Game",
-      "Deduction",
-      "Hand Management",
-      "Scenario / Mission / Campaign Game",
-      "Trick-taking"
-    ]
-  },
-  {
-    "group_key": "1-5",
-    "bgg_id": 284653,
-    "name": "Mind MGMT: The Psychic Espionage “Game.”",
-    "current_rating": 7,
-    "num_plays": 2,
-    "players": "1-5",
-    "complexity": 2.9097,
-    "bgg_rating": 7.78229,
-    "categories": [
-      "Comic Book / Strip",
-      "Deduction",
-      "Spies / Secret Agents"
-    ],
-    "mechanics": [
-      "Cooperative Game",
-      "Deduction",
-      "Grid Movement",
-      "Hidden Movement",
-      "Paper-and-Pencil",
-      "Point to Point Movement",
-      "Team-Based Game",
-      "Variable Player Powers"
-    ]
-  },
-  {
-    "group_key": "1-4",
-    "bgg_id": 381715,
-    "name": "Teotihuacan: City of Gods – Deluxe Master Set",
-    "current_rating": 10,
-    "num_plays": 2,
-    "players": "1-4",
-    "complexity": 3.9062,
-    "bgg_rating": 8.40683,
-    "categories": "Ancient",
-    "mechanics": [
-      "Area Movement",
-      "Rondel",
-      "Set Collection",
-      "Solo / Solitaire Game",
-      "Tile Placement",
-      "Track Movement",
-      "Variable Player Powers",
-      "Variable Set-up",
-      "Worker Placement with Dice Workers"
-    ]
-  },
-  {
-    "group_key": "1-4",
-    "bgg_id": 425630,
-    "name": "Baghdad: The City of Peace",
-    "current_rating": 10,
-    "num_plays": 1,
-    "players": "1-4",
-    "complexity": 3.3571,
-    "bgg_rating": 7.63686,
-    "categories": [
-      "Arabian",
-      "City Building",
-      "Medieval"
-    ],
-    "mechanics": [
-      "Hand Management",
-      "Rondel",
-      "Solo / Solitaire Game",
-      "Worker Placement"
-    ]
-  },
-  {
-    "group_key": "1-4",
-    "bgg_id": 230244,
-    "name": "Black Angel",
-    "current_rating": 8,
-    "num_plays": 1,
-    "players": "1-4",
-    "complexity": 3.87,
-    "bgg_rating": 7.18317,
-    "categories": [
-      "Science Fiction",
-      "Space Exploration"
-    ],
-    "mechanics": [
-      "Bias",
-      "Dice Rolling",
-      "Hand Management",
-      "Map Addition",
-      "Map Reduction",
-      "Solo / Solitaire Game",
-      "Tile Placement",
-      "Variable Set-up",
-      "Worker Placement with Dice Workers"
-    ]
-  },
-  {
-    "group_key": "1-5",
-    "bgg_id": 373600,
-    "name": "Cthulhu: Death May Die – Fear of the Unknown",
-    "current_rating": 9,
-    "num_plays": 1,
-    "players": "1-5",
-    "complexity": 2.6977,
-    "bgg_rating": 8.71982,
-    "categories": [
-      "Fantasy",
-      "Fighting",
-      "Horror",
-      "Miniatures",
-      "Novel-based"
-    ],
-    "mechanics": [
-      "Action Points",
-      "Cooperative Game",
-      "Dice Rolling",
-      "Scenario / Mission / Campaign Game",
-      "Solo / Solitaire Game",
-      "Variable Player Powers"
-    ]
-  },
-  {
-    "group_key": "4-8",
-    "bgg_id": 253786,
-    "name": "Don't Mess with Cthulhu Deluxe",
-    "current_rating": 7,
-    "num_plays": 1,
-    "players": "4-8",
-    "complexity": 1.2353,
-    "bgg_rating": 7.33806,
-    "categories": [
-      "Bluffing",
-      "Card Game",
-      "Deduction",
-      "Horror",
-      "Negotiation",
-      "Party Game"
-    ],
-    "mechanics": [
-      "Team-Based Game",
-      "Traitor Game"
-    ]
-  },
-  {
-    "group_key": "1-4",
-    "bgg_id": 368173,
-    "name": "Let's Go! To Japan",
-    "current_rating": 8,
-    "num_plays": 1,
-    "players": "1-4",
-    "complexity": 2.25,
-    "bgg_rating": 7.5811,
+    "complexity": 1.5263,
+    "bgg_rating": 6.83725,
+    "bgg_comment": "",
+    "notes": "",
     "categories": [
       "Card Game",
-      "Transportation",
       "Travel"
     ],
     "mechanics": [
       "Closed Drafting",
-      "Contracts",
       "End Game Bonuses",
-      "Hand Management",
-      "Melding and Splaying",
-      "Multi-Use Cards",
+      "Paper-and-Pencil",
       "Set Collection",
       "Simultaneous Action Selection",
-      "Solo / Solitaire Game",
-      "Storytelling",
       "Tags"
     ]
   },
   {
-    "group_key": "1-5",
-    "bgg_id": 230251,
-    "name": "Mint Delivery",
-    "current_rating": 6,
+    "group_key": "2-5",
+    "bgg_id": 199383,
+    "name": "Calimala",
+    "current_rating": 0.0,
     "num_plays": 1,
-    "players": "1-5",
-    "complexity": 1.6316,
-    "bgg_rating": 6.1537,
+    "players": "2-5",
+    "complexity": 2.7959,
+    "bgg_rating": 7.30025,
+    "bgg_comment": "",
+    "notes": "",
     "categories": [
       "Economic",
-      "Industry / Manufacturing"
+      "Industry / Manufacturing",
+      "Medieval",
+      "Renaissance",
+      "Transportation",
+      "Travel"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "End Game Bonuses",
+      "Modular Board",
+      "Order Counters",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 269789,
+    "name": "Caravan",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 1.7692,
+    "bgg_rating": 6.56417,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Abstract Strategy",
+      "Arabian"
     ],
     "mechanics": [
       "Action Points",
-      "Contracts",
-      "Increase Value of Unchosen Resources",
+      "Grid Movement",
       "Pick-up and Deliver",
-      "Point to Point Movement"
+      "Take That"
     ]
   },
   {
     "group_key": "1-4",
-    "bgg_id": 304510,
-    "name": "Pampero",
-    "current_rating": 10,
+    "bgg_id": 407318,
+    "name": "Cascadia: Rolling Rivers",
+    "current_rating": 0.0,
     "num_plays": 1,
     "players": "1-4",
-    "complexity": 3.94,
-    "bgg_rating": 7.46082,
+    "complexity": 2,
+    "bgg_rating": 7.17255,
+    "bgg_comment": "",
+    "notes": "",
     "categories": [
-      "Card Game",
-      "Economic",
-      "Environmental"
+      "American West",
+      "Animals",
+      "Dice",
+      "Environmental",
+      "Puzzle",
+      "Territory Building"
     ],
     "mechanics": [
-      "Action Retrieval",
+      "Contracts",
+      "Dice Rolling",
       "End Game Bonuses",
-      "Hand Management",
-      "Income",
-      "Loans",
-      "Neighbor Scope",
+      "Hexagon Grid",
+      "Line Drawing",
+      "Market",
+      "Multiple Maps",
+      "Paper-and-Pencil",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 402676,
+    "name": "Cities",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 1.8849,
+    "bgg_rating": 7.29075,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Abstract Strategy",
+      "City Building"
+    ],
+    "mechanics": [
+      "Closed Drafting",
+      "Contracts",
+      "Open Drafting",
+      "Pattern Building",
+      "Set Collection",
+      "Tile Placement",
+      "Turn Order: Claim Action",
+      "Variable Set-up",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "3-8",
+    "bgg_id": 225694,
+    "name": "Decrypto",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "3-8",
+    "complexity": 1.8261,
+    "bgg_rating": 7.7665,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Deduction",
+      "Party Game",
+      "Spies / Secret Agents",
+      "Word Game"
+    ],
+    "mechanics": [
+      "Communication Limits",
+      "Paper-and-Pencil",
+      "Targeted Clues",
+      "Team-Based Game"
+    ]
+  },
+  {
+    "group_key": "3-8",
+    "bgg_id": 15512,
+    "name": "Diamant",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "3-8",
+    "complexity": 1.1141,
+    "bgg_rating": 6.84764,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Exploration"
+    ],
+    "mechanics": [
+      "Move Through Deck",
+      "Push Your Luck",
+      "Simultaneous Action Selection"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 231038,
+    "name": "Dreamscape",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 3.1282,
+    "bgg_rating": 7.25059,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Abstract Strategy",
+      "Fantasy",
+      "Puzzle"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Pattern Building",
       "Point to Point Movement",
       "Set Collection",
       "Turn Order: Stat-Based"
     ]
   },
   {
-    "group_key": "1-4",
-    "bgg_id": 375459,
-    "name": "Speakeasy",
-    "current_rating": 10,
+    "group_key": "2-6",
+    "bgg_id": 173442,
+    "name": "Empires: Age of Discovery",
+    "current_rating": 0.0,
     "num_plays": 1,
-    "players": "1-4",
-    "complexity": 4.4119,
-    "bgg_rating": 8.45963,
+    "players": "2-6",
+    "complexity": 3.3125,
+    "bgg_rating": 7.81119,
+    "bgg_comment": "",
+    "notes": "",
     "categories": [
-      "Economic",
-      "Industry / Manufacturing",
-      "Mafia",
-      "Territory Building"
+      "Civilization",
+      "Exploration",
+      "Renaissance"
     ],
     "mechanics": [
       "Area Majority / Influence",
+      "Set Collection",
+      "Variable Player Powers",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 88594,
+    "name": "Eruption",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "2-6",
+    "complexity": 2.0172,
+    "bgg_rating": 6.08318,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": "Abstract Strategy",
+    "mechanics": [
+      "Dice Rolling",
+      "Team-Based Game",
+      "Tile Placement"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 155703,
+    "name": "Evolution",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "2-6",
+    "complexity": 2.4288,
+    "bgg_rating": 7.00329,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Educational",
+      "Environmental",
+      "Prehistoric",
+      "Print & Play"
+    ],
+    "mechanics": [
+      "Action Points",
       "Hand Management",
-      "Pick-up and Deliver",
+      "Push Your Luck",
+      "Simulation",
+      "Simultaneous Action Selection",
+      "Take That",
+      "Turn Order: Progressive"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 221230,
+    "name": "Farlight",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "2-5",
+    "complexity": 2.4762,
+    "bgg_rating": 6.80167,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Bluffing",
+      "Dice",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Auction / Bidding",
+      "Dice Rolling",
+      "Open Drafting",
+      "Tile Placement",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 207336,
+    "name": "Honshū",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "2-5",
+    "complexity": 1.9333,
+    "bgg_rating": 6.8823,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Card Game",
+      "City Building",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Auction / Bidding",
+      "Closed Drafting",
+      "End Game Bonuses",
+      "Hand Management",
+      "Layering",
+      "Melding and Splaying",
+      "Pattern Building",
+      "Selection Order Bid",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 122515,
+    "name": "Keyflower",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "2-6",
+    "complexity": 3.3321,
+    "bgg_rating": 7.70963,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "City Building",
+      "Economic",
+      "Renaissance",
+      "Territory Building",
+      "Transportation"
+    ],
+    "mechanics": [
+      "Auction / Bidding",
+      "Auction: Fixed Placement",
+      "Auction: Multiple Lot",
+      "Constrained Bidding",
+      "End Game Bonuses",
+      "Network and Route Building",
+      "Ownership",
+      "Selection Order Bid",
+      "Set Collection",
+      "Tile Placement",
+      "Turn Order: Auction",
+      "Variable Set-up",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 140620,
+    "name": "Lewis & Clark: The Expedition",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "1-5",
+    "complexity": 3.3178,
+    "bgg_rating": 7.43044,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Age of Reason",
+      "American West",
+      "Exploration"
+    ],
+    "mechanics": [
+      "Action Retrieval",
+      "Deck, Bag, and Pool Building",
+      "Delayed Purchase",
+      "Hand Management",
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Race",
+      "Resource to Move",
+      "Solo / Solitaire Game",
+      "Track Movement",
       "Worker Placement"
     ]
   },
   {
     "group_key": "1-4",
-    "bgg_id": 408253,
-    "name": "Tiny Epic Cthulhu: Deluxe Edition",
-    "current_rating": 8,
+    "bgg_id": 328479,
+    "name": "Living Forest",
+    "current_rating": 0.0,
     "num_plays": 1,
     "players": "1-4",
-    "complexity": 3,
-    "bgg_rating": 7.31833,
+    "complexity": 2.2137,
+    "bgg_rating": 7.22254,
+    "bgg_comment": "",
+    "notes": "",
     "categories": [
-      "Horror",
+      "Animals",
+      "Card Game",
+      "Environmental",
+      "Fantasy",
       "Mythology",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Push Your Luck",
+      "Race",
+      "Simultaneous Action Selection",
+      "Tile Placement"
+    ]
+  },
+  {
+    "group_key": "1-6",
+    "bgg_id": 248861,
+    "name": "Metro X",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "1-6",
+    "complexity": 1.7407,
+    "bgg_rating": 7.09688,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Number",
+      "Puzzle",
+      "Trains"
+    ],
+    "mechanics": [
+      "Bingo",
+      "Network and Route Building",
+      "Paper-and-Pencil",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 234277,
+    "name": "Nusfjord",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "1-5",
+    "complexity": 2.8477,
+    "bgg_rating": 7.63306,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Economic",
+      "Nautical"
+    ],
+    "mechanics": [
+      "Open Drafting",
+      "Turn Order: Claim Action",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "3-6",
+    "bgg_id": 176803,
+    "name": "Overseers",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "3-6",
+    "complexity": 2,
+    "bgg_rating": 6.59616,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Bluffing",
+      "Card Game"
+    ],
+    "mechanics": [
+      "Open Drafting",
+      "Set Collection",
+      "Variable Player Powers",
+      "Voting"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 2136,
+    "name": "Pachisi",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "2-6",
+    "complexity": 1.1762,
+    "bgg_rating": 4.53945,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": "Children's Game",
+    "mechanics": [
+      "Dice Rolling",
+      "Race",
+      "Roll / Spin and Move",
+      "Static Capture",
+      "Take That",
+      "Team-Based Game",
+      "Track Movement"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 148205,
+    "name": "Penny Press",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "2-5",
+    "complexity": 2.1944,
+    "bgg_rating": 6.43697,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": "Industry / Manufacturing",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Auction / Bidding",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 419793,
+    "name": "Pyramido: Forgotten Treasures",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 1.5,
+    "bgg_rating": 6.48072,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Abstract Strategy",
+      "Adventure",
+      "Puzzle"
+    ],
+    "mechanics": [
+      "Connections",
+      "Layering",
+      "Open Drafting",
+      "Tile Placement"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 143519,
+    "name": "Quantum",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 2.4781,
+    "bgg_rating": 7.22526,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Dice",
+      "Fighting",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Grid Movement",
+      "Modular Board",
+      "Square Grid"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 379706,
+    "name": "Quartermaster General: East Front",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "2",
+    "complexity": 2.5625,
+    "bgg_rating": 7.26118,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "mechanics": [
+      "Area Movement",
+      "Events",
+      "Hand Management",
+      "Interrupts",
+      "Multi-Use Cards"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 262712,
+    "name": "Res Arcana",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 2.6554,
+    "bgg_rating": 7.61207,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Card Game",
+      "Fantasy"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Income",
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Race",
+      "Score-and-Reset Game",
+      "Take That",
+      "Turn Order: Pass Order",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "3-10",
+    "bgg_id": 9220,
+    "name": "Saboteur",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "3-10",
+    "complexity": 1.3173,
+    "bgg_rating": 6.53941,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Deduction",
+      "Exploration",
+      "Fantasy",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Hidden Roles",
+      "Hidden Victory Points",
+      "Map Addition",
+      "Network and Route Building",
+      "Score-and-Reset Game",
+      "Take That",
+      "Traitor Game"
+    ]
+  },
+  {
+    "group_key": "2-12",
+    "bgg_id": 2375,
+    "name": "Sequence",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "2-12",
+    "complexity": 1.306,
+    "bgg_rating": 6.18361,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Abstract Strategy",
+      "Card Game"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Pattern Building",
+      "Take That",
+      "Team-Based Game"
+    ]
+  },
+  {
+    "group_key": "3-6",
+    "bgg_id": 75358,
+    "name": "SNCF: France & Germany",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "3-6",
+    "complexity": 1.8133,
+    "bgg_rating": 6.66129,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Economic",
+      "Trains"
+    ],
+    "mechanics": [
+      "Chaining",
+      "Connections",
+      "Hexagon Grid",
+      "Hidden Victory Points",
+      "Network and Route Building",
+      "Stock Holding"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 121015,
+    "name": "Tea Time",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 1.2,
+    "bgg_rating": 5.80875,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Card Game",
+      "Novel-based"
+    ],
+    "mechanics": "Set Collection"
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 162263,
+    "name": "Temporum",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "2-5",
+    "complexity": 2.1538,
+    "bgg_rating": 6.34689,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Age of Reason",
+      "Ancient",
+      "Card Game",
+      "Medieval",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Hand Management",
+      "Modular Board",
+      "Point to Point Movement"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 105037,
+    "name": "Tournay",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "2-4",
+    "complexity": 2.9,
+    "bgg_rating": 6.93673,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Card Game",
+      "City Building",
+      "Economic",
+      "Medieval"
+    ],
+    "mechanics": [
+      "End Game Bonuses",
+      "Events",
+      "Hand Management",
+      "Income",
+      "Layering",
+      "Modular Board",
+      "Open Drafting",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ]
+  },
+  {
+    "group_key": "unknown",
+    "bgg_id": 0,
+    "name": "",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": null,
+    "complexity": null,
+    "bgg_rating": null,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": null,
+    "mechanics": null
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 400205,
+    "name": "5 Towers",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-5",
+    "complexity": 1.236,
+    "bgg_rating": 6.71079,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": "Card Game",
+    "mechanics": [
+      "Auction / Bidding",
+      "Auction: Once Around",
+      "Open Drafting",
+      "Set Collection",
+      "Turn Order: Progressive"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 330950,
+    "name": "Age of Galaxy",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.1157,
+    "bgg_rating": 7.54285,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Civilization",
+      "Economic",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Action Drafting",
+      "Action Points",
+      "Income",
+      "Solo / Solitaire Game",
+      "Tech Trees / Tech Tracks",
+      "Turn Order: Stat-Based",
+      "Variable Player Powers",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 287680,
+    "name": "Ark: Awakening",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.8182,
+    "bgg_rating": 6.85083,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Exploration",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 281940,
+    "name": "Ascension of the Galaxy",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-4",
+    "complexity": 3,
+    "bgg_rating": 6.8,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Print & Play",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Line of Sight",
+      "Scenario / Mission / Campaign Game",
+      "Secret Unit Deployment",
+      "Simulation",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 362598,
+    "name": "Atlas Lost: Rise of the New Sovereigns",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.25,
+    "bgg_rating": 6.95083,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Civilization",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Tech Trees / Tech Tracks"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 429438,
+    "name": "Ayar: Children of the Sun",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.25,
+    "bgg_rating": 7.90973,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Ancient",
+      "Civilization",
+      "Educational"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Highest-Lowest Scoring",
+      "Point to Point Movement",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Track Movement",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "3-5",
+    "bgg_id": 337765,
+    "name": "Brian Boru: High King of Ireland",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "3-5",
+    "complexity": 2.5592,
+    "bgg_rating": 7.45888,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Card Game",
+      "Medieval",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Closed Drafting",
+      "Hand Management",
+      "King of the Hill",
+      "Multi-Use Cards",
+      "Point to Point Movement",
+      "Trick-taking",
+      "Turn Order: Stat-Based",
+      "Variable Phase Order",
+      "Victory Points as a Resource"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 171499,
+    "name": "Cacao",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-4",
+    "complexity": 1.8258,
+    "bgg_rating": 7.06925,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Economic",
+      "Farming",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "End Game Bonuses",
+      "Hand Management",
+      "Income",
+      "Layering",
+      "Map Addition",
+      "Open Drafting",
+      "Tile Placement"
+    ]
+  },
+  {
+    "group_key": "1-2",
+    "bgg_id": 338957,
+    "name": "Caesar!: Seize Rome in 20 Minutes!",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-2",
+    "complexity": 1.9435,
+    "bgg_rating": 7.50159,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Ancient",
+      "Civil War",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Chit-Pull System",
+      "Simulation",
+      "Solo / Solitaire Game"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 401216,
+    "name": "Cascadero",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-4",
+    "complexity": 2.5652,
+    "bgg_rating": 7.265,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Abstract Strategy",
+      "Renaissance"
+    ],
+    "mechanics": [
+      "Chaining",
+      "Connections",
+      "Hexagon Grid",
+      "Network and Route Building",
+      "Once-Per-Game Abilities",
+      "Track Movement"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 333372,
+    "name": "Cellulose: A Plant Cell Biology Game",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-5",
+    "complexity": 2.55,
+    "bgg_rating": 7.25433,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Educational",
+      "Environmental"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Set Collection",
+      "Tech Trees / Tech Tracks",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 329226,
+    "name": "Circadians: Chaos Order",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-5",
+    "complexity": 3.8471,
+    "bgg_rating": 7.89079,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Science Fiction",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Action Drafting",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Card Play Conflict Resolution",
+      "Hand Management",
+      "Hexagon Grid",
+      "Income",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 214887,
+    "name": "CO₂: Second Chance",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 4.0868,
+    "bgg_rating": 7.47248,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Economic",
+      "Environmental",
+      "Industry / Manufacturing"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Cooperative Game",
+      "Market",
+      "Open Drafting",
+      "Semi-Cooperative Game",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 218200,
+    "name": "Constellations",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-4",
+    "complexity": 1.6667,
+    "bgg_rating": 6.83762,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Card Game",
+      "Educational",
+      "Puzzle"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Modular Board",
+      "Set Collection",
+      "Tile Placement"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 249411,
+    "name": "Cuzco",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-4",
+    "complexity": 2.6462,
+    "bgg_rating": 7.41977,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": "City Building",
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Auction / Bidding",
+      "Hand Management",
+      "Hexagon Grid",
+      "Layering",
+      "Map Addition",
+      "Once-Per-Game Abilities",
+      "Tile Placement",
+      "Zone of Control"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 272655,
+    "name": "Darwinauts",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 2.25,
+    "bgg_rating": 5.96494,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": "Science Fiction",
+    "mechanics": [
+      "Set Collection",
+      "Tile Placement",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 210296,
+    "name": "DinoGenics",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-5",
+    "complexity": 2.9355,
+    "bgg_rating": 7.54476,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Science Fiction",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Events",
+      "Hand Management",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Turn Order: Stat-Based",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 341165,
+    "name": "Dune: A Game of Conquest and Diplomacy",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-4",
+    "complexity": 2.6316,
+    "bgg_rating": 6.65862,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Novel-based",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Force Commitment",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 220133,
+    "name": "Endangered",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-5",
+    "complexity": 2.5238,
+    "bgg_rating": 7.38167,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Animals",
+      "Dice",
+      "Environmental"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Push Your Luck",
+      "Solo / Solitaire Game",
+      "Worker Placement with Dice Workers"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 329450,
+    "name": "Equinox",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-5",
+    "complexity": 2.0364,
+    "bgg_rating": 6.68191,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": "Fantasy",
+    "mechanics": [
+      "Betting and Bluffing",
+      "Card Play Conflict Resolution",
+      "Hand Management"
+    ]
+  },
+  {
+    "group_key": "1-6",
+    "bgg_id": 281514,
+    "name": "Escape from the Asylum",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-6",
+    "complexity": 2.4615,
+    "bgg_rating": 6.16074,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Deduction",
+      "Horror",
+      "Medical",
+      "Puzzle"
+    ],
+    "mechanics": "Cooperative Game"
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 142379,
+    "name": "Escape Plan",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-5",
+    "complexity": 3.6766,
+    "bgg_rating": 7.47851,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": "Adventure",
+    "mechanics": [
+      "Area Movement",
+      "Enclosure",
+      "Hexagon Grid",
+      "Modular Board",
+      "Open Drafting",
+      "Race",
+      "Tile Placement",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 280794,
+    "name": "Etherfields",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.5825,
+    "bgg_rating": 7.84002,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Miniatures"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Grid Movement",
+      "Modular Board",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Storytelling",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 382843,
+    "name": "Evacuation",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.9799,
+    "bgg_rating": 7.48,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Industry / Manufacturing",
+      "Racing",
+      "Science Fiction",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Highest-Lowest Scoring",
+      "Income",
+      "Pick-up and Deliver",
+      "Solo / Solitaire Game"
+    ]
+  },
+  {
+    "group_key": "1-6",
+    "bgg_id": 468800,
+    "name": "Excursions",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-6",
+    "complexity": 3,
+    "bgg_rating": 5.66667,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Aviation / Flight",
+      "Economic",
+      "Industry / Manufacturing",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "End Game Bonuses",
+      "Follow",
+      "Hand Management",
+      "Income",
+      "Market",
+      "Multi-Use Cards",
+      "Race",
+      "Solo / Solitaire Game",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 386368,
+    "name": "Ezra and Nehemiah",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.8426,
+    "bgg_rating": 8.1509,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Ancient",
+      "City Building",
+      "Religious"
+    ],
+    "mechanics": [
+      "Chaining",
+      "Hand Management",
+      "Multi-Use Cards",
+      "Solo / Solitaire Game",
+      "Tech Trees / Tech Tracks",
+      "Track Movement",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 216600,
+    "name": "Fantastic Factories",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-5",
+    "complexity": 2.2271,
+    "bgg_rating": 7.40839,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Card Game",
+      "Dice",
+      "Industry / Manufacturing"
+    ],
+    "mechanics": [
+      "Contracts",
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Hand Management",
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Push Your Luck",
+      "Race",
+      "Re-rolling and Locking",
+      "Set Collection",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Tags",
+      "Turn Order: Progressive",
+      "Worker Placement with Dice Workers"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 183896,
+    "name": "Firefly Fluxx",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-6",
+    "complexity": 1.35,
+    "bgg_rating": 6.65203,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": "Card Game",
+    "mechanics": [
+      "Hand Management",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 192455,
+    "name": "First Martians: Adventures on the Red Planet",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 4.1566,
+    "bgg_rating": 6.34945,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Legacy Game",
+      "Modular Board",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Storytelling",
+      "Variable Player Powers",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 280032,
+    "name": "Fossilis",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-5",
+    "complexity": 2.2982,
+    "bgg_rating": 6.96234,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Action / Dexterity",
+      "Animals",
+      "Children's Game",
+      "Exploration",
+      "Prehistoric"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Contracts",
+      "End Game Bonuses",
+      "Events",
+      "Grid Movement",
+      "Map Deformation",
+      "Modular Board",
+      "Open Drafting",
+      "Set Collection",
+      "Slide / Push",
+      "Square Grid",
+      "Static Capture",
+      "Tags",
+      "Take That",
+      "Three Dimensional Movement",
+      "Tile Placement",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 299106,
+    "name": "Fractal",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-4",
+    "complexity": 3.5862,
+    "bgg_rating": 7.50202,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Adventure",
+      "Civilization",
+      "Political",
+      "Science Fiction",
+      "Space Exploration",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Legacy Game",
+      "Modular Board",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 302892,
+    "name": "Frozen Frontier",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.5714,
+    "bgg_rating": 7.66236,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "City Building",
+      "Economic",
+      "Industry / Manufacturing",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "End Game Bonuses",
+      "Hand Management",
+      "Income",
+      "Modular Board",
+      "Open Drafting",
+      "Solo / Solitaire Game",
+      "Variable Set-up",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "1-6",
+    "bgg_id": 281676,
+    "name": "Galactic Era",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-6",
+    "complexity": 3.7857,
+    "bgg_rating": 7.18889,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Science Fiction",
+      "Space Exploration",
+      "Wargame"
+    ],
+    "mechanics": [
+      "End Game Bonuses",
+      "Grid Movement",
+      "Modular Board",
+      "Rock-Paper-Scissors",
+      "Secret Unit Deployment",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Team-Based Game",
+      "Tech Trees / Tech Tracks",
+      "Trading",
+      "Turn Order: Claim Action",
+      "Variable Player Powers",
+      "Victory Points as a Resource"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 352823,
+    "name": "Galileo Project",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-4",
+    "complexity": 2.7742,
+    "bgg_rating": 7.29214,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Open Drafting",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "1",
+    "bgg_id": 336131,
+    "name": "Halls of Hegra",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1",
+    "complexity": 3.4,
+    "bgg_rating": 8.09136,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Economic",
+      "Wargame",
+      "World War II"
+    ],
+    "mechanics": [
+      "Action / Event",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Pick-up and Deliver",
+      "Point to Point Movement",
+      "Push Your Luck",
+      "Solo / Solitaire Game",
+      "Variable Set-up",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ]
+  },
+  {
+    "group_key": "3-5",
+    "bgg_id": 228889,
+    "name": "Helios Expanse",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "3-5",
+    "complexity": 2,
+    "bgg_rating": 6.73651,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Card Game",
+      "Civilization",
+      "Fighting",
+      "Science Fiction",
+      "Space Exploration",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Action Queue",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Hexagon Grid"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 281655,
+    "name": "High Frontier 4 All",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-5",
+    "complexity": 4.817,
+    "bgg_rating": 8.34845,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Civilization",
+      "Economic",
+      "Exploration",
+      "Industry / Manufacturing",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Auction / Bidding",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Negotiation",
+      "Network and Route Building",
+      "Pick-up and Deliver",
+      "Point to Point Movement",
+      "Resource to Move",
+      "Simulation",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 379633,
+    "name": "Humanity",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-4",
+    "complexity": 2.6,
+    "bgg_rating": 6.64985,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "City Building",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Hidden Victory Points",
+      "Order Counters",
+      "Tech Trees / Tech Tracks",
+      "Tile Placement",
+      "Worker Placement",
+      "Worker Placement with Dice Workers"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 216070,
+    "name": "Hunt for the Ring",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-5",
+    "complexity": 3.1765,
+    "bgg_rating": 7.08526,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Deduction",
+      "Dice",
+      "Fantasy",
+      "Fighting",
+      "Novel-based"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Hidden Movement",
+      "Point to Point Movement",
+      "Secret Unit Deployment",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-2",
+    "bgg_id": 410292,
+    "name": "Hunted: Kobayashi Tower (2nd Edition)",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-2",
+    "complexity": 2,
+    "bgg_rating": 7.02975,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Card Game",
+      "Dice"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Push Your Luck",
+      "Solo / Solitaire Game"
+    ]
+  },
+  {
+    "group_key": "1-2",
+    "bgg_id": 420240,
+    "name": "Hunted: Mining Colony 415 (2nd Edition)",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-2",
+    "complexity": 1.3333,
+    "bgg_rating": 6.79078,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Action / Dexterity",
+      "Card Game",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Flicking",
+      "Push Your Luck"
+    ]
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 28,
+    "name": "Illuminati",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-6",
+    "complexity": 2.6575,
+    "bgg_rating": 6.46495,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Card Game",
+      "Humor",
+      "Negotiation",
+      "Political",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Network and Route Building",
+      "Open Drafting",
+      "Tile Placement",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1",
+    "bgg_id": 148427,
+    "name": "K-Day: Kaiju War!",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1",
+    "complexity": 1,
+    "bgg_rating": 6.39048,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Dice",
+      "Print & Play",
       "Science Fiction"
     ],
     "mechanics": [
       "Action Points",
-      "Cooperative Game",
-      "Deck, Bag, and Pool Building",
-      "Matching",
-      "Multi-Use Cards",
-      "Push Your Luck",
-      "Roll / Spin and Move",
+      "Dice Rolling"
+    ]
+  },
+  {
+    "group_key": "1-2",
+    "bgg_id": 361333,
+    "name": "Lawyer Up: Season 2",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-2",
+    "complexity": null,
+    "bgg_rating": 7.3167,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": "Card Game",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Open Drafting",
+      "Pattern Building",
       "Set Collection",
       "Solo / Solitaire Game"
+    ]
+  },
+  {
+    "group_key": "1",
+    "bgg_id": 354934,
+    "name": "Legacy of Yu",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1",
+    "complexity": 2.8968,
+    "bgg_rating": 8.07804,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Ancient",
+      "City Building"
+    ],
+    "mechanics": [
+      "Chaining",
+      "Hand Management",
+      "Multi-Use Cards",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Sudden Death Ending",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 200171,
+    "name": "Legendary: Big Trouble in Little China",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-5",
+    "complexity": 1.8947,
+    "bgg_rating": 7.05309,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Card Game",
+      "Movies / TV / Radio theme"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Open Drafting"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 322050,
+    "name": "Lost Empires: War for the New Sun",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2",
+    "complexity": 2.6667,
+    "bgg_rating": 7.26067,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Card Game",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": "Deck Construction"
+  },
+  {
+    "group_key": "2-6",
+    "bgg_id": 42929,
+    "name": "Martian Rails",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-6",
+    "complexity": 3.2,
+    "bgg_rating": 7.18484,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Economic",
+      "Science Fiction",
+      "Trains",
+      "Transportation"
+    ],
+    "mechanics": [
+      "Commodity Speculation",
+      "Crayon Rail System",
+      "Hexagon Grid",
+      "Line Drawing",
+      "Network and Route Building",
+      "Pick-up and Deliver"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 131646,
+    "name": "Merchant of Venus (Second Edition)",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.0082,
+    "bgg_rating": 7.12133,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Economic",
+      "Exploration",
+      "Science Fiction",
+      "Space Exploration",
+      "Transportation"
+    ],
+    "mechanics": [
+      "Commodity Speculation",
+      "Dice Rolling",
+      "Pick-up and Deliver",
+      "Point to Point Movement",
+      "Roll / Spin and Move",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 306040,
+    "name": "Merv: The Heart of the Silk Road",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.4435,
+    "bgg_rating": 7.47508,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Arabian",
+      "City Building",
+      "Economic",
+      "Medieval"
+    ],
+    "mechanics": [
+      "Auction: Turn Order Until Pass",
+      "Contracts",
+      "Modular Board",
+      "Ownership",
+      "Rondel",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Square Grid",
+      "Track Movement",
+      "Turn Order: Auction",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 302510,
+    "name": "Mining Colony",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 1.8636,
+    "bgg_rating": 6.834,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Space Exploration",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Auction / Bidding",
+      "Tile Placement"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 299249,
+    "name": "Mint Control",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-4",
+    "complexity": 2.1667,
+    "bgg_rating": 5.41604,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Card Game",
+      "Humor",
+      "Print & Play"
+    ],
+    "mechanics": [
+      "Action Drafting",
+      "Area Majority / Influence",
+      "Follow"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 282765,
+    "name": "Mint Cooperative",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 1.95,
+    "bgg_rating": 6.01259,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Card Game",
+      "Dice",
+      "Humor"
+    ],
+    "mechanics": [
+      "Area Movement",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Events",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 55427,
+    "name": "Mr. Jack in New York",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2",
+    "complexity": 2.5244,
+    "bgg_rating": 7.17463,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Deduction",
+      "Murder / Mystery"
+    ],
+    "mechanics": [
+      "Deduction",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 72287,
+    "name": "Mr. Jack Pocket",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2",
+    "complexity": 1.8277,
+    "bgg_rating": 6.82743,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Bluffing",
+      "Deduction",
+      "Murder / Mystery",
+      "Post-Napoleonic"
+    ],
+    "mechanics": [
+      "Hidden Movement",
+      "Map Deformation",
+      "Modular Board"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 381248,
+    "name": "Nemesis: Retaliation",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-5",
+    "complexity": 3.7573,
+    "bgg_rating": 8.69814,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Exploration",
+      "Fighting",
+      "Horror",
+      "Miniatures",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hidden Roles",
+      "Modular Board",
+      "Player Elimination",
+      "Semi-Cooperative Game",
+      "Solo / Solitaire Game",
+      "Traitor Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 434367,
+    "name": "Nippon: Zaibatsu",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.5923,
+    "bgg_rating": 8.56441,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Economic",
+      "Industry / Manufacturing"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Contracts",
+      "End Game Bonuses",
+      "Income",
+      "Open Drafting",
+      "Solo / Solitaire Game",
+      "Variable Set-up",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 396790,
+    "name": "Nucleum",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 4.1876,
+    "bgg_rating": 8.11267,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Economic",
+      "Industry / Manufacturing",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Action Retrieval",
+      "Contracts",
+      "End Game Bonuses",
+      "Hand Management",
+      "Income",
+      "Market",
+      "Network and Route Building",
+      "Solo / Solitaire Game",
+      "Tech Trees / Tech Tracks",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1",
+    "bgg_id": 422375,
+    "name": "Okinawa: The Last Battle of World War II",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1",
+    "complexity": 2.2222,
+    "bgg_rating": 7.63448,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Card Game",
+      "Dice",
+      "Wargame",
+      "World War II"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Rondel",
+      "Solo / Solitaire Game"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 322588,
+    "name": "Origins: First Builders",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.3434,
+    "bgg_rating": 7.02414,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "City Building",
+      "Dice",
+      "Mythology"
+    ],
+    "mechanics": [
+      "Open Drafting",
+      "Tile Placement",
+      "Turn Order: Stat-Based",
+      "Variable Set-up",
+      "Worker Placement with Dice Workers"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 429405,
+    "name": "Orloj: The Prague Astronomical Clock",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.5699,
+    "bgg_rating": 7.96616,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Medieval",
+      "Renaissance"
+    ],
+    "mechanics": [
+      "Action Retrieval",
+      "End Game Bonuses",
+      "Rondel",
+      "Set Collection",
+      "Tech Trees / Tech Tracks",
+      "Variable Set-up",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 191051,
+    "name": "Outlive",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-4",
+    "complexity": 3.0351,
+    "bgg_rating": 7.26238,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": "Science Fiction",
+    "mechanics": [
+      "Area Movement",
+      "Events",
+      "Set Collection",
+      "Take That",
+      "Variable Set-up",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ]
+  },
+  {
+    "group_key": "1-2",
+    "bgg_id": 438930,
+    "name": "Paranormal",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-2",
+    "complexity": 2.6,
+    "bgg_rating": 7.12812,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Dice",
+      "Horror",
+      "Movies / TV / Radio theme"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Dice Rolling"
+    ]
+  },
+  {
+    "group_key": "1-6",
+    "bgg_id": 256999,
+    "name": "Project: ELITE",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-6",
+    "complexity": 2.4638,
+    "bgg_rating": 7.93197,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Fighting",
+      "Miniatures",
+      "Real-time",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Elapsed Real Time Ending",
+      "Grid Movement",
+      "Line of Sight",
+      "Real-Time",
+      "Scenario / Mission / Campaign Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 287589,
+    "name": "Red Outpost",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 2.5368,
+    "bgg_rating": 6.87038,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Farming",
+      "Industry / Manufacturing",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 428099,
+    "name": "Revenant",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.8125,
+    "bgg_rating": 7.16742,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": "Science Fiction",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Hidden Victory Points",
+      "Variable Player Powers",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 334931,
+    "name": "Robinson Crusoe: Adventures on the Cursed Island – Collector's Edition (Gamefound Edition)",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.7143,
+    "bgg_rating": 7.39394,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fighting",
+      "Novel-based"
+    ],
+    "mechanics": [
+      "Action Queue",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Narrative Choice / Paragraph",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Variable Player Powers",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 408180,
+    "name": "Shackleton Base: A Journey to the Moon",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.9148,
+    "bgg_rating": 8.0171,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Variable Set-up",
+      "Worker Placement, Different Worker Types"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 359438,
+    "name": "Skymines",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.8988,
+    "bgg_rating": 7.91656,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Economic",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Action Queue",
+      "Area Majority / Influence",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Investment",
+      "Open Drafting",
+      "Resource to Move",
+      "Roles with Asymmetric Information",
+      "Scenario / Mission / Campaign Game",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Stock Holding",
+      "Turn Order: Claim Action",
+      "Variable Player Powers",
+      "Victory Points as a Resource",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 361284,
+    "name": "Sleeping Gods: Distant Skies (Gamefound Edition)",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 2.3333,
+    "bgg_rating": 8.37818,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Mythology"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Deck, Bag, and Pool Building",
+      "Narrative Choice / Paragraph",
+      "Push Your Luck",
+      "Solo / Solitaire Game"
+    ]
+  },
+  {
+    "group_key": "1-2",
+    "bgg_id": 362205,
+    "name": "Sleeping Gods: Primeval Peril",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-2",
+    "complexity": 2.6897,
+    "bgg_rating": 7.47799,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Adventure",
+      "Exploration"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Storytelling"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 329228,
+    "name": "Solar Sphere",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 2.697,
+    "bgg_rating": 7.07301,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Dice",
+      "Economic",
+      "Science Fiction",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Hidden Victory Points",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Worker Placement with Dice Workers"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 249689,
+    "name": "Sovereign Skies",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 2.2069,
+    "bgg_rating": 7.03234,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Political",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Action Queue",
+      "Area Majority / Influence",
+      "Rondel",
+      "Set Collection"
+    ]
+  },
+  {
+    "group_key": "1-6",
+    "bgg_id": 124827,
+    "name": "Space Cadets: Away Missions",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-6",
+    "complexity": 2.6222,
+    "bgg_rating": 7.30522,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Adventure",
+      "Fighting",
+      "Miniatures",
+      "Science Fiction",
+      "Space Exploration",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Line of Sight",
+      "Modular Board",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 84419,
+    "name": "Space Empires 4X",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.365,
+    "bgg_rating": 7.72527,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Bluffing",
+      "Civilization",
+      "Exploration",
+      "Science Fiction",
+      "Space Exploration",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Auction / Bidding",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Income",
+      "Movement Points",
+      "Paper-and-Pencil",
+      "Secret Unit Deployment",
+      "Simulation",
+      "Solo / Solitaire Game",
+      "Tech Trees / Tech Tracks",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 165838,
+    "name": "Space Hulk (Fourth Edition)",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2",
+    "complexity": 2.7113,
+    "bgg_rating": 7.93915,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Fighting",
+      "Miniatures",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Dice Rolling",
+      "Grid Movement",
+      "Modular Board",
+      "Scenario / Mission / Campaign Game",
+      "Stat Check Resolution"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 214029,
+    "name": "SpaceCorp: 2025-2300AD",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 2.977,
+    "bgg_rating": 7.66132,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Economic",
+      "Exploration",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Contracts",
+      "Hand Management",
+      "Point to Point Movement",
+      "Solo / Solitaire Game"
+    ]
+  },
+  {
+    "group_key": "1-2",
+    "bgg_id": 422541,
+    "name": "Star Trek: Captain's Chair",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-2",
+    "complexity": 4.0471,
+    "bgg_rating": 8.67498,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Card Game",
+      "Movies / TV / Radio theme",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Market",
+      "Move Through Deck",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1",
+    "bgg_id": 191387,
+    "name": "Star Trek: The Dice Game",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1",
+    "complexity": 1.6,
+    "bgg_rating": 7.55587,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Dice",
+      "Movies / TV / Radio theme",
+      "Print & Play",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Contracts",
+      "Dice Rolling",
+      "Events",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Worker Placement",
+      "Worker Placement with Dice Workers",
+      "Worker Placement, Different Worker Types"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 273910,
+    "name": "Stars of Akarios",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 2.9286,
+    "bgg_rating": 7.98671,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Adventure",
+      "Miniatures",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Map Addition",
+      "Modular Board",
+      "Push Your Luck",
+      "Role Playing",
+      "Roles with Asymmetric Information",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Storytelling",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 334827,
+    "name": "Starship Interstellar",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.8333,
+    "bgg_rating": 7.57313,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": "Space Exploration",
+    "mechanics": [
+      "Action / Event",
+      "Point to Point Movement",
+      "Resource to Move"
+    ]
+  },
+  {
+    "group_key": "1-7",
+    "bgg_id": 217990,
+    "name": "Stellar Horizons",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-7",
+    "complexity": 3.9,
+    "bgg_rating": 7.95896,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Civilization",
+      "Economic",
+      "Exploration",
+      "Industry / Manufacturing",
+      "Science Fiction",
+      "Space Exploration",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Critical Hits and Failures",
+      "Dice Rolling",
+      "Income",
+      "Investment",
+      "Simulation"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 281647,
+    "name": "Stellaris: Infinite Legacy",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-4",
+    "complexity": 3.8261,
+    "bgg_rating": 4.50246,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Adventure",
+      "Civilization",
+      "Exploration",
+      "Science Fiction",
+      "Space Exploration",
+      "Territory Building",
+      "Video Game Theme"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Modular Board",
+      "Simultaneous Action Selection",
+      "Trading",
+      "Variable Phase Order",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 316786,
+    "name": "Tabannusi: Builders of Ur",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.9225,
+    "bgg_rating": 7.24454,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Ancient",
+      "City Building"
+    ],
+    "mechanics": [
+      "Action Queue",
+      "Area Majority / Influence",
+      "Contracts",
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Open Drafting",
+      "Ownership",
+      "Tile Placement"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 360366,
+    "name": "Tainted Grail: Kings of Ruin",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.2857,
+    "bgg_rating": 8.63801,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Miniatures",
+      "Mythology"
+    ],
+    "mechanics": [
+      "Area Movement",
+      "Cooperative Game",
+      "Deck Construction",
+      "Dice Rolling",
+      "Events",
+      "Hand Management",
+      "Modular Board",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Storytelling"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 264220,
+    "name": "Tainted Grail: The Fall of Avalon",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.3717,
+    "bgg_rating": 8.02867,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Fighting",
+      "Mature / Adult",
+      "Medieval",
+      "Mythology",
+      "Travel"
+    ],
+    "mechanics": [
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Hand Management",
+      "Map Addition",
+      "Modular Board",
+      "Narrative Choice / Paragraph",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Storytelling",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 283317,
+    "name": "The 7th Continent: Classic Edition",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.1846,
+    "bgg_rating": 7.43703,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Exploration",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Grid Movement",
+      "Hand Management",
+      "Modular Board",
+      "Scenario / Mission / Campaign Game",
+      "Storytelling",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 135219,
+    "name": "The Battle of Five Armies",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2",
+    "complexity": 3.6074,
+    "bgg_rating": 7.8265,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Adventure",
+      "Fantasy",
+      "Fighting",
+      "Novel-based",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Dice Rolling",
+      "Hand Management"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 267244,
+    "name": "The Defence of Procyon III",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 4.0541,
+    "bgg_rating": 7.8754,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Miniatures",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Grid Movement",
+      "Hand Management",
+      "Point to Point Movement",
+      "Simulation",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 368432,
+    "name": "The Fox Experiment",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 2.5842,
+    "bgg_rating": 7.32127,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Animals",
+      "Dice"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Open Drafting",
+      "Solo / Solitaire Game",
+      "Turn Order: Claim Action"
+    ]
+  },
+  {
+    "group_key": "3-6",
+    "bgg_id": 256704,
+    "name": "The Stuff of Legend",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "3-6",
+    "complexity": 3,
+    "bgg_rating": 6.94154,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Adventure",
+      "Comic Book / Strip",
+      "Deduction",
+      "Exploration",
+      "Fantasy",
+      "Miniatures",
+      "Novel-based"
+    ],
+    "mechanics": [
+      "Area Movement",
+      "Cooperative Game",
+      "Hand Management",
+      "Traitor Game",
+      "Variable Player Powers",
+      "Voting"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 371942,
+    "name": "The White Castle",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.0552,
+    "bgg_rating": 7.98087,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Dice",
+      "Economic",
+      "Medieval"
+    ],
+    "mechanics": [
+      "Action Drafting",
+      "Area Movement",
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Income",
+      "Melding and Splaying",
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Race",
+      "Resource Queue",
+      "Solo / Solitaire Game",
+      "Variable Set-up",
+      "Worker Placement",
+      "Worker Placement with Dice Workers"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 415200,
+    "name": "Theocratia",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.75,
+    "bgg_rating": 5.66087,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": "Civilization",
+    "mechanics": [
+      "Action Drafting",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Solo / Solitaire Game"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 331787,
+    "name": "Tiny Epic Dungeons",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.1075,
+    "bgg_rating": 7.44133,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Adventure",
+      "Dice",
+      "Exploration",
+      "Fantasy",
+      "Fighting"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Finale Ending",
+      "Modular Board",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "2-5",
+    "bgg_id": 148951,
+    "name": "Tiny Epic Kingdoms",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-5",
+    "complexity": 2.1097,
+    "bgg_rating": 6.53668,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Bluffing",
+      "Civilization",
+      "Fantasy",
+      "Fighting",
+      "Medieval",
+      "Print & Play"
+    ],
+    "mechanics": [
+      "Action Drafting",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Auction / Bidding",
+      "End Game Bonuses",
+      "Follow",
+      "Prisoner's Dilemma",
+      "Take That",
+      "Variable Phase Order",
+      "Variable Player Powers",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 360896,
+    "name": "Tiny Epic Vikings",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 2.7692,
+    "bgg_rating": 7.26395,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Fantasy",
+      "Fighting",
+      "Mythology"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Closed Drafting",
+      "Hand Management",
+      "King of the Hill",
+      "Open Drafting",
+      "Solo / Solitaire Game"
+    ]
+  },
+  {
+    "group_key": "1-5",
+    "bgg_id": 343433,
+    "name": "Tír na nÓg",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-5",
+    "complexity": 2.2105,
+    "bgg_rating": 7.35028,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Mythology",
+      "Print & Play"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Worker Placement"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 281442,
+    "name": "Trismegistus: The Ultimate Formula",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 4.188,
+    "bgg_rating": 7.54687,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": "Dice",
+    "mechanics": [
+      "Action Points",
+      "Contracts",
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Follow",
+      "Open Drafting",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "3-6",
+    "bgg_id": 233078,
+    "name": "Twilight Imperium: Fourth Edition",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "3-6",
+    "complexity": 4.3539,
+    "bgg_rating": 8.56424,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Civilization",
+      "Economic",
+      "Exploration",
+      "Negotiation",
+      "Political",
+      "Science Fiction",
+      "Space Exploration",
+      "Territory Building",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Action Drafting",
+      "Area-Impulse",
+      "Dice Rolling",
+      "Follow",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Increase Value of Unchosen Resources",
+      "King of the Hill",
+      "Modular Board",
+      "Movement Points",
+      "Race",
+      "Tech Trees / Tech Tracks",
+      "Trading",
+      "Variable Phase Order",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Voting"
+    ]
+  },
+  {
+    "group_key": "2",
+    "bgg_id": 12333,
+    "name": "Twilight Struggle",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2",
+    "complexity": 3.6151,
+    "bgg_rating": 8.22962,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Modern Warfare",
+      "Political",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Action / Event",
+      "Advantage Token",
+      "Area Majority / Influence",
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Events",
+      "Hand Management",
+      "Simulation",
+      "Simultaneous Action Selection",
+      "Stat Check Resolution",
+      "Sudden Death Ending",
+      "Tug of War",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 429895,
+    "name": "Vestige",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3,
+    "bgg_rating": 7.9,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Exploration",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "End Game Bonuses",
+      "Modular Board",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 296151,
+    "name": "Viscounts of the West Kingdom",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.4551,
+    "bgg_rating": 7.79522,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": "Medieval",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Deck, Bag, and Pool Building",
+      "End Game Bonuses",
+      "Hand Management",
+      "King of the Hill",
+      "Modular Board",
+      "Rondel",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 350316,
+    "name": "Wayfarers of the South Tigris",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 3.8065,
+    "bgg_rating": 7.77707,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Ancient",
+      "Arabian",
+      "Exploration"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "End Game Bonuses",
+      "Modular Board",
+      "Open Drafting",
+      "Race",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Tags",
+      "Tile Placement",
+      "Track Movement",
+      "Worker Placement with Dice Workers",
+      "Worker Placement, Different Worker Types"
+    ]
+  },
+  {
+    "group_key": "1-6",
+    "bgg_id": 339789,
+    "name": "Welcome to the Moon",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-6",
+    "complexity": 2.4521,
+    "bgg_rating": 7.85307,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "City Building",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Bingo",
+      "Narrative Choice / Paragraph",
+      "Paper-and-Pencil",
+      "Pattern Building",
+      "Race",
+      "Scenario / Mission / Campaign Game",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 403150,
+    "name": "World Order",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-4",
+    "complexity": 3.6897,
+    "bgg_rating": 7.84314,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Economic",
+      "Educational",
+      "Political"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Multi-Use Cards",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 322589,
+    "name": "Zapotec",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "1-4",
+    "complexity": 2.9865,
+    "bgg_rating": 7.13576,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Ancient",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Hand Management",
+      "Open Drafting",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Turn Order: Stat-Based"
     ]
   }
 ]

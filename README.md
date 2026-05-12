@@ -41,45 +41,61 @@ $cookie = Read-Host "Paste full Cookie header"
 ./Login-Bgg.ps1 -Username MrHinsh -Cookie $cookie -PersistScope User -Force
 ```
 
-## Refresh Workflow
+## Main Commands
 
-Use the refresh skill as orchestration.
+The primary operator surface is now two commands:
+
+- `/mrhinsh-bg-pull`
+- `/mrhinsh-bg-push`
+
+`/mrhinsh-bg-pull` pulls from BGG, reconciles into canonical data, and rebuilds the current
+local reports and publish artifacts.
+
+`/mrhinsh-bg-push` pushes pending personal rating updates from the local publish queue to BGG.
+
+## Pull Workflow
+
+Use the pull skill as the main read-side orchestration command.
 
 In agent chat, invoke:
 
-- `/mrhinsh-bg-refresh`
+- `/mrhinsh-bg-pull`
 
 Skill doc:
 
-- `.agents/skills/mrhinsh-bg-refresh/SKILL.md`
+- `.agents/skills/mrhinsh-bg-pull/SKILL.md`
 
-It runs two implemented skills in order:
-
-1. Fetch snapshot.
+Wrapper entrypoint:
 
 ```powershell
-$snapshot = ./.agents/skills/mrhinsh-bg-fetch/scripts/run.ps1 `
-  -Username "MrHinsh" `
-  -Endpoint "http://localhost:8080/mcp" `
-  -ApiKey $env:BGG_API_KEY
+./.agents/skills/mrhinsh-bg-pull/scripts/run.ps1 -Username "MrHinsh"
 ```
 
-1. Reconcile into canonical.
+It runs the existing implemented scripts in order:
 
-```powershell
-./.agents/skills/mrhinsh-bg-reconcile/scripts/run.ps1 -SnapshotPath $snapshot
-```
+1. fetch snapshot
+2. reconcile into canonical
+3. rebuild ranking outputs
+4. rebuild rating upload sheet
+5. rebuild top reports
+6. rebuild tier and publish artifacts
+7. recalculate pending BGG rating updates
 
-Outputs after refresh:
+Outputs after pull include:
 
 - `data/raw/bgg/collection/[timestamp].json`
 - `data/working/canonical/games.json`
 - `data/working/unrated/intake.json`
 - `data/reports/quality/reconcile-report.json`
+- `data/reports/ranking/*`
+- `data/reports/top/*`
+- `data/publish/sheets/bgg-rating-upload-sheet.csv`
+- `data/publish/ranking/tier-*-ranking.csv`
+- `data/publish/queue/pending-rating-updates.json`
 
-## What To Do After Refresh
+## What To Do After Pull
 
-After refresh, run ranking and rating intake flow.
+After pull, run the human rating intake edits if needed.
 
 ### Step 1: Build stack rank and unrated intake
 
@@ -91,6 +107,8 @@ Key outputs:
 
 - `data/reports/ranking/stackranked.json`
 - `data/reports/ranking/stackranked.csv`
+- `data/reports/ranking/unrated.csv`
+- `data/reports/ranking/unrated-played.csv`
 - `data/working/unrated/intake.json`
 - `data/working/unrated/intake-ranked.json`
 
@@ -105,6 +123,7 @@ Output:
 - `data/publish/sheets/bgg-rating-upload-sheet.csv`
 
 Fill column `new_rating` with integer values 1-10.
+Use column `notes` for your local review notes. `bgg_comment` is the fetched BGG collection comment when present.
 
 ### Step 3: Import edited ratings
 
@@ -166,6 +185,11 @@ Outputs:
 - `data/publish/tiers/tier-engine-export.csv`
 - `data/publish/ranking/tier-*-ranking.csv`
 
+Notes:
+
+- `data/publish/ranking/tier-P-ranking.csv` is a publish-only pending list for games with plays that are still unrated.
+- `P` is not a canonical tier; move games from `P` into their real tier through the tier move workflow.
+
 Optional imports consumed by normalize:
 
 - `data/publish/tiers/tier-engine-import.csv`
@@ -226,6 +250,26 @@ Outputs:
 ./.agents/skills/mrhinsh-bg-push-rating/scripts/Sync-BggRatingQueue.ps1
 ```
 
+## Push Workflow
+
+Use the push skill as the main write-side orchestration command.
+
+In agent chat, invoke:
+
+- `/mrhinsh-bg-push`
+
+Skill doc:
+
+- `.agents/skills/mrhinsh-bg-push/SKILL.md`
+
+Wrapper entrypoint:
+
+```powershell
+./.agents/skills/mrhinsh-bg-push/scripts/run.ps1 -Username "MrHinsh"
+```
+
+This wraps the existing queue sync implementation and keeps the same behavior.
+
 ## Rating System
 
 ## Collection Status Fields
@@ -285,6 +329,7 @@ Post a play:
 Implemented and usable now:
 
 - `mrhinsh-bg-refresh` (orchestration via SKILL.md)
+- `mrhinsh-bg-pull` (primary orchestration surface)
 - `mrhinsh-bg-fetch`
 - `mrhinsh-bg-reconcile`
 - `mrhinsh-bg-rank-set`
@@ -295,19 +340,19 @@ Implemented and usable now:
 - `mrhinsh-bg-publish-queue`
 - `mrhinsh-bg-import-ratings`
 - `mrhinsh-bg-report`
+- `mrhinsh-bg-push`
 - `mrhinsh-bg-push-rating`
 - `mrhinsh-bg-push-play`
 
 ## Operator Quick Commands
 
-End-to-end refresh and reconcile:
+Primary pull command:
 
 ```powershell
-$snapshot = ./.agents/skills/mrhinsh-bg-fetch/scripts/run.ps1 -Username "MrHinsh" -Endpoint "http://localhost:8080/mcp" -ApiKey $env:BGG_API_KEY
-./.agents/skills/mrhinsh-bg-reconcile/scripts/run.ps1 -SnapshotPath $snapshot
+./.agents/skills/mrhinsh-bg-pull/scripts/run.ps1 -Username "MrHinsh" -Endpoint "http://localhost:8080/mcp" -ApiKey $env:BGG_API_KEY
 ```
 
-Then run rating loop:
+Manual rating intake loop after pull:
 
 ```powershell
 ./.agents/skills/mrhinsh-bg-rank-set/scripts/Export-BggStackRank.ps1
@@ -318,7 +363,7 @@ Then run rating loop:
 ./.agents/skills/mrhinsh-bg-report/scripts/Export-BggTop10.ps1 -Username "MrHinsh" -ApiKey $env:BGG_API_KEY
 ```
 
-Then run tier loop:
+Manual tier loop when working incrementally:
 
 ```powershell
 ./.agents/skills/mrhinsh-bg-tier-map/scripts/run.ps1
@@ -327,4 +372,10 @@ Then run tier loop:
 ./.agents/skills/mrhinsh-bg-tier-move/scripts/run.ps1
 ./.agents/skills/mrhinsh-bg-rank-rebalance/scripts/run.ps1 -ImportPath .\data\working\ranking\external-ordering.json
 ./.agents/skills/mrhinsh-bg-push-rating/scripts/Sync-BggRatingQueue.ps1 -WhatIf
+```
+
+Primary push command:
+
+```powershell
+./.agents/skills/mrhinsh-bg-push/scripts/run.ps1 -Username "MrHinsh"
 ```

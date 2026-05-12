@@ -511,6 +511,13 @@
     "import_file": "tier-A-ranking.csv"
   },
   {
+    "tier": "A",
+    "source_bucket": 9,
+    "bgg_id": 184921,
+    "rank_in_tier": 74,
+    "import_file": "tier-A-ranking.csv"
+  },
+  {
     "tier": "S",
     "source_bucket": 10,
     "bgg_id": 381715,
@@ -697,6 +704,13 @@
     "source_bucket": 10,
     "bgg_id": 132531,
     "rank_in_tier": 27,
+    "import_file": "tier-S-ranking.csv"
+  },
+  {
+    "tier": "S",
+    "source_bucket": 10,
+    "bgg_id": 329500,
+    "rank_in_tier": 28,
     "import_file": "tier-S-ranking.csv"
   }
 ]

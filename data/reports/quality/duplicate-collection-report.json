@@ -1,0 +1,58 @@
+{
+  "run_at": "2026-05-12T15:56:58.0547376+01:00",
+  "username": "MrHinsh",
+  "duplicate_count": 3,
+  "duplicates": [
+    {
+      "bgg_id": 170223,
+      "name": "Centauri Saga",
+      "copies": 2,
+      "collids": [
+        61901552,
+        103631057
+      ],
+      "ratings": [
+        "7",
+        "7"
+      ],
+      "unique_ratings": [
+        "7"
+      ],
+      "ratings_match": true
+    },
+    {
+      "bgg_id": 290484,
+      "name": "Unsettled",
+      "copies": 2,
+      "collids": [
+        76504067,
+        84074720
+      ],
+      "ratings": [
+        "9.23",
+        "9.23"
+      ],
+      "unique_ratings": [
+        "9.23"
+      ],
+      "ratings_match": true
+    },
+    {
+      "bgg_id": 337627,
+      "name": "Voidfall",
+      "copies": 2,
+      "collids": [
+        81947029,
+        138058615
+      ],
+      "ratings": [
+        "9.922",
+        "9.922"
+      ],
+      "unique_ratings": [
+        "9.922"
+      ],
+      "ratings_match": true
+    }
+  ]
+}

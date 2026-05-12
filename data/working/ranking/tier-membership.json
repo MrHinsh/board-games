@@ -40,7 +40,7 @@
       381715,
       229853
     ],
-    "mapped_at": "2026-05-12T14:27:23.7179134+01:00",
+    "mapped_at": "2026-05-12T16:12:03.0088289+01:00",
     "proposed_rating": 9.999
   },
   {
@@ -51,7 +51,7 @@
     "rank_in_tier": 2,
     "bgg_id": 382518,
     "name": "Sankoré: The Pride of Mansa Musa",
-    "current_rating": 9.962,
+    "current_rating": 9.961,
     "num_plays": 7.0,
     "collection": true,
     "previously_owned": false,
@@ -90,8 +90,8 @@
     "linked_bgg_ids": [
       382518
     ],
-    "mapped_at": "2026-05-12T14:27:23.7183293+01:00",
-    "proposed_rating": 9.961
+    "mapped_at": "2026-05-12T16:12:03.0091754+01:00",
+    "proposed_rating": 9.962
   },
   {
     "tier": "S",
@@ -101,7 +101,7 @@
     "rank_in_tier": 3,
     "bgg_id": 337627,
     "name": "Voidfall",
-    "current_rating": 9.925,
+    "current_rating": 9.922,
     "num_plays": 13.0,
     "collection": true,
     "previously_owned": false,
@@ -136,8 +136,8 @@
     "linked_bgg_ids": [
       337627
     ],
-    "mapped_at": "2026-05-12T14:27:23.7000833+01:00",
-    "proposed_rating": 9.922
+    "mapped_at": "2026-05-12T16:12:02.9903501+01:00",
+    "proposed_rating": 9.925
   },
   {
     "tier": "S",
@@ -147,7 +147,7 @@
     "rank_in_tier": 4,
     "bgg_id": 367150,
     "name": "Dune: War for Arrakis",
-    "current_rating": 9.888,
+    "current_rating": 9.884,
     "num_plays": 2.0,
     "collection": true,
     "previously_owned": false,
@@ -186,8 +186,8 @@
     "linked_bgg_ids": [
       367150
     ],
-    "mapped_at": "2026-05-12T14:27:23.7133071+01:00",
-    "proposed_rating": 9.884
+    "mapped_at": "2026-05-12T16:12:03.0041542+01:00",
+    "proposed_rating": 9.888
   },
   {
     "tier": "S",
@@ -197,7 +197,7 @@
     "rank_in_tier": 5,
     "bgg_id": 391137,
     "name": "Galactic Cruise",
-    "current_rating": 9.851,
+    "current_rating": 9.845,
     "num_plays": 5.0,
     "collection": true,
     "previously_owned": false,
@@ -240,8 +240,8 @@
     "linked_bgg_ids": [
       391137
     ],
-    "mapped_at": "2026-05-12T14:27:23.718908+01:00",
-    "proposed_rating": 9.845
+    "mapped_at": "2026-05-12T16:12:03.0097482+01:00",
+    "proposed_rating": 9.851
   },
   {
     "tier": "S",
@@ -251,7 +251,7 @@
     "rank_in_tier": 6,
     "bgg_id": 375459,
     "name": "Speakeasy",
-    "current_rating": 9.814,
+    "current_rating": 9.807,
     "num_plays": 1.0,
     "collection": true,
     "previously_owned": false,
@@ -281,8 +281,8 @@
     "linked_bgg_ids": [
       375459
     ],
-    "mapped_at": "2026-05-12T14:27:23.7150797+01:00",
-    "proposed_rating": 9.807
+    "mapped_at": "2026-05-12T16:12:03.0062755+01:00",
+    "proposed_rating": 9.814
   },
   {
     "tier": "S",
@@ -292,7 +292,7 @@
     "rank_in_tier": 7,
     "bgg_id": 122842,
     "name": "Exodus: Proxima Centauri",
-    "current_rating": 9.777,
+    "current_rating": 9.768,
     "num_plays": 6.0,
     "collection": true,
     "previously_owned": false,
@@ -331,8 +331,8 @@
     "linked_bgg_ids": [
       122842
     ],
-    "mapped_at": "2026-05-12T14:27:23.5521406+01:00",
-    "proposed_rating": 9.768
+    "mapped_at": "2026-05-12T16:12:02.8235433+01:00",
+    "proposed_rating": 9.777
   },
   {
     "tier": "S",
@@ -342,7 +342,7 @@
     "rank_in_tier": 8,
     "bgg_id": 297030,
     "name": "Tekhenu: Obelisk of the Sun",
-    "current_rating": 9.74,
+    "current_rating": 9.73,
     "num_plays": 5.0,
     "collection": true,
     "previously_owned": false,
@@ -373,8 +373,8 @@
     "linked_bgg_ids": [
       297030
     ],
-    "mapped_at": "2026-05-12T14:27:23.6761083+01:00",
-    "proposed_rating": 9.73
+    "mapped_at": "2026-05-12T16:12:02.9664582+01:00",
+    "proposed_rating": 9.74
   },
   {
     "tier": "S",
@@ -384,7 +384,7 @@
     "rank_in_tier": 9,
     "bgg_id": 82222,
     "name": "Xia: Legends of a Drift System",
-    "current_rating": 9.703,
+    "current_rating": 9.692,
     "num_plays": 5.0,
     "collection": true,
     "previously_owned": false,
@@ -422,8 +422,8 @@
     "linked_bgg_ids": [
       82222
     ],
-    "mapped_at": "2026-05-12T14:27:23.5482516+01:00",
-    "proposed_rating": 9.692
+    "mapped_at": "2026-05-12T16:12:02.8137589+01:00",
+    "proposed_rating": 9.703
   },
   {
     "tier": "S",
@@ -433,7 +433,7 @@
     "rank_in_tier": 10,
     "bgg_id": 304510,
     "name": "Pampero",
-    "current_rating": 9.666,
+    "current_rating": 9.653,
     "num_plays": 1.0,
     "collection": true,
     "previously_owned": false,
@@ -467,8 +467,8 @@
     "linked_bgg_ids": [
       304510
     ],
-    "mapped_at": "2026-05-12T14:27:23.6797558+01:00",
-    "proposed_rating": 9.653
+    "mapped_at": "2026-05-12T16:12:02.9708859+01:00",
+    "proposed_rating": 9.666
   },
   {
     "tier": "S",
@@ -478,7 +478,7 @@
     "rank_in_tier": 11,
     "bgg_id": 347305,
     "name": "Inventions: Evolution of Ideas",
-    "current_rating": 9.629,
+    "current_rating": 9.615,
     "num_plays": 5.0,
     "collection": true,
     "previously_owned": false,
@@ -504,8 +504,8 @@
     "linked_bgg_ids": [
       347305
     ],
-    "mapped_at": "2026-05-12T14:27:23.7039427+01:00",
-    "proposed_rating": 9.615
+    "mapped_at": "2026-05-12T16:12:02.9950881+01:00",
+    "proposed_rating": 9.629
   },
   {
     "tier": "S",
@@ -515,7 +515,7 @@
     "rank_in_tier": 12,
     "bgg_id": 348877,
     "name": "Lobotomy 2: Manhunt",
-    "current_rating": 9.592,
+    "current_rating": 9.576,
     "num_plays": 2.0,
     "collection": true,
     "previously_owned": false,
@@ -550,8 +550,8 @@
     "linked_bgg_ids": [
       348877
     ],
-    "mapped_at": "2026-05-12T14:27:23.7045942+01:00",
-    "proposed_rating": 9.576
+    "mapped_at": "2026-05-12T16:12:02.9958213+01:00",
+    "proposed_rating": 9.592
   },
   {
     "tier": "S",
@@ -561,7 +561,7 @@
     "rank_in_tier": 13,
     "bgg_id": 358661,
     "name": "Andromeda's Edge",
-    "current_rating": 9.555,
+    "current_rating": 9.538,
     "num_plays": 3.0,
     "collection": true,
     "previously_owned": false,
@@ -598,8 +598,8 @@
     "linked_bgg_ids": [
       358661
     ],
-    "mapped_at": "2026-05-12T14:27:23.7097421+01:00",
-    "proposed_rating": 9.538
+    "mapped_at": "2026-05-12T16:12:03.0006993+01:00",
+    "proposed_rating": 9.555
   },
   {
     "tier": "S",
@@ -609,7 +609,7 @@
     "rank_in_tier": 14,
     "bgg_id": 246900,
     "name": "Eclipse: Second Dawn for the Galaxy",
-    "current_rating": 9.518,
+    "current_rating": 9.5,
     "num_plays": 1.0,
     "collection": true,
     "previously_owned": false,
@@ -650,8 +650,8 @@
     "linked_bgg_ids": [
       246900
     ],
-    "mapped_at": "2026-05-12T14:27:23.6095253+01:00",
-    "proposed_rating": 9.5
+    "mapped_at": "2026-05-12T16:12:02.9205364+01:00",
+    "proposed_rating": 9.518
   },
   {
     "tier": "S",
@@ -661,7 +661,7 @@
     "rank_in_tier": 15,
     "bgg_id": 418059,
     "name": "SETI: Search for Extraterrestrial Intelligence",
-    "current_rating": 9.481,
+    "current_rating": 9.461,
     "num_plays": 6.0,
     "collection": true,
     "previously_owned": false,
@@ -693,8 +693,8 @@
     "linked_bgg_ids": [
       418059
     ],
-    "mapped_at": "2026-05-12T14:27:23.7206554+01:00",
-    "proposed_rating": 9.461
+    "mapped_at": "2026-05-12T16:12:03.0119908+01:00",
+    "proposed_rating": 9.481
   },
   {
     "tier": "S",
@@ -704,7 +704,7 @@
     "rank_in_tier": 16,
     "bgg_id": 345868,
     "name": "Federation",
-    "current_rating": 9.444,
+    "current_rating": 9.423,
     "num_plays": 15.0,
     "collection": true,
     "previously_owned": false,
@@ -734,8 +734,8 @@
     "linked_bgg_ids": [
       345868
     ],
-    "mapped_at": "2026-05-12T14:27:23.7032307+01:00",
-    "proposed_rating": 9.423
+    "mapped_at": "2026-05-12T16:12:02.99435+01:00",
+    "proposed_rating": 9.444
   },
   {
     "tier": "S",
@@ -745,7 +745,7 @@
     "rank_in_tier": 17,
     "bgg_id": 167355,
     "name": "Nemesis",
-    "current_rating": 9.407,
+    "current_rating": 9.384,
     "num_plays": 2.0,
     "collection": true,
     "previously_owned": false,
@@ -784,8 +784,8 @@
     "linked_bgg_ids": [
       167355
     ],
-    "mapped_at": "2026-05-12T14:27:23.5692183+01:00",
-    "proposed_rating": 9.384
+    "mapped_at": "2026-05-12T16:12:02.8687913+01:00",
+    "proposed_rating": 9.407
   },
   {
     "tier": "S",
@@ -795,7 +795,7 @@
     "rank_in_tier": 18,
     "bgg_id": 425630,
     "name": "Baghdad: The City of Peace",
-    "current_rating": 9.37,
+    "current_rating": 9.346,
     "num_plays": 1.0,
     "collection": true,
     "previously_owned": false,
@@ -824,8 +824,8 @@
     "linked_bgg_ids": [
       425630
     ],
-    "mapped_at": "2026-05-12T14:27:23.7216279+01:00",
-    "proposed_rating": 9.346
+    "mapped_at": "2026-05-12T16:12:03.0130391+01:00",
+    "proposed_rating": 9.37
   },
   {
     "tier": "S",
@@ -835,7 +835,7 @@
     "rank_in_tier": 19,
     "bgg_id": 253344,
     "name": "Cthulhu: Death May Die",
-    "current_rating": 9.333,
+    "current_rating": 9.307,
     "num_plays": 6.0,
     "collection": true,
     "previously_owned": false,
@@ -870,8 +870,8 @@
     "linked_bgg_ids": [
       253344
     ],
-    "mapped_at": "2026-05-12T14:27:23.6136374+01:00",
-    "proposed_rating": 9.307
+    "mapped_at": "2026-05-12T16:12:02.927801+01:00",
+    "proposed_rating": 9.333
   },
   {
     "tier": "S",
@@ -881,7 +881,7 @@
     "rank_in_tier": 20,
     "bgg_id": 380707,
     "name": "Vindication: Archive of the Ancients",
-    "current_rating": 9.296,
+    "current_rating": 9.269,
     "num_plays": 2.0,
     "collection": true,
     "previously_owned": false,
@@ -910,8 +910,8 @@
     "linked_bgg_ids": [
       380707
     ],
-    "mapped_at": "2026-05-12T14:27:23.7171123+01:00",
-    "proposed_rating": 9.269
+    "mapped_at": "2026-05-12T16:12:03.0079621+01:00",
+    "proposed_rating": 9.296
   },
   {
     "tier": "S",
@@ -921,7 +921,7 @@
     "rank_in_tier": 21,
     "bgg_id": 290484,
     "name": "Unsettled",
-    "current_rating": 9.259,
+    "current_rating": 9.231,
     "num_plays": 2.0,
     "collection": true,
     "previously_owned": false,
@@ -951,8 +951,8 @@
     "linked_bgg_ids": [
       290484
     ],
-    "mapped_at": "2026-05-12T14:27:23.6732434+01:00",
-    "proposed_rating": 9.231
+    "mapped_at": "2026-05-12T16:12:02.963057+01:00",
+    "proposed_rating": 9.259
   },
   {
     "tier": "S",
@@ -962,7 +962,7 @@
     "rank_in_tier": 22,
     "bgg_id": 277659,
     "name": "Final Girl",
-    "current_rating": 9.222,
+    "current_rating": 9.192,
     "num_plays": 1.0,
     "collection": true,
     "previously_owned": false,
@@ -994,8 +994,8 @@
     "linked_bgg_ids": [
       277659
     ],
-    "mapped_at": "2026-05-12T14:27:23.662325+01:00",
-    "proposed_rating": 9.192
+    "mapped_at": "2026-05-12T16:12:02.9509333+01:00",
+    "proposed_rating": 9.222
   },
   {
     "tier": "S",
@@ -1005,7 +1005,7 @@
     "rank_in_tier": 23,
     "bgg_id": 37111,
     "name": "Battlestar Galactica: The Board Game",
-    "current_rating": 9.185,
+    "current_rating": 9.154,
     "num_plays": 1.0,
     "collection": true,
     "previously_owned": false,
@@ -1048,8 +1048,8 @@
     "linked_bgg_ids": [
       37111
     ],
-    "mapped_at": "2026-05-12T14:27:23.5399771+01:00",
-    "proposed_rating": 9.154
+    "mapped_at": "2026-05-12T16:12:02.8009078+01:00",
+    "proposed_rating": 9.185
   },
   {
     "tier": "S",
@@ -1059,7 +1059,7 @@
     "rank_in_tier": 24,
     "bgg_id": 270239,
     "name": "Moonrakers",
-    "current_rating": 9.111,
+    "current_rating": 9.115,
     "num_plays": 1.0,
     "collection": false,
     "previously_owned": false,
@@ -1090,8 +1090,8 @@
     "linked_bgg_ids": [
       270239
     ],
-    "mapped_at": "2026-05-12T14:27:23.6579729+01:00",
-    "proposed_rating": 9.115
+    "mapped_at": "2026-05-12T16:12:02.9456233+01:00",
+    "proposed_rating": 9.148
   },
   {
     "tier": "S",
@@ -1101,7 +1101,7 @@
     "rank_in_tier": 25,
     "bgg_id": 270408,
     "name": "Exodus Chronicles",
-    "current_rating": 9.074,
+    "current_rating": 9.077,
     "num_plays": 0.0,
     "collection": false,
     "previously_owned": false,
@@ -1140,8 +1140,8 @@
     "linked_bgg_ids": [
       270408
     ],
-    "mapped_at": "2026-05-12T14:27:23.6585667+01:00",
-    "proposed_rating": 9.077
+    "mapped_at": "2026-05-12T16:12:02.9463982+01:00",
+    "proposed_rating": 9.111
   },
   {
     "tier": "S",
@@ -1151,7 +1151,7 @@
     "rank_in_tier": 26,
     "bgg_id": 72125,
     "name": "Eclipse: New Dawn for the Galaxy",
-    "current_rating": 9.037,
+    "current_rating": 9.038,
     "num_plays": 2.0,
     "collection": false,
     "previously_owned": false,
@@ -1189,8 +1189,8 @@
     "linked_bgg_ids": [
       72125
     ],
-    "mapped_at": "2026-05-12T14:27:23.5477258+01:00",
-    "proposed_rating": 9.038
+    "mapped_at": "2026-05-12T16:12:02.8123106+01:00",
+    "proposed_rating": 9.074
   },
   {
     "tier": "S",
@@ -1242,7 +1242,54 @@
     "linked_bgg_ids": [
       132531
     ],
-    "mapped_at": "2026-05-12T14:27:23.5544444+01:00",
+    "mapped_at": "2026-05-12T16:12:02.8274164+01:00",
+    "proposed_rating": 9.037
+  },
+  {
+    "tier": "S",
+    "tier_sort": 0,
+    "ranking_group": "S|10",
+    "source_bucket": 10,
+    "rank_in_tier": 28,
+    "bgg_id": 329500,
+    "name": "Unconscious Mind",
+    "current_rating": 10.0,
+    "num_plays": 1.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": true,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "group_key": "1-4",
+    "year_published": 2024,
+    "players": "1-4",
+    "complexity": 4.0162,
+    "bgg_rating": 7.88443,
+    "num_ratings": 6563,
+    "categories": [
+      "Medical",
+      "Post-Napoleonic"
+    ],
+    "mechanics": [
+      "Contracts",
+      "End Game Bonuses",
+      "Layering",
+      "Melding and Splaying",
+      "Open Drafting",
+      "Programmed Movement",
+      "Rondel",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Tags",
+      "Variable Set-up",
+      "Worker Placement"
+    ],
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/329500",
+    "linked_bgg_ids": [
+      329500
+    ],
+    "mapped_at": "2026-05-12T16:12:02.9876838+01:00",
     "proposed_rating": 9.0
   },
   {
@@ -1288,7 +1335,7 @@
     "linked_bgg_ids": [
       325494
     ],
-    "mapped_at": "2026-05-12T14:27:23.695577+01:00",
+    "mapped_at": "2026-05-12T16:12:02.9844644+01:00",
     "proposed_rating": 8.999
   },
   {
@@ -1327,7 +1374,7 @@
     "linked_bgg_ids": [
       284378
     ],
-    "mapped_at": "2026-05-12T14:27:23.6698822+01:00",
+    "mapped_at": "2026-05-12T16:12:02.9571664+01:00",
     "proposed_rating": 8.985
   },
   {
@@ -1376,8 +1423,8 @@
     "linked_bgg_ids": [
       310100
     ],
-    "mapped_at": "2026-05-12T14:27:23.6819058+01:00",
-    "proposed_rating": 8.971
+    "mapped_at": "2026-05-12T16:12:02.9732362+01:00",
+    "proposed_rating": 8.972
   },
   {
     "tier": "A",
@@ -1427,8 +1474,8 @@
     "linked_bgg_ids": [
       184267
     ],
-    "mapped_at": "2026-05-12T14:27:23.5796658+01:00",
-    "proposed_rating": 8.957
+    "mapped_at": "2026-05-12T16:12:02.8825771+01:00",
+    "proposed_rating": 8.958
   },
   {
     "tier": "A",
@@ -1474,7 +1521,7 @@
     "linked_bgg_ids": [
       202426
     ],
-    "mapped_at": "2026-05-12T14:27:23.5862924+01:00",
+    "mapped_at": "2026-05-12T16:12:02.8897846+01:00",
     "proposed_rating": 8.944
   },
   {
@@ -1515,8 +1562,8 @@
     "linked_bgg_ids": [
       250467
     ],
-    "mapped_at": "2026-05-12T14:27:23.6123271+01:00",
-    "proposed_rating": 8.93
+    "mapped_at": "2026-05-12T16:12:02.9262193+01:00",
+    "proposed_rating": 8.931
   },
   {
     "tier": "A",
@@ -1554,8 +1601,8 @@
     "linked_bgg_ids": [
       237179
     ],
-    "mapped_at": "2026-05-12T14:27:23.6017613+01:00",
-    "proposed_rating": 8.916
+    "mapped_at": "2026-05-12T16:12:02.9133577+01:00",
+    "proposed_rating": 8.917
   },
   {
     "tier": "A",
@@ -1598,8 +1645,8 @@
     "linked_bgg_ids": [
       299450
     ],
-    "mapped_at": "2026-05-12T14:27:23.6778859+01:00",
-    "proposed_rating": 8.902
+    "mapped_at": "2026-05-12T16:12:02.9685593+01:00",
+    "proposed_rating": 8.903
   },
   {
     "tier": "A",
@@ -1641,8 +1688,8 @@
     "linked_bgg_ids": [
       155065
     ],
-    "mapped_at": "2026-05-12T14:27:23.5643447+01:00",
-    "proposed_rating": 8.888
+    "mapped_at": "2026-05-12T16:12:02.8467417+01:00",
+    "proposed_rating": 8.89
   },
   {
     "tier": "A",
@@ -1685,8 +1732,8 @@
     "linked_bgg_ids": [
       172047
     ],
-    "mapped_at": "2026-05-12T14:27:23.5722439+01:00",
-    "proposed_rating": 8.874
+    "mapped_at": "2026-05-12T16:12:02.8729675+01:00",
+    "proposed_rating": 8.876
   },
   {
     "tier": "A",
@@ -1727,8 +1774,8 @@
     "linked_bgg_ids": [
       292126
     ],
-    "mapped_at": "2026-05-12T14:27:23.674329+01:00",
-    "proposed_rating": 8.86
+    "mapped_at": "2026-05-12T16:12:02.9644868+01:00",
+    "proposed_rating": 8.862
   },
   {
     "tier": "A",
@@ -1765,8 +1812,8 @@
     "linked_bgg_ids": [
       349948
     ],
-    "mapped_at": "2026-05-12T14:27:23.7048902+01:00",
-    "proposed_rating": 8.846
+    "mapped_at": "2026-05-12T16:12:02.9961962+01:00",
+    "proposed_rating": 8.848
   },
   {
     "tier": "A",
@@ -1810,8 +1857,8 @@
     "linked_bgg_ids": [
       216132
     ],
-    "mapped_at": "2026-05-12T14:27:23.5927811+01:00",
-    "proposed_rating": 8.832
+    "mapped_at": "2026-05-12T16:12:02.8954094+01:00",
+    "proposed_rating": 8.835
   },
   {
     "tier": "A",
@@ -1853,8 +1900,8 @@
     "linked_bgg_ids": [
       321608
     ],
-    "mapped_at": "2026-05-12T14:27:23.6946105+01:00",
-    "proposed_rating": 8.819
+    "mapped_at": "2026-05-12T16:12:02.9834868+01:00",
+    "proposed_rating": 8.821
   },
   {
     "tier": "A",
@@ -1892,8 +1939,8 @@
     "linked_bgg_ids": [
       260923
     ],
-    "mapped_at": "2026-05-12T14:27:23.6208329+01:00",
-    "proposed_rating": 8.805
+    "mapped_at": "2026-05-12T16:12:02.934629+01:00",
+    "proposed_rating": 8.807
   },
   {
     "tier": "A",
@@ -1941,8 +1988,8 @@
     "linked_bgg_ids": [
       115746
     ],
-    "mapped_at": "2026-05-12T14:27:23.5509867+01:00",
-    "proposed_rating": 8.791
+    "mapped_at": "2026-05-12T16:12:02.8215989+01:00",
+    "proposed_rating": 8.794
   },
   {
     "tier": "A",
@@ -1984,8 +2031,8 @@
     "linked_bgg_ids": [
       356414
     ],
-    "mapped_at": "2026-05-12T14:27:23.7080925+01:00",
-    "proposed_rating": 8.777
+    "mapped_at": "2026-05-12T16:12:02.9994842+01:00",
+    "proposed_rating": 8.78
   },
   {
     "tier": "A",
@@ -2024,8 +2071,8 @@
     "linked_bgg_ids": [
       228341
     ],
-    "mapped_at": "2026-05-12T14:27:23.5967155+01:00",
-    "proposed_rating": 8.763
+    "mapped_at": "2026-05-12T16:12:02.9077118+01:00",
+    "proposed_rating": 8.766
   },
   {
     "tier": "A",
@@ -2068,8 +2115,8 @@
     "linked_bgg_ids": [
       373600
     ],
-    "mapped_at": "2026-05-12T14:27:23.7148208+01:00",
-    "proposed_rating": 8.749
+    "mapped_at": "2026-05-12T16:12:03.0059039+01:00",
+    "proposed_rating": 8.753
   },
   {
     "tier": "A",
@@ -2118,8 +2165,8 @@
     "linked_bgg_ids": [
       257089
     ],
-    "mapped_at": "2026-05-12T14:27:23.6187612+01:00",
-    "proposed_rating": 8.735
+    "mapped_at": "2026-05-12T16:12:02.9328325+01:00",
+    "proposed_rating": 8.739
   },
   {
     "tier": "A",
@@ -2158,8 +2205,8 @@
     "linked_bgg_ids": [
       266810
     ],
-    "mapped_at": "2026-05-12T14:27:23.6397538+01:00",
-    "proposed_rating": 8.722
+    "mapped_at": "2026-05-12T16:12:02.9387827+01:00",
+    "proposed_rating": 8.725
   },
   {
     "tier": "A",
@@ -2204,8 +2251,8 @@
     "linked_bgg_ids": [
       306481
     ],
-    "mapped_at": "2026-05-12T14:27:23.680227+01:00",
-    "proposed_rating": 8.708
+    "mapped_at": "2026-05-12T16:12:02.9714317+01:00",
+    "proposed_rating": 8.712
   },
   {
     "tier": "A",
@@ -2254,8 +2301,8 @@
     "linked_bgg_ids": [
       220308
     ],
-    "mapped_at": "2026-05-12T14:27:23.5936603+01:00",
-    "proposed_rating": 8.694
+    "mapped_at": "2026-05-12T16:12:02.9036201+01:00",
+    "proposed_rating": 8.698
   },
   {
     "tier": "A",
@@ -2301,8 +2348,8 @@
     "linked_bgg_ids": [
       218509
     ],
-    "mapped_at": "2026-05-12T14:27:23.5933164+01:00",
-    "proposed_rating": 8.68
+    "mapped_at": "2026-05-12T16:12:02.902809+01:00",
+    "proposed_rating": 8.684
   },
   {
     "tier": "A",
@@ -2345,8 +2392,8 @@
     "linked_bgg_ids": [
       233868
     ],
-    "mapped_at": "2026-05-12T14:27:23.6005169+01:00",
-    "proposed_rating": 8.666
+    "mapped_at": "2026-05-12T16:12:02.9121617+01:00",
+    "proposed_rating": 8.671
   },
   {
     "tier": "A",
@@ -2389,8 +2436,8 @@
     "linked_bgg_ids": [
       126163
     ],
-    "mapped_at": "2026-05-12T14:27:23.5533938+01:00",
-    "proposed_rating": 8.652
+    "mapped_at": "2026-05-12T16:12:02.825693+01:00",
+    "proposed_rating": 8.657
   },
   {
     "tier": "A",
@@ -2432,8 +2479,8 @@
     "linked_bgg_ids": [
       257499
     ],
-    "mapped_at": "2026-05-12T14:27:23.6196112+01:00",
-    "proposed_rating": 8.638
+    "mapped_at": "2026-05-12T16:12:02.9335654+01:00",
+    "proposed_rating": 8.643
   },
   {
     "tier": "A",
@@ -2476,8 +2523,8 @@
     "linked_bgg_ids": [
       317985
     ],
-    "mapped_at": "2026-05-12T14:27:23.6933298+01:00",
-    "proposed_rating": 8.624
+    "mapped_at": "2026-05-12T16:12:02.9817594+01:00",
+    "proposed_rating": 8.63
   },
   {
     "tier": "A",
@@ -2519,8 +2566,8 @@
     "linked_bgg_ids": [
       265188
     ],
-    "mapped_at": "2026-05-12T14:27:23.6274287+01:00",
-    "proposed_rating": 8.61
+    "mapped_at": "2026-05-12T16:12:02.9376828+01:00",
+    "proposed_rating": 8.616
   },
   {
     "tier": "A",
@@ -2562,8 +2609,8 @@
     "linked_bgg_ids": [
       172287
     ],
-    "mapped_at": "2026-05-12T14:27:23.5744765+01:00",
-    "proposed_rating": 8.597
+    "mapped_at": "2026-05-12T16:12:02.8737312+01:00",
+    "proposed_rating": 8.602
   },
   {
     "tier": "A",
@@ -2607,8 +2654,8 @@
     "linked_bgg_ids": [
       220792
     ],
-    "mapped_at": "2026-05-12T14:27:23.5942772+01:00",
-    "proposed_rating": 8.583
+    "mapped_at": "2026-05-12T16:12:02.9044867+01:00",
+    "proposed_rating": 8.588
   },
   {
     "tier": "A",
@@ -2660,8 +2707,8 @@
     "linked_bgg_ids": [
       167791
     ],
-    "mapped_at": "2026-05-12T14:27:23.5694559+01:00",
-    "proposed_rating": 8.569
+    "mapped_at": "2026-05-12T16:12:02.8691321+01:00",
+    "proposed_rating": 8.575
   },
   {
     "tier": "A",
@@ -2700,8 +2747,8 @@
     "linked_bgg_ids": [
       350458
     ],
-    "mapped_at": "2026-05-12T14:27:23.706949+01:00",
-    "proposed_rating": 8.555
+    "mapped_at": "2026-05-12T16:12:02.9966528+01:00",
+    "proposed_rating": 8.561
   },
   {
     "tier": "A",
@@ -2745,8 +2792,8 @@
     "linked_bgg_ids": [
       262941
     ],
-    "mapped_at": "2026-05-12T14:27:23.6216332+01:00",
-    "proposed_rating": 8.541
+    "mapped_at": "2026-05-12T16:12:02.9350941+01:00",
+    "proposed_rating": 8.547
   },
   {
     "tier": "A",
@@ -2793,8 +2840,8 @@
     "linked_bgg_ids": [
       39463
     ],
-    "mapped_at": "2026-05-12T14:27:23.5404667+01:00",
-    "proposed_rating": 8.527
+    "mapped_at": "2026-05-12T16:12:02.8021408+01:00",
+    "proposed_rating": 8.534
   },
   {
     "tier": "A",
@@ -2843,8 +2890,8 @@
     "linked_bgg_ids": [
       155821
     ],
-    "mapped_at": "2026-05-12T14:27:23.564675+01:00",
-    "proposed_rating": 8.513
+    "mapped_at": "2026-05-12T16:12:02.847647+01:00",
+    "proposed_rating": 8.52
   },
   {
     "tier": "A",
@@ -2898,8 +2945,8 @@
     "linked_bgg_ids": [
       205637
     ],
-    "mapped_at": "2026-05-12T14:27:23.587489+01:00",
-    "proposed_rating": 8.5
+    "mapped_at": "2026-05-12T16:12:02.891626+01:00",
+    "proposed_rating": 8.506
   },
   {
     "tier": "A",
@@ -2939,8 +2986,8 @@
     "linked_bgg_ids": [
       295293
     ],
-    "mapped_at": "2026-05-12T14:27:23.6750509+01:00",
-    "proposed_rating": 8.486
+    "mapped_at": "2026-05-12T16:12:02.9651976+01:00",
+    "proposed_rating": 8.493
   },
   {
     "tier": "A",
@@ -2984,8 +3031,8 @@
     "linked_bgg_ids": [
       408253
     ],
-    "mapped_at": "2026-05-12T14:27:23.719887+01:00",
-    "proposed_rating": 8.472
+    "mapped_at": "2026-05-12T16:12:03.0110444+01:00",
+    "proposed_rating": 8.479
   },
   {
     "tier": "A",
@@ -3026,8 +3073,8 @@
     "linked_bgg_ids": [
       417197
     ],
-    "mapped_at": "2026-05-12T14:27:23.7203881+01:00",
-    "proposed_rating": 8.458
+    "mapped_at": "2026-05-12T16:12:03.0116075+01:00",
+    "proposed_rating": 8.465
   },
   {
     "tier": "A",
@@ -3077,8 +3124,8 @@
     "linked_bgg_ids": [
       236457
     ],
-    "mapped_at": "2026-05-12T14:27:23.6014772+01:00",
-    "proposed_rating": 8.444
+    "mapped_at": "2026-05-12T16:12:02.9129852+01:00",
+    "proposed_rating": 8.452
   },
   {
     "tier": "A",
@@ -3123,8 +3170,8 @@
     "linked_bgg_ids": [
       198609
     ],
-    "mapped_at": "2026-05-12T14:27:23.5854217+01:00",
-    "proposed_rating": 8.43
+    "mapped_at": "2026-05-12T16:12:02.8888557+01:00",
+    "proposed_rating": 8.438
   },
   {
     "tier": "A",
@@ -3170,8 +3217,8 @@
     "linked_bgg_ids": [
       138161
     ],
-    "mapped_at": "2026-05-12T14:27:23.5559635+01:00",
-    "proposed_rating": 8.416
+    "mapped_at": "2026-05-12T16:12:02.8299663+01:00",
+    "proposed_rating": 8.424
   },
   {
     "tier": "A",
@@ -3218,8 +3265,8 @@
     "linked_bgg_ids": [
       62219
     ],
-    "mapped_at": "2026-05-12T14:27:23.5427307+01:00",
-    "proposed_rating": 8.402
+    "mapped_at": "2026-05-12T16:12:02.8081342+01:00",
+    "proposed_rating": 8.411
   },
   {
     "tier": "A",
@@ -3265,8 +3312,8 @@
     "linked_bgg_ids": [
       146021
     ],
-    "mapped_at": "2026-05-12T14:27:23.5607359+01:00",
-    "proposed_rating": 8.388
+    "mapped_at": "2026-05-12T16:12:02.8340319+01:00",
+    "proposed_rating": 8.397
   },
   {
     "tier": "A",
@@ -3316,8 +3363,8 @@
     "linked_bgg_ids": [
       328871
     ],
-    "mapped_at": "2026-05-12T14:27:23.6967974+01:00",
-    "proposed_rating": 8.375
+    "mapped_at": "2026-05-12T16:12:02.985664+01:00",
+    "proposed_rating": 8.383
   },
   {
     "tier": "A",
@@ -3361,8 +3408,8 @@
       319966,
       172996
     ],
-    "mapped_at": "2026-05-12T14:27:23.694213+01:00",
-    "proposed_rating": 8.361
+    "mapped_at": "2026-05-12T16:12:02.9831015+01:00",
+    "proposed_rating": 8.369
   },
   {
     "tier": "A",
@@ -3401,8 +3448,8 @@
     "linked_bgg_ids": [
       312251
     ],
-    "mapped_at": "2026-05-12T14:27:23.6823088+01:00",
-    "proposed_rating": 8.347
+    "mapped_at": "2026-05-12T16:12:02.9735934+01:00",
+    "proposed_rating": 8.356
   },
   {
     "tier": "A",
@@ -3441,8 +3488,8 @@
     "linked_bgg_ids": [
       329148
     ],
-    "mapped_at": "2026-05-12T14:27:23.6974223+01:00",
-    "proposed_rating": 8.333
+    "mapped_at": "2026-05-12T16:12:02.9864148+01:00",
+    "proposed_rating": 8.342
   },
   {
     "tier": "A",
@@ -3480,8 +3527,8 @@
     "linked_bgg_ids": [
       289565
     ],
-    "mapped_at": "2026-05-12T14:27:23.672365+01:00",
-    "proposed_rating": 8.319
+    "mapped_at": "2026-05-12T16:12:02.9619512+01:00",
+    "proposed_rating": 8.328
   },
   {
     "tier": "A",
@@ -3534,8 +3581,8 @@
     "linked_bgg_ids": [
       169786
     ],
-    "mapped_at": "2026-05-12T14:27:23.5704449+01:00",
-    "proposed_rating": 8.305
+    "mapped_at": "2026-05-12T16:12:02.8706377+01:00",
+    "proposed_rating": 8.315
   },
   {
     "tier": "A",
@@ -3573,8 +3620,8 @@
     "linked_bgg_ids": [
       242302
     ],
-    "mapped_at": "2026-05-12T14:27:23.6031777+01:00",
-    "proposed_rating": 8.291
+    "mapped_at": "2026-05-12T16:12:02.9151647+01:00",
+    "proposed_rating": 8.301
   },
   {
     "tier": "A",
@@ -3614,8 +3661,8 @@
     "linked_bgg_ids": [
       326485
     ],
-    "mapped_at": "2026-05-12T14:27:23.6962464+01:00",
-    "proposed_rating": 8.278
+    "mapped_at": "2026-05-12T16:12:02.985209+01:00",
+    "proposed_rating": 8.287
   },
   {
     "tier": "A",
@@ -3657,8 +3704,8 @@
     "linked_bgg_ids": [
       3076
     ],
-    "mapped_at": "2026-05-12T14:27:23.5357641+01:00",
-    "proposed_rating": 8.264
+    "mapped_at": "2026-05-12T16:12:02.7781572+01:00",
+    "proposed_rating": 8.274
   },
   {
     "tier": "A",
@@ -3707,8 +3754,8 @@
     "linked_bgg_ids": [
       281258
     ],
-    "mapped_at": "2026-05-12T14:27:23.6652503+01:00",
-    "proposed_rating": 8.25
+    "mapped_at": "2026-05-12T16:12:02.9545221+01:00",
+    "proposed_rating": 8.26
   },
   {
     "tier": "A",
@@ -3743,8 +3790,8 @@
     "linked_bgg_ids": [
       296237
     ],
-    "mapped_at": "2026-05-12T14:27:23.6758+01:00",
-    "proposed_rating": 8.236
+    "mapped_at": "2026-05-12T16:12:02.9660705+01:00",
+    "proposed_rating": 8.246
   },
   {
     "tier": "A",
@@ -3785,8 +3832,8 @@
     "linked_bgg_ids": [
       298572
     ],
-    "mapped_at": "2026-05-12T14:27:23.6770594+01:00",
-    "proposed_rating": 8.222
+    "mapped_at": "2026-05-12T16:12:02.9675219+01:00",
+    "proposed_rating": 8.233
   },
   {
     "tier": "A",
@@ -3828,8 +3875,8 @@
     "linked_bgg_ids": [
       247236
     ],
-    "mapped_at": "2026-05-12T14:27:23.6100861+01:00",
-    "proposed_rating": 8.208
+    "mapped_at": "2026-05-12T16:12:02.9232801+01:00",
+    "proposed_rating": 8.219
   },
   {
     "tier": "A",
@@ -3874,8 +3921,8 @@
     "linked_bgg_ids": [
       266524
     ],
-    "mapped_at": "2026-05-12T14:27:23.629122+01:00",
-    "proposed_rating": 8.194
+    "mapped_at": "2026-05-12T16:12:02.9383911+01:00",
+    "proposed_rating": 8.205
   },
   {
     "tier": "A",
@@ -3927,8 +3974,8 @@
     "linked_bgg_ids": [
       173346
     ],
-    "mapped_at": "2026-05-12T14:27:23.575205+01:00",
-    "proposed_rating": 8.18
+    "mapped_at": "2026-05-12T16:12:02.8744223+01:00",
+    "proposed_rating": 8.192
   },
   {
     "tier": "A",
@@ -3971,8 +4018,8 @@
     "linked_bgg_ids": [
       340466
     ],
-    "mapped_at": "2026-05-12T14:27:23.7008253+01:00",
-    "proposed_rating": 8.166
+    "mapped_at": "2026-05-12T16:12:02.9912633+01:00",
+    "proposed_rating": 8.178
   },
   {
     "tier": "A",
@@ -4015,8 +4062,8 @@
     "linked_bgg_ids": [
       232832
     ],
-    "mapped_at": "2026-05-12T14:27:23.5994989+01:00",
-    "proposed_rating": 8.153
+    "mapped_at": "2026-05-12T16:12:02.911316+01:00",
+    "proposed_rating": 8.164
   },
   {
     "tier": "A",
@@ -4057,8 +4104,8 @@
     "linked_bgg_ids": [
       230253
     ],
-    "mapped_at": "2026-05-12T14:27:23.5975565+01:00",
-    "proposed_rating": 8.139
+    "mapped_at": "2026-05-12T16:12:02.9090581+01:00",
+    "proposed_rating": 8.151
   },
   {
     "tier": "A",
@@ -4097,8 +4144,8 @@
     "linked_bgg_ids": [
       223040
     ],
-    "mapped_at": "2026-05-12T14:27:23.5950221+01:00",
-    "proposed_rating": 8.125
+    "mapped_at": "2026-05-12T16:12:02.9053679+01:00",
+    "proposed_rating": 8.137
   },
   {
     "tier": "A",
@@ -4144,8 +4191,8 @@
     "linked_bgg_ids": [
       28143
     ],
-    "mapped_at": "2026-05-12T14:27:23.5390088+01:00",
-    "proposed_rating": 8.111
+    "mapped_at": "2026-05-12T16:12:02.7984476+01:00",
+    "proposed_rating": 8.123
   },
   {
     "tier": "A",
@@ -4195,8 +4242,8 @@
     "linked_bgg_ids": [
       193037
     ],
-    "mapped_at": "2026-05-12T14:27:23.5831866+01:00",
-    "proposed_rating": 8.097
+    "mapped_at": "2026-05-12T16:12:02.8858776+01:00",
+    "proposed_rating": 8.109
   },
   {
     "tier": "A",
@@ -4239,8 +4286,8 @@
     "linked_bgg_ids": [
       224783
     ],
-    "mapped_at": "2026-05-12T14:27:23.5958726+01:00",
-    "proposed_rating": 8.083
+    "mapped_at": "2026-05-12T16:12:02.9065144+01:00",
+    "proposed_rating": 8.096
   },
   {
     "tier": "A",
@@ -4285,8 +4332,8 @@
     "linked_bgg_ids": [
       9609
     ],
-    "mapped_at": "2026-05-12T14:27:23.5373029+01:00",
-    "proposed_rating": 8.069
+    "mapped_at": "2026-05-12T16:12:02.794835+01:00",
+    "proposed_rating": 8.082
   },
   {
     "tier": "A",
@@ -4335,8 +4382,8 @@
     "linked_bgg_ids": [
       170216
     ],
-    "mapped_at": "2026-05-12T14:27:23.5710294+01:00",
-    "proposed_rating": 8.056
+    "mapped_at": "2026-05-12T16:12:02.8713355+01:00",
+    "proposed_rating": 8.068
   },
   {
     "tier": "A",
@@ -4382,8 +4429,8 @@
     "linked_bgg_ids": [
       43111
     ],
-    "mapped_at": "2026-05-12T14:27:23.5414317+01:00",
-    "proposed_rating": 8.042
+    "mapped_at": "2026-05-12T16:12:02.8056111+01:00",
+    "proposed_rating": 8.055
   },
   {
     "tier": "A",
@@ -4425,8 +4472,8 @@
     "linked_bgg_ids": [
       256730
     ],
-    "mapped_at": "2026-05-12T14:27:23.6179795+01:00",
-    "proposed_rating": 8.028
+    "mapped_at": "2026-05-12T16:12:02.9319924+01:00",
+    "proposed_rating": 8.041
   },
   {
     "tier": "A",
@@ -4465,8 +4512,8 @@
     "linked_bgg_ids": [
       265017
     ],
-    "mapped_at": "2026-05-12T14:27:23.6231817+01:00",
-    "proposed_rating": 8.014
+    "mapped_at": "2026-05-12T16:12:02.937294+01:00",
+    "proposed_rating": 8.027
   },
   {
     "tier": "A",
@@ -4511,7 +4558,50 @@
     "linked_bgg_ids": [
       247763
     ],
-    "mapped_at": "2026-05-12T14:27:23.6109526+01:00",
+    "mapped_at": "2026-05-12T16:12:02.9246483+01:00",
+    "proposed_rating": 8.014
+  },
+  {
+    "tier": "A",
+    "tier_sort": 1,
+    "ranking_group": "A|9",
+    "source_bucket": 9,
+    "rank_in_tier": 74,
+    "bgg_id": 184921,
+    "name": "Bunny Kingdom",
+    "current_rating": 9.0,
+    "num_plays": 1.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "group_key": "2-4",
+    "year_published": 2017,
+    "players": "2-4",
+    "complexity": 2.3043,
+    "bgg_rating": 7.40814,
+    "num_ratings": 14874,
+    "categories": [
+      "Animals",
+      "Medieval",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Closed Drafting",
+      "End Game Bonuses",
+      "Grid Coverage",
+      "Hand Management",
+      "Simultaneous Action Selection",
+      "Square Grid"
+    ],
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/184921",
+    "linked_bgg_ids": [
+      184921
+    ],
+    "mapped_at": "2026-05-12T16:12:02.8829752+01:00",
     "proposed_rating": 8.0
   },
   {
@@ -4554,7 +4644,7 @@
     "linked_bgg_ids": [
       331401
     ],
-    "mapped_at": "2026-05-12T14:27:23.6988002+01:00",
+    "mapped_at": "2026-05-12T16:12:02.9886718+01:00",
     "proposed_rating": 7.999
   },
   {
@@ -4601,7 +4691,7 @@
     "linked_bgg_ids": [
       54043
     ],
-    "mapped_at": "2026-05-12T14:27:23.5420298+01:00",
+    "mapped_at": "2026-05-12T16:12:02.8067399+01:00",
     "proposed_rating": 7.989
   },
   {
@@ -4639,7 +4729,7 @@
     "linked_bgg_ids": [
       286160
     ],
-    "mapped_at": "2026-05-12T14:27:23.6715694+01:00",
+    "mapped_at": "2026-05-12T16:12:02.961037+01:00",
     "proposed_rating": 7.979
   },
   {
@@ -4690,8 +4780,8 @@
     "linked_bgg_ids": [
       10630
     ],
-    "mapped_at": "2026-05-12T14:27:23.5375614+01:00",
-    "proposed_rating": 7.968
+    "mapped_at": "2026-05-12T16:12:02.7952906+01:00",
+    "proposed_rating": 7.97
   },
   {
     "tier": "B",
@@ -4745,8 +4835,8 @@
     "linked_bgg_ids": [
       205059
     ],
-    "mapped_at": "2026-05-12T14:27:23.5869104+01:00",
-    "proposed_rating": 7.958
+    "mapped_at": "2026-05-12T16:12:02.8908808+01:00",
+    "proposed_rating": 7.96
   },
   {
     "tier": "B",
@@ -4780,8 +4870,8 @@
     "linked_bgg_ids": [
       247143
     ],
-    "mapped_at": "2026-05-12T14:27:23.6097865+01:00",
-    "proposed_rating": 7.948
+    "mapped_at": "2026-05-12T16:12:02.9209755+01:00",
+    "proposed_rating": 7.95
   },
   {
     "tier": "B",
@@ -4822,8 +4912,8 @@
     "linked_bgg_ids": [
       276997
     ],
-    "mapped_at": "2026-05-12T14:27:23.6616956+01:00",
-    "proposed_rating": 7.938
+    "mapped_at": "2026-05-12T16:12:02.9502546+01:00",
+    "proposed_rating": 7.94
   },
   {
     "tier": "B",
@@ -4873,8 +4963,8 @@
     "linked_bgg_ids": [
       226320
     ],
-    "mapped_at": "2026-05-12T14:27:23.5962282+01:00",
-    "proposed_rating": 7.928
+    "mapped_at": "2026-05-12T16:12:02.9070203+01:00",
+    "proposed_rating": 7.93
   },
   {
     "tier": "B",
@@ -4914,8 +5004,8 @@
     "linked_bgg_ids": [
       226631
     ],
-    "mapped_at": "2026-05-12T14:27:23.5964591+01:00",
-    "proposed_rating": 7.917
+    "mapped_at": "2026-05-12T16:12:02.9073522+01:00",
+    "proposed_rating": 7.921
   },
   {
     "tier": "B",
@@ -4973,8 +5063,8 @@
     "linked_bgg_ids": [
       258779
     ],
-    "mapped_at": "2026-05-12T14:27:23.619869+01:00",
-    "proposed_rating": 7.907
+    "mapped_at": "2026-05-12T16:12:02.9339416+01:00",
+    "proposed_rating": 7.911
   },
   {
     "tier": "B",
@@ -5020,8 +5110,8 @@
     "linked_bgg_ids": [
       68425
     ],
-    "mapped_at": "2026-05-12T14:27:23.5441273+01:00",
-    "proposed_rating": 7.897
+    "mapped_at": "2026-05-12T16:12:02.8104815+01:00",
+    "proposed_rating": 7.901
   },
   {
     "tier": "B",
@@ -5057,8 +5147,8 @@
     "linked_bgg_ids": [
       291453
     ],
-    "mapped_at": "2026-05-12T14:27:23.673523+01:00",
-    "proposed_rating": 7.887
+    "mapped_at": "2026-05-12T16:12:02.9634038+01:00",
+    "proposed_rating": 7.891
   },
   {
     "tier": "B",
@@ -5102,8 +5192,8 @@
     "linked_bgg_ids": [
       163412
     ],
-    "mapped_at": "2026-05-12T14:27:23.5681555+01:00",
-    "proposed_rating": 7.877
+    "mapped_at": "2026-05-12T16:12:02.8671018+01:00",
+    "proposed_rating": 7.881
   },
   {
     "tier": "B",
@@ -5144,8 +5234,8 @@
     "linked_bgg_ids": [
       133848
     ],
-    "mapped_at": "2026-05-12T14:27:23.5549061+01:00",
-    "proposed_rating": 7.866
+    "mapped_at": "2026-05-12T16:12:02.8282041+01:00",
+    "proposed_rating": 7.872
   },
   {
     "tier": "B",
@@ -5186,8 +5276,8 @@
     "linked_bgg_ids": [
       221194
     ],
-    "mapped_at": "2026-05-12T14:27:23.5946462+01:00",
-    "proposed_rating": 7.856
+    "mapped_at": "2026-05-12T16:12:02.9048423+01:00",
+    "proposed_rating": 7.862
   },
   {
     "tier": "B",
@@ -5223,8 +5313,8 @@
     "linked_bgg_ids": [
       361545
     ],
-    "mapped_at": "2026-05-12T14:27:23.7120663+01:00",
-    "proposed_rating": 7.846
+    "mapped_at": "2026-05-12T16:12:03.0018782+01:00",
+    "proposed_rating": 7.852
   },
   {
     "tier": "B",
@@ -5263,8 +5353,8 @@
     "linked_bgg_ids": [
       242574
     ],
-    "mapped_at": "2026-05-12T14:27:23.6034767+01:00",
-    "proposed_rating": 7.836
+    "mapped_at": "2026-05-12T16:12:02.9155198+01:00",
+    "proposed_rating": 7.842
   },
   {
     "tier": "B",
@@ -5301,8 +5391,8 @@
     "linked_bgg_ids": [
       289566
     ],
-    "mapped_at": "2026-05-12T14:27:23.6726683+01:00",
-    "proposed_rating": 7.826
+    "mapped_at": "2026-05-12T16:12:02.9623428+01:00",
+    "proposed_rating": 7.832
   },
   {
     "tier": "B",
@@ -5342,8 +5432,8 @@
     "linked_bgg_ids": [
       299178
     ],
-    "mapped_at": "2026-05-12T14:27:23.6775293+01:00",
-    "proposed_rating": 7.816
+    "mapped_at": "2026-05-12T16:12:02.968085+01:00",
+    "proposed_rating": 7.823
   },
   {
     "tier": "B",
@@ -5390,8 +5480,8 @@
     "linked_bgg_ids": [
       163967
     ],
-    "mapped_at": "2026-05-12T14:27:23.5686385+01:00",
-    "proposed_rating": 7.805
+    "mapped_at": "2026-05-12T16:12:02.8679097+01:00",
+    "proposed_rating": 7.813
   },
   {
     "tier": "B",
@@ -5434,8 +5524,8 @@
     "linked_bgg_ids": [
       366495
     ],
-    "mapped_at": "2026-05-12T14:27:23.7129986+01:00",
-    "proposed_rating": 7.795
+    "mapped_at": "2026-05-12T16:12:03.00363+01:00",
+    "proposed_rating": 7.803
   },
   {
     "tier": "B",
@@ -5481,8 +5571,8 @@
     "linked_bgg_ids": [
       248490
     ],
-    "mapped_at": "2026-05-12T14:27:23.6113334+01:00",
-    "proposed_rating": 7.785
+    "mapped_at": "2026-05-12T16:12:02.9250609+01:00",
+    "proposed_rating": 7.793
   },
   {
     "tier": "B",
@@ -5525,8 +5615,8 @@
     "linked_bgg_ids": [
       264052
     ],
-    "mapped_at": "2026-05-12T14:27:23.6222368+01:00",
-    "proposed_rating": 7.775
+    "mapped_at": "2026-05-12T16:12:02.9359146+01:00",
+    "proposed_rating": 7.784
   },
   {
     "tier": "B",
@@ -5565,8 +5655,8 @@
     "linked_bgg_ids": [
       183571
     ],
-    "mapped_at": "2026-05-12T14:27:23.578945+01:00",
-    "proposed_rating": 7.765
+    "mapped_at": "2026-05-12T16:12:02.8816545+01:00",
+    "proposed_rating": 7.774
   },
   {
     "tier": "B",
@@ -5604,8 +5694,8 @@
     "linked_bgg_ids": [
       317859
     ],
-    "mapped_at": "2026-05-12T14:27:23.6930564+01:00",
-    "proposed_rating": 7.754
+    "mapped_at": "2026-05-12T16:12:02.9813357+01:00",
+    "proposed_rating": 7.764
   },
   {
     "tier": "B",
@@ -5643,8 +5733,8 @@
     "linked_bgg_ids": [
       242684
     ],
-    "mapped_at": "2026-05-12T14:27:23.6037638+01:00",
-    "proposed_rating": 7.744
+    "mapped_at": "2026-05-12T16:12:02.9164423+01:00",
+    "proposed_rating": 7.754
   },
   {
     "tier": "B",
@@ -5686,8 +5776,8 @@
     "linked_bgg_ids": [
       307002
     ],
-    "mapped_at": "2026-05-12T14:27:23.6811253+01:00",
-    "proposed_rating": 7.734
+    "mapped_at": "2026-05-12T16:12:02.9724914+01:00",
+    "proposed_rating": 7.744
   },
   {
     "tier": "B",
@@ -5727,8 +5817,8 @@
     "linked_bgg_ids": [
       298231
     ],
-    "mapped_at": "2026-05-12T14:27:23.6767805+01:00",
-    "proposed_rating": 7.724
+    "mapped_at": "2026-05-12T16:12:02.9671719+01:00",
+    "proposed_rating": 7.735
   },
   {
     "tier": "B",
@@ -5767,8 +5857,8 @@
     "linked_bgg_ids": [
       284616
     ],
-    "mapped_at": "2026-05-12T14:27:23.6701353+01:00",
-    "proposed_rating": 7.714
+    "mapped_at": "2026-05-12T16:12:02.9574971+01:00",
+    "proposed_rating": 7.725
   },
   {
     "tier": "B",
@@ -5811,8 +5901,8 @@
     "linked_bgg_ids": [
       142079
     ],
-    "mapped_at": "2026-05-12T14:27:23.5570386+01:00",
-    "proposed_rating": 7.703
+    "mapped_at": "2026-05-12T16:12:02.8317901+01:00",
+    "proposed_rating": 7.715
   },
   {
     "tier": "B",
@@ -5854,8 +5944,8 @@
     "linked_bgg_ids": [
       324856
     ],
-    "mapped_at": "2026-05-12T14:27:23.6951783+01:00",
-    "proposed_rating": 7.693
+    "mapped_at": "2026-05-12T16:12:02.9841264+01:00",
+    "proposed_rating": 7.705
   },
   {
     "tier": "B",
@@ -5896,8 +5986,8 @@
     "linked_bgg_ids": [
       274364
     ],
-    "mapped_at": "2026-05-12T14:27:23.6605669+01:00",
-    "proposed_rating": 7.683
+    "mapped_at": "2026-05-12T16:12:02.9487832+01:00",
+    "proposed_rating": 7.695
   },
   {
     "tier": "B",
@@ -5941,8 +6031,8 @@
     "linked_bgg_ids": [
       231581
     ],
-    "mapped_at": "2026-05-12T14:27:23.5981798+01:00",
-    "proposed_rating": 7.673
+    "mapped_at": "2026-05-12T16:12:02.9100524+01:00",
+    "proposed_rating": 7.686
   },
   {
     "tier": "B",
@@ -5988,8 +6078,8 @@
     "linked_bgg_ids": [
       356768
     ],
-    "mapped_at": "2026-05-12T14:27:23.7083357+01:00",
-    "proposed_rating": 7.663
+    "mapped_at": "2026-05-12T16:12:02.999927+01:00",
+    "proposed_rating": 7.676
   },
   {
     "tier": "B",
@@ -6030,8 +6120,8 @@
     "linked_bgg_ids": [
       317457
     ],
-    "mapped_at": "2026-05-12T14:27:23.6927571+01:00",
-    "proposed_rating": 7.652
+    "mapped_at": "2026-05-12T16:12:02.9754774+01:00",
+    "proposed_rating": 7.666
   },
   {
     "tier": "B",
@@ -6082,8 +6172,8 @@
     "linked_bgg_ids": [
       316554
     ],
-    "mapped_at": "2026-05-12T14:27:23.6923961+01:00",
-    "proposed_rating": 7.642
+    "mapped_at": "2026-05-12T16:12:02.9750249+01:00",
+    "proposed_rating": 7.656
   },
   {
     "tier": "B",
@@ -6132,8 +6222,8 @@
     "linked_bgg_ids": [
       315727
     ],
-    "mapped_at": "2026-05-12T14:27:23.6920742+01:00",
-    "proposed_rating": 7.632
+    "mapped_at": "2026-05-12T16:12:02.974649+01:00",
+    "proposed_rating": 7.646
   },
   {
     "tier": "B",
@@ -6179,8 +6269,8 @@
     "linked_bgg_ids": [
       340865
     ],
-    "mapped_at": "2026-05-12T14:27:23.7011527+01:00",
-    "proposed_rating": 7.622
+    "mapped_at": "2026-05-12T16:12:02.9916512+01:00",
+    "proposed_rating": 7.637
   },
   {
     "tier": "B",
@@ -6222,8 +6312,8 @@
     "linked_bgg_ids": [
       306881
     ],
-    "mapped_at": "2026-05-12T14:27:23.6808427+01:00",
-    "proposed_rating": 7.612
+    "mapped_at": "2026-05-12T16:12:02.9721575+01:00",
+    "proposed_rating": 7.627
   },
   {
     "tier": "B",
@@ -6260,8 +6350,8 @@
     "linked_bgg_ids": [
       347117
     ],
-    "mapped_at": "2026-05-12T14:27:23.7036122+01:00",
-    "proposed_rating": 7.601
+    "mapped_at": "2026-05-12T16:12:02.9947311+01:00",
+    "proposed_rating": 7.617
   },
   {
     "tier": "B",
@@ -6302,8 +6392,8 @@
     "linked_bgg_ids": [
       145976
     ],
-    "mapped_at": "2026-05-12T14:27:23.5603877+01:00",
-    "proposed_rating": 7.591
+    "mapped_at": "2026-05-12T16:12:02.8336736+01:00",
+    "proposed_rating": 7.607
   },
   {
     "tier": "B",
@@ -6344,8 +6434,8 @@
     "linked_bgg_ids": [
       291508
     ],
-    "mapped_at": "2026-05-12T14:27:23.6737804+01:00",
-    "proposed_rating": 7.581
+    "mapped_at": "2026-05-12T16:12:02.9637615+01:00",
+    "proposed_rating": 7.597
   },
   {
     "tier": "B",
@@ -6386,8 +6476,8 @@
     "linked_bgg_ids": [
       268864
     ],
-    "mapped_at": "2026-05-12T14:27:23.655597+01:00",
-    "proposed_rating": 7.571
+    "mapped_at": "2026-05-12T16:12:02.9426589+01:00",
+    "proposed_rating": 7.588
   },
   {
     "tier": "B",
@@ -6430,8 +6520,8 @@
     "linked_bgg_ids": [
       230244
     ],
-    "mapped_at": "2026-05-12T14:27:23.5970158+01:00",
-    "proposed_rating": 7.561
+    "mapped_at": "2026-05-12T16:12:02.9082073+01:00",
+    "proposed_rating": 7.578
   },
   {
     "tier": "B",
@@ -6473,8 +6563,8 @@
     "linked_bgg_ids": [
       318009
     ],
-    "mapped_at": "2026-05-12T14:27:23.6936029+01:00",
-    "proposed_rating": 7.55
+    "mapped_at": "2026-05-12T16:12:02.9821664+01:00",
+    "proposed_rating": 7.568
   },
   {
     "tier": "B",
@@ -6526,8 +6616,8 @@
     "linked_bgg_ids": [
       283355
     ],
-    "mapped_at": "2026-05-12T14:27:23.6668543+01:00",
-    "proposed_rating": 7.54
+    "mapped_at": "2026-05-12T16:12:02.9559665+01:00",
+    "proposed_rating": 7.558
   },
   {
     "tier": "B",
@@ -6570,8 +6660,8 @@
     "linked_bgg_ids": [
       252752
     ],
-    "mapped_at": "2026-05-12T14:27:23.6129814+01:00",
-    "proposed_rating": 7.53
+    "mapped_at": "2026-05-12T16:12:02.9270562+01:00",
+    "proposed_rating": 7.548
   },
   {
     "tier": "B",
@@ -6616,8 +6706,8 @@
     "linked_bgg_ids": [
       318184
     ],
-    "mapped_at": "2026-05-12T14:27:23.693853+01:00",
-    "proposed_rating": 7.52
+    "mapped_at": "2026-05-12T16:12:02.9825536+01:00",
+    "proposed_rating": 7.539
   },
   {
     "tier": "B",
@@ -6663,8 +6753,8 @@
     "linked_bgg_ids": [
       368173
     ],
-    "mapped_at": "2026-05-12T14:27:23.7140496+01:00",
-    "proposed_rating": 7.51
+    "mapped_at": "2026-05-12T16:12:03.0049804+01:00",
+    "proposed_rating": 7.529
   },
   {
     "tier": "B",
@@ -6706,8 +6796,8 @@
     "linked_bgg_ids": [
       59959
     ],
-    "mapped_at": "2026-05-12T14:27:23.542457+01:00",
-    "proposed_rating": 7.5
+    "mapped_at": "2026-05-12T16:12:02.8076062+01:00",
+    "proposed_rating": 7.519
   },
   {
     "tier": "B",
@@ -6745,8 +6835,8 @@
     "linked_bgg_ids": [
       358386
     ],
-    "mapped_at": "2026-05-12T14:27:23.7091031+01:00",
-    "proposed_rating": 7.489
+    "mapped_at": "2026-05-12T16:12:03.0003242+01:00",
+    "proposed_rating": 7.509
   },
   {
     "tier": "B",
@@ -6793,8 +6883,8 @@
     "linked_bgg_ids": [
       325941
     ],
-    "mapped_at": "2026-05-12T14:27:23.6959003+01:00",
-    "proposed_rating": 7.479
+    "mapped_at": "2026-05-12T16:12:02.9848256+01:00",
+    "proposed_rating": 7.5
   },
   {
     "tier": "B",
@@ -6833,8 +6923,8 @@
     "linked_bgg_ids": [
       331979
     ],
-    "mapped_at": "2026-05-12T14:27:23.6991514+01:00",
-    "proposed_rating": 7.469
+    "mapped_at": "2026-05-12T16:12:02.9891749+01:00",
+    "proposed_rating": 7.49
   },
   {
     "tier": "B",
@@ -6880,8 +6970,8 @@
     "linked_bgg_ids": [
       255984
     ],
-    "mapped_at": "2026-05-12T14:27:23.61515+01:00",
-    "proposed_rating": 7.459
+    "mapped_at": "2026-05-12T16:12:02.9299508+01:00",
+    "proposed_rating": 7.48
   },
   {
     "tier": "B",
@@ -6933,8 +7023,8 @@
     "linked_bgg_ids": [
       123096
     ],
-    "mapped_at": "2026-05-12T14:27:23.5524003+01:00",
-    "proposed_rating": 7.449
+    "mapped_at": "2026-05-12T16:12:02.823937+01:00",
+    "proposed_rating": 7.47
   },
   {
     "tier": "B",
@@ -6973,8 +7063,8 @@
     "linked_bgg_ids": [
       345542
     ],
-    "mapped_at": "2026-05-12T14:27:23.7028982+01:00",
-    "proposed_rating": 7.438
+    "mapped_at": "2026-05-12T16:12:02.9939861+01:00",
+    "proposed_rating": 7.46
   },
   {
     "tier": "B",
@@ -7019,8 +7109,8 @@
     "linked_bgg_ids": [
       292375
     ],
-    "mapped_at": "2026-05-12T14:27:23.6747302+01:00",
-    "proposed_rating": 7.428
+    "mapped_at": "2026-05-12T16:12:02.9648165+01:00",
+    "proposed_rating": 7.451
   },
   {
     "tier": "B",
@@ -7062,8 +7152,8 @@
     "linked_bgg_ids": [
       279537
     ],
-    "mapped_at": "2026-05-12T14:27:23.6631563+01:00",
-    "proposed_rating": 7.418
+    "mapped_at": "2026-05-12T16:12:02.952061+01:00",
+    "proposed_rating": 7.441
   },
   {
     "tier": "B",
@@ -7109,8 +7199,8 @@
     "linked_bgg_ids": [
       285826
     ],
-    "mapped_at": "2026-05-12T14:27:23.6712492+01:00",
-    "proposed_rating": 7.408
+    "mapped_at": "2026-05-12T16:12:02.9606586+01:00",
+    "proposed_rating": 7.431
   },
   {
     "tier": "B",
@@ -7155,8 +7245,8 @@
     "linked_bgg_ids": [
       306735
     ],
-    "mapped_at": "2026-05-12T14:27:23.6805578+01:00",
-    "proposed_rating": 7.398
+    "mapped_at": "2026-05-12T16:12:02.971771+01:00",
+    "proposed_rating": 7.421
   },
   {
     "tier": "B",
@@ -7197,8 +7287,8 @@
     "linked_bgg_ids": [
       233867
     ],
-    "mapped_at": "2026-05-12T14:27:23.6000558+01:00",
-    "proposed_rating": 7.387
+    "mapped_at": "2026-05-12T16:12:02.9117689+01:00",
+    "proposed_rating": 7.411
   },
   {
     "tier": "B",
@@ -7237,8 +7327,8 @@
     "linked_bgg_ids": [
       48726
     ],
-    "mapped_at": "2026-05-12T14:27:23.5417623+01:00",
-    "proposed_rating": 7.377
+    "mapped_at": "2026-05-12T16:12:02.8061909+01:00",
+    "proposed_rating": 7.402
   },
   {
     "tier": "B",
@@ -7279,8 +7369,8 @@
     "linked_bgg_ids": [
       205597
     ],
-    "mapped_at": "2026-05-12T14:27:23.5871968+01:00",
-    "proposed_rating": 7.367
+    "mapped_at": "2026-05-12T16:12:02.8912072+01:00",
+    "proposed_rating": 7.392
   },
   {
     "tier": "B",
@@ -7321,8 +7411,8 @@
     "linked_bgg_ids": [
       822
     ],
-    "mapped_at": "2026-05-12T14:27:23.5345879+01:00",
-    "proposed_rating": 7.357
+    "mapped_at": "2026-05-12T16:12:02.7752541+01:00",
+    "proposed_rating": 7.382
   },
   {
     "tier": "B",
@@ -7362,8 +7452,8 @@
     "linked_bgg_ids": [
       270673
     ],
-    "mapped_at": "2026-05-12T14:27:23.6591273+01:00",
-    "proposed_rating": 7.347
+    "mapped_at": "2026-05-12T16:12:02.9471433+01:00",
+    "proposed_rating": 7.372
   },
   {
     "tier": "B",
@@ -7406,8 +7496,8 @@
     "linked_bgg_ids": [
       123260
     ],
-    "mapped_at": "2026-05-12T14:27:23.552621+01:00",
-    "proposed_rating": 7.336
+    "mapped_at": "2026-05-12T16:12:02.8243581+01:00",
+    "proposed_rating": 7.362
   },
   {
     "tier": "B",
@@ -7453,8 +7543,8 @@
     "linked_bgg_ids": [
       100423
     ],
-    "mapped_at": "2026-05-12T14:27:23.5491569+01:00",
-    "proposed_rating": 7.326
+    "mapped_at": "2026-05-12T16:12:02.8176424+01:00",
+    "proposed_rating": 7.353
   },
   {
     "tier": "B",
@@ -7496,8 +7586,8 @@
     "linked_bgg_ids": [
       140934
     ],
-    "mapped_at": "2026-05-12T14:27:23.5567774+01:00",
-    "proposed_rating": 7.316
+    "mapped_at": "2026-05-12T16:12:02.8313665+01:00",
+    "proposed_rating": 7.343
   },
   {
     "tier": "B",
@@ -7541,8 +7631,8 @@
     "linked_bgg_ids": [
       171273
     ],
-    "mapped_at": "2026-05-12T14:27:23.5719072+01:00",
-    "proposed_rating": 7.306
+    "mapped_at": "2026-05-12T16:12:02.8724921+01:00",
+    "proposed_rating": 7.333
   },
   {
     "tier": "B",
@@ -7582,8 +7672,8 @@
     "linked_bgg_ids": [
       110277
     ],
-    "mapped_at": "2026-05-12T14:27:23.5502882+01:00",
-    "proposed_rating": 7.296
+    "mapped_at": "2026-05-12T16:12:02.8202488+01:00",
+    "proposed_rating": 7.323
   },
   {
     "tier": "B",
@@ -7623,8 +7713,8 @@
     "linked_bgg_ids": [
       139976
     ],
-    "mapped_at": "2026-05-12T14:27:23.5564687+01:00",
-    "proposed_rating": 7.285
+    "mapped_at": "2026-05-12T16:12:02.8307902+01:00",
+    "proposed_rating": 7.313
   },
   {
     "tier": "B",
@@ -7664,8 +7754,8 @@
     "linked_bgg_ids": [
       343900
     ],
-    "mapped_at": "2026-05-12T14:27:23.7020027+01:00",
-    "proposed_rating": 7.275
+    "mapped_at": "2026-05-12T16:12:02.9928372+01:00",
+    "proposed_rating": 7.304
   },
   {
     "tier": "B",
@@ -7702,8 +7792,8 @@
     "linked_bgg_ids": [
       255674
     ],
-    "mapped_at": "2026-05-12T14:27:23.6146378+01:00",
-    "proposed_rating": 7.265
+    "mapped_at": "2026-05-12T16:12:02.9292308+01:00",
+    "proposed_rating": 7.294
   },
   {
     "tier": "B",
@@ -7748,8 +7838,8 @@
     "linked_bgg_ids": [
       209685
     ],
-    "mapped_at": "2026-05-12T14:27:23.5884771+01:00",
-    "proposed_rating": 7.255
+    "mapped_at": "2026-05-12T16:12:02.8928969+01:00",
+    "proposed_rating": 7.284
   },
   {
     "tier": "B",
@@ -7788,8 +7878,8 @@
     "linked_bgg_ids": [
       232524
     ],
-    "mapped_at": "2026-05-12T14:27:23.5990362+01:00",
-    "proposed_rating": 7.245
+    "mapped_at": "2026-05-12T16:12:02.9108747+01:00",
+    "proposed_rating": 7.274
   },
   {
     "tier": "B",
@@ -7829,8 +7919,8 @@
     "linked_bgg_ids": [
       4396
     ],
-    "mapped_at": "2026-05-12T14:27:23.5363817+01:00",
-    "proposed_rating": 7.234
+    "mapped_at": "2026-05-12T16:12:02.7795884+01:00",
+    "proposed_rating": 7.264
   },
   {
     "tier": "B",
@@ -7869,8 +7959,8 @@
     "linked_bgg_ids": [
       256669
     ],
-    "mapped_at": "2026-05-12T14:27:23.6173482+01:00",
-    "proposed_rating": 7.224
+    "mapped_at": "2026-05-12T16:12:02.931117+01:00",
+    "proposed_rating": 7.255
   },
   {
     "tier": "B",
@@ -7910,8 +8000,8 @@
     "linked_bgg_ids": [
       192291
     ],
-    "mapped_at": "2026-05-12T14:27:23.5825533+01:00",
-    "proposed_rating": 7.214
+    "mapped_at": "2026-05-12T16:12:02.8850283+01:00",
+    "proposed_rating": 7.245
   },
   {
     "tier": "B",
@@ -7955,8 +8045,8 @@
     "linked_bgg_ids": [
       28086
     ],
-    "mapped_at": "2026-05-12T14:27:23.5387876+01:00",
-    "proposed_rating": 7.204
+    "mapped_at": "2026-05-12T16:12:02.7979346+01:00",
+    "proposed_rating": 7.235
   },
   {
     "tier": "B",
@@ -7996,8 +8086,8 @@
     "linked_bgg_ids": [
       287954
     ],
-    "mapped_at": "2026-05-12T14:27:23.6720632+01:00",
-    "proposed_rating": 7.194
+    "mapped_at": "2026-05-12T16:12:02.9615937+01:00",
+    "proposed_rating": 7.225
   },
   {
     "tier": "B",
@@ -8039,8 +8129,8 @@
     "linked_bgg_ids": [
       110327
     ],
-    "mapped_at": "2026-05-12T14:27:23.5505324+01:00",
-    "proposed_rating": 7.183
+    "mapped_at": "2026-05-12T16:12:02.8206925+01:00",
+    "proposed_rating": 7.215
   },
   {
     "tier": "B",
@@ -8090,8 +8180,8 @@
     "linked_bgg_ids": [
       312484
     ],
-    "mapped_at": "2026-05-12T14:27:23.6827236+01:00",
-    "proposed_rating": 7.173
+    "mapped_at": "2026-05-12T16:12:02.973936+01:00",
+    "proposed_rating": 7.206
   },
   {
     "tier": "B",
@@ -8130,8 +8220,8 @@
     "linked_bgg_ids": [
       281152
     ],
-    "mapped_at": "2026-05-12T14:27:23.6648591+01:00",
-    "proposed_rating": 7.163
+    "mapped_at": "2026-05-12T16:12:02.9541907+01:00",
+    "proposed_rating": 7.196
   },
   {
     "tier": "B",
@@ -8169,8 +8259,8 @@
     "linked_bgg_ids": [
       180040
     ],
-    "mapped_at": "2026-05-12T14:27:23.5771491+01:00",
-    "proposed_rating": 7.153
+    "mapped_at": "2026-05-12T16:12:02.8764969+01:00",
+    "proposed_rating": 7.186
   },
   {
     "tier": "B",
@@ -8211,8 +8301,8 @@
     "linked_bgg_ids": [
       163602
     ],
-    "mapped_at": "2026-05-12T14:27:23.5683916+01:00",
-    "proposed_rating": 7.143
+    "mapped_at": "2026-05-12T16:12:02.8675187+01:00",
+    "proposed_rating": 7.176
   },
   {
     "tier": "B",
@@ -8260,8 +8350,8 @@
     "linked_bgg_ids": [
       13
     ],
-    "mapped_at": "2026-05-12T14:27:23.5327728+01:00",
-    "proposed_rating": 7.133
+    "mapped_at": "2026-05-12T16:12:02.765074+01:00",
+    "proposed_rating": 7.166
   },
   {
     "tier": "B",
@@ -8301,8 +8391,8 @@
     "linked_bgg_ids": [
       189660
     ],
-    "mapped_at": "2026-05-12T14:27:23.5806867+01:00",
-    "proposed_rating": 7.122
+    "mapped_at": "2026-05-12T16:12:02.8837375+01:00",
+    "proposed_rating": 7.157
   },
   {
     "tier": "B",
@@ -8344,8 +8434,8 @@
     "linked_bgg_ids": [
       256382
     ],
-    "mapped_at": "2026-05-12T14:27:23.6159825+01:00",
-    "proposed_rating": 7.112
+    "mapped_at": "2026-05-12T16:12:02.930308+01:00",
+    "proposed_rating": 7.147
   },
   {
     "tier": "B",
@@ -8396,8 +8486,8 @@
     "linked_bgg_ids": [
       68448
     ],
-    "mapped_at": "2026-05-12T14:27:23.5466549+01:00",
-    "proposed_rating": 7.102
+    "mapped_at": "2026-05-12T16:12:02.8109651+01:00",
+    "proposed_rating": 7.137
   },
   {
     "tier": "B",
@@ -8440,8 +8530,8 @@
     "linked_bgg_ids": [
       205716
     ],
-    "mapped_at": "2026-05-12T14:27:23.5877453+01:00",
-    "proposed_rating": 7.092
+    "mapped_at": "2026-05-12T16:12:02.8919682+01:00",
+    "proposed_rating": 7.127
   },
   {
     "tier": "B",
@@ -8488,8 +8578,8 @@
     "linked_bgg_ids": [
       120677
     ],
-    "mapped_at": "2026-05-12T14:27:23.5514801+01:00",
-    "proposed_rating": 7.082
+    "mapped_at": "2026-05-12T16:12:02.8224647+01:00",
+    "proposed_rating": 7.118
   },
   {
     "tier": "B",
@@ -8528,8 +8618,8 @@
     "linked_bgg_ids": [
       267370
     ],
-    "mapped_at": "2026-05-12T14:27:23.6405917+01:00",
-    "proposed_rating": 7.071
+    "mapped_at": "2026-05-12T16:12:02.9393354+01:00",
+    "proposed_rating": 7.108
   },
   {
     "tier": "B",
@@ -8570,8 +8660,8 @@
     "linked_bgg_ids": [
       34635
     ],
-    "mapped_at": "2026-05-12T14:27:23.5397218+01:00",
-    "proposed_rating": 7.061
+    "mapped_at": "2026-05-12T16:12:02.800239+01:00",
+    "proposed_rating": 7.098
   },
   {
     "tier": "B",
@@ -8623,8 +8713,8 @@
     "linked_bgg_ids": [
       224517
     ],
-    "mapped_at": "2026-05-12T14:27:23.5956362+01:00",
-    "proposed_rating": 7.051
+    "mapped_at": "2026-05-12T16:12:02.9061454+01:00",
+    "proposed_rating": 7.088
   },
   {
     "tier": "B",
@@ -8660,8 +8750,8 @@
     "linked_bgg_ids": [
       278553
     ],
-    "mapped_at": "2026-05-12T14:27:23.6628859+01:00",
-    "proposed_rating": 7.041
+    "mapped_at": "2026-05-12T16:12:02.9516426+01:00",
+    "proposed_rating": 7.078
   },
   {
     "tier": "B",
@@ -8709,8 +8799,8 @@
     "linked_bgg_ids": [
       185343
     ],
-    "mapped_at": "2026-05-12T14:27:23.5800427+01:00",
-    "proposed_rating": 7.031
+    "mapped_at": "2026-05-12T16:12:02.8833588+01:00",
+    "proposed_rating": 7.069
   },
   {
     "tier": "B",
@@ -8751,8 +8841,8 @@
     "linked_bgg_ids": [
       254632
     ],
-    "mapped_at": "2026-05-12T14:27:23.6141351+01:00",
-    "proposed_rating": 7.02
+    "mapped_at": "2026-05-12T16:12:02.9285421+01:00",
+    "proposed_rating": 7.059
   },
   {
     "tier": "B",
@@ -8800,8 +8890,8 @@
     "linked_bgg_ids": [
       146910
     ],
-    "mapped_at": "2026-05-12T14:27:23.5615198+01:00",
-    "proposed_rating": 7.01
+    "mapped_at": "2026-05-12T16:12:02.8348413+01:00",
+    "proposed_rating": 7.049
   },
   {
     "tier": "B",
@@ -8844,7 +8934,183 @@
     "linked_bgg_ids": [
       160610
     ],
-    "mapped_at": "2026-05-12T14:27:23.5667344+01:00",
+    "mapped_at": "2026-05-12T16:12:02.8650752+01:00",
+    "proposed_rating": 7.039
+  },
+  {
+    "tier": "B",
+    "tier_sort": 2,
+    "ranking_group": "B|8",
+    "source_bucket": 8,
+    "rank_in_tier": 100,
+    "bgg_id": 6249,
+    "name": "Alhambra",
+    "current_rating": 8.0,
+    "num_plays": 3.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "group_key": "2-6",
+    "year_published": 2003,
+    "players": "2-6",
+    "complexity": 2.0974,
+    "bgg_rating": 7.03565,
+    "num_ratings": 35605,
+    "categories": [
+      "City Building",
+      "Medieval"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Hand Management",
+      "Open Drafting",
+      "Set Collection",
+      "Tile Placement"
+    ],
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/6249",
+    "linked_bgg_ids": [
+      6249
+    ],
+    "mapped_at": "2026-05-12T16:12:02.7934856+01:00",
+    "proposed_rating": 7.029
+  },
+  {
+    "tier": "B",
+    "tier_sort": 2,
+    "ranking_group": "B|8",
+    "source_bucket": 8,
+    "rank_in_tier": 101,
+    "bgg_id": 366013,
+    "name": "Heat: Pedal to the Metal",
+    "current_rating": 8.0,
+    "num_plays": 2.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "group_key": "1-6",
+    "year_published": 2022,
+    "players": "1-6",
+    "complexity": 2.2023,
+    "bgg_rating": 7.99698,
+    "num_ratings": 40802,
+    "categories": [
+      "Racing",
+      "Sports"
+    ],
+    "mechanics": [
+      "Catch the Leader",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Programmed Movement",
+      "Push Your Luck",
+      "Race",
+      "Simulation",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Track Movement",
+      "Variable Set-up"
+    ],
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/366013",
+    "linked_bgg_ids": [
+      366013
+    ],
+    "mapped_at": "2026-05-12T16:12:03.003229+01:00",
+    "proposed_rating": 7.02
+  },
+  {
+    "tier": "B",
+    "tier_sort": 2,
+    "ranking_group": "B|8",
+    "source_bucket": 8,
+    "rank_in_tier": 102,
+    "bgg_id": 144733,
+    "name": "Russian Railroads",
+    "current_rating": 8.0,
+    "num_plays": 2.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "group_key": "2-4",
+    "year_published": 2013,
+    "players": "2-4",
+    "complexity": 3.3961,
+    "bgg_rating": 7.72205,
+    "num_ratings": 18904,
+    "categories": [
+      "Industry / Manufacturing",
+      "Trains"
+    ],
+    "mechanics": [
+      "End Game Bonuses",
+      "Tech Trees / Tech Tracks",
+      "Turn Order: Claim Action",
+      "Worker Placement"
+    ],
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/144733",
+    "linked_bgg_ids": [
+      144733
+    ],
+    "mapped_at": "2026-05-12T16:12:02.8332696+01:00",
+    "proposed_rating": 7.01
+  },
+  {
+    "tier": "B",
+    "tier_sort": 2,
+    "ranking_group": "B|8",
+    "source_bucket": 8,
+    "rank_in_tier": 103,
+    "bgg_id": 54,
+    "name": "Tikal",
+    "current_rating": 8.0,
+    "num_plays": 1.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "group_key": "2-4",
+    "year_published": 1999,
+    "players": "2-4",
+    "complexity": 2.7766,
+    "bgg_rating": 7.31736,
+    "num_ratings": 21493,
+    "categories": [
+      "Adventure",
+      "Ancient",
+      "Exploration",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Auction / Bidding",
+      "Events",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Kill Steal",
+      "Layering",
+      "Map Addition",
+      "Modular Board",
+      "Set Collection",
+      "Tile Placement",
+      "Victory Points as a Resource",
+      "Zone of Control"
+    ],
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/54",
+    "linked_bgg_ids": [
+      54
+    ],
+    "mapped_at": "2026-05-12T16:12:02.7731874+01:00",
     "proposed_rating": 7.0
   },
   {
@@ -8885,7 +9151,7 @@
     "linked_bgg_ids": [
       194594
     ],
-    "mapped_at": "2026-05-12T14:27:23.5840957+01:00",
+    "mapped_at": "2026-05-12T16:12:02.8869712+01:00",
     "proposed_rating": 6.999
   },
   {
@@ -8924,7 +9190,7 @@
     "linked_bgg_ids": [
       269210
     ],
-    "mapped_at": "2026-05-12T14:27:23.6563488+01:00",
+    "mapped_at": "2026-05-12T16:12:02.9435008+01:00",
     "proposed_rating": 6.989
   },
   {
@@ -8963,8 +9229,8 @@
     "linked_bgg_ids": [
       200077
     ],
-    "mapped_at": "2026-05-12T14:27:23.5857994+01:00",
-    "proposed_rating": 6.978
+    "mapped_at": "2026-05-12T16:12:02.8892806+01:00",
+    "proposed_rating": 6.98
   },
   {
     "tier": "C",
@@ -9012,8 +9278,8 @@
     "linked_bgg_ids": [
       146652
     ],
-    "mapped_at": "2026-05-12T14:27:23.5610451+01:00",
-    "proposed_rating": 6.968
+    "mapped_at": "2026-05-12T16:12:02.834446+01:00",
+    "proposed_rating": 6.97
   },
   {
     "tier": "C",
@@ -9056,8 +9322,8 @@
     "linked_bgg_ids": [
       177639
     ],
-    "mapped_at": "2026-05-12T14:27:23.5760268+01:00",
-    "proposed_rating": 6.958
+    "mapped_at": "2026-05-12T16:12:02.8750038+01:00",
+    "proposed_rating": 6.96
   },
   {
     "tier": "C",
@@ -9095,8 +9361,8 @@
     "linked_bgg_ids": [
       283095
     ],
-    "mapped_at": "2026-05-12T14:27:23.6663552+01:00",
-    "proposed_rating": 6.948
+    "mapped_at": "2026-05-12T16:12:02.9555171+01:00",
+    "proposed_rating": 6.951
   },
   {
     "tier": "C",
@@ -9142,8 +9408,8 @@
     "linked_bgg_ids": [
       147020
     ],
-    "mapped_at": "2026-05-12T14:27:23.5622952+01:00",
-    "proposed_rating": 6.937
+    "mapped_at": "2026-05-12T16:12:02.8353091+01:00",
+    "proposed_rating": 6.941
   },
   {
     "tier": "C",
@@ -9183,8 +9449,8 @@
     "linked_bgg_ids": [
       260300
     ],
-    "mapped_at": "2026-05-12T14:27:23.6201433+01:00",
-    "proposed_rating": 6.927
+    "mapped_at": "2026-05-12T16:12:02.9342704+01:00",
+    "proposed_rating": 6.931
   },
   {
     "tier": "C",
@@ -9233,8 +9499,8 @@
     "linked_bgg_ids": [
       30549
     ],
-    "mapped_at": "2026-05-12T14:27:23.5392577+01:00",
-    "proposed_rating": 6.917
+    "mapped_at": "2026-05-12T16:12:02.7989942+01:00",
+    "proposed_rating": 6.921
   },
   {
     "tier": "C",
@@ -9275,8 +9541,8 @@
     "linked_bgg_ids": [
       62871
     ],
-    "mapped_at": "2026-05-12T14:27:23.5430452+01:00",
-    "proposed_rating": 6.906
+    "mapped_at": "2026-05-12T16:12:02.8085478+01:00",
+    "proposed_rating": 6.912
   },
   {
     "tier": "C",
@@ -9316,8 +9582,8 @@
     "linked_bgg_ids": [
       432
     ],
-    "mapped_at": "2026-05-12T14:27:23.5340717+01:00",
-    "proposed_rating": 6.896
+    "mapped_at": "2026-05-12T16:12:02.7742776+01:00",
+    "proposed_rating": 6.902
   },
   {
     "tier": "C",
@@ -9360,8 +9626,8 @@
     "linked_bgg_ids": [
       230802
     ],
-    "mapped_at": "2026-05-12T14:27:23.5978508+01:00",
-    "proposed_rating": 6.886
+    "mapped_at": "2026-05-12T16:12:02.9094898+01:00",
+    "proposed_rating": 6.892
   },
   {
     "tier": "C",
@@ -9398,8 +9664,8 @@
     "linked_bgg_ids": [
       270314
     ],
-    "mapped_at": "2026-05-12T14:27:23.6583041+01:00",
-    "proposed_rating": 6.875
+    "mapped_at": "2026-05-12T16:12:02.9459876+01:00",
+    "proposed_rating": 6.883
   },
   {
     "tier": "C",
@@ -9439,8 +9705,8 @@
     "linked_bgg_ids": [
       178044
     ],
-    "mapped_at": "2026-05-12T14:27:23.5763406+01:00",
-    "proposed_rating": 6.865
+    "mapped_at": "2026-05-12T16:12:02.8753708+01:00",
+    "proposed_rating": 6.873
   },
   {
     "tier": "C",
@@ -9480,8 +9746,8 @@
     "linked_bgg_ids": [
       133473
     ],
-    "mapped_at": "2026-05-12T14:27:23.5546752+01:00",
-    "proposed_rating": 6.855
+    "mapped_at": "2026-05-12T16:12:02.8278115+01:00",
+    "proposed_rating": 6.863
   },
   {
     "tier": "C",
@@ -9522,8 +9788,8 @@
     "linked_bgg_ids": [
       50
     ],
-    "mapped_at": "2026-05-12T14:27:23.5334152+01:00",
-    "proposed_rating": 6.845
+    "mapped_at": "2026-05-12T16:12:02.7725273+01:00",
+    "proposed_rating": 6.854
   },
   {
     "tier": "C",
@@ -9568,8 +9834,8 @@
     "linked_bgg_ids": [
       181304
     ],
-    "mapped_at": "2026-05-12T14:27:23.5778893+01:00",
-    "proposed_rating": 6.834
+    "mapped_at": "2026-05-12T16:12:02.8804411+01:00",
+    "proposed_rating": 6.844
   },
   {
     "tier": "C",
@@ -9609,8 +9875,8 @@
     "linked_bgg_ids": [
       353470
     ],
-    "mapped_at": "2026-05-12T14:27:23.7074681+01:00",
-    "proposed_rating": 6.824
+    "mapped_at": "2026-05-12T16:12:02.9971177+01:00",
+    "proposed_rating": 6.834
   },
   {
     "tier": "C",
@@ -9652,8 +9918,8 @@
     "linked_bgg_ids": [
       131357
     ],
-    "mapped_at": "2026-05-12T14:27:23.5541388+01:00",
-    "proposed_rating": 6.814
+    "mapped_at": "2026-05-12T16:12:02.8268875+01:00",
+    "proposed_rating": 6.824
   },
   {
     "tier": "C",
@@ -9687,8 +9953,8 @@
     "linked_bgg_ids": [
       329151
     ],
-    "mapped_at": "2026-05-12T14:27:23.6977003+01:00",
-    "proposed_rating": 6.803
+    "mapped_at": "2026-05-12T16:12:02.986762+01:00",
+    "proposed_rating": 6.815
   },
   {
     "tier": "C",
@@ -9726,8 +9992,8 @@
     "linked_bgg_ids": [
       264241
     ],
-    "mapped_at": "2026-05-12T14:27:23.6229257+01:00",
-    "proposed_rating": 6.793
+    "mapped_at": "2026-05-12T16:12:02.9369523+01:00",
+    "proposed_rating": 6.805
   },
   {
     "tier": "C",
@@ -9764,8 +10030,8 @@
     "linked_bgg_ids": [
       274960
     ],
-    "mapped_at": "2026-05-12T14:27:23.660861+01:00",
-    "proposed_rating": 6.783
+    "mapped_at": "2026-05-12T16:12:02.9491714+01:00",
+    "proposed_rating": 6.795
   },
   {
     "tier": "C",
@@ -9805,8 +10071,8 @@
     "linked_bgg_ids": [
       129622
     ],
-    "mapped_at": "2026-05-12T14:27:23.5539079+01:00",
-    "proposed_rating": 6.772
+    "mapped_at": "2026-05-12T16:12:02.8264729+01:00",
+    "proposed_rating": 6.786
   },
   {
     "tier": "C",
@@ -9847,8 +10113,8 @@
     "linked_bgg_ids": [
       313841
     ],
-    "mapped_at": "2026-05-12T14:27:23.6916207+01:00",
-    "proposed_rating": 6.762
+    "mapped_at": "2026-05-12T16:12:02.9743273+01:00",
+    "proposed_rating": 6.776
   },
   {
     "tier": "C",
@@ -9888,8 +10154,8 @@
     "linked_bgg_ids": [
       284083
     ],
-    "mapped_at": "2026-05-12T14:27:23.6695977+01:00",
-    "proposed_rating": 6.752
+    "mapped_at": "2026-05-12T16:12:02.9567624+01:00",
+    "proposed_rating": 6.766
   },
   {
     "tier": "C",
@@ -9930,8 +10196,8 @@
     "linked_bgg_ids": [
       300442
     ],
-    "mapped_at": "2026-05-12T14:27:23.6781895+01:00",
-    "proposed_rating": 6.742
+    "mapped_at": "2026-05-12T16:12:02.9688921+01:00",
+    "proposed_rating": 6.757
   },
   {
     "tier": "C",
@@ -9970,8 +10236,8 @@
     "linked_bgg_ids": [
       247367
     ],
-    "mapped_at": "2026-05-12T14:27:23.6103619+01:00",
-    "proposed_rating": 6.731
+    "mapped_at": "2026-05-12T16:12:02.9237059+01:00",
+    "proposed_rating": 6.747
   },
   {
     "tier": "C",
@@ -10014,8 +10280,8 @@
     "linked_bgg_ids": [
       284653
     ],
-    "mapped_at": "2026-05-12T14:27:23.6704555+01:00",
-    "proposed_rating": 6.721
+    "mapped_at": "2026-05-12T16:12:02.957864+01:00",
+    "proposed_rating": 6.737
   },
   {
     "tier": "C",
@@ -10053,8 +10319,8 @@
     "linked_bgg_ids": [
       159473
     ],
-    "mapped_at": "2026-05-12T14:27:23.5661872+01:00",
-    "proposed_rating": 6.711
+    "mapped_at": "2026-05-12T16:12:02.8642585+01:00",
+    "proposed_rating": 6.727
   },
   {
     "tier": "C",
@@ -10096,8 +10362,8 @@
     "linked_bgg_ids": [
       232043
     ],
-    "mapped_at": "2026-05-12T14:27:23.598583+01:00",
-    "proposed_rating": 6.7
+    "mapped_at": "2026-05-12T16:12:02.9103886+01:00",
+    "proposed_rating": 6.718
   },
   {
     "tier": "C",
@@ -10135,8 +10401,8 @@
     "linked_bgg_ids": [
       274037
     ],
-    "mapped_at": "2026-05-12T14:27:23.6602343+01:00",
-    "proposed_rating": 6.69
+    "mapped_at": "2026-05-12T16:12:02.9484584+01:00",
+    "proposed_rating": 6.708
   },
   {
     "tier": "C",
@@ -10172,8 +10438,8 @@
     "linked_bgg_ids": [
       279720
     ],
-    "mapped_at": "2026-05-12T14:27:23.6634581+01:00",
-    "proposed_rating": 6.68
+    "mapped_at": "2026-05-12T16:12:02.952422+01:00",
+    "proposed_rating": 6.698
   },
   {
     "tier": "C",
@@ -10214,8 +10480,8 @@
     "linked_bgg_ids": [
       290359
     ],
-    "mapped_at": "2026-05-12T14:27:23.6729522+01:00",
-    "proposed_rating": 6.669
+    "mapped_at": "2026-05-12T16:12:02.9626617+01:00",
+    "proposed_rating": 6.689
   },
   {
     "tier": "C",
@@ -10255,8 +10521,8 @@
     "linked_bgg_ids": [
       256852
     ],
-    "mapped_at": "2026-05-12T14:27:23.6182337+01:00",
-    "proposed_rating": 6.659
+    "mapped_at": "2026-05-12T16:12:02.9323674+01:00",
+    "proposed_rating": 6.679
   },
   {
     "tier": "C",
@@ -10298,8 +10564,8 @@
     "linked_bgg_ids": [
       347521
     ],
-    "mapped_at": "2026-05-12T14:27:23.7042686+01:00",
-    "proposed_rating": 6.649
+    "mapped_at": "2026-05-12T16:12:02.9954454+01:00",
+    "proposed_rating": 6.669
   },
   {
     "tier": "C",
@@ -10339,8 +10605,8 @@
     "linked_bgg_ids": [
       170223
     ],
-    "mapped_at": "2026-05-12T14:27:23.5713232+01:00",
-    "proposed_rating": 6.639
+    "mapped_at": "2026-05-12T16:12:02.8717558+01:00",
+    "proposed_rating": 6.66
   },
   {
     "tier": "C",
@@ -10379,8 +10645,8 @@
     "linked_bgg_ids": [
       344839
     ],
-    "mapped_at": "2026-05-12T14:27:23.7023411+01:00",
-    "proposed_rating": 6.628
+    "mapped_at": "2026-05-12T16:12:02.9932298+01:00",
+    "proposed_rating": 6.65
   },
   {
     "tier": "C",
@@ -10420,8 +10686,8 @@
     "linked_bgg_ids": [
       253786
     ],
-    "mapped_at": "2026-05-12T14:27:23.6139051+01:00",
-    "proposed_rating": 6.618
+    "mapped_at": "2026-05-12T16:12:02.9281808+01:00",
+    "proposed_rating": 6.64
   },
   {
     "tier": "C",
@@ -10469,8 +10735,8 @@
     "linked_bgg_ids": [
       65244
     ],
-    "mapped_at": "2026-05-12T14:27:23.5435434+01:00",
-    "proposed_rating": 6.608
+    "mapped_at": "2026-05-12T16:12:02.8094814+01:00",
+    "proposed_rating": 6.63
   },
   {
     "tier": "C",
@@ -10519,8 +10785,8 @@
     "linked_bgg_ids": [
       31481
     ],
-    "mapped_at": "2026-05-12T14:27:23.5394845+01:00",
-    "proposed_rating": 6.597
+    "mapped_at": "2026-05-12T16:12:02.7995461+01:00",
+    "proposed_rating": 6.621
   },
   {
     "tier": "C",
@@ -10558,8 +10824,8 @@
     "linked_bgg_ids": [
       278120
     ],
-    "mapped_at": "2026-05-12T14:27:23.6626066+01:00",
-    "proposed_rating": 6.587
+    "mapped_at": "2026-05-12T16:12:02.9513188+01:00",
+    "proposed_rating": 6.611
   },
   {
     "tier": "C",
@@ -10599,8 +10865,8 @@
     "linked_bgg_ids": [
       158600
     ],
-    "mapped_at": "2026-05-12T14:27:23.5656297+01:00",
-    "proposed_rating": 6.577
+    "mapped_at": "2026-05-12T16:12:02.8633457+01:00",
+    "proposed_rating": 6.601
   },
   {
     "tier": "C",
@@ -10637,8 +10903,8 @@
     "linked_bgg_ids": [
       195314
     ],
-    "mapped_at": "2026-05-12T14:27:23.5851703+01:00",
-    "proposed_rating": 6.566
+    "mapped_at": "2026-05-12T16:12:02.8884976+01:00",
+    "proposed_rating": 6.592
   },
   {
     "tier": "C",
@@ -10677,8 +10943,8 @@
     "linked_bgg_ids": [
       8203
     ],
-    "mapped_at": "2026-05-12T14:27:23.5370019+01:00",
-    "proposed_rating": 6.556
+    "mapped_at": "2026-05-12T16:12:02.7941918+01:00",
+    "proposed_rating": 6.582
   },
   {
     "tier": "C",
@@ -10718,8 +10984,8 @@
     "linked_bgg_ids": [
       369258
     ],
-    "mapped_at": "2026-05-12T14:27:23.7144358+01:00",
-    "proposed_rating": 6.546
+    "mapped_at": "2026-05-12T16:12:03.0054415+01:00",
+    "proposed_rating": 6.572
   },
   {
     "tier": "C",
@@ -10766,8 +11032,8 @@
     "linked_bgg_ids": [
       272738
     ],
-    "mapped_at": "2026-05-12T14:27:23.659809+01:00",
-    "proposed_rating": 6.536
+    "mapped_at": "2026-05-12T16:12:02.9479462+01:00",
+    "proposed_rating": 6.563
   },
   {
     "tier": "C",
@@ -10810,8 +11076,8 @@
     "linked_bgg_ids": [
       297562
     ],
-    "mapped_at": "2026-05-12T14:27:23.6764477+01:00",
-    "proposed_rating": 6.525
+    "mapped_at": "2026-05-12T16:12:02.9667882+01:00",
+    "proposed_rating": 6.553
   },
   {
     "tier": "C",
@@ -10848,8 +11114,8 @@
     "linked_bgg_ids": [
       379629
     ],
-    "mapped_at": "2026-05-12T14:27:23.7165414+01:00",
-    "proposed_rating": 6.515
+    "mapped_at": "2026-05-12T16:12:03.0073503+01:00",
+    "proposed_rating": 6.543
   },
   {
     "tier": "C",
@@ -10888,8 +11154,8 @@
     "linked_bgg_ids": [
       264141
     ],
-    "mapped_at": "2026-05-12T14:27:23.622567+01:00",
-    "proposed_rating": 6.505
+    "mapped_at": "2026-05-12T16:12:02.9364034+01:00",
+    "proposed_rating": 6.533
   },
   {
     "tier": "C",
@@ -10927,8 +11193,8 @@
     "linked_bgg_ids": [
       267401
     ],
-    "mapped_at": "2026-05-12T14:27:23.6551222+01:00",
-    "proposed_rating": 6.494
+    "mapped_at": "2026-05-12T16:12:02.9421758+01:00",
+    "proposed_rating": 6.524
   },
   {
     "tier": "C",
@@ -10967,8 +11233,8 @@
     "linked_bgg_ids": [
       192638
     ],
-    "mapped_at": "2026-05-12T14:27:23.5829136+01:00",
-    "proposed_rating": 6.484
+    "mapped_at": "2026-05-12T16:12:02.8855072+01:00",
+    "proposed_rating": 6.514
   },
   {
     "tier": "C",
@@ -11011,8 +11277,8 @@
     "linked_bgg_ids": [
       194879
     ],
-    "mapped_at": "2026-05-12T14:27:23.58493+01:00",
-    "proposed_rating": 6.474
+    "mapped_at": "2026-05-12T16:12:02.8881311+01:00",
+    "proposed_rating": 6.504
   },
   {
     "tier": "C",
@@ -11051,8 +11317,8 @@
     "linked_bgg_ids": [
       256713
     ],
-    "mapped_at": "2026-05-12T14:27:23.617695+01:00",
-    "proposed_rating": 6.463
+    "mapped_at": "2026-05-12T16:12:02.931606+01:00",
+    "proposed_rating": 6.495
   },
   {
     "tier": "C",
@@ -11093,8 +11359,8 @@
     "linked_bgg_ids": [
       192153
     ],
-    "mapped_at": "2026-05-12T14:27:23.5822656+01:00",
-    "proposed_rating": 6.453
+    "mapped_at": "2026-05-12T16:12:02.8846616+01:00",
+    "proposed_rating": 6.485
   },
   {
     "tier": "C",
@@ -11139,8 +11405,8 @@
     "linked_bgg_ids": [
       38453
     ],
-    "mapped_at": "2026-05-12T14:27:23.5402267+01:00",
-    "proposed_rating": 6.443
+    "mapped_at": "2026-05-12T16:12:02.8015364+01:00",
+    "proposed_rating": 6.475
   },
   {
     "tier": "C",
@@ -11180,8 +11446,8 @@
     "linked_bgg_ids": [
       182631
     ],
-    "mapped_at": "2026-05-12T14:27:23.5782209+01:00",
-    "proposed_rating": 6.433
+    "mapped_at": "2026-05-12T16:12:02.8808539+01:00",
+    "proposed_rating": 6.466
   },
   {
     "tier": "C",
@@ -11226,8 +11492,8 @@
     "linked_bgg_ids": [
       296108
     ],
-    "mapped_at": "2026-05-12T14:27:23.6753214+01:00",
-    "proposed_rating": 6.422
+    "mapped_at": "2026-05-12T16:12:02.9655349+01:00",
+    "proposed_rating": 6.456
   },
   {
     "tier": "C",
@@ -11264,8 +11530,8 @@
     "linked_bgg_ids": [
       253284
     ],
-    "mapped_at": "2026-05-12T14:27:23.6133264+01:00",
-    "proposed_rating": 6.412
+    "mapped_at": "2026-05-12T16:12:02.9274212+01:00",
+    "proposed_rating": 6.446
   },
   {
     "tier": "C",
@@ -11304,8 +11570,8 @@
     "linked_bgg_ids": [
       241724
     ],
-    "mapped_at": "2026-05-12T14:27:23.6029072+01:00",
-    "proposed_rating": 6.402
+    "mapped_at": "2026-05-12T16:12:02.9147734+01:00",
+    "proposed_rating": 6.436
   },
   {
     "tier": "C",
@@ -11344,8 +11610,8 @@
     "linked_bgg_ids": [
       362944
     ],
-    "mapped_at": "2026-05-12T14:27:23.7126476+01:00",
-    "proposed_rating": 6.391
+    "mapped_at": "2026-05-12T16:12:03.0027295+01:00",
+    "proposed_rating": 6.427
   },
   {
     "tier": "C",
@@ -11383,8 +11649,8 @@
     "linked_bgg_ids": [
       223779
     ],
-    "mapped_at": "2026-05-12T14:27:23.5953659+01:00",
-    "proposed_rating": 6.381
+    "mapped_at": "2026-05-12T16:12:02.905721+01:00",
+    "proposed_rating": 6.417
   },
   {
     "tier": "C",
@@ -11421,8 +11687,8 @@
     "linked_bgg_ids": [
       220700
     ],
-    "mapped_at": "2026-05-12T14:27:23.5939516+01:00",
-    "proposed_rating": 6.371
+    "mapped_at": "2026-05-12T16:12:02.9040757+01:00",
+    "proposed_rating": 6.407
   },
   {
     "tier": "C",
@@ -11468,8 +11734,8 @@
     "linked_bgg_ids": [
       156009
     ],
-    "mapped_at": "2026-05-12T14:27:23.5650298+01:00",
-    "proposed_rating": 6.36
+    "mapped_at": "2026-05-12T16:12:02.8482082+01:00",
+    "proposed_rating": 6.398
   },
   {
     "tier": "C",
@@ -11510,8 +11776,8 @@
     "linked_bgg_ids": [
       14996
     ],
-    "mapped_at": "2026-05-12T14:27:23.5383953+01:00",
-    "proposed_rating": 6.35
+    "mapped_at": "2026-05-12T16:12:02.7968601+01:00",
+    "proposed_rating": 6.388
   },
   {
     "tier": "C",
@@ -11559,8 +11825,8 @@
     "linked_bgg_ids": [
       179275
     ],
-    "mapped_at": "2026-05-12T14:27:23.5768604+01:00",
-    "proposed_rating": 6.34
+    "mapped_at": "2026-05-12T16:12:02.8761372+01:00",
+    "proposed_rating": 6.378
   },
   {
     "tier": "C",
@@ -11600,8 +11866,8 @@
     "linked_bgg_ids": [
       147299
     ],
-    "mapped_at": "2026-05-12T14:27:23.5630179+01:00",
-    "proposed_rating": 6.33
+    "mapped_at": "2026-05-12T16:12:02.8357892+01:00",
+    "proposed_rating": 6.369
   },
   {
     "tier": "C",
@@ -11640,8 +11906,8 @@
     "linked_bgg_ids": [
       172
     ],
-    "mapped_at": "2026-05-12T14:27:23.5337618+01:00",
-    "proposed_rating": 6.319
+    "mapped_at": "2026-05-12T16:12:02.7737522+01:00",
+    "proposed_rating": 6.359
   },
   {
     "tier": "C",
@@ -11685,8 +11951,8 @@
     "linked_bgg_ids": [
       107529
     ],
-    "mapped_at": "2026-05-12T14:27:23.5499764+01:00",
-    "proposed_rating": 6.309
+    "mapped_at": "2026-05-12T16:12:02.8196078+01:00",
+    "proposed_rating": 6.349
   },
   {
     "tier": "C",
@@ -11728,8 +11994,8 @@
     "linked_bgg_ids": [
       245654
     ],
-    "mapped_at": "2026-05-12T14:27:23.6092028+01:00",
-    "proposed_rating": 6.299
+    "mapped_at": "2026-05-12T16:12:02.919983+01:00",
+    "proposed_rating": 6.339
   },
   {
     "tier": "C",
@@ -11773,8 +12039,8 @@
     "linked_bgg_ids": [
       271324
     ],
-    "mapped_at": "2026-05-12T14:27:23.6594574+01:00",
-    "proposed_rating": 6.288
+    "mapped_at": "2026-05-12T16:12:02.9475113+01:00",
+    "proposed_rating": 6.33
   },
   {
     "tier": "C",
@@ -11816,8 +12082,8 @@
     "linked_bgg_ids": [
       166857
     ],
-    "mapped_at": "2026-05-12T14:27:23.5689446+01:00",
-    "proposed_rating": 6.278
+    "mapped_at": "2026-05-12T16:12:02.8683842+01:00",
+    "proposed_rating": 6.32
   },
   {
     "tier": "C",
@@ -11855,8 +12121,8 @@
     "linked_bgg_ids": [
       251830
     ],
-    "mapped_at": "2026-05-12T14:27:23.6126529+01:00",
-    "proposed_rating": 6.268
+    "mapped_at": "2026-05-12T16:12:02.9266891+01:00",
+    "proposed_rating": 6.31
   },
   {
     "tier": "C",
@@ -11893,8 +12159,8 @@
     "linked_bgg_ids": [
       69789
     ],
-    "mapped_at": "2026-05-12T14:27:23.5471145+01:00",
-    "proposed_rating": 6.257
+    "mapped_at": "2026-05-12T16:12:02.8113924+01:00",
+    "proposed_rating": 6.301
   },
   {
     "tier": "C",
@@ -11935,8 +12201,8 @@
     "linked_bgg_ids": [
       98778
     ],
-    "mapped_at": "2026-05-12T14:27:23.5489158+01:00",
-    "proposed_rating": 6.247
+    "mapped_at": "2026-05-12T16:12:02.8148233+01:00",
+    "proposed_rating": 6.291
   },
   {
     "tier": "C",
@@ -11974,8 +12240,8 @@
     "linked_bgg_ids": [
       210274
     ],
-    "mapped_at": "2026-05-12T14:27:23.5909335+01:00",
-    "proposed_rating": 6.237
+    "mapped_at": "2026-05-12T16:12:02.8934054+01:00",
+    "proposed_rating": 6.281
   },
   {
     "tier": "C",
@@ -12013,8 +12279,8 @@
     "linked_bgg_ids": [
       183006
     ],
-    "mapped_at": "2026-05-12T14:27:23.5786221+01:00",
-    "proposed_rating": 6.227
+    "mapped_at": "2026-05-12T16:12:02.8812402+01:00",
+    "proposed_rating": 6.272
   },
   {
     "tier": "C",
@@ -12055,8 +12321,8 @@
     "linked_bgg_ids": [
       254713
     ],
-    "mapped_at": "2026-05-12T14:27:23.6144007+01:00",
-    "proposed_rating": 6.216
+    "mapped_at": "2026-05-12T16:12:02.928907+01:00",
+    "proposed_rating": 6.262
   },
   {
     "tier": "C",
@@ -12098,8 +12364,8 @@
     "linked_bgg_ids": [
       189932
     ],
-    "mapped_at": "2026-05-12T14:27:23.5813432+01:00",
-    "proposed_rating": 6.206
+    "mapped_at": "2026-05-12T16:12:02.8840629+01:00",
+    "proposed_rating": 6.252
   },
   {
     "tier": "C",
@@ -12137,8 +12403,8 @@
     "linked_bgg_ids": [
       213893
     ],
-    "mapped_at": "2026-05-12T14:27:23.5922312+01:00",
-    "proposed_rating": 6.196
+    "mapped_at": "2026-05-12T16:12:02.8944662+01:00",
+    "proposed_rating": 6.242
   },
   {
     "tier": "C",
@@ -12187,8 +12453,8 @@
     "linked_bgg_ids": [
       283393
     ],
-    "mapped_at": "2026-05-12T14:27:23.6692359+01:00",
-    "proposed_rating": 6.185
+    "mapped_at": "2026-05-12T16:12:02.9563961+01:00",
+    "proposed_rating": 6.233
   },
   {
     "tier": "C",
@@ -12230,8 +12496,8 @@
     "linked_bgg_ids": [
       143515
     ],
-    "mapped_at": "2026-05-12T14:27:23.5593287+01:00",
-    "proposed_rating": 6.175
+    "mapped_at": "2026-05-12T16:12:02.832322+01:00",
+    "proposed_rating": 6.223
   },
   {
     "tier": "C",
@@ -12270,8 +12536,8 @@
     "linked_bgg_ids": [
       169654
     ],
-    "mapped_at": "2026-05-12T14:27:23.5701923+01:00",
-    "proposed_rating": 6.165
+    "mapped_at": "2026-05-12T16:12:02.8702516+01:00",
+    "proposed_rating": 6.213
   },
   {
     "tier": "C",
@@ -12313,8 +12579,8 @@
     "linked_bgg_ids": [
       158435
     ],
-    "mapped_at": "2026-05-12T14:27:23.5653302+01:00",
-    "proposed_rating": 6.154
+    "mapped_at": "2026-05-12T16:12:02.8626627+01:00",
+    "proposed_rating": 6.204
   },
   {
     "tier": "C",
@@ -12349,8 +12615,8 @@
     "linked_bgg_ids": [
       96260
     ],
-    "mapped_at": "2026-05-12T14:27:23.5486524+01:00",
-    "proposed_rating": 6.144
+    "mapped_at": "2026-05-12T16:12:02.8143862+01:00",
+    "proposed_rating": 6.194
   },
   {
     "tier": "C",
@@ -12384,8 +12650,8 @@
     "linked_bgg_ids": [
       269573
     ],
-    "mapped_at": "2026-05-12T14:27:23.6573134+01:00",
-    "proposed_rating": 6.134
+    "mapped_at": "2026-05-12T16:12:02.9447493+01:00",
+    "proposed_rating": 6.184
   },
   {
     "tier": "C",
@@ -12425,8 +12691,8 @@
     "linked_bgg_ids": [
       193738
     ],
-    "mapped_at": "2026-05-12T14:27:23.5837953+01:00",
-    "proposed_rating": 6.124
+    "mapped_at": "2026-05-12T16:12:02.8866277+01:00",
+    "proposed_rating": 6.175
   },
   {
     "tier": "C",
@@ -12467,8 +12733,8 @@
     "linked_bgg_ids": [
       275034
     ],
-    "mapped_at": "2026-05-12T14:27:23.661157+01:00",
-    "proposed_rating": 6.113
+    "mapped_at": "2026-05-12T16:12:02.9494956+01:00",
+    "proposed_rating": 6.165
   },
   {
     "tier": "C",
@@ -12507,8 +12773,8 @@
     "linked_bgg_ids": [
       139030
     ],
-    "mapped_at": "2026-05-12T14:27:23.5562193+01:00",
-    "proposed_rating": 6.103
+    "mapped_at": "2026-05-12T16:12:02.8303712+01:00",
+    "proposed_rating": 6.155
   },
   {
     "tier": "C",
@@ -12548,8 +12814,8 @@
     "linked_bgg_ids": [
       66589
     ],
-    "mapped_at": "2026-05-12T14:27:23.5438186+01:00",
-    "proposed_rating": 6.093
+    "mapped_at": "2026-05-12T16:12:02.8099968+01:00",
+    "proposed_rating": 6.145
   },
   {
     "tier": "C",
@@ -12590,8 +12856,8 @@
     "linked_bgg_ids": [
       300877
     ],
-    "mapped_at": "2026-05-12T14:27:23.6786443+01:00",
-    "proposed_rating": 6.082
+    "mapped_at": "2026-05-12T16:12:02.969276+01:00",
+    "proposed_rating": 6.136
   },
   {
     "tier": "C",
@@ -12632,8 +12898,8 @@
     "linked_bgg_ids": [
       329082
     ],
-    "mapped_at": "2026-05-12T14:27:23.697107+01:00",
-    "proposed_rating": 6.072
+    "mapped_at": "2026-05-12T16:12:02.9859855+01:00",
+    "proposed_rating": 6.126
   },
   {
     "tier": "C",
@@ -12685,8 +12951,8 @@
     "linked_bgg_ids": [
       237182
     ],
-    "mapped_at": "2026-05-12T14:27:23.6020415+01:00",
-    "proposed_rating": 6.062
+    "mapped_at": "2026-05-12T16:12:02.9137197+01:00",
+    "proposed_rating": 6.116
   },
   {
     "tier": "C",
@@ -12726,8 +12992,8 @@
     "linked_bgg_ids": [
       159503
     ],
-    "mapped_at": "2026-05-12T14:27:23.566457+01:00",
-    "proposed_rating": 6.051
+    "mapped_at": "2026-05-12T16:12:02.8646795+01:00",
+    "proposed_rating": 6.107
   },
   {
     "tier": "C",
@@ -12764,8 +13030,8 @@
     "linked_bgg_ids": [
       276894
     ],
-    "mapped_at": "2026-05-12T14:27:23.6614315+01:00",
-    "proposed_rating": 6.041
+    "mapped_at": "2026-05-12T16:12:02.9498569+01:00",
+    "proposed_rating": 6.097
   },
   {
     "tier": "C",
@@ -12805,8 +13071,8 @@
     "linked_bgg_ids": [
       128621
     ],
-    "mapped_at": "2026-05-12T14:27:23.5536571+01:00",
-    "proposed_rating": 6.031
+    "mapped_at": "2026-05-12T16:12:02.8260592+01:00",
+    "proposed_rating": 6.087
   },
   {
     "tier": "C",
@@ -12850,8 +13116,8 @@
     "linked_bgg_ids": [
       266192
     ],
-    "mapped_at": "2026-05-12T14:27:23.628435+01:00",
-    "proposed_rating": 6.021
+    "mapped_at": "2026-05-12T16:12:02.9380376+01:00",
+    "proposed_rating": 6.078
   },
   {
     "tier": "C",
@@ -12892,8 +13158,8 @@
     "linked_bgg_ids": [
       184151
     ],
-    "mapped_at": "2026-05-12T14:27:23.5793882+01:00",
-    "proposed_rating": 6.01
+    "mapped_at": "2026-05-12T16:12:02.8821449+01:00",
+    "proposed_rating": 6.068
   },
   {
     "tier": "C",
@@ -12929,7 +13195,263 @@
     "linked_bgg_ids": [
       368017
     ],
-    "mapped_at": "2026-05-12T14:27:23.7136902+01:00",
+    "mapped_at": "2026-05-12T16:12:03.0045941+01:00",
+    "proposed_rating": 6.058
+  },
+  {
+    "tier": "C",
+    "tier_sort": 3,
+    "ranking_group": "C|7",
+    "source_bucket": 7,
+    "rank_in_tier": 99,
+    "bgg_id": 41,
+    "name": "Can't Stop",
+    "current_rating": 7.0,
+    "num_plays": 7.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "group_key": "2-4",
+    "year_published": 1980,
+    "players": "2-4",
+    "complexity": 1.1431,
+    "bgg_rating": 6.94577,
+    "num_ratings": 21672,
+    "categories": [
+      "Dice",
+      "Number"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Push Your Luck",
+      "Race",
+      "Roll / Spin and Move",
+      "Track Movement"
+    ],
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/41",
+    "linked_bgg_ids": [
+      41
+    ],
+    "mapped_at": "2026-05-12T16:12:02.7718645+01:00",
+    "proposed_rating": 6.048
+  },
+  {
+    "tier": "C",
+    "tier_sort": 3,
+    "ranking_group": "C|7",
+    "source_bucket": 7,
+    "rank_in_tier": 100,
+    "bgg_id": 263918,
+    "name": "Cartographers",
+    "current_rating": 7.0,
+    "num_plays": 1.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "group_key": "1-100",
+    "year_published": 2019,
+    "players": "1-100",
+    "complexity": 1.8891,
+    "bgg_rating": 7.55418,
+    "num_ratings": 36127,
+    "categories": [
+      "Fantasy",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Bingo",
+      "Enclosure",
+      "End Game Bonuses",
+      "Grid Coverage",
+      "Paper-and-Pencil",
+      "Pattern Building",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Square Grid",
+      "Take That",
+      "Variable Set-up"
+    ],
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/263918",
+    "linked_bgg_ids": [
+      263918
+    ],
+    "mapped_at": "2026-05-12T16:12:02.9355259+01:00",
+    "proposed_rating": 6.039
+  },
+  {
+    "tier": "C",
+    "tier_sort": 3,
+    "ranking_group": "C|7",
+    "source_bucket": 7,
+    "rank_in_tier": 101,
+    "bgg_id": 407180,
+    "name": "Ganz schön clever: Deluxe",
+    "current_rating": 7.0,
+    "num_plays": 1.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "group_key": "1-4",
+    "year_published": 2023,
+    "players": "1-4",
+    "complexity": 2.4,
+    "bgg_rating": 7.86946,
+    "num_ratings": 167,
+    "categories": [
+      "Dice",
+      "Number"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Highest-Lowest Scoring",
+      "Paper-and-Pencil",
+      "Re-rolling and Locking",
+      "Solo / Solitaire Game"
+    ],
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/407180",
+    "linked_bgg_ids": [
+      407180
+    ],
+    "mapped_at": "2026-05-12T16:12:03.0105392+01:00",
+    "proposed_rating": 6.029
+  },
+  {
+    "tier": "C",
+    "tier_sort": 3,
+    "ranking_group": "C|7",
+    "source_bucket": 7,
+    "rank_in_tier": 102,
+    "bgg_id": 63975,
+    "name": "Mountain Goats",
+    "current_rating": 7.0,
+    "num_plays": 1.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "group_key": "2-4",
+    "year_published": 2010,
+    "players": "2-4",
+    "complexity": 1.211,
+    "bgg_rating": 6.83566,
+    "num_ratings": 5590,
+    "categories": [
+      "Animals",
+      "Dice",
+      "Math",
+      "Number"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "King of the Hill",
+      "Race",
+      "Roll / Spin and Move",
+      "Set Collection",
+      "Track Movement"
+    ],
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/63975",
+    "linked_bgg_ids": [
+      63975
+    ],
+    "mapped_at": "2026-05-12T16:12:02.8090604+01:00",
+    "proposed_rating": 6.019
+  },
+  {
+    "tier": "C",
+    "tier_sort": 3,
+    "ranking_group": "C|7",
+    "source_bucket": 7,
+    "rank_in_tier": 103,
+    "bgg_id": 73439,
+    "name": "Troyes",
+    "current_rating": 7.0,
+    "num_plays": 1.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "group_key": "1-4",
+    "year_published": 2010,
+    "players": "1-4",
+    "complexity": 3.374,
+    "bgg_rating": 7.70281,
+    "num_ratings": 25061,
+    "categories": [
+      "Dice",
+      "Economic",
+      "Medieval"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Events",
+      "Hidden Victory Points",
+      "Income",
+      "Ownership",
+      "Set Collection",
+      "Slide / Push",
+      "Solo / Solitaire Game",
+      "Turn Order: Progressive",
+      "Variable Set-up",
+      "Worker Placement with Dice Workers",
+      "Worker Placement, Different Worker Types"
+    ],
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/73439",
+    "linked_bgg_ids": [
+      73439
+    ],
+    "mapped_at": "2026-05-12T16:12:02.8128129+01:00",
+    "proposed_rating": 6.01
+  },
+  {
+    "tier": "C",
+    "tier_sort": 3,
+    "ranking_group": "C|7",
+    "source_bucket": 7,
+    "rank_in_tier": 104,
+    "bgg_id": 27588,
+    "name": "Zooloretto",
+    "current_rating": 7.0,
+    "num_plays": 1.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "group_key": "2-5",
+    "year_published": 2007,
+    "players": "2-5",
+    "complexity": 1.857,
+    "bgg_rating": 6.78377,
+    "num_ratings": 15704,
+    "categories": [
+      "Animals"
+    ],
+    "mechanics": [
+      "Open Drafting",
+      "Set Collection",
+      "Tile Placement"
+    ],
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/27588",
+    "linked_bgg_ids": [
+      27588
+    ],
+    "mapped_at": "2026-05-12T16:12:02.7974423+01:00",
     "proposed_rating": 6.0
   },
   {
@@ -12972,7 +13494,7 @@
     "linked_bgg_ids": [
       118048
     ],
-    "mapped_at": "2026-05-12T14:27:23.5512615+01:00",
+    "mapped_at": "2026-05-12T16:12:02.8220026+01:00",
     "proposed_rating": 5.999
   },
   {
@@ -13011,8 +13533,8 @@
     "linked_bgg_ids": [
       12942
     ],
-    "mapped_at": "2026-05-12T14:27:23.5381487+01:00",
-    "proposed_rating": 5.981
+    "mapped_at": "2026-05-12T16:12:02.7964129+01:00",
+    "proposed_rating": 5.983
   },
   {
     "tier": "D",
@@ -13050,8 +13572,8 @@
     "linked_bgg_ids": [
       11971
     ],
-    "mapped_at": "2026-05-12T14:27:23.5378039+01:00",
-    "proposed_rating": 5.963
+    "mapped_at": "2026-05-12T16:12:02.7957761+01:00",
+    "proposed_rating": 5.966
   },
   {
     "tier": "D",
@@ -13096,8 +13618,8 @@
     "linked_bgg_ids": [
       143741
     ],
-    "mapped_at": "2026-05-12T14:27:23.5598427+01:00",
-    "proposed_rating": 5.945
+    "mapped_at": "2026-05-12T16:12:02.8328385+01:00",
+    "proposed_rating": 5.95
   },
   {
     "tier": "D",
@@ -13139,8 +13661,8 @@
     "linked_bgg_ids": [
       178900
     ],
-    "mapped_at": "2026-05-12T14:27:23.5766038+01:00",
-    "proposed_rating": 5.928
+    "mapped_at": "2026-05-12T16:12:02.8757778+01:00",
+    "proposed_rating": 5.933
   },
   {
     "tier": "D",
@@ -13177,8 +13699,8 @@
     "linked_bgg_ids": [
       811
     ],
-    "mapped_at": "2026-05-12T14:27:23.5343184+01:00",
-    "proposed_rating": 5.91
+    "mapped_at": "2026-05-12T16:12:02.7747705+01:00",
+    "proposed_rating": 5.917
   },
   {
     "tier": "D",
@@ -13222,8 +13744,8 @@
     "linked_bgg_ids": [
       303554
     ],
-    "mapped_at": "2026-05-12T14:27:23.6792766+01:00",
-    "proposed_rating": 5.892
+    "mapped_at": "2026-05-12T16:12:02.9702004+01:00",
+    "proposed_rating": 5.901
   },
   {
     "tier": "D",
@@ -13260,8 +13782,8 @@
     "linked_bgg_ids": [
       122298
     ],
-    "mapped_at": "2026-05-12T14:27:23.5518295+01:00",
-    "proposed_rating": 5.874
+    "mapped_at": "2026-05-12T16:12:02.8229829+01:00",
+    "proposed_rating": 5.884
   },
   {
     "tier": "D",
@@ -13301,8 +13823,8 @@
     "linked_bgg_ids": [
       337070
     ],
-    "mapped_at": "2026-05-12T14:27:23.6997973+01:00",
-    "proposed_rating": 5.856
+    "mapped_at": "2026-05-12T16:12:02.9899618+01:00",
+    "proposed_rating": 5.868
   },
   {
     "tier": "D",
@@ -13337,8 +13859,8 @@
     "linked_bgg_ids": [
       105593
     ],
-    "mapped_at": "2026-05-12T14:27:23.5497312+01:00",
-    "proposed_rating": 5.838
+    "mapped_at": "2026-05-12T16:12:02.8190771+01:00",
+    "proposed_rating": 5.852
   },
   {
     "tier": "D",
@@ -13375,8 +13897,8 @@
     "linked_bgg_ids": [
       376747
     ],
-    "mapped_at": "2026-05-12T14:27:23.7153562+01:00",
-    "proposed_rating": 5.821
+    "mapped_at": "2026-05-12T16:12:03.006653+01:00",
+    "proposed_rating": 5.835
   },
   {
     "tier": "D",
@@ -13418,8 +13940,8 @@
     "linked_bgg_ids": [
       172225
     ],
-    "mapped_at": "2026-05-12T14:27:23.5725058+01:00",
-    "proposed_rating": 5.803
+    "mapped_at": "2026-05-12T16:12:02.8733289+01:00",
+    "proposed_rating": 5.819
   },
   {
     "tier": "D",
@@ -13460,8 +13982,8 @@
     "linked_bgg_ids": [
       345088
     ],
-    "mapped_at": "2026-05-12T14:27:23.7026317+01:00",
-    "proposed_rating": 5.785
+    "mapped_at": "2026-05-12T16:12:02.9935771+01:00",
+    "proposed_rating": 5.802
   },
   {
     "tier": "D",
@@ -13501,8 +14023,8 @@
     "linked_bgg_ids": [
       160968
     ],
-    "mapped_at": "2026-05-12T14:27:23.567003+01:00",
-    "proposed_rating": 5.767
+    "mapped_at": "2026-05-12T16:12:02.8654274+01:00",
+    "proposed_rating": 5.786
   },
   {
     "tier": "D",
@@ -13541,8 +14063,8 @@
     "linked_bgg_ids": [
       240957
     ],
-    "mapped_at": "2026-05-12T14:27:23.6025905+01:00",
-    "proposed_rating": 5.749
+    "mapped_at": "2026-05-12T16:12:02.9144477+01:00",
+    "proposed_rating": 5.77
   },
   {
     "tier": "D",
@@ -13585,8 +14107,8 @@
     "linked_bgg_ids": [
       193322
     ],
-    "mapped_at": "2026-05-12T14:27:23.5834978+01:00",
-    "proposed_rating": 5.731
+    "mapped_at": "2026-05-12T16:12:02.8862102+01:00",
+    "proposed_rating": 5.753
   },
   {
     "tier": "D",
@@ -13625,8 +14147,8 @@
     "linked_bgg_ids": [
       230251
     ],
-    "mapped_at": "2026-05-12T14:27:23.5972985+01:00",
-    "proposed_rating": 5.714
+    "mapped_at": "2026-05-12T16:12:02.9085689+01:00",
+    "proposed_rating": 5.737
   },
   {
     "tier": "D",
@@ -13667,8 +14189,8 @@
     "linked_bgg_ids": [
       309297
     ],
-    "mapped_at": "2026-05-12T14:27:23.6815029+01:00",
-    "proposed_rating": 5.696
+    "mapped_at": "2026-05-12T16:12:02.9728532+01:00",
+    "proposed_rating": 5.721
   },
   {
     "tier": "D",
@@ -13715,8 +14237,8 @@
     "linked_bgg_ids": [
       41114
     ],
-    "mapped_at": "2026-05-12T14:27:23.541012+01:00",
-    "proposed_rating": 5.678
+    "mapped_at": "2026-05-12T16:12:02.803913+01:00",
+    "proposed_rating": 5.704
   },
   {
     "tier": "D",
@@ -13754,8 +14276,8 @@
     "linked_bgg_ids": [
       234190
     ],
-    "mapped_at": "2026-05-12T14:27:23.6009294+01:00",
-    "proposed_rating": 5.66
+    "mapped_at": "2026-05-12T16:12:02.9125303+01:00",
+    "proposed_rating": 5.688
   },
   {
     "tier": "D",
@@ -13794,8 +14316,8 @@
     "linked_bgg_ids": [
       281075
     ],
-    "mapped_at": "2026-05-12T14:27:23.6645102+01:00",
-    "proposed_rating": 5.642
+    "mapped_at": "2026-05-12T16:12:02.9537867+01:00",
+    "proposed_rating": 5.671
   },
   {
     "tier": "D",
@@ -13837,8 +14359,8 @@
     "linked_bgg_ids": [
       158899
     ],
-    "mapped_at": "2026-05-12T14:27:23.5658964+01:00",
-    "proposed_rating": 5.624
+    "mapped_at": "2026-05-12T16:12:02.8638438+01:00",
+    "proposed_rating": 5.655
   },
   {
     "tier": "D",
@@ -13873,8 +14395,8 @@
     "linked_bgg_ids": [
       207062
     ],
-    "mapped_at": "2026-05-12T14:27:23.5880889+01:00",
-    "proposed_rating": 5.607
+    "mapped_at": "2026-05-12T16:12:02.8924616+01:00",
+    "proposed_rating": 5.639
   },
   {
     "tier": "D",
@@ -13915,8 +14437,8 @@
     "linked_bgg_ids": [
       359502
     ],
-    "mapped_at": "2026-05-12T14:27:23.7105409+01:00",
-    "proposed_rating": 5.589
+    "mapped_at": "2026-05-12T16:12:03.0011626+01:00",
+    "proposed_rating": 5.622
   },
   {
     "tier": "D",
@@ -13965,8 +14487,8 @@
     "linked_bgg_ids": [
       124361
     ],
-    "mapped_at": "2026-05-12T14:27:23.5528606+01:00",
-    "proposed_rating": 5.571
+    "mapped_at": "2026-05-12T16:12:02.8247573+01:00",
+    "proposed_rating": 5.606
   },
   {
     "tier": "D",
@@ -14009,8 +14531,8 @@
     "linked_bgg_ids": [
       256570
     ],
-    "mapped_at": "2026-05-12T14:27:23.6166931+01:00",
-    "proposed_rating": 5.553
+    "mapped_at": "2026-05-12T16:12:02.9306801+01:00",
+    "proposed_rating": 5.59
   },
   {
     "tier": "D",
@@ -14048,8 +14570,8 @@
     "linked_bgg_ids": [
       173090
     ],
-    "mapped_at": "2026-05-12T14:27:23.5748943+01:00",
-    "proposed_rating": 5.535
+    "mapped_at": "2026-05-12T16:12:02.87409+01:00",
+    "proposed_rating": 5.573
   },
   {
     "tier": "D",
@@ -14103,8 +14625,8 @@
     "linked_bgg_ids": [
       103343
     ],
-    "mapped_at": "2026-05-12T14:27:23.5494017+01:00",
-    "proposed_rating": 5.517
+    "mapped_at": "2026-05-12T16:12:02.8183683+01:00",
+    "proposed_rating": 5.557
   },
   {
     "tier": "D",
@@ -14143,8 +14665,8 @@
     "linked_bgg_ids": [
       181293
     ],
-    "mapped_at": "2026-05-12T14:27:23.5775875+01:00",
-    "proposed_rating": 5.5
+    "mapped_at": "2026-05-12T16:12:02.8799908+01:00",
+    "proposed_rating": 5.54
   },
   {
     "tier": "D",
@@ -14181,8 +14703,8 @@
     "linked_bgg_ids": [
       5420
     ],
-    "mapped_at": "2026-05-12T14:27:23.5366202+01:00",
-    "proposed_rating": 5.482
+    "mapped_at": "2026-05-12T16:12:02.7800822+01:00",
+    "proposed_rating": 5.524
   },
   {
     "tier": "D",
@@ -14223,8 +14745,8 @@
     "linked_bgg_ids": [
       213266
     ],
-    "mapped_at": "2026-05-12T14:27:23.5918715+01:00",
-    "proposed_rating": 5.464
+    "mapped_at": "2026-05-12T16:12:02.894008+01:00",
+    "proposed_rating": 5.508
   },
   {
     "tier": "D",
@@ -14263,8 +14785,8 @@
     "linked_bgg_ids": [
       238972
     ],
-    "mapped_at": "2026-05-12T14:27:23.6023312+01:00",
-    "proposed_rating": 5.446
+    "mapped_at": "2026-05-12T16:12:02.914039+01:00",
+    "proposed_rating": 5.491
   },
   {
     "tier": "D",
@@ -14304,8 +14826,8 @@
     "linked_bgg_ids": [
       269511
     ],
-    "mapped_at": "2026-05-12T14:27:23.6569773+01:00",
-    "proposed_rating": 5.428
+    "mapped_at": "2026-05-12T16:12:02.9443593+01:00",
+    "proposed_rating": 5.475
   },
   {
     "tier": "D",
@@ -14348,8 +14870,8 @@
     "linked_bgg_ids": [
       269595
     ],
-    "mapped_at": "2026-05-12T14:27:23.657608+01:00",
-    "proposed_rating": 5.41
+    "mapped_at": "2026-05-12T16:12:02.9451425+01:00",
+    "proposed_rating": 5.459
   },
   {
     "tier": "D",
@@ -14392,8 +14914,8 @@
     "linked_bgg_ids": [
       280480
     ],
-    "mapped_at": "2026-05-12T14:27:23.6637991+01:00",
-    "proposed_rating": 5.392
+    "mapped_at": "2026-05-12T16:12:02.9529007+01:00",
+    "proposed_rating": 5.442
   },
   {
     "tier": "D",
@@ -14433,8 +14955,8 @@
     "linked_bgg_ids": [
       244271
     ],
-    "mapped_at": "2026-05-12T14:27:23.604045+01:00",
-    "proposed_rating": 5.375
+    "mapped_at": "2026-05-12T16:12:02.9169784+01:00",
+    "proposed_rating": 5.426
   },
   {
     "tier": "D",
@@ -14472,8 +14994,8 @@
     "linked_bgg_ids": [
       169124
     ],
-    "mapped_at": "2026-05-12T14:27:23.5697004+01:00",
-    "proposed_rating": 5.357
+    "mapped_at": "2026-05-12T16:12:02.869513+01:00",
+    "proposed_rating": 5.409
   },
   {
     "tier": "D",
@@ -14512,8 +15034,8 @@
     "linked_bgg_ids": [
       249703
     ],
-    "mapped_at": "2026-05-12T14:27:23.6119855+01:00",
-    "proposed_rating": 5.339
+    "mapped_at": "2026-05-12T16:12:02.9257353+01:00",
+    "proposed_rating": 5.393
   },
   {
     "tier": "D",
@@ -14549,8 +15071,8 @@
     "linked_bgg_ids": [
       134157
     ],
-    "mapped_at": "2026-05-12T14:27:23.5551591+01:00",
-    "proposed_rating": 5.321
+    "mapped_at": "2026-05-12T16:12:02.8286054+01:00",
+    "proposed_rating": 5.377
   },
   {
     "tier": "D",
@@ -14590,8 +15112,8 @@
     "linked_bgg_ids": [
       134253
     ],
-    "mapped_at": "2026-05-12T14:27:23.5553949+01:00",
-    "proposed_rating": 5.303
+    "mapped_at": "2026-05-12T16:12:02.8290206+01:00",
+    "proposed_rating": 5.36
   },
   {
     "tier": "D",
@@ -14635,8 +15157,8 @@
     "linked_bgg_ids": [
       70323
     ],
-    "mapped_at": "2026-05-12T14:27:23.5474211+01:00",
-    "proposed_rating": 5.285
+    "mapped_at": "2026-05-12T16:12:02.8118005+01:00",
+    "proposed_rating": 5.344
   },
   {
     "tier": "D",
@@ -14677,8 +15199,8 @@
     "linked_bgg_ids": [
       1219
     ],
-    "mapped_at": "2026-05-12T14:27:23.5348295+01:00",
-    "proposed_rating": 5.268
+    "mapped_at": "2026-05-12T16:12:02.775742+01:00",
+    "proposed_rating": 5.328
   },
   {
     "tier": "D",
@@ -14725,8 +15247,8 @@
     "linked_bgg_ids": [
       285774
     ],
-    "mapped_at": "2026-05-12T14:27:23.6709153+01:00",
-    "proposed_rating": 5.25
+    "mapped_at": "2026-05-12T16:12:02.9602249+01:00",
+    "proposed_rating": 5.311
   },
   {
     "tier": "D",
@@ -14772,8 +15294,8 @@
     "linked_bgg_ids": [
       126042
     ],
-    "mapped_at": "2026-05-12T14:27:23.5531523+01:00",
-    "proposed_rating": 5.232
+    "mapped_at": "2026-05-12T16:12:02.8252757+01:00",
+    "proposed_rating": 5.295
   },
   {
     "tier": "D",
@@ -14815,8 +15337,8 @@
     "linked_bgg_ids": [
       255692
     ],
-    "mapped_at": "2026-05-12T14:27:23.6148863+01:00",
-    "proposed_rating": 5.214
+    "mapped_at": "2026-05-12T16:12:02.9295864+01:00",
+    "proposed_rating": 5.278
   },
   {
     "tier": "D",
@@ -14853,8 +15375,8 @@
     "linked_bgg_ids": [
       162041
     ],
-    "mapped_at": "2026-05-12T14:27:23.5672776+01:00",
-    "proposed_rating": 5.196
+    "mapped_at": "2026-05-12T16:12:02.8658906+01:00",
+    "proposed_rating": 5.262
   },
   {
     "tier": "D",
@@ -14891,8 +15413,8 @@
     "linked_bgg_ids": [
       270445
     ],
-    "mapped_at": "2026-05-12T14:27:23.6588538+01:00",
-    "proposed_rating": 5.178
+    "mapped_at": "2026-05-12T16:12:02.9467547+01:00",
+    "proposed_rating": 5.246
   },
   {
     "tier": "D",
@@ -14935,8 +15457,8 @@
     "linked_bgg_ids": [
       147949
     ],
-    "mapped_at": "2026-05-12T14:27:23.5635642+01:00",
-    "proposed_rating": 5.161
+    "mapped_at": "2026-05-12T16:12:02.8400469+01:00",
+    "proposed_rating": 5.229
   },
   {
     "tier": "D",
@@ -14979,8 +15501,8 @@
     "linked_bgg_ids": [
       170199
     ],
-    "mapped_at": "2026-05-12T14:27:23.570666+01:00",
-    "proposed_rating": 5.143
+    "mapped_at": "2026-05-12T16:12:02.8709966+01:00",
+    "proposed_rating": 5.213
   },
   {
     "tier": "D",
@@ -15018,8 +15540,8 @@
     "linked_bgg_ids": [
       419143
     ],
-    "mapped_at": "2026-05-12T14:27:23.7209538+01:00",
-    "proposed_rating": 5.125
+    "mapped_at": "2026-05-12T16:12:03.0123143+01:00",
+    "proposed_rating": 5.197
   },
   {
     "tier": "D",
@@ -15057,8 +15579,8 @@
     "linked_bgg_ids": [
       244522
     ],
-    "mapped_at": "2026-05-12T14:27:23.6045904+01:00",
-    "proposed_rating": 5.107
+    "mapped_at": "2026-05-12T16:12:02.9179768+01:00",
+    "proposed_rating": 5.18
   },
   {
     "tier": "D",
@@ -15101,8 +15623,8 @@
     "linked_bgg_ids": [
       204574
     ],
-    "mapped_at": "2026-05-12T14:27:23.5865703+01:00",
-    "proposed_rating": 5.089
+    "mapped_at": "2026-05-12T16:12:02.8901434+01:00",
+    "proposed_rating": 5.164
   },
   {
     "tier": "D",
@@ -15146,8 +15668,8 @@
     "linked_bgg_ids": [
       257283
     ],
-    "mapped_at": "2026-05-12T14:27:23.6192954+01:00",
-    "proposed_rating": 5.071
+    "mapped_at": "2026-05-12T16:12:02.9331702+01:00",
+    "proposed_rating": 5.147
   },
   {
     "tier": "D",
@@ -15188,8 +15710,8 @@
     "linked_bgg_ids": [
       244654
     ],
-    "mapped_at": "2026-05-12T14:27:23.6069172+01:00",
-    "proposed_rating": 5.054
+    "mapped_at": "2026-05-12T16:12:02.9184922+01:00",
+    "proposed_rating": 5.131
   },
   {
     "tier": "D",
@@ -15226,8 +15748,8 @@
     "linked_bgg_ids": [
       115105
     ],
-    "mapped_at": "2026-05-12T14:27:23.5507687+01:00",
-    "proposed_rating": 5.036
+    "mapped_at": "2026-05-12T16:12:02.8211218+01:00",
+    "proposed_rating": 5.115
   },
   {
     "tier": "D",
@@ -15265,8 +15787,8 @@
     "linked_bgg_ids": [
       356123
     ],
-    "mapped_at": "2026-05-12T14:27:23.7078407+01:00",
-    "proposed_rating": 5.018
+    "mapped_at": "2026-05-12T16:12:02.9975449+01:00",
+    "proposed_rating": 5.098
   },
   {
     "tier": "D",
@@ -15303,7 +15825,211 @@
     "linked_bgg_ids": [
       378848
     ],
-    "mapped_at": "2026-05-12T14:27:23.7162097+01:00",
+    "mapped_at": "2026-05-12T16:12:03.0070229+01:00",
+    "proposed_rating": 5.082
+  },
+  {
+    "tier": "D",
+    "tier_sort": 4,
+    "ranking_group": "D|6",
+    "source_bucket": 6,
+    "rank_in_tier": 58,
+    "bgg_id": 303734,
+    "name": "Golems",
+    "current_rating": 6.0,
+    "num_plays": 2.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "group_key": "1-2",
+    "year_published": 2020,
+    "players": "1-2",
+    "complexity": 1.75,
+    "bgg_rating": 6.07951,
+    "num_ratings": 383,
+    "categories": [
+      "Card Game"
+    ],
+    "mechanics": [
+      "Open Drafting",
+      "Set Collection"
+    ],
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/303734",
+    "linked_bgg_ids": [
+      303734
+    ],
+    "mapped_at": "2026-05-12T16:12:02.9705439+01:00",
+    "proposed_rating": 5.066
+  },
+  {
+    "tier": "D",
+    "tier_sort": 4,
+    "ranking_group": "D|6",
+    "source_bucket": 6,
+    "rank_in_tier": 59,
+    "bgg_id": 302520,
+    "name": "Hues and Cues",
+    "current_rating": 6.0,
+    "num_plays": 2.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "group_key": "3-10",
+    "year_published": 2020,
+    "players": "3-10",
+    "complexity": 1.0603,
+    "bgg_rating": 6.43818,
+    "num_ratings": 7497,
+    "categories": [
+      "Deduction",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Communication Limits",
+      "Deduction",
+      "Score-and-Reset Game",
+      "Targeted Clues",
+      "Turn Order: Progressive"
+    ],
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/302520",
+    "linked_bgg_ids": [
+      302520
+    ],
+    "mapped_at": "2026-05-12T16:12:02.9696778+01:00",
+    "proposed_rating": 5.049
+  },
+  {
+    "tier": "D",
+    "tier_sort": 4,
+    "ranking_group": "D|6",
+    "source_bucket": 6,
+    "rank_in_tier": 60,
+    "bgg_id": 204583,
+    "name": "Kingdomino",
+    "current_rating": 6.0,
+    "num_plays": 2.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "group_key": "2-4",
+    "year_published": 2016,
+    "players": "2-4",
+    "complexity": 1.2386,
+    "bgg_rating": 7.28769,
+    "num_ratings": 52970,
+    "categories": [
+      "Abstract Strategy",
+      "Medieval",
+      "Puzzle",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Enclosure",
+      "Open Drafting",
+      "Tile Placement",
+      "Turn Order: Claim Action"
+    ],
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/204583",
+    "linked_bgg_ids": [
+      204583
+    ],
+    "mapped_at": "2026-05-12T16:12:02.8905224+01:00",
+    "proposed_rating": 5.033
+  },
+  {
+    "tier": "D",
+    "tier_sort": 4,
+    "ranking_group": "D|6",
+    "source_bucket": 6,
+    "rank_in_tier": 61,
+    "bgg_id": 73761,
+    "name": "K2",
+    "current_rating": 6.0,
+    "num_plays": 1.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "group_key": "1-5",
+    "year_published": 2010,
+    "players": "1-5",
+    "complexity": 2.2475,
+    "bgg_rating": 6.99606,
+    "num_ratings": 11010,
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Sports"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Movement Points",
+      "Player Elimination",
+      "Point to Point Movement",
+      "Push Your Luck",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Turn Order: Progressive",
+      "Variable Set-up"
+    ],
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/73761",
+    "linked_bgg_ids": [
+      73761
+    ],
+    "mapped_at": "2026-05-12T16:12:02.8132532+01:00",
+    "proposed_rating": 5.016
+  },
+  {
+    "tier": "D",
+    "tier_sort": 4,
+    "ranking_group": "D|6",
+    "source_bucket": 6,
+    "rank_in_tier": 62,
+    "bgg_id": 180974,
+    "name": "Potion Explosion",
+    "current_rating": 6.0,
+    "num_plays": 1.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "group_key": "2-4",
+    "year_published": 2015,
+    "players": "2-4",
+    "complexity": 1.7799,
+    "bgg_rating": 7.12183,
+    "num_ratings": 21985,
+    "categories": [
+      "Fantasy",
+      "Puzzle"
+    ],
+    "mechanics": [
+      "Contracts",
+      "Open Drafting",
+      "Pattern Recognition",
+      "Physical Removal",
+      "Set Collection",
+      "Take That",
+      "Variable Set-up"
+    ],
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/180974",
+    "linked_bgg_ids": [
+      180974
+    ],
+    "mapped_at": "2026-05-12T16:12:02.8794965+01:00",
     "proposed_rating": 5.0
   },
   {
@@ -15340,7 +16066,7 @@
     "linked_bgg_ids": [
       4279
     ],
-    "mapped_at": "2026-05-12T14:27:23.5360532+01:00",
+    "mapped_at": "2026-05-12T16:12:02.7787621+01:00",
     "proposed_rating": 4.999
   },
   {
@@ -15381,7 +16107,7 @@
     "linked_bgg_ids": [
       247567
     ],
-    "mapped_at": "2026-05-12T14:27:23.6106473+01:00",
+    "mapped_at": "2026-05-12T16:12:02.9240853+01:00",
     "proposed_rating": 4.832
   },
   {
@@ -15419,7 +16145,7 @@
     "linked_bgg_ids": [
       163170
     ],
-    "mapped_at": "2026-05-12T14:27:23.5678791+01:00",
+    "mapped_at": "2026-05-12T16:12:02.8667671+01:00",
     "proposed_rating": 4.666
   },
   {
@@ -15467,7 +16193,7 @@
     "linked_bgg_ids": [
       136063
     ],
-    "mapped_at": "2026-05-12T14:27:23.555741+01:00",
+    "mapped_at": "2026-05-12T16:12:02.8295677+01:00",
     "proposed_rating": 4.499
   },
   {
@@ -15504,7 +16230,7 @@
     "linked_bgg_ids": [
       171226
     ],
-    "mapped_at": "2026-05-12T14:27:23.5716117+01:00",
+    "mapped_at": "2026-05-12T16:12:02.8720936+01:00",
     "proposed_rating": 4.332
   },
   {
@@ -15557,7 +16283,7 @@
     "linked_bgg_ids": [
       342942
     ],
-    "mapped_at": "2026-05-12T14:27:23.7016391+01:00",
+    "mapped_at": "2026-05-12T16:12:02.9921309+01:00",
     "proposed_rating": 3.999
   },
   {
@@ -15598,7 +16324,7 @@
     "linked_bgg_ids": [
       169426
     ],
-    "mapped_at": "2026-05-12T14:27:23.5699552+01:00",
+    "mapped_at": "2026-05-12T16:12:02.8698971+01:00",
     "proposed_rating": 3.833
   },
   {
@@ -15638,7 +16364,7 @@
     "linked_bgg_ids": [
       292032
     ],
-    "mapped_at": "2026-05-12T14:27:23.674052+01:00",
+    "mapped_at": "2026-05-12T16:12:02.9641372+01:00",
     "proposed_rating": 3.666
   },
   {
@@ -15680,7 +16406,7 @@
     "linked_bgg_ids": [
       194607
     ],
-    "mapped_at": "2026-05-12T14:27:23.5843965+01:00",
+    "mapped_at": "2026-05-12T16:12:02.8873935+01:00",
     "proposed_rating": 3.499
   },
   {
@@ -15728,7 +16454,7 @@
     "linked_bgg_ids": [
       244711
     ],
-    "mapped_at": "2026-05-12T14:27:23.6077248+01:00",
+    "mapped_at": "2026-05-12T16:12:02.9189936+01:00",
     "proposed_rating": 3.333
   },
   {
@@ -15778,7 +16504,7 @@
     "linked_bgg_ids": [
       269385
     ],
-    "mapped_at": "2026-05-12T14:27:23.6566446+01:00",
+    "mapped_at": "2026-05-12T16:12:02.9439237+01:00",
     "proposed_rating": 3.166
   },
   {
@@ -15816,7 +16542,7 @@
     "linked_bgg_ids": [
       381083
     ],
-    "mapped_at": "2026-05-12T14:27:23.7174473+01:00",
+    "mapped_at": "2026-05-12T16:12:03.0083148+01:00",
     "proposed_rating": 3.0
   },
   {
@@ -15857,7 +16583,7 @@
     "linked_bgg_ids": [
       1927
     ],
-    "mapped_at": "2026-05-12T14:27:23.5350883+01:00",
+    "mapped_at": "2026-05-12T16:12:02.7769206+01:00",
     "proposed_rating": 2.833
   },
   {
@@ -15895,7 +16621,7 @@
     "linked_bgg_ids": [
       244992
     ],
-    "mapped_at": "2026-05-12T14:27:23.6086128+01:00",
+    "mapped_at": "2026-05-12T16:12:02.919514+01:00",
     "proposed_rating": 2.666
   },
   {
@@ -15933,7 +16659,7 @@
     "linked_bgg_ids": [
       194626
     ],
-    "mapped_at": "2026-05-12T14:27:23.5846663+01:00",
+    "mapped_at": "2026-05-12T16:12:02.8877618+01:00",
     "proposed_rating": 4.166
   },
   {
@@ -15972,7 +16698,7 @@
     "linked_bgg_ids": [
       2425
     ],
-    "mapped_at": "2026-05-12T14:27:23.5354936+01:00",
+    "mapped_at": "2026-05-12T16:12:02.7777457+01:00",
     "proposed_rating": 2.5
   },
   {
@@ -16019,7 +16745,7 @@
     "linked_bgg_ids": [
       244521
     ],
-    "mapped_at": "2026-05-12T14:27:23.6043307+01:00",
+    "mapped_at": "2026-05-12T16:12:02.9174831+01:00",
     "proposed_rating": 2.333
   },
   {
@@ -16064,7 +16790,7 @@
     "linked_bgg_ids": [
       280748
     ],
-    "mapped_at": "2026-05-12T14:27:23.6640637+01:00",
+    "mapped_at": "2026-05-12T16:12:02.9533143+01:00",
     "proposed_rating": 2.166
   },
   {
@@ -16104,7 +16830,7 @@
     "linked_bgg_ids": [
       150145
     ],
-    "mapped_at": "2026-05-12T14:27:23.5640579+01:00",
+    "mapped_at": "2026-05-12T16:12:02.8413172+01:00",
     "proposed_rating": 2.0
   },
   {
@@ -16148,7 +16874,7 @@
     "linked_bgg_ids": [
       40692
     ],
-    "mapped_at": "2026-05-12T14:27:23.5407691+01:00",
+    "mapped_at": "2026-05-12T16:12:02.8029258+01:00",
     "proposed_rating": 1.833
   },
   {
@@ -16190,7 +16916,7 @@
     "linked_bgg_ids": [
       269207
     ],
-    "mapped_at": "2026-05-12T14:27:23.6559761+01:00",
+    "mapped_at": "2026-05-12T16:12:02.9431135+01:00",
     "proposed_rating": 1.666
   },
   {
@@ -16233,7 +16959,7 @@
     "linked_bgg_ids": [
       277061
     ],
-    "mapped_at": "2026-05-12T14:27:23.6619795+01:00",
+    "mapped_at": "2026-05-12T16:12:02.9506205+01:00",
     "proposed_rating": 1.5
   },
   {
@@ -16283,7 +17009,7 @@
     "linked_bgg_ids": [
       162886
     ],
-    "mapped_at": "2026-05-12T14:27:23.5676083+01:00",
+    "mapped_at": "2026-05-12T16:12:02.8663635+01:00",
     "proposed_rating": 1.333
   },
   {
@@ -16324,7 +17050,7 @@
     "linked_bgg_ids": [
       430616
     ],
-    "mapped_at": "2026-05-12T14:27:23.722243+01:00",
+    "mapped_at": "2026-05-12T16:12:03.0138097+01:00",
     "proposed_rating": 1.167
   },
   {
@@ -16362,7 +17088,7 @@
     "linked_bgg_ids": [
       329713
     ],
-    "mapped_at": "2026-05-12T14:27:23.698353+01:00",
+    "mapped_at": "2026-05-12T16:12:02.9881259+01:00",
     "proposed_rating": 1.0
   }
 ]

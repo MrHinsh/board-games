@@ -16,6 +16,8 @@
     "players": "1-4",
     "complexity": 3.9062,
     "bgg_rating": 8.40864,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/381715"
   },
   {
@@ -24,7 +26,7 @@
     "rank_in_tier": 2,
     "bgg_id": 382518,
     "name": "Sankoré: The Pride of Mansa Musa",
-    "current_rating": 9.962,
+    "current_rating": 9.961,
     "num_plays": 7.0,
     "collection": true,
     "previously_owned": false,
@@ -35,6 +37,8 @@
     "players": "1-4",
     "complexity": 4.2485,
     "bgg_rating": 7.96689,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/382518"
   },
   {
@@ -43,7 +47,7 @@
     "rank_in_tier": 3,
     "bgg_id": 337627,
     "name": "Voidfall",
-    "current_rating": 9.925,
+    "current_rating": 9.922,
     "num_plays": 13.0,
     "collection": true,
     "previously_owned": false,
@@ -54,6 +58,8 @@
     "players": "1-4",
     "complexity": 4.6149,
     "bgg_rating": 8.50944,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/337627"
   },
   {
@@ -62,7 +68,7 @@
     "rank_in_tier": 4,
     "bgg_id": 367150,
     "name": "Dune: War for Arrakis",
-    "current_rating": 9.888,
+    "current_rating": 9.884,
     "num_plays": 2.0,
     "collection": true,
     "previously_owned": false,
@@ -73,6 +79,8 @@
     "players": "1-4",
     "complexity": 3.65,
     "bgg_rating": 8.48952,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/367150"
   },
   {
@@ -81,7 +89,7 @@
     "rank_in_tier": 5,
     "bgg_id": 391137,
     "name": "Galactic Cruise",
-    "current_rating": 9.851,
+    "current_rating": 9.845,
     "num_plays": 5.0,
     "collection": true,
     "previously_owned": false,
@@ -92,6 +100,8 @@
     "players": "1-4",
     "complexity": 3.9668,
     "bgg_rating": 8.31787,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/391137"
   },
   {
@@ -100,7 +110,7 @@
     "rank_in_tier": 6,
     "bgg_id": 375459,
     "name": "Speakeasy",
-    "current_rating": 9.814,
+    "current_rating": 9.807,
     "num_plays": 1.0,
     "collection": true,
     "previously_owned": false,
@@ -111,6 +121,8 @@
     "players": "1-4",
     "complexity": 4.4131,
     "bgg_rating": 8.4594,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/375459"
   },
   {
@@ -119,7 +131,7 @@
     "rank_in_tier": 7,
     "bgg_id": 122842,
     "name": "Exodus: Proxima Centauri",
-    "current_rating": 9.777,
+    "current_rating": 9.768,
     "num_plays": 6.0,
     "collection": true,
     "previously_owned": false,
@@ -130,6 +142,8 @@
     "players": "2-6",
     "complexity": 3.6091,
     "bgg_rating": 7.13523,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/122842"
   },
   {
@@ -138,7 +152,7 @@
     "rank_in_tier": 8,
     "bgg_id": 297030,
     "name": "Tekhenu: Obelisk of the Sun",
-    "current_rating": 9.74,
+    "current_rating": 9.73,
     "num_plays": 5.0,
     "collection": true,
     "previously_owned": false,
@@ -149,6 +163,8 @@
     "players": "1-4",
     "complexity": 4.0663,
     "bgg_rating": 7.6608,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/297030"
   },
   {
@@ -157,7 +173,7 @@
     "rank_in_tier": 9,
     "bgg_id": 82222,
     "name": "Xia: Legends of a Drift System",
-    "current_rating": 9.703,
+    "current_rating": 9.692,
     "num_plays": 5.0,
     "collection": true,
     "previously_owned": false,
@@ -168,6 +184,8 @@
     "players": "3-5",
     "complexity": 3.2015,
     "bgg_rating": 7.85661,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/82222"
   },
   {
@@ -176,7 +194,7 @@
     "rank_in_tier": 10,
     "bgg_id": 304510,
     "name": "Pampero",
-    "current_rating": 9.666,
+    "current_rating": 9.653,
     "num_plays": 1.0,
     "collection": true,
     "previously_owned": false,
@@ -187,6 +205,8 @@
     "players": "1-4",
     "complexity": 3.94,
     "bgg_rating": 7.46048,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/304510"
   },
   {
@@ -195,7 +215,7 @@
     "rank_in_tier": 11,
     "bgg_id": 347305,
     "name": "Inventions: Evolution of Ideas",
-    "current_rating": 9.629,
+    "current_rating": 9.615,
     "num_plays": 5.0,
     "collection": true,
     "previously_owned": false,
@@ -206,6 +226,8 @@
     "players": "1-4",
     "complexity": 4.5902,
     "bgg_rating": 7.92064,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/347305"
   },
   {
@@ -214,7 +236,7 @@
     "rank_in_tier": 12,
     "bgg_id": 348877,
     "name": "Lobotomy 2: Manhunt",
-    "current_rating": 9.592,
+    "current_rating": 9.576,
     "num_plays": 2.0,
     "collection": true,
     "previously_owned": false,
@@ -225,6 +247,8 @@
     "players": "1-5",
     "complexity": 3.0714,
     "bgg_rating": 8.04966,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/348877"
   },
   {
@@ -233,7 +257,7 @@
     "rank_in_tier": 13,
     "bgg_id": 358661,
     "name": "Andromeda's Edge",
-    "current_rating": 9.555,
+    "current_rating": 9.538,
     "num_plays": 3.0,
     "collection": true,
     "previously_owned": false,
@@ -244,6 +268,8 @@
     "players": "2-4",
     "complexity": 3.745,
     "bgg_rating": 8.25126,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/358661"
   },
   {
@@ -252,7 +278,7 @@
     "rank_in_tier": 14,
     "bgg_id": 246900,
     "name": "Eclipse: Second Dawn for the Galaxy",
-    "current_rating": 9.518,
+    "current_rating": 9.5,
     "num_plays": 1.0,
     "collection": true,
     "previously_owned": false,
@@ -263,6 +289,8 @@
     "players": "2-6",
     "complexity": 3.6651,
     "bgg_rating": 8.38794,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/246900"
   },
   {
@@ -271,7 +299,7 @@
     "rank_in_tier": 15,
     "bgg_id": 418059,
     "name": "SETI: Search for Extraterrestrial Intelligence",
-    "current_rating": 9.481,
+    "current_rating": 9.461,
     "num_plays": 6.0,
     "collection": true,
     "previously_owned": false,
@@ -282,6 +310,8 @@
     "players": "1-4",
     "complexity": 3.8295,
     "bgg_rating": 8.41609,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/418059"
   },
   {
@@ -290,7 +320,7 @@
     "rank_in_tier": 16,
     "bgg_id": 345868,
     "name": "Federation",
-    "current_rating": 9.444,
+    "current_rating": 9.423,
     "num_plays": 15.0,
     "collection": true,
     "previously_owned": false,
@@ -301,6 +331,8 @@
     "players": "2-4",
     "complexity": 3.7453,
     "bgg_rating": 7.82524,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/345868"
   },
   {
@@ -309,7 +341,7 @@
     "rank_in_tier": 17,
     "bgg_id": 167355,
     "name": "Nemesis",
-    "current_rating": 9.407,
+    "current_rating": 9.384,
     "num_plays": 2.0,
     "collection": true,
     "previously_owned": false,
@@ -320,6 +352,8 @@
     "players": "1-5",
     "complexity": 3.4874,
     "bgg_rating": 8.24989,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/167355"
   },
   {
@@ -328,7 +362,7 @@
     "rank_in_tier": 18,
     "bgg_id": 425630,
     "name": "Baghdad: The City of Peace",
-    "current_rating": 9.37,
+    "current_rating": 9.346,
     "num_plays": 1.0,
     "collection": true,
     "previously_owned": false,
@@ -339,6 +373,8 @@
     "players": "1-4",
     "complexity": 3.3571,
     "bgg_rating": 7.63122,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/425630"
   },
   {
@@ -347,7 +383,7 @@
     "rank_in_tier": 19,
     "bgg_id": 253344,
     "name": "Cthulhu: Death May Die",
-    "current_rating": 9.333,
+    "current_rating": 9.307,
     "num_plays": 6.0,
     "collection": true,
     "previously_owned": false,
@@ -358,6 +394,8 @@
     "players": "1-5",
     "complexity": 2.501,
     "bgg_rating": 8.18223,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/253344"
   },
   {
@@ -366,7 +404,7 @@
     "rank_in_tier": 20,
     "bgg_id": 380707,
     "name": "Vindication: Archive of the Ancients",
-    "current_rating": 9.296,
+    "current_rating": 9.269,
     "num_plays": 2.0,
     "collection": true,
     "previously_owned": false,
@@ -377,6 +415,8 @@
     "players": "2-5",
     "complexity": 3,
     "bgg_rating": 8.564,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/380707"
   },
   {
@@ -385,7 +425,7 @@
     "rank_in_tier": 21,
     "bgg_id": 290484,
     "name": "Unsettled",
-    "current_rating": 9.259,
+    "current_rating": 9.231,
     "num_plays": 2.0,
     "collection": true,
     "previously_owned": false,
@@ -396,6 +436,8 @@
     "players": "2-4",
     "complexity": 3.2846,
     "bgg_rating": 8.05973,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/290484"
   },
   {
@@ -404,7 +446,7 @@
     "rank_in_tier": 22,
     "bgg_id": 277659,
     "name": "Final Girl",
-    "current_rating": 9.222,
+    "current_rating": 9.192,
     "num_plays": 1.0,
     "collection": true,
     "previously_owned": false,
@@ -415,6 +457,8 @@
     "players": "1",
     "complexity": 2.7553,
     "bgg_rating": 8.22407,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/277659"
   },
   {
@@ -423,7 +467,7 @@
     "rank_in_tier": 23,
     "bgg_id": 37111,
     "name": "Battlestar Galactica: The Board Game",
-    "current_rating": 9.185,
+    "current_rating": 9.154,
     "num_plays": 1.0,
     "collection": true,
     "previously_owned": false,
@@ -434,6 +478,8 @@
     "players": "3-6",
     "complexity": 3.2513,
     "bgg_rating": 7.73094,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/37111"
   },
   {
@@ -442,7 +488,7 @@
     "rank_in_tier": 24,
     "bgg_id": 270239,
     "name": "Moonrakers",
-    "current_rating": 9.111,
+    "current_rating": 9.115,
     "num_plays": 1.0,
     "collection": false,
     "previously_owned": false,
@@ -453,6 +499,8 @@
     "players": "1-5",
     "complexity": 2.4725,
     "bgg_rating": 7.69466,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/270239"
   },
   {
@@ -461,7 +509,7 @@
     "rank_in_tier": 25,
     "bgg_id": 270408,
     "name": "Exodus Chronicles",
-    "current_rating": 9.074,
+    "current_rating": 9.077,
     "num_plays": 0.0,
     "collection": false,
     "previously_owned": false,
@@ -472,6 +520,8 @@
     "players": "1-6",
     "complexity": null,
     "bgg_rating": 6.25,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/270408"
   },
   {
@@ -480,7 +530,7 @@
     "rank_in_tier": 26,
     "bgg_id": 72125,
     "name": "Eclipse: New Dawn for the Galaxy",
-    "current_rating": 9.037,
+    "current_rating": 9.038,
     "num_plays": 2.0,
     "collection": false,
     "previously_owned": false,
@@ -491,6 +541,8 @@
     "players": "2-6",
     "complexity": 3.7061,
     "bgg_rating": 7.81662,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/72125"
   },
   {
@@ -510,7 +562,30 @@
     "players": "2-5",
     "complexity": 2.7841,
     "bgg_rating": 7.56405,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/132531"
+  },
+  {
+    "tier": "S",
+    "source_bucket": 10,
+    "rank_in_tier": 28,
+    "bgg_id": 329500,
+    "name": "Unconscious Mind",
+    "current_rating": 10.0,
+    "num_plays": 1.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": true,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "players": "1-4",
+    "complexity": 4.0162,
+    "bgg_rating": 7.88443,
+    "bgg_comment": null,
+    "notes": null,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/329500"
   },
   {
     "tier": "A",
@@ -529,6 +604,8 @@
     "players": "1-4",
     "complexity": 3.6697,
     "bgg_rating": 8.3514,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/325494"
   },
   {
@@ -548,6 +625,8 @@
     "players": "1-4",
     "complexity": 4.2877,
     "bgg_rating": 8.38124,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/284378"
   },
   {
@@ -567,6 +646,8 @@
     "players": "1-5",
     "complexity": 3.9128,
     "bgg_rating": 8.24774,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/310100"
   },
   {
@@ -586,6 +667,8 @@
     "players": "1-4",
     "complexity": 4.6264,
     "bgg_rating": 8.1592,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/184267"
   },
   {
@@ -605,6 +688,8 @@
     "players": "4-9",
     "complexity": 3.5671,
     "bgg_rating": 7.76077,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/202426"
   },
   {
@@ -624,6 +709,8 @@
     "players": "2-6",
     "complexity": 2.3529,
     "bgg_rating": 7.77198,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/250467"
   },
   {
@@ -643,6 +730,8 @@
     "players": "2-4",
     "complexity": 4.5608,
     "bgg_rating": 7.68561,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/237179"
   },
   {
@@ -662,6 +751,8 @@
     "players": "2-4",
     "complexity": 3.6552,
     "bgg_rating": 7.49339,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/299450"
   },
   {
@@ -681,6 +772,8 @@
     "players": "2-4",
     "complexity": 3.0667,
     "bgg_rating": 7.18179,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/155065"
   },
   {
@@ -700,6 +793,8 @@
     "players": "2-5",
     "complexity": 3.0565,
     "bgg_rating": 7.28113,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/172047"
   },
   {
@@ -719,6 +814,8 @@
     "players": "1-4",
     "complexity": 3.8077,
     "bgg_rating": 7.1099,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/292126"
   },
   {
@@ -738,6 +835,8 @@
     "players": "1-4",
     "complexity": 3.2653,
     "bgg_rating": 7.60861,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/349948"
   },
   {
@@ -757,6 +856,8 @@
     "players": "1-4",
     "complexity": 3.4684,
     "bgg_rating": 7.9455,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/216132"
   },
   {
@@ -776,6 +877,8 @@
     "players": "2-4",
     "complexity": 4.255,
     "bgg_rating": 8.37401,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/321608"
   },
   {
@@ -795,6 +898,8 @@
     "players": "2-4",
     "complexity": 3.5,
     "bgg_rating": 6.97113,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/260923"
   },
   {
@@ -814,6 +919,8 @@
     "players": "2-4",
     "complexity": 4.2239,
     "bgg_rating": 8.55226,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/115746"
   },
   {
@@ -833,6 +940,8 @@
     "players": "2-4",
     "complexity": 3.0476,
     "bgg_rating": 7.36864,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/356414"
   },
   {
@@ -852,6 +961,8 @@
     "players": "2-4",
     "complexity": 3.3385,
     "bgg_rating": 7.63468,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/228341"
   },
   {
@@ -871,6 +982,8 @@
     "players": "1-5",
     "complexity": 2.7273,
     "bgg_rating": 8.71812,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/373600"
   },
   {
@@ -890,6 +1003,8 @@
     "players": "1-6",
     "complexity": 3,
     "bgg_rating": 7.73951,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/257089"
   },
   {
@@ -909,6 +1024,8 @@
     "players": "1-4",
     "complexity": 3.7097,
     "bgg_rating": 7.95567,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/266810"
   },
   {
@@ -928,6 +1045,8 @@
     "players": "1-4",
     "complexity": 4.089,
     "bgg_rating": 7.36975,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/306481"
   },
   {
@@ -947,6 +1066,8 @@
     "players": "1-4",
     "complexity": 4.403,
     "bgg_rating": 8.35182,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/220308"
   },
   {
@@ -966,6 +1087,8 @@
     "players": "2-5",
     "complexity": 3.472,
     "bgg_rating": 7.44194,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/218509"
   },
   {
@@ -985,6 +1108,8 @@
     "players": "2-6",
     "complexity": 2.4878,
     "bgg_rating": 7.65473,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/233868"
   },
   {
@@ -1004,6 +1129,8 @@
     "players": "2-4",
     "complexity": 3.6646,
     "bgg_rating": 7.84621,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/126163"
   },
   {
@@ -1023,6 +1150,8 @@
     "players": "1-6",
     "complexity": 3.3733,
     "bgg_rating": 7.67638,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/257499"
   },
   {
@@ -1042,6 +1171,8 @@
     "players": "2-4",
     "complexity": 3.1538,
     "bgg_rating": 7.86219,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/317985"
   },
   {
@@ -1061,6 +1192,8 @@
     "players": "2-4",
     "complexity": 3.006,
     "bgg_rating": 7.85644,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/265188"
   },
   {
@@ -1080,6 +1213,8 @@
     "players": "2-4",
     "complexity": 2.6208,
     "bgg_rating": 7.70323,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/172287"
   },
   {
@@ -1099,6 +1234,8 @@
     "players": "2-4",
     "complexity": 2.8182,
     "bgg_rating": 7.16326,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/220792"
   },
   {
@@ -1118,6 +1255,8 @@
     "players": "1-5",
     "complexity": 3.2713,
     "bgg_rating": 8.33804,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/167791"
   },
   {
@@ -1137,6 +1276,8 @@
     "players": "1-4",
     "complexity": 3.396,
     "bgg_rating": 7.38321,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/350458"
   },
   {
@@ -1156,6 +1297,8 @@
     "players": "2-4",
     "complexity": 3.6923,
     "bgg_rating": 7.85291,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/262941"
   },
   {
@@ -1175,6 +1318,8 @@
     "players": "3-5",
     "complexity": 2.5814,
     "bgg_rating": 7.50745,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/39463"
   },
   {
@@ -1194,6 +1339,8 @@
     "players": "2-4",
     "complexity": 2.9414,
     "bgg_rating": 7.81381,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/155821"
   },
   {
@@ -1213,6 +1360,8 @@
     "players": "1-2",
     "complexity": 3.5655,
     "bgg_rating": 8.11911,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/205637"
   },
   {
@@ -1232,6 +1381,8 @@
     "players": "1-8",
     "complexity": 2.9576,
     "bgg_rating": 7.61771,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/295293"
   },
   {
@@ -1251,6 +1402,8 @@
     "players": "1-4",
     "complexity": 3,
     "bgg_rating": 7.3157,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/408253"
   },
   {
@@ -1270,6 +1423,8 @@
     "players": "2-4",
     "complexity": 1.9781,
     "bgg_rating": 7.75793,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/417197"
   },
   {
@@ -1289,6 +1444,8 @@
     "players": "1-5",
     "complexity": 2.7627,
     "bgg_rating": 7.70686,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/236457"
   },
   {
@@ -1308,6 +1465,8 @@
     "players": "1-4",
     "complexity": 2.8276,
     "bgg_rating": 7.21966,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/198609"
   },
   {
@@ -1327,6 +1486,8 @@
     "players": "1-4",
     "complexity": 2.956,
     "bgg_rating": 7.38176,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/138161"
   },
   {
@@ -1346,6 +1507,8 @@
     "players": "2-6",
     "complexity": 4.0447,
     "bgg_rating": 7.80192,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/62219"
   },
   {
@@ -1365,6 +1528,8 @@
     "players": "1-8",
     "complexity": 3.3174,
     "bgg_rating": 7.74351,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/146021"
   },
   {
@@ -1384,6 +1549,8 @@
     "players": "1-4",
     "complexity": 2.9241,
     "bgg_rating": 7.63632,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/328871"
   },
   {
@@ -1403,6 +1570,8 @@
     "players": "2-4",
     "complexity": 2.17,
     "bgg_rating": 7.58771,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/319966"
   },
   {
@@ -1422,6 +1591,8 @@
     "players": "2",
     "complexity": 3.2162,
     "bgg_rating": 6.98277,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/312251"
   },
   {
@@ -1441,6 +1612,8 @@
     "players": "1-2",
     "complexity": 1.8,
     "bgg_rating": 7.0209,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/329148"
   },
   {
@@ -1460,6 +1633,8 @@
     "players": "1-2",
     "complexity": 1.8182,
     "bgg_rating": 6.87094,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/289565"
   },
   {
@@ -1479,6 +1654,8 @@
     "players": "1-5",
     "complexity": 3.4532,
     "bgg_rating": 8.10091,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/169786"
   },
   {
@@ -1498,6 +1675,8 @@
     "players": "2-5",
     "complexity": 2.1315,
     "bgg_rating": 7.53925,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/242302"
   },
   {
@@ -1517,6 +1696,8 @@
     "players": "2",
     "complexity": 2.8889,
     "bgg_rating": 6.9677,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/326485"
   },
   {
@@ -1536,6 +1717,8 @@
     "players": "3-5",
     "complexity": 3.2664,
     "bgg_rating": 7.89903,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/3076"
   },
   {
@@ -1555,6 +1738,8 @@
     "players": "1-6",
     "complexity": 2.1667,
     "bgg_rating": 7.50025,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/281258"
   },
   {
@@ -1574,6 +1759,8 @@
     "players": "1",
     "complexity": 2.3896,
     "bgg_rating": 7.63986,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/296237"
   },
   {
@@ -1593,6 +1780,8 @@
     "players": "2",
     "complexity": 2.381,
     "bgg_rating": 6.55487,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/298572"
   },
   {
@@ -1612,6 +1801,8 @@
     "players": "1-2",
     "complexity": 2.3803,
     "bgg_rating": 7.0126,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/247236"
   },
   {
@@ -1631,6 +1822,8 @@
     "players": "1-5",
     "complexity": 2.1242,
     "bgg_rating": 7.61599,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/266524"
   },
   {
@@ -1650,6 +1843,8 @@
     "players": "2",
     "complexity": 2.2272,
     "bgg_rating": 8.0772,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/173346"
   },
   {
@@ -1669,6 +1864,8 @@
     "players": "3-6",
     "complexity": 3.1244,
     "bgg_rating": 7.46425,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/340466"
   },
   {
@@ -1688,6 +1885,8 @@
     "players": "2-5",
     "complexity": 1.7168,
     "bgg_rating": 7.5767,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/232832"
   },
   {
@@ -1707,6 +1906,8 @@
     "players": "1-4",
     "complexity": 1.8844,
     "bgg_rating": 7.90835,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/230253"
   },
   {
@@ -1726,6 +1927,8 @@
     "players": "2-6",
     "complexity": 1.8142,
     "bgg_rating": 7.5018,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/223040"
   },
   {
@@ -1745,6 +1948,8 @@
     "players": "2-4",
     "complexity": 2.9933,
     "bgg_rating": 7.73678,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/28143"
   },
   {
@@ -1764,6 +1969,8 @@
     "players": "2-5",
     "complexity": 3.3333,
     "bgg_rating": 7.50362,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/193037"
   },
   {
@@ -1783,6 +1990,8 @@
     "players": "2-5",
     "complexity": 3.0977,
     "bgg_rating": 7.76278,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/224783"
   },
   {
@@ -1802,6 +2011,8 @@
     "players": "2-4",
     "complexity": 3.8496,
     "bgg_rating": 7.7798,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/9609"
   },
   {
@@ -1821,6 +2032,8 @@
     "players": "2-4",
     "complexity": 2.8818,
     "bgg_rating": 7.89827,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/170216"
   },
   {
@@ -1840,6 +2053,8 @@
     "players": "3-4",
     "complexity": 3.1968,
     "bgg_rating": 7.6586,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/43111"
   },
   {
@@ -1859,6 +2074,8 @@
     "players": "2-4",
     "complexity": 3.9048,
     "bgg_rating": 7.54019,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/256730"
   },
   {
@@ -1878,6 +2095,8 @@
     "players": "2-4",
     "complexity": 2.5849,
     "bgg_rating": 7.07678,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/265017"
   },
   {
@@ -1897,7 +2116,30 @@
     "players": "1-4",
     "complexity": 3.5868,
     "bgg_rating": 8.04156,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/247763"
+  },
+  {
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 74,
+    "bgg_id": 184921,
+    "name": "Bunny Kingdom",
+    "current_rating": 9.0,
+    "num_plays": 1.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "players": "2-4",
+    "complexity": 2.3043,
+    "bgg_rating": 7.40814,
+    "bgg_comment": null,
+    "notes": null,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/184921"
   },
   {
     "tier": "B",
@@ -1916,6 +2158,8 @@
     "players": "1-4",
     "complexity": 2.1618,
     "bgg_rating": 6.87675,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/331401"
   },
   {
@@ -1935,6 +2179,8 @@
     "players": "2",
     "complexity": 1.4635,
     "bgg_rating": 7.47924,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/54043"
   },
   {
@@ -1954,6 +2200,8 @@
     "players": "2-5",
     "complexity": 2.75,
     "bgg_rating": 7.00031,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/286160"
   },
   {
@@ -1973,6 +2221,8 @@
     "players": "2-4",
     "complexity": 2.2728,
     "bgg_rating": 7.53173,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/10630"
   },
   {
@@ -1992,6 +2242,8 @@
     "players": "1-5",
     "complexity": 2.6955,
     "bgg_rating": 7.91619,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/205059"
   },
   {
@@ -2011,6 +2263,8 @@
     "players": "2-4",
     "complexity": 1.8333,
     "bgg_rating": 6.14885,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/247143"
   },
   {
@@ -2030,6 +2284,8 @@
     "players": "1-4",
     "complexity": 3.3269,
     "bgg_rating": 7.68471,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/276997"
   },
   {
@@ -2049,6 +2305,8 @@
     "players": "1-6",
     "complexity": 2.0299,
     "bgg_rating": 7.19933,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/226320"
   },
   {
@@ -2068,6 +2326,8 @@
     "players": "2",
     "complexity": 2.2083,
     "bgg_rating": 7.02498,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/226631"
   },
   {
@@ -2087,6 +2347,8 @@
     "players": "1-6",
     "complexity": 2.2514,
     "bgg_rating": 7.76035,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/258779"
   },
   {
@@ -2106,6 +2368,8 @@
     "players": "2-4",
     "complexity": 2.5099,
     "bgg_rating": 6.96251,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/68425"
   },
   {
@@ -2125,6 +2389,8 @@
     "players": "2-5",
     "complexity": 1.3856,
     "bgg_rating": 7.78842,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/291453"
   },
   {
@@ -2144,6 +2410,8 @@
     "players": "2",
     "complexity": 1.5971,
     "bgg_rating": 7.57923,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/163412"
   },
   {
@@ -2163,6 +2431,8 @@
     "players": "2-6",
     "complexity": 3.112,
     "bgg_rating": 7.16341,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/133848"
   },
   {
@@ -2182,6 +2452,8 @@
     "players": "1-4",
     "complexity": 3.045,
     "bgg_rating": 7.52716,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/221194"
   },
   {
@@ -2201,6 +2473,8 @@
     "players": "1-8",
     "complexity": 3.2155,
     "bgg_rating": 7.40635,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/361545"
   },
   {
@@ -2220,6 +2494,8 @@
     "players": "2-4",
     "complexity": 2.1081,
     "bgg_rating": 7.09676,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/242574"
   },
   {
@@ -2239,6 +2515,8 @@
     "players": "1-2",
     "complexity": 2,
     "bgg_rating": 6.83904,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/289566"
   },
   {
@@ -2258,6 +2536,8 @@
     "players": "1-4",
     "complexity": 2.3,
     "bgg_rating": 6.59634,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/299178"
   },
   {
@@ -2277,6 +2557,8 @@
     "players": "1-5",
     "complexity": 2.1547,
     "bgg_rating": 7.31869,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/163967"
   },
   {
@@ -2296,6 +2578,8 @@
     "players": "2",
     "complexity": 2.75,
     "bgg_rating": 7.87353,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/366495"
   },
   {
@@ -2315,6 +2599,8 @@
     "players": "1-7",
     "complexity": 2.4643,
     "bgg_rating": 7.47939,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/248490"
   },
   {
@@ -2334,6 +2620,8 @@
     "players": "1-4",
     "complexity": 3.3723,
     "bgg_rating": 7.51718,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/264052"
   },
   {
@@ -2353,6 +2641,8 @@
     "players": "1",
     "complexity": 1.6639,
     "bgg_rating": 7.13732,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/183571"
   },
   {
@@ -2372,6 +2662,8 @@
     "players": "1-4",
     "complexity": 2.3696,
     "bgg_rating": 7.25428,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/317859"
   },
   {
@@ -2391,6 +2683,8 @@
     "players": "2-4",
     "complexity": 2.934,
     "bgg_rating": 7.32279,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/242684"
   },
   {
@@ -2410,6 +2704,8 @@
     "players": "1-4",
     "complexity": 1.9679,
     "bgg_rating": 7.38565,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/307002"
   },
   {
@@ -2429,6 +2725,8 @@
     "players": "2-4",
     "complexity": 2.2447,
     "bgg_rating": 7.66832,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/298231"
   },
   {
@@ -2448,6 +2746,8 @@
     "players": "2-4",
     "complexity": 2.7451,
     "bgg_rating": 7.54942,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/284616"
   },
   {
@@ -2467,6 +2767,8 @@
     "players": "4-8",
     "complexity": 2.0874,
     "bgg_rating": 6.73437,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/142079"
   },
   {
@@ -2486,6 +2788,8 @@
     "players": "2-5",
     "complexity": 2.05,
     "bgg_rating": 8.04917,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/324856"
   },
   {
@@ -2505,6 +2809,8 @@
     "players": "2",
     "complexity": 2.2924,
     "bgg_rating": 7.71463,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/274364"
   },
   {
@@ -2524,6 +2830,8 @@
     "players": "1-4",
     "complexity": 2.8873,
     "bgg_rating": 7.33067,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/231581"
   },
   {
@@ -2543,6 +2851,8 @@
     "players": "1-4",
     "complexity": 2.5789,
     "bgg_rating": 7.23595,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/356768"
   },
   {
@@ -2562,6 +2872,8 @@
     "players": "2-4",
     "complexity": 3.2687,
     "bgg_rating": 7.31624,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/317457"
   },
   {
@@ -2581,6 +2893,8 @@
     "players": "1-4",
     "complexity": 3.0768,
     "bgg_rating": 8.41222,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/316554"
   },
   {
@@ -2600,6 +2914,8 @@
     "players": "2-4",
     "complexity": 2.7778,
     "bgg_rating": 7.334,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/315727"
   },
   {
@@ -2619,6 +2935,8 @@
     "players": "1-4",
     "complexity": 3.7857,
     "bgg_rating": 7.27568,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/340865"
   },
   {
@@ -2638,6 +2956,8 @@
     "players": "1-4",
     "complexity": 2.1143,
     "bgg_rating": 7.56235,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/306881"
   },
   {
@@ -2657,6 +2977,8 @@
     "players": "2-6",
     "complexity": 2,
     "bgg_rating": 6.73457,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/347117"
   },
   {
@@ -2676,6 +2998,8 @@
     "players": "2-6",
     "complexity": 2.6,
     "bgg_rating": 7.38151,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/145976"
   },
   {
@@ -2695,6 +3019,8 @@
     "players": "1-4",
     "complexity": 2.6522,
     "bgg_rating": 7.28048,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/291508"
   },
   {
@@ -2714,6 +3040,8 @@
     "players": "2",
     "complexity": 2.2661,
     "bgg_rating": 7.76518,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/268864"
   },
   {
@@ -2733,6 +3061,8 @@
     "players": "1-4",
     "complexity": 3.87,
     "bgg_rating": 7.183,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/230244"
   },
   {
@@ -2752,6 +3082,8 @@
     "players": "1-4",
     "complexity": 2.8534,
     "bgg_rating": 7.6545,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/318009"
   },
   {
@@ -2771,6 +3103,8 @@
     "players": "2-6",
     "complexity": 3.9807,
     "bgg_rating": 7.9169,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/283355"
   },
   {
@@ -2790,6 +3124,8 @@
     "players": "1-5",
     "complexity": 2.7841,
     "bgg_rating": 7.41295,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/252752"
   },
   {
@@ -2809,6 +3145,8 @@
     "players": "1-4",
     "complexity": 3.6197,
     "bgg_rating": 7.68464,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/318184"
   },
   {
@@ -2828,6 +3166,8 @@
     "players": "1-4",
     "complexity": 2.25,
     "bgg_rating": 7.58099,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/368173"
   },
   {
@@ -2847,6 +3187,8 @@
     "players": "2-6",
     "complexity": 2.6398,
     "bgg_rating": 7.3293,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/59959"
   },
   {
@@ -2866,6 +3208,8 @@
     "players": "1-5",
     "complexity": 2.5135,
     "bgg_rating": 7.2953,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/358386"
   },
   {
@@ -2885,6 +3229,8 @@
     "players": "1-4",
     "complexity": 3.25,
     "bgg_rating": 8.20517,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/325941"
   },
   {
@@ -2904,6 +3250,8 @@
     "players": "2-6",
     "complexity": 2.619,
     "bgg_rating": 7.68576,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/331979"
   },
   {
@@ -2923,6 +3271,8 @@
     "players": "1-4",
     "complexity": 3.2624,
     "bgg_rating": 8.0906,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/255984"
   },
   {
@@ -2942,6 +3292,8 @@
     "players": "3-6",
     "complexity": 2.7471,
     "bgg_rating": 6.54793,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/123096"
   },
   {
@@ -2961,6 +3313,8 @@
     "players": "1-4",
     "complexity": 3,
     "bgg_rating": 7.33026,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/345542"
   },
   {
@@ -2980,6 +3334,8 @@
     "players": "1-4",
     "complexity": 3.9057,
     "bgg_rating": 7.78582,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/292375"
   },
   {
@@ -2999,6 +3355,8 @@
     "players": "1-4",
     "complexity": 2.4343,
     "bgg_rating": 7.89776,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/279537"
   },
   {
@@ -3018,6 +3376,8 @@
     "players": "1-5",
     "complexity": 2.1875,
     "bgg_rating": 7.30813,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/285826"
   },
   {
@@ -3037,6 +3397,8 @@
     "players": "1",
     "complexity": 2.3937,
     "bgg_rating": 7.59851,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/306735"
   },
   {
@@ -3056,6 +3418,8 @@
     "players": "1-100",
     "complexity": 1.8422,
     "bgg_rating": 7.50685,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/233867"
   },
   {
@@ -3075,6 +3439,8 @@
     "players": "2-4",
     "complexity": 2.5647,
     "bgg_rating": 7.33949,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/48726"
   },
   {
@@ -3094,6 +3460,8 @@
     "players": "2-4",
     "complexity": 2.0154,
     "bgg_rating": 6.99829,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/205597"
   },
   {
@@ -3113,6 +3481,8 @@
     "players": "2-5",
     "complexity": 1.885,
     "bgg_rating": 7.41627,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/822"
   },
   {
@@ -3132,6 +3502,8 @@
     "players": "2-4",
     "complexity": 1.2169,
     "bgg_rating": 7.16209,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/270673"
   },
   {
@@ -3151,6 +3523,8 @@
     "players": "1-4",
     "complexity": 2.7576,
     "bgg_rating": 7.45489,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/123260"
   },
   {
@@ -3170,6 +3544,8 @@
     "players": "1-8",
     "complexity": 2.3431,
     "bgg_rating": 6.96713,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/100423"
   },
   {
@@ -3189,6 +3565,8 @@
     "players": "2-4",
     "complexity": 2.1118,
     "bgg_rating": 7.24264,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/140934"
   },
   {
@@ -3208,6 +3586,8 @@
     "players": "1-5",
     "complexity": 1.6628,
     "bgg_rating": 6.9834,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/171273"
   },
   {
@@ -3227,6 +3607,8 @@
     "players": "2-4",
     "complexity": 2.2377,
     "bgg_rating": 7.00882,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/110277"
   },
   {
@@ -3246,6 +3628,8 @@
     "players": "2-4",
     "complexity": 3.1466,
     "bgg_rating": 7.83857,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/139976"
   },
   {
@@ -3265,6 +3649,8 @@
     "players": "1-4",
     "complexity": 2.9189,
     "bgg_rating": 7.20693,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/343900"
   },
   {
@@ -3284,6 +3670,8 @@
     "players": "2",
     "complexity": 1.9701,
     "bgg_rating": 7.04878,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/255674"
   },
   {
@@ -3303,6 +3691,8 @@
     "players": "2-5",
     "complexity": 1.7986,
     "bgg_rating": 7.28987,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/209685"
   },
   {
@@ -3322,6 +3712,8 @@
     "players": "2-75",
     "complexity": 2.375,
     "bgg_rating": 6.71487,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/232524"
   },
   {
@@ -3341,6 +3733,8 @@
     "players": "2",
     "complexity": 1.6802,
     "bgg_rating": 6.64425,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/4396"
   },
   {
@@ -3360,6 +3754,8 @@
     "players": "2-4",
     "complexity": 2.375,
     "bgg_rating": 6.89123,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/256669"
   },
   {
@@ -3379,6 +3775,8 @@
     "players": "2-8",
     "complexity": 1.3248,
     "bgg_rating": 7.37266,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/192291"
   },
   {
@@ -3398,6 +3796,8 @@
     "players": "2-6",
     "complexity": 1.1527,
     "bgg_rating": 6.43802,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/28086"
   },
   {
@@ -3417,6 +3817,8 @@
     "players": "2-4",
     "complexity": 2.0738,
     "bgg_rating": 7.567,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/287954"
   },
   {
@@ -3436,6 +3838,8 @@
     "players": "2-5",
     "complexity": 2.449,
     "bgg_rating": 7.72987,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/110327"
   },
   {
@@ -3455,6 +3859,8 @@
     "players": "1-4",
     "complexity": 2.9313,
     "bgg_rating": 8.08242,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/312484"
   },
   {
@@ -3474,6 +3880,8 @@
     "players": "2-5",
     "complexity": 2.3158,
     "bgg_rating": 7.20485,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/281152"
   },
   {
@@ -3493,6 +3901,8 @@
     "players": "1-5",
     "complexity": 2.3103,
     "bgg_rating": 6.9661,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/180040"
   },
   {
@@ -3512,6 +3922,8 @@
     "players": "1-4",
     "complexity": 2.9121,
     "bgg_rating": 6.97629,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/163602"
   },
   {
@@ -3531,6 +3943,8 @@
     "players": "3-4",
     "complexity": 2.2826,
     "bgg_rating": 7.09086,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/13"
   },
   {
@@ -3550,6 +3964,8 @@
     "players": "1-4",
     "complexity": 2.6857,
     "bgg_rating": 7.12438,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/189660"
   },
   {
@@ -3569,6 +3985,8 @@
     "players": "2-6",
     "complexity": 2.4818,
     "bgg_rating": 6.90983,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/256382"
   },
   {
@@ -3588,6 +4006,8 @@
     "players": "2-7",
     "complexity": 2.3144,
     "bgg_rating": 7.66257,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/68448"
   },
   {
@@ -3607,6 +4027,8 @@
     "players": "4-6",
     "complexity": 3.2212,
     "bgg_rating": 7.05075,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/205716"
   },
   {
@@ -3626,6 +4048,8 @@
     "players": "2-5",
     "complexity": 3.9721,
     "bgg_rating": 8.03315,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/120677"
   },
   {
@@ -3645,6 +4069,8 @@
     "players": "1-4",
     "complexity": 2.4032,
     "bgg_rating": 6.50508,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/267370"
   },
   {
@@ -3664,6 +4090,8 @@
     "players": "2-4",
     "complexity": 2.4559,
     "bgg_rating": 7.51084,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/34635"
   },
   {
@@ -3683,6 +4111,8 @@
     "players": "2-4",
     "complexity": 3.8607,
     "bgg_rating": 8.56433,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/224517"
   },
   {
@@ -3702,6 +4132,8 @@
     "players": "2-4",
     "complexity": 1.7778,
     "bgg_rating": 7.03822,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/278553"
   },
   {
@@ -3721,6 +4153,8 @@
     "players": "1-4",
     "complexity": 3.9983,
     "bgg_rating": 8.0419,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/185343"
   },
   {
@@ -3740,6 +4174,8 @@
     "players": "2-6",
     "complexity": 3.2727,
     "bgg_rating": 5.74578,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/254632"
   },
   {
@@ -3759,6 +4195,8 @@
     "players": "2-4",
     "complexity": 3.9785,
     "bgg_rating": 7.59505,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/146910"
   },
   {
@@ -3778,7 +4216,93 @@
     "players": "1-4",
     "complexity": 2.4762,
     "bgg_rating": 7.51674,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/160610"
+  },
+  {
+    "tier": "B",
+    "source_bucket": 8,
+    "rank_in_tier": 100,
+    "bgg_id": 6249,
+    "name": "Alhambra",
+    "current_rating": 8.0,
+    "num_plays": 3.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "players": "2-6",
+    "complexity": 2.0974,
+    "bgg_rating": 7.03565,
+    "bgg_comment": null,
+    "notes": null,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/6249"
+  },
+  {
+    "tier": "B",
+    "source_bucket": 8,
+    "rank_in_tier": 101,
+    "bgg_id": 366013,
+    "name": "Heat: Pedal to the Metal",
+    "current_rating": 8.0,
+    "num_plays": 2.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "players": "1-6",
+    "complexity": 2.2023,
+    "bgg_rating": 7.99698,
+    "bgg_comment": null,
+    "notes": null,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/366013"
+  },
+  {
+    "tier": "B",
+    "source_bucket": 8,
+    "rank_in_tier": 102,
+    "bgg_id": 144733,
+    "name": "Russian Railroads",
+    "current_rating": 8.0,
+    "num_plays": 2.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "players": "2-4",
+    "complexity": 3.3961,
+    "bgg_rating": 7.72205,
+    "bgg_comment": null,
+    "notes": null,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/144733"
+  },
+  {
+    "tier": "B",
+    "source_bucket": 8,
+    "rank_in_tier": 103,
+    "bgg_id": 54,
+    "name": "Tikal",
+    "current_rating": 8.0,
+    "num_plays": 1.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "players": "2-4",
+    "complexity": 2.7766,
+    "bgg_rating": 7.31736,
+    "bgg_comment": null,
+    "notes": null,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/54"
   },
   {
     "tier": "C",
@@ -3797,6 +4321,8 @@
     "players": "2-4",
     "complexity": 1.9724,
     "bgg_rating": 7.21277,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/194594"
   },
   {
@@ -3816,6 +4342,8 @@
     "players": "1-4",
     "complexity": 2.2718,
     "bgg_rating": 7.4136,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/269210"
   },
   {
@@ -3835,6 +4363,8 @@
     "players": "1-4",
     "complexity": 1.7308,
     "bgg_rating": 6.88513,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/200077"
   },
   {
@@ -3854,6 +4384,8 @@
     "players": "1-5",
     "complexity": 2.7067,
     "bgg_rating": 7.7529,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/146652"
   },
   {
@@ -3873,6 +4405,8 @@
     "players": "2",
     "complexity": 2.0761,
     "bgg_rating": 7.2107,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/177639"
   },
   {
@@ -3892,6 +4426,8 @@
     "players": "1-5",
     "complexity": 2.0625,
     "bgg_rating": 6.90382,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/283095"
   },
   {
@@ -3911,6 +4447,8 @@
     "players": "2",
     "complexity": 1.9145,
     "bgg_rating": 7.55111,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/147020"
   },
   {
@@ -3930,6 +4468,8 @@
     "players": "2-4",
     "complexity": 1.1518,
     "bgg_rating": 6.86179,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/260300"
   },
   {
@@ -3949,6 +4489,8 @@
     "players": "2-4",
     "complexity": 2.3942,
     "bgg_rating": 7.51349,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/30549"
   },
   {
@@ -3968,6 +4510,8 @@
     "players": "2-99",
     "complexity": 1.0923,
     "bgg_rating": 6.23004,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/62871"
   },
   {
@@ -3987,6 +4531,8 @@
     "players": "2-10",
     "complexity": 1.1891,
     "bgg_rating": 6.98434,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/432"
   },
   {
@@ -4006,6 +4552,8 @@
     "players": "2-4",
     "complexity": 1.7743,
     "bgg_rating": 7.71518,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/230802"
   },
   {
@@ -4025,6 +4573,8 @@
     "players": "2-4",
     "complexity": 1.1597,
     "bgg_rating": 7.25923,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/270314"
   },
   {
@@ -4044,6 +4594,8 @@
     "players": "2-4",
     "complexity": 2.0312,
     "bgg_rating": 7.08055,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/178044"
   },
   {
@@ -4063,6 +4615,8 @@
     "players": "2-5",
     "complexity": 1.1644,
     "bgg_rating": 6.98208,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/133473"
   },
   {
@@ -4082,6 +4636,8 @@
     "players": "2",
     "complexity": 1.4746,
     "bgg_rating": 7.25822,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/50"
   },
   {
@@ -4101,6 +4657,8 @@
     "players": "2-7",
     "complexity": 1.8899,
     "bgg_rating": 7.19029,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/181304"
   },
   {
@@ -4120,6 +4678,8 @@
     "players": "2-6",
     "complexity": 1.25,
     "bgg_rating": 7.19355,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/353470"
   },
   {
@@ -4139,6 +4699,8 @@
     "players": "2-6",
     "complexity": 1.4152,
     "bgg_rating": 6.97502,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/131357"
   },
   {
@@ -4158,6 +4720,8 @@
     "players": "2-5",
     "complexity": 1.1429,
     "bgg_rating": 6.33396,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/329151"
   },
   {
@@ -4177,6 +4741,8 @@
     "players": "2",
     "complexity": 1.7815,
     "bgg_rating": 7.43165,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/264241"
   },
   {
@@ -4196,6 +4762,8 @@
     "players": "2-6",
     "complexity": 1.1529,
     "bgg_rating": 7.08962,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/274960"
   },
   {
@@ -4215,6 +4783,8 @@
     "players": "2-4",
     "complexity": 1.1849,
     "bgg_rating": 7.22653,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/129622"
   },
   {
@@ -4234,6 +4804,8 @@
     "players": "2-6",
     "complexity": 2.0476,
     "bgg_rating": 7.10936,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/313841"
   },
   {
@@ -4253,6 +4825,8 @@
     "players": "2-5",
     "complexity": 1.9659,
     "bgg_rating": 7.75577,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/284083"
   },
   {
@@ -4272,6 +4846,8 @@
     "players": "2-5",
     "complexity": 1.8936,
     "bgg_rating": 7.03753,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/300442"
   },
   {
@@ -4291,6 +4867,8 @@
     "players": "2",
     "complexity": 1.7374,
     "bgg_rating": 7.43876,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/247367"
   },
   {
@@ -4310,6 +4888,8 @@
     "players": "1-5",
     "complexity": 2.9097,
     "bgg_rating": 7.7816,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/284653"
   },
   {
@@ -4329,6 +4909,8 @@
     "players": "2-6",
     "complexity": 2.2866,
     "bgg_rating": 7.25866,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/159473"
   },
   {
@@ -4348,6 +4930,8 @@
     "players": "2-4",
     "complexity": 2.0698,
     "bgg_rating": 7.13662,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/232043"
   },
   {
@@ -4367,6 +4951,8 @@
     "players": "1-4",
     "complexity": 2.0667,
     "bgg_rating": 6.93859,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/274037"
   },
   {
@@ -4386,6 +4972,8 @@
     "players": "1-5",
     "complexity": 1.9825,
     "bgg_rating": 6.57477,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/279720"
   },
   {
@@ -4405,6 +4993,8 @@
     "players": "2",
     "complexity": 2.3333,
     "bgg_rating": 7.75385,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/290359"
   },
   {
@@ -4424,6 +5014,8 @@
     "players": "1-6",
     "complexity": 2.8378,
     "bgg_rating": 7.42361,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/256852"
   },
   {
@@ -4443,6 +5035,8 @@
     "players": "1-2",
     "complexity": 1.7391,
     "bgg_rating": 7.50772,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/347521"
   },
   {
@@ -4462,6 +5056,8 @@
     "players": "1-4",
     "complexity": 2.9412,
     "bgg_rating": 6.51576,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/170223"
   },
   {
@@ -4481,6 +5077,8 @@
     "players": "2-4",
     "complexity": 1.8438,
     "bgg_rating": 6.69867,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/344839"
   },
   {
@@ -4500,6 +5098,8 @@
     "players": "4-8",
     "complexity": 1.2353,
     "bgg_rating": 7.33806,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/253786"
   },
   {
@@ -4519,6 +5119,8 @@
     "players": "2-4",
     "complexity": 1.739,
     "bgg_rating": 6.75035,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/65244"
   },
   {
@@ -4538,6 +5140,8 @@
     "players": "2-4",
     "complexity": 2.3283,
     "bgg_rating": 7.32155,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/31481"
   },
   {
@@ -4557,6 +5161,8 @@
     "players": "1-4",
     "complexity": 2.5172,
     "bgg_rating": 6.53862,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/278120"
   },
   {
@@ -4576,6 +5182,8 @@
     "players": "2",
     "complexity": 1.6785,
     "bgg_rating": 7.4515,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/158600"
   },
   {
@@ -4595,6 +5203,8 @@
     "players": "1-4",
     "complexity": 1.226,
     "bgg_rating": 6.98782,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/195314"
   },
   {
@@ -4614,6 +5224,8 @@
     "players": "2-4",
     "complexity": 1.4443,
     "bgg_rating": 6.69928,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/8203"
   },
   {
@@ -4633,6 +5245,8 @@
     "players": "2-5",
     "complexity": 2.125,
     "bgg_rating": 7.93879,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/369258"
   },
   {
@@ -4652,6 +5266,8 @@
     "players": "2-4",
     "complexity": 2.1778,
     "bgg_rating": 7.06122,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/272738"
   },
   {
@@ -4671,6 +5287,8 @@
     "players": "2-5",
     "complexity": 3.1965,
     "bgg_rating": 7.90172,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/297562"
   },
   {
@@ -4690,6 +5308,8 @@
     "players": "2-4",
     "complexity": 1.9087,
     "bgg_rating": 7.47095,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/379629"
   },
   {
@@ -4709,6 +5329,8 @@
     "players": "2-4",
     "complexity": 1.8261,
     "bgg_rating": 7.28895,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/264141"
   },
   {
@@ -4728,6 +5350,8 @@
     "players": "1-2",
     "complexity": 2.6486,
     "bgg_rating": 6.81954,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/267401"
   },
   {
@@ -4747,6 +5371,8 @@
     "players": "1-5",
     "complexity": 1.8837,
     "bgg_rating": 6.50915,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/192638"
   },
   {
@@ -4766,6 +5392,8 @@
     "players": "2-7",
     "complexity": 2,
     "bgg_rating": 6.95488,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/194879"
   },
   {
@@ -4785,6 +5413,8 @@
     "players": "1-2",
     "complexity": 3.3158,
     "bgg_rating": 6.83559,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/256713"
   },
   {
@@ -4804,6 +5434,8 @@
     "players": "2-4",
     "complexity": 2.1688,
     "bgg_rating": 7.35751,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/192153"
   },
   {
@@ -4823,6 +5455,8 @@
     "players": "1-5",
     "complexity": 2.9699,
     "bgg_rating": 7.37721,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/38453"
   },
   {
@@ -4842,6 +5476,8 @@
     "players": "2",
     "complexity": 1.8797,
     "bgg_rating": 7.77828,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/182631"
   },
   {
@@ -4861,6 +5497,8 @@
     "players": "1-4",
     "complexity": 2.4179,
     "bgg_rating": 7.31819,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/296108"
   },
   {
@@ -4880,6 +5518,8 @@
     "players": "2-4",
     "complexity": 1.2632,
     "bgg_rating": 6.88025,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/253284"
   },
   {
@@ -4899,6 +5539,8 @@
     "players": "1-5",
     "complexity": 2.227,
     "bgg_rating": 7.1055,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/241724"
   },
   {
@@ -4918,6 +5560,8 @@
     "players": "2-4",
     "complexity": 2.981,
     "bgg_rating": 7.60379,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/362944"
   },
   {
@@ -4937,6 +5581,8 @@
     "players": "1-4",
     "complexity": 2.3151,
     "bgg_rating": 6.41663,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/223779"
   },
   {
@@ -4956,6 +5602,8 @@
     "players": "2-6",
     "complexity": 1,
     "bgg_rating": 6.2719,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/220700"
   },
   {
@@ -4975,6 +5623,8 @@
     "players": "2-5",
     "complexity": 1.6332,
     "bgg_rating": 7.10367,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/156009"
   },
   {
@@ -4994,6 +5644,8 @@
     "players": "2-5",
     "complexity": 1.9155,
     "bgg_rating": 7.5236,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/14996"
   },
   {
@@ -5013,6 +5665,8 @@
     "players": "1-2",
     "complexity": 2.0928,
     "bgg_rating": 6.93403,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/179275"
   },
   {
@@ -5032,6 +5686,8 @@
     "players": "2-4",
     "complexity": 1.9459,
     "bgg_rating": 6.18682,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/147299"
   },
   {
@@ -5051,6 +5707,8 @@
     "players": "3-6",
     "complexity": 1.25,
     "bgg_rating": 7.26586,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/172"
   },
   {
@@ -5070,6 +5728,8 @@
     "players": "2-4",
     "complexity": 2.071,
     "bgg_rating": 6.93238,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/107529"
   },
   {
@@ -5089,6 +5749,8 @@
     "players": "1-6",
     "complexity": 1.4686,
     "bgg_rating": 7.14422,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/245654"
   },
   {
@@ -5108,6 +5770,8 @@
     "players": "1-5",
     "complexity": 2.3247,
     "bgg_rating": 7.62726,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/271324"
   },
   {
@@ -5127,6 +5791,8 @@
     "players": "3-6",
     "complexity": 2.8723,
     "bgg_rating": 7.43605,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/166857"
   },
   {
@@ -5146,6 +5812,8 @@
     "players": "2-6",
     "complexity": 2.5,
     "bgg_rating": 8.00447,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/251830"
   },
   {
@@ -5165,6 +5833,8 @@
     "players": "1-4",
     "complexity": 2.1371,
     "bgg_rating": 7.04481,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/69789"
   },
   {
@@ -5184,6 +5854,8 @@
     "players": "2-5",
     "complexity": 1.6901,
     "bgg_rating": 7.02892,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/98778"
   },
   {
@@ -5203,6 +5875,8 @@
     "players": "1-4",
     "complexity": 3.0505,
     "bgg_rating": 6.87887,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/210274"
   },
   {
@@ -5222,6 +5896,8 @@
     "players": "2-6",
     "complexity": 1.3101,
     "bgg_rating": 6.91434,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/183006"
   },
   {
@@ -5241,6 +5917,8 @@
     "players": "1-5",
     "complexity": 2.8526,
     "bgg_rating": 7.20153,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/254713"
   },
   {
@@ -5260,6 +5938,8 @@
     "players": "2-4",
     "complexity": 2.5429,
     "bgg_rating": 7.91408,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/189932"
   },
   {
@@ -5279,6 +5959,8 @@
     "players": "2-4",
     "complexity": 2.9679,
     "bgg_rating": 7.16607,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/213893"
   },
   {
@@ -5298,6 +5980,8 @@
     "players": "1-4",
     "complexity": 2.3155,
     "bgg_rating": 7.35379,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/283393"
   },
   {
@@ -5317,6 +6001,8 @@
     "players": "2-4",
     "complexity": 2.5372,
     "bgg_rating": 7.26318,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/143515"
   },
   {
@@ -5336,6 +6022,8 @@
     "players": "2-6",
     "complexity": 1.1846,
     "bgg_rating": 6.86766,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/169654"
   },
   {
@@ -5355,6 +6043,8 @@
     "players": "3-5",
     "complexity": 2.6336,
     "bgg_rating": 7.52243,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/158435"
   },
   {
@@ -5374,6 +6064,8 @@
     "players": "2-6",
     "complexity": 1.8989,
     "bgg_rating": 5.94496,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/96260"
   },
   {
@@ -5393,6 +6085,8 @@
     "players": "2-5",
     "complexity": 1,
     "bgg_rating": 5.70173,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/269573"
   },
   {
@@ -5412,6 +6106,8 @@
     "players": "2-4",
     "complexity": 3.6941,
     "bgg_rating": 8.14915,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/193738"
   },
   {
@@ -5431,6 +6127,8 @@
     "players": "2-4",
     "complexity": 2.1053,
     "bgg_rating": 7.27242,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/275034"
   },
   {
@@ -5450,6 +6148,8 @@
     "players": "2-13",
     "complexity": 1.5273,
     "bgg_rating": 6.54862,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/139030"
   },
   {
@@ -5469,6 +6169,8 @@
     "players": "2-5",
     "complexity": 3.0819,
     "bgg_rating": 7.52796,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/66589"
   },
   {
@@ -5488,6 +6190,8 @@
     "players": "1-5",
     "complexity": 1.9673,
     "bgg_rating": 7.003,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/300877"
   },
   {
@@ -5507,6 +6211,8 @@
     "players": "2",
     "complexity": 2.2663,
     "bgg_rating": 7.74333,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/329082"
   },
   {
@@ -5526,6 +6232,8 @@
     "players": "2-4",
     "complexity": 3.8404,
     "bgg_rating": 8.07123,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/237182"
   },
   {
@@ -5545,6 +6253,8 @@
     "players": "2-7",
     "complexity": 2.398,
     "bgg_rating": 7.05044,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/159503"
   },
   {
@@ -5564,6 +6274,8 @@
     "players": "2-4",
     "complexity": 1.3478,
     "bgg_rating": 7.0452,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/276894"
   },
   {
@@ -5583,6 +6295,8 @@
     "players": "2-6",
     "complexity": 2.9527,
     "bgg_rating": 7.47336,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/128621"
   },
   {
@@ -5602,6 +6316,8 @@
     "players": "1-5",
     "complexity": 2.4799,
     "bgg_rating": 7.9993,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/266192"
   },
   {
@@ -5621,6 +6337,8 @@
     "players": "2",
     "complexity": 4.0144,
     "bgg_rating": 7.34238,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/184151"
   },
   {
@@ -5640,7 +6358,135 @@
     "players": "1-4",
     "complexity": 1.6822,
     "bgg_rating": 7.13503,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/368017"
+  },
+  {
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 99,
+    "bgg_id": 41,
+    "name": "Can't Stop",
+    "current_rating": 7.0,
+    "num_plays": 7.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "players": "2-4",
+    "complexity": 1.1431,
+    "bgg_rating": 6.94577,
+    "bgg_comment": null,
+    "notes": null,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/41"
+  },
+  {
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 100,
+    "bgg_id": 263918,
+    "name": "Cartographers",
+    "current_rating": 7.0,
+    "num_plays": 1.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "players": "1-100",
+    "complexity": 1.8891,
+    "bgg_rating": 7.55418,
+    "bgg_comment": null,
+    "notes": null,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/263918"
+  },
+  {
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 101,
+    "bgg_id": 407180,
+    "name": "Ganz schön clever: Deluxe",
+    "current_rating": 7.0,
+    "num_plays": 1.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "players": "1-4",
+    "complexity": 2.4,
+    "bgg_rating": 7.86946,
+    "bgg_comment": null,
+    "notes": null,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/407180"
+  },
+  {
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 102,
+    "bgg_id": 63975,
+    "name": "Mountain Goats",
+    "current_rating": 7.0,
+    "num_plays": 1.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "players": "2-4",
+    "complexity": 1.211,
+    "bgg_rating": 6.83566,
+    "bgg_comment": null,
+    "notes": null,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/63975"
+  },
+  {
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 103,
+    "bgg_id": 73439,
+    "name": "Troyes",
+    "current_rating": 7.0,
+    "num_plays": 1.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "players": "1-4",
+    "complexity": 3.374,
+    "bgg_rating": 7.70281,
+    "bgg_comment": null,
+    "notes": null,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/73439"
+  },
+  {
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 104,
+    "bgg_id": 27588,
+    "name": "Zooloretto",
+    "current_rating": 7.0,
+    "num_plays": 1.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "players": "2-5",
+    "complexity": 1.857,
+    "bgg_rating": 6.78377,
+    "bgg_comment": null,
+    "notes": null,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/27588"
   },
   {
     "tier": "D",
@@ -5659,6 +6505,8 @@
     "players": "2",
     "complexity": 2.3424,
     "bgg_rating": 7.58785,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/118048"
   },
   {
@@ -5678,6 +6526,8 @@
     "players": "3-7",
     "complexity": 1.1299,
     "bgg_rating": 7.08031,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/12942"
   },
   {
@@ -5697,6 +6547,8 @@
     "players": "2-6",
     "complexity": 1.0967,
     "bgg_rating": 6.80231,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/11971"
   },
   {
@@ -5716,6 +6568,8 @@
     "players": "3-8",
     "complexity": 1.2789,
     "bgg_rating": 6.87619,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/143741"
   },
   {
@@ -5735,6 +6589,8 @@
     "players": "2-8",
     "complexity": 1.2553,
     "bgg_rating": 7.52488,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/178900"
   },
   {
@@ -5754,6 +6610,8 @@
     "players": "2-4",
     "complexity": 1.707,
     "bgg_rating": 6.52213,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/811"
   },
   {
@@ -5773,6 +6631,8 @@
     "players": "2-4",
     "complexity": 2.6154,
     "bgg_rating": 7.27286,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/303554"
   },
   {
@@ -5792,6 +6652,8 @@
     "players": "2",
     "complexity": 1.7366,
     "bgg_rating": 6.96739,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/122298"
   },
   {
@@ -5811,6 +6673,8 @@
     "players": "1",
     "complexity": 3.0909,
     "bgg_rating": 7.10918,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/337070"
   },
   {
@@ -5830,6 +6694,8 @@
     "players": "3-5",
     "complexity": 1.162,
     "bgg_rating": 6.40552,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/105593"
   },
   {
@@ -5849,6 +6715,8 @@
     "players": "1-6",
     "complexity": 1.1136,
     "bgg_rating": 6.61388,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/376747"
   },
   {
@@ -5868,6 +6736,8 @@
     "players": "2-5",
     "complexity": 1.0806,
     "bgg_rating": 6.06972,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/172225"
   },
   {
@@ -5887,6 +6757,8 @@
     "players": "1-4",
     "complexity": 2.8158,
     "bgg_rating": 6.82876,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/345088"
   },
   {
@@ -5906,6 +6778,8 @@
     "players": "3-6",
     "complexity": 2.6531,
     "bgg_rating": 6.49403,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/160968"
   },
   {
@@ -5925,6 +6799,8 @@
     "players": "1-4",
     "complexity": 2.1667,
     "bgg_rating": 6.38983,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/240957"
   },
   {
@@ -5944,6 +6820,8 @@
     "players": "2-4",
     "complexity": 2.4384,
     "bgg_rating": 6.90718,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/193322"
   },
   {
@@ -5963,6 +6841,8 @@
     "players": "1-5",
     "complexity": 1.6316,
     "bgg_rating": 6.1537,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/230251"
   },
   {
@@ -5982,6 +6862,8 @@
     "players": "2-4",
     "complexity": 1.5333,
     "bgg_rating": 6.82596,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/309297"
   },
   {
@@ -6001,6 +6883,8 @@
     "players": "5-10",
     "complexity": 1.5908,
     "bgg_rating": 7.18996,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/41114"
   },
   {
@@ -6020,6 +6904,8 @@
     "players": "2-8",
     "complexity": 1.4906,
     "bgg_rating": 6.22646,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/234190"
   },
   {
@@ -6039,6 +6925,8 @@
     "players": "1-50",
     "complexity": 2.8214,
     "bgg_rating": 6.69698,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/281075"
   },
   {
@@ -6058,6 +6946,8 @@
     "players": "2-6",
     "complexity": 1.8359,
     "bgg_rating": 7.09633,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/158899"
   },
   {
@@ -6077,6 +6967,8 @@
     "players": "3-6",
     "complexity": 1.3226,
     "bgg_rating": 6.53202,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/207062"
   },
   {
@@ -6096,6 +6988,8 @@
     "players": "2-4",
     "complexity": 2.2414,
     "bgg_rating": 6.28058,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/359502"
   },
   {
@@ -6115,6 +7009,8 @@
     "players": "2-5",
     "complexity": 2.9881,
     "bgg_rating": 8.07693,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/124361"
   },
   {
@@ -6134,6 +7030,8 @@
     "players": "1-4",
     "complexity": 3.0481,
     "bgg_rating": 7.34881,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/256570"
   },
   {
@@ -6153,6 +7051,8 @@
     "players": "1-5",
     "complexity": 1.2364,
     "bgg_rating": 6.71325,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/173090"
   },
   {
@@ -6172,6 +7072,8 @@
     "players": "3-6",
     "complexity": 3.7348,
     "bgg_rating": 7.52838,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/103343"
   },
   {
@@ -6191,6 +7093,8 @@
     "players": "2-5",
     "complexity": 2.8904,
     "bgg_rating": 6.52691,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/181293"
   },
   {
@@ -6210,6 +7114,8 @@
     "players": "2-4",
     "complexity": 1.5556,
     "bgg_rating": 4.97273,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/5420"
   },
   {
@@ -6229,6 +7135,8 @@
     "players": "2",
     "complexity": 1.5686,
     "bgg_rating": 7.02083,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/213266"
   },
   {
@@ -6248,6 +7156,8 @@
     "players": "2-6",
     "complexity": 1.6667,
     "bgg_rating": 6.12526,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/238972"
   },
   {
@@ -6267,6 +7177,8 @@
     "players": "1-4",
     "complexity": 4.16,
     "bgg_rating": 7.5493,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/269511"
   },
   {
@@ -6286,6 +7198,8 @@
     "players": "2-4",
     "complexity": 1.6923,
     "bgg_rating": 6.9229,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/269595"
   },
   {
@@ -6305,6 +7219,8 @@
     "players": "2-5",
     "complexity": 3.7665,
     "bgg_rating": 7.49649,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/280480"
   },
   {
@@ -6324,6 +7240,8 @@
     "players": "2-6",
     "complexity": 2.1705,
     "bgg_rating": 8.03682,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/244271"
   },
   {
@@ -6343,6 +7261,8 @@
     "players": "2-10",
     "complexity": 1.3462,
     "bgg_rating": 6.83644,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/169124"
   },
   {
@@ -6362,6 +7282,8 @@
     "players": "1-4",
     "complexity": 3.2241,
     "bgg_rating": 7.65619,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/249703"
   },
   {
@@ -6381,6 +7303,8 @@
     "players": "1-4",
     "complexity": 3.0714,
     "bgg_rating": 6.73391,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/134157"
   },
   {
@@ -6400,6 +7324,8 @@
     "players": "1",
     "complexity": 2.0585,
     "bgg_rating": 6.77967,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/134253"
   },
   {
@@ -6419,6 +7345,8 @@
     "players": "2-6",
     "complexity": 1.4837,
     "bgg_rating": 7.11391,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/70323"
   },
   {
@@ -6438,6 +7366,8 @@
     "players": "2-4",
     "complexity": 1.3439,
     "bgg_rating": 6.40944,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/1219"
   },
   {
@@ -6457,6 +7387,8 @@
     "players": "1-4",
     "complexity": 2.9589,
     "bgg_rating": 8.10396,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/285774"
   },
   {
@@ -6476,6 +7408,8 @@
     "players": "1-5",
     "complexity": 3.54,
     "bgg_rating": 7.58909,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/126042"
   },
   {
@@ -6495,6 +7429,8 @@
     "players": "2-5",
     "complexity": 2.9612,
     "bgg_rating": 7.38376,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/255692"
   },
   {
@@ -6514,6 +7450,8 @@
     "players": "2",
     "complexity": 1.4783,
     "bgg_rating": 6.30156,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/162041"
   },
   {
@@ -6533,6 +7471,8 @@
     "players": "3-5",
     "complexity": 1.3333,
     "bgg_rating": 7.05463,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/270445"
   },
   {
@@ -6552,6 +7492,8 @@
     "players": "3-10",
     "complexity": 1.3825,
     "bgg_rating": 7.03163,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/147949"
   },
   {
@@ -6571,6 +7513,8 @@
     "players": "2-4",
     "complexity": 3.9268,
     "bgg_rating": 7.15903,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/170199"
   },
   {
@@ -6590,6 +7534,8 @@
     "players": "2-8",
     "complexity": 1,
     "bgg_rating": 7.38421,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/419143"
   },
   {
@@ -6609,6 +7555,8 @@
     "players": "1-4",
     "complexity": 1.8519,
     "bgg_rating": 7.55004,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/244522"
   },
   {
@@ -6628,6 +7576,8 @@
     "players": "2-5",
     "complexity": 2.5686,
     "bgg_rating": 6.7154,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/204574"
   },
   {
@@ -6647,6 +7597,8 @@
     "players": "1-4",
     "complexity": 2.5741,
     "bgg_rating": 6.66999,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/257283"
   },
   {
@@ -6666,6 +7618,8 @@
     "players": "2-4",
     "complexity": 2.2466,
     "bgg_rating": 7.25474,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/244654"
   },
   {
@@ -6685,6 +7639,8 @@
     "players": "2-4",
     "complexity": 1.1154,
     "bgg_rating": 5.63347,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/115105"
   },
   {
@@ -6704,6 +7660,8 @@
     "players": "1-4",
     "complexity": 2.5408,
     "bgg_rating": 7.60646,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/356123"
   },
   {
@@ -6723,7 +7681,114 @@
     "players": "2-6",
     "complexity": 2.0625,
     "bgg_rating": 6.80469,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/378848"
+  },
+  {
+    "tier": "D",
+    "source_bucket": 6,
+    "rank_in_tier": 58,
+    "bgg_id": 303734,
+    "name": "Golems",
+    "current_rating": 6.0,
+    "num_plays": 2.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "players": "1-2",
+    "complexity": 1.75,
+    "bgg_rating": 6.07951,
+    "bgg_comment": null,
+    "notes": null,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/303734"
+  },
+  {
+    "tier": "D",
+    "source_bucket": 6,
+    "rank_in_tier": 59,
+    "bgg_id": 302520,
+    "name": "Hues and Cues",
+    "current_rating": 6.0,
+    "num_plays": 2.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "players": "3-10",
+    "complexity": 1.0603,
+    "bgg_rating": 6.43818,
+    "bgg_comment": null,
+    "notes": null,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/302520"
+  },
+  {
+    "tier": "D",
+    "source_bucket": 6,
+    "rank_in_tier": 60,
+    "bgg_id": 204583,
+    "name": "Kingdomino",
+    "current_rating": 6.0,
+    "num_plays": 2.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "players": "2-4",
+    "complexity": 1.2386,
+    "bgg_rating": 7.28769,
+    "bgg_comment": null,
+    "notes": null,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/204583"
+  },
+  {
+    "tier": "D",
+    "source_bucket": 6,
+    "rank_in_tier": 61,
+    "bgg_id": 73761,
+    "name": "K2",
+    "current_rating": 6.0,
+    "num_plays": 1.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "players": "1-5",
+    "complexity": 2.2475,
+    "bgg_rating": 6.99606,
+    "bgg_comment": null,
+    "notes": null,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/73761"
+  },
+  {
+    "tier": "D",
+    "source_bucket": 6,
+    "rank_in_tier": 62,
+    "bgg_id": 180974,
+    "name": "Potion Explosion",
+    "current_rating": 6.0,
+    "num_plays": 1.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "players": "2-4",
+    "complexity": 1.7799,
+    "bgg_rating": 7.12183,
+    "bgg_comment": null,
+    "notes": null,
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/180974"
   },
   {
     "tier": "F",
@@ -6742,6 +7807,8 @@
     "players": "2-6",
     "complexity": 1.3846,
     "bgg_rating": 5.45436,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/4279"
   },
   {
@@ -6761,6 +7828,8 @@
     "players": "1-8",
     "complexity": 1.125,
     "bgg_rating": 6.37574,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/247567"
   },
   {
@@ -6780,6 +7849,8 @@
     "players": "1-5",
     "complexity": 1.875,
     "bgg_rating": 5.45169,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/163170"
   },
   {
@@ -6799,6 +7870,8 @@
     "players": "2-5",
     "complexity": 2.0413,
     "bgg_rating": 7.0592,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/136063"
   },
   {
@@ -6818,6 +7891,8 @@
     "players": "2",
     "complexity": 2.7742,
     "bgg_rating": 6.6619,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/171226"
   },
   {
@@ -6837,6 +7912,8 @@
     "players": "1-4",
     "complexity": 3.7963,
     "bgg_rating": 8.54058,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/342942"
   },
   {
@@ -6856,6 +7933,8 @@
     "players": "1-4",
     "complexity": 2.4232,
     "bgg_rating": 7.41879,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/169426"
   },
   {
@@ -6875,6 +7954,8 @@
     "players": "2-4",
     "complexity": 2.2778,
     "bgg_rating": 6.55025,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/292032"
   },
   {
@@ -6894,6 +7975,8 @@
     "players": "2-4",
     "complexity": 2.26,
     "bgg_rating": 7.23467,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/194607"
   },
   {
@@ -6913,6 +7996,8 @@
     "players": "1-4",
     "complexity": 3.3717,
     "bgg_rating": 7.49874,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/244711"
   },
   {
@@ -6932,6 +8017,8 @@
     "players": "1-5",
     "complexity": 2.6978,
     "bgg_rating": 7.89162,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/269385"
   },
   {
@@ -6951,6 +8038,8 @@
     "players": "2-5",
     "complexity": 1.8,
     "bgg_rating": 6.69445,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/381083"
   },
   {
@@ -6970,6 +8059,8 @@
     "players": "3-6",
     "complexity": 1.8177,
     "bgg_rating": 5.87334,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/1927"
   },
   {
@@ -6989,6 +8080,8 @@
     "players": "2-4",
     "complexity": 1.0732,
     "bgg_rating": 6.71606,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/244992"
   },
   {
@@ -7008,6 +8101,8 @@
     "players": "3-8",
     "complexity": 1.0584,
     "bgg_rating": 6.64699,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/194626"
   },
   {
@@ -7027,6 +8122,8 @@
     "players": "2",
     "complexity": 1.1997,
     "bgg_rating": 4.75694,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/2425"
   },
   {
@@ -7046,6 +8143,8 @@
     "players": "2-4",
     "complexity": 1.9407,
     "bgg_rating": 7.80441,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/244521"
   },
   {
@@ -7065,6 +8164,8 @@
     "players": "1-4",
     "complexity": 2.0976,
     "bgg_rating": 7.4767,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/280748"
   },
   {
@@ -7084,6 +8185,8 @@
     "players": "2-8",
     "complexity": 1.7331,
     "bgg_rating": 7.52731,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/150145"
   },
   {
@@ -7103,6 +8206,8 @@
     "players": "2-5",
     "complexity": 2.3468,
     "bgg_rating": 7.19134,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/40692"
   },
   {
@@ -7122,6 +8227,8 @@
     "players": "2-4",
     "complexity": 2.6872,
     "bgg_rating": 7.57294,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/269207"
   },
   {
@@ -7141,6 +8248,8 @@
     "players": "2-10",
     "complexity": 1,
     "bgg_rating": 6.27727,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/277061"
   },
   {
@@ -7160,6 +8269,8 @@
     "players": "1-4",
     "complexity": 4.0738,
     "bgg_rating": 8.34,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/162886"
   },
   {
@@ -7179,6 +8290,8 @@
     "players": "2-4",
     "complexity": 2.875,
     "bgg_rating": 7.09742,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/430616"
   },
   {
@@ -7198,6 +8311,8 @@
     "players": "1-4",
     "complexity": 1.36,
     "bgg_rating": 5.02425,
+    "bgg_comment": null,
+    "notes": null,
     "bgg_game_url": "https://boardgamegeek.com/boardgame/329713"
   }
 ]
