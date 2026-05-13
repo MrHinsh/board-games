@@ -1,6 +1,8 @@
 "tier","source_bucket","rank_in_tier","bgg_id","name","current_rating","num_plays","collection","previously_owned","want_to_play","want_to_buy","collection_to_exit","collection_status","bgg_comment","notes","bgg_game_url"
 "C","7","1","194594","Dice Forge","6.999","3","True","False","False","False","False","Owned","","","https://boardgamegeek.com/boardgame/194594"
+"C","7","1","13","Catan","7.166","0","False","True","False","False","False","NotOwned","","","https://boardgamegeek.com/boardgame/13"
 "C","7","2","269210","Twice as Clever!","6.989","4","True","False","False","False","False","Owned","","","https://boardgamegeek.com/boardgame/269210"
+"C","7","2","54","Tikal","7","1","False","False","False","False","False","NotOwned","","","https://boardgamegeek.com/boardgame/54"
 "C","7","3","200077","Mint Works","6.98","3","True","False","False","False","False","Owned","","","https://boardgamegeek.com/boardgame/200077"
 "C","7","4","146652","Legendary Encounters: An Alien Deck Building Game","6.97","2","True","False","False","False","False","Owned","","","https://boardgamegeek.com/boardgame/146652"
 "C","7","5","177639","Raptor","6.96","2","True","False","False","False","False","Owned","","","https://boardgamegeek.com/boardgame/177639"

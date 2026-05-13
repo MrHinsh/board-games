@@ -5,9 +5,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 2,
-    "current_rating": 8.985,
+    "current_rating": 8.984,
     "target_rating": 8.984,
-    "delta": -0.001,
+    "delta": 0.0,
     "status": "queued"
   },
   {
@@ -16,9 +16,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 3,
-    "current_rating": 8.972,
-    "target_rating": 8.968,
-    "delta": -0.004,
+    "current_rating": 8.968,
+    "target_rating": 8.969,
+    "delta": 0.001,
     "status": "queued"
   },
   {
@@ -27,9 +27,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 4,
-    "current_rating": 8.958,
-    "target_rating": 8.953,
-    "delta": -0.005,
+    "current_rating": 8.953,
+    "target_rating": 8.954,
+    "delta": 0.001,
     "status": "queued"
   },
   {
@@ -38,9 +38,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 5,
-    "current_rating": 8.944,
+    "current_rating": 8.938,
     "target_rating": 8.938,
-    "delta": -0.006,
+    "delta": 0.0,
     "status": "queued"
   },
   {
@@ -49,9 +49,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 6,
-    "current_rating": 8.931,
-    "target_rating": 8.922,
-    "delta": -0.009,
+    "current_rating": 8.922,
+    "target_rating": 8.923,
+    "delta": 0.001,
     "status": "queued"
   },
   {
@@ -60,9 +60,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 7,
-    "current_rating": 8.917,
-    "target_rating": 8.907,
-    "delta": -0.01,
+    "current_rating": 8.907,
+    "target_rating": 8.908,
+    "delta": 0.001,
     "status": "queued"
   },
   {
@@ -71,9 +71,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 8,
-    "current_rating": 8.903,
-    "target_rating": 8.891,
-    "delta": -0.012,
+    "current_rating": 8.891,
+    "target_rating": 8.893,
+    "delta": 0.002,
     "status": "queued"
   },
   {
@@ -82,9 +82,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 9,
-    "current_rating": 8.89,
-    "target_rating": 8.876,
-    "delta": -0.014,
+    "current_rating": 8.876,
+    "target_rating": 8.878,
+    "delta": 0.002,
     "status": "queued"
   },
   {
@@ -93,9 +93,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 10,
-    "current_rating": 8.876,
-    "target_rating": 8.861,
-    "delta": -0.015,
+    "current_rating": 8.861,
+    "target_rating": 8.863,
+    "delta": 0.002,
     "status": "queued"
   },
   {
@@ -104,9 +104,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 11,
-    "current_rating": 8.862,
-    "target_rating": 8.845,
-    "delta": -0.017,
+    "current_rating": 8.845,
+    "target_rating": 8.848,
+    "delta": 0.003,
     "status": "queued"
   },
   {
@@ -115,9 +115,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 12,
-    "current_rating": 8.848,
-    "target_rating": 8.83,
-    "delta": -0.018,
+    "current_rating": 8.83,
+    "target_rating": 8.832,
+    "delta": 0.002,
     "status": "queued"
   },
   {
@@ -126,9 +126,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 13,
-    "current_rating": 8.835,
-    "target_rating": 8.815,
-    "delta": -0.02,
+    "current_rating": 8.815,
+    "target_rating": 8.817,
+    "delta": 0.002,
     "status": "queued"
   },
   {
@@ -137,9 +137,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 14,
-    "current_rating": 8.821,
-    "target_rating": 8.799,
-    "delta": -0.022,
+    "current_rating": 8.799,
+    "target_rating": 8.802,
+    "delta": 0.003,
     "status": "queued"
   },
   {
@@ -148,9 +148,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 15,
-    "current_rating": 8.807,
-    "target_rating": 8.784,
-    "delta": -0.023,
+    "current_rating": 8.784,
+    "target_rating": 8.787,
+    "delta": 0.003,
     "status": "queued"
   },
   {
@@ -159,9 +159,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 16,
-    "current_rating": 8.794,
-    "target_rating": 8.768,
-    "delta": -0.026,
+    "current_rating": 8.768,
+    "target_rating": 8.772,
+    "delta": 0.004,
     "status": "queued"
   },
   {
@@ -170,9 +170,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 17,
-    "current_rating": 8.78,
-    "target_rating": 8.753,
-    "delta": -0.027,
+    "current_rating": 8.753,
+    "target_rating": 8.757,
+    "delta": 0.004,
     "status": "queued"
   },
   {
@@ -181,9 +181,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 18,
-    "current_rating": 8.766,
-    "target_rating": 8.738,
-    "delta": -0.028,
+    "current_rating": 8.738,
+    "target_rating": 8.742,
+    "delta": 0.004,
     "status": "queued"
   },
   {
@@ -192,9 +192,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 19,
-    "current_rating": 8.753,
-    "target_rating": 8.722,
-    "delta": -0.031,
+    "current_rating": 8.722,
+    "target_rating": 8.727,
+    "delta": 0.005,
     "status": "queued"
   },
   {
@@ -203,9 +203,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 20,
-    "current_rating": 8.739,
-    "target_rating": 8.707,
-    "delta": -0.032,
+    "current_rating": 8.707,
+    "target_rating": 8.711,
+    "delta": 0.004,
     "status": "queued"
   },
   {
@@ -214,9 +214,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 21,
-    "current_rating": 8.725,
-    "target_rating": 8.692,
-    "delta": -0.033,
+    "current_rating": 8.692,
+    "target_rating": 8.696,
+    "delta": 0.004,
     "status": "queued"
   },
   {
@@ -225,9 +225,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 22,
-    "current_rating": 8.712,
-    "target_rating": 8.676,
-    "delta": -0.036,
+    "current_rating": 8.676,
+    "target_rating": 8.681,
+    "delta": 0.005,
     "status": "queued"
   },
   {
@@ -236,9 +236,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 23,
-    "current_rating": 8.698,
-    "target_rating": 8.661,
-    "delta": -0.037,
+    "current_rating": 8.661,
+    "target_rating": 8.666,
+    "delta": 0.005,
     "status": "queued"
   },
   {
@@ -247,9 +247,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 24,
-    "current_rating": 8.684,
-    "target_rating": 8.646,
-    "delta": -0.038,
+    "current_rating": 8.646,
+    "target_rating": 8.651,
+    "delta": 0.005,
     "status": "queued"
   },
   {
@@ -258,9 +258,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 25,
-    "current_rating": 8.671,
-    "target_rating": 8.63,
-    "delta": -0.041,
+    "current_rating": 8.63,
+    "target_rating": 8.636,
+    "delta": 0.006,
     "status": "queued"
   },
   {
@@ -269,9 +269,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 26,
-    "current_rating": 8.657,
-    "target_rating": 8.615,
-    "delta": -0.042,
+    "current_rating": 8.615,
+    "target_rating": 8.621,
+    "delta": 0.006,
     "status": "queued"
   },
   {
@@ -280,9 +280,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 27,
-    "current_rating": 8.643,
-    "target_rating": 8.599,
-    "delta": -0.044,
+    "current_rating": 8.599,
+    "target_rating": 8.605,
+    "delta": 0.006,
     "status": "queued"
   },
   {
@@ -291,9 +291,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 28,
-    "current_rating": 8.63,
-    "target_rating": 8.584,
-    "delta": -0.046,
+    "current_rating": 8.584,
+    "target_rating": 8.59,
+    "delta": 0.006,
     "status": "queued"
   },
   {
@@ -302,9 +302,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 29,
-    "current_rating": 8.616,
-    "target_rating": 8.569,
-    "delta": -0.047,
+    "current_rating": 8.569,
+    "target_rating": 8.575,
+    "delta": 0.006,
     "status": "queued"
   },
   {
@@ -313,9 +313,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 30,
-    "current_rating": 8.602,
-    "target_rating": 8.553,
-    "delta": -0.049,
+    "current_rating": 8.553,
+    "target_rating": 8.56,
+    "delta": 0.007,
     "status": "queued"
   },
   {
@@ -324,9 +324,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 31,
-    "current_rating": 8.588,
-    "target_rating": 8.538,
-    "delta": -0.05,
+    "current_rating": 8.538,
+    "target_rating": 8.545,
+    "delta": 0.007,
     "status": "queued"
   },
   {
@@ -335,9 +335,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 32,
-    "current_rating": 8.575,
-    "target_rating": 8.523,
-    "delta": -0.052,
+    "current_rating": 8.523,
+    "target_rating": 8.53,
+    "delta": 0.007,
     "status": "queued"
   },
   {
@@ -346,9 +346,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 33,
-    "current_rating": 8.561,
-    "target_rating": 8.507,
-    "delta": -0.054,
+    "current_rating": 8.507,
+    "target_rating": 8.515,
+    "delta": 0.008,
     "status": "queued"
   },
   {
@@ -357,9 +357,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 34,
-    "current_rating": 8.547,
-    "target_rating": 8.492,
-    "delta": -0.055,
+    "current_rating": 8.492,
+    "target_rating": 8.5,
+    "delta": 0.008,
     "status": "queued"
   },
   {
@@ -368,9 +368,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 35,
-    "current_rating": 8.534,
-    "target_rating": 8.476,
-    "delta": -0.058,
+    "current_rating": 8.476,
+    "target_rating": 8.484,
+    "delta": 0.008,
     "status": "queued"
   },
   {
@@ -379,9 +379,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 36,
-    "current_rating": 8.52,
-    "target_rating": 8.461,
-    "delta": -0.059,
+    "current_rating": 8.461,
+    "target_rating": 8.469,
+    "delta": 0.008,
     "status": "queued"
   },
   {
@@ -390,9 +390,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 37,
-    "current_rating": 8.506,
-    "target_rating": 8.446,
-    "delta": -0.06,
+    "current_rating": 8.446,
+    "target_rating": 8.454,
+    "delta": 0.008,
     "status": "queued"
   },
   {
@@ -401,9 +401,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 38,
-    "current_rating": 8.493,
-    "target_rating": 8.43,
-    "delta": -0.063,
+    "current_rating": 8.43,
+    "target_rating": 8.439,
+    "delta": 0.009,
     "status": "queued"
   },
   {
@@ -412,9 +412,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 39,
-    "current_rating": 8.479,
-    "target_rating": 8.415,
-    "delta": -0.064,
+    "current_rating": 8.415,
+    "target_rating": 8.424,
+    "delta": 0.009,
     "status": "queued"
   },
   {
@@ -423,9 +423,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 40,
-    "current_rating": 8.465,
-    "target_rating": 8.4,
-    "delta": -0.065,
+    "current_rating": 8.4,
+    "target_rating": 8.409,
+    "delta": 0.009,
     "status": "queued"
   },
   {
@@ -434,9 +434,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 41,
-    "current_rating": 8.452,
-    "target_rating": 8.384,
-    "delta": -0.068,
+    "current_rating": 8.384,
+    "target_rating": 8.394,
+    "delta": 0.01,
     "status": "queued"
   },
   {
@@ -445,9 +445,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 42,
-    "current_rating": 8.438,
-    "target_rating": 8.369,
-    "delta": -0.069,
+    "current_rating": 8.369,
+    "target_rating": 8.378,
+    "delta": 0.009,
     "status": "queued"
   },
   {
@@ -456,9 +456,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 43,
-    "current_rating": 8.424,
-    "target_rating": 8.353,
-    "delta": -0.071,
+    "current_rating": 8.353,
+    "target_rating": 8.363,
+    "delta": 0.01,
     "status": "queued"
   },
   {
@@ -467,9 +467,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 44,
-    "current_rating": 8.411,
-    "target_rating": 8.338,
-    "delta": -0.073,
+    "current_rating": 8.338,
+    "target_rating": 8.348,
+    "delta": 0.01,
     "status": "queued"
   },
   {
@@ -478,9 +478,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 45,
-    "current_rating": 8.397,
-    "target_rating": 8.323,
-    "delta": -0.074,
+    "current_rating": 8.323,
+    "target_rating": 8.333,
+    "delta": 0.01,
     "status": "queued"
   },
   {
@@ -489,9 +489,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 46,
-    "current_rating": 8.383,
-    "target_rating": 8.307,
-    "delta": -0.076,
+    "current_rating": 8.307,
+    "target_rating": 8.318,
+    "delta": 0.011,
     "status": "queued"
   },
   {
@@ -500,9 +500,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 47,
-    "current_rating": 8.369,
-    "target_rating": 8.292,
-    "delta": -0.077,
+    "current_rating": 8.292,
+    "target_rating": 8.303,
+    "delta": 0.011,
     "status": "queued"
   },
   {
@@ -511,9 +511,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 47,
-    "current_rating": 8.369,
-    "target_rating": 8.292,
-    "delta": -0.077,
+    "current_rating": 8.292,
+    "target_rating": 8.303,
+    "delta": 0.011,
     "status": "queued"
   },
   {
@@ -522,9 +522,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 48,
-    "current_rating": 8.356,
-    "target_rating": 8.277,
-    "delta": -0.079,
+    "current_rating": 8.277,
+    "target_rating": 8.288,
+    "delta": 0.011,
     "status": "queued"
   },
   {
@@ -533,9 +533,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 49,
-    "current_rating": 8.342,
-    "target_rating": 8.261,
-    "delta": -0.081,
+    "current_rating": 8.261,
+    "target_rating": 8.272,
+    "delta": 0.011,
     "status": "queued"
   },
   {
@@ -544,9 +544,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 50,
-    "current_rating": 8.328,
-    "target_rating": 8.246,
-    "delta": -0.082,
+    "current_rating": 8.246,
+    "target_rating": 8.257,
+    "delta": 0.011,
     "status": "queued"
   },
   {
@@ -555,9 +555,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 51,
-    "current_rating": 8.315,
-    "target_rating": 8.231,
-    "delta": -0.084,
+    "current_rating": 8.231,
+    "target_rating": 8.242,
+    "delta": 0.011,
     "status": "queued"
   },
   {
@@ -566,9 +566,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 52,
-    "current_rating": 8.301,
-    "target_rating": 8.215,
-    "delta": -0.086,
+    "current_rating": 8.215,
+    "target_rating": 8.227,
+    "delta": 0.012,
     "status": "queued"
   },
   {
@@ -577,9 +577,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 53,
-    "current_rating": 8.287,
-    "target_rating": 8.2,
-    "delta": -0.087,
+    "current_rating": 8.2,
+    "target_rating": 8.212,
+    "delta": 0.012,
     "status": "queued"
   },
   {
@@ -588,9 +588,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 54,
-    "current_rating": 8.274,
-    "target_rating": 8.184,
-    "delta": -0.09,
+    "current_rating": 8.184,
+    "target_rating": 8.197,
+    "delta": 0.013,
     "status": "queued"
   },
   {
@@ -599,9 +599,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 55,
-    "current_rating": 8.26,
-    "target_rating": 8.169,
-    "delta": -0.091,
+    "current_rating": 8.169,
+    "target_rating": 8.182,
+    "delta": 0.013,
     "status": "queued"
   },
   {
@@ -610,9 +610,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 56,
-    "current_rating": 8.246,
-    "target_rating": 8.154,
-    "delta": -0.092,
+    "current_rating": 8.154,
+    "target_rating": 8.166,
+    "delta": 0.012,
     "status": "queued"
   },
   {
@@ -621,9 +621,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 57,
-    "current_rating": 8.233,
-    "target_rating": 8.138,
-    "delta": -0.095,
+    "current_rating": 8.138,
+    "target_rating": 8.151,
+    "delta": 0.013,
     "status": "queued"
   },
   {
@@ -632,9 +632,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 58,
-    "current_rating": 8.219,
-    "target_rating": 8.123,
-    "delta": -0.096,
+    "current_rating": 8.123,
+    "target_rating": 8.136,
+    "delta": 0.013,
     "status": "queued"
   },
   {
@@ -643,9 +643,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 59,
-    "current_rating": 8.164,
-    "target_rating": 8.108,
-    "delta": -0.056,
+    "current_rating": 8.108,
+    "target_rating": 8.121,
+    "delta": 0.013,
     "status": "queued"
   },
   {
@@ -654,9 +654,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 60,
-    "current_rating": 8.123,
-    "target_rating": 8.092,
-    "delta": -0.031,
+    "current_rating": 8.092,
+    "target_rating": 8.106,
+    "delta": 0.014,
     "status": "queued"
   },
   {
@@ -665,9 +665,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 61,
-    "current_rating": 8.096,
-    "target_rating": 8.077,
-    "delta": -0.019,
+    "current_rating": 8.077,
+    "target_rating": 8.091,
+    "delta": 0.014,
     "status": "queued"
   },
   {
@@ -676,9 +676,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 62,
-    "current_rating": 8.082,
-    "target_rating": 8.061,
-    "delta": -0.021,
+    "current_rating": 8.061,
+    "target_rating": 8.076,
+    "delta": 0.015,
     "status": "queued"
   },
   {
@@ -687,9 +687,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 63,
-    "current_rating": 8.055,
-    "target_rating": 8.046,
-    "delta": -0.009,
+    "current_rating": 8.046,
+    "target_rating": 8.061,
+    "delta": 0.015,
     "status": "queued"
   },
   {
@@ -698,9 +698,9 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 64,
-    "current_rating": 8.041,
-    "target_rating": 8.031,
-    "delta": -0.01,
+    "current_rating": 8.031,
+    "target_rating": 8.045,
+    "delta": 0.014,
     "status": "queued"
   },
   {
@@ -709,9 +709,31 @@
     "tier": "A",
     "source_bucket": 9,
     "rank_in_tier": 65,
-    "current_rating": 8.014,
+    "current_rating": 8.015,
+    "target_rating": 8.03,
+    "delta": 0.015,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 184921,
+    "name": "Bunny Kingdom",
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 66,
+    "current_rating": 8.0,
     "target_rating": 8.015,
-    "delta": 0.001,
+    "delta": 0.015,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 160610,
+    "name": "Thunderbirds",
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 67,
+    "current_rating": 7.036,
+    "target_rating": 8.0,
+    "delta": 0.964,
     "status": "queued"
   },
   {
@@ -720,9 +742,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 1,
-    "current_rating": 8.205,
+    "current_rating": 7.999,
     "target_rating": 7.999,
-    "delta": -0.206,
+    "delta": 0.0,
     "status": "queued"
   },
   {
@@ -731,9 +753,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 2,
-    "current_rating": 7.999,
+    "current_rating": 7.99,
     "target_rating": 7.99,
-    "delta": -0.009,
+    "delta": 0.0,
     "status": "queued"
   },
   {
@@ -742,9 +764,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 3,
-    "current_rating": 8.192,
-    "target_rating": 7.981,
-    "delta": -0.211,
+    "current_rating": 7.981,
+    "target_rating": 7.98,
+    "delta": -0.001,
     "status": "queued"
   },
   {
@@ -753,9 +775,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 4,
-    "current_rating": 7.989,
-    "target_rating": 7.972,
-    "delta": -0.017,
+    "current_rating": 7.972,
+    "target_rating": 7.971,
+    "delta": -0.001,
     "status": "queued"
   },
   {
@@ -764,9 +786,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 5,
-    "current_rating": 8.178,
-    "target_rating": 7.963,
-    "delta": -0.215,
+    "current_rating": 7.963,
+    "target_rating": 7.962,
+    "delta": -0.001,
     "status": "queued"
   },
   {
@@ -775,9 +797,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 6,
-    "current_rating": 7.979,
-    "target_rating": 7.954,
-    "delta": -0.025,
+    "current_rating": 7.954,
+    "target_rating": 7.952,
+    "delta": -0.002,
     "status": "queued"
   },
   {
@@ -786,9 +808,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 7,
-    "current_rating": 8.151,
-    "target_rating": 7.945,
-    "delta": -0.206,
+    "current_rating": 7.945,
+    "target_rating": 7.943,
+    "delta": -0.002,
     "status": "queued"
   },
   {
@@ -797,9 +819,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 8,
-    "current_rating": 7.97,
-    "target_rating": 7.935,
-    "delta": -0.035,
+    "current_rating": 7.935,
+    "target_rating": 7.934,
+    "delta": -0.001,
     "status": "queued"
   },
   {
@@ -808,9 +830,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 9,
-    "current_rating": 8.137,
-    "target_rating": 7.926,
-    "delta": -0.211,
+    "current_rating": 7.926,
+    "target_rating": 7.924,
+    "delta": -0.002,
     "status": "queued"
   },
   {
@@ -819,9 +841,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 10,
-    "current_rating": 7.96,
-    "target_rating": 7.917,
-    "delta": -0.043,
+    "current_rating": 7.917,
+    "target_rating": 7.915,
+    "delta": -0.002,
     "status": "queued"
   },
   {
@@ -830,9 +852,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 11,
-    "current_rating": 8.109,
-    "target_rating": 7.908,
-    "delta": -0.201,
+    "current_rating": 7.908,
+    "target_rating": 7.906,
+    "delta": -0.002,
     "status": "queued"
   },
   {
@@ -841,9 +863,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 12,
-    "current_rating": 7.95,
-    "target_rating": 7.899,
-    "delta": -0.051,
+    "current_rating": 7.899,
+    "target_rating": 7.896,
+    "delta": -0.003,
     "status": "queued"
   },
   {
@@ -852,9 +874,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 13,
-    "current_rating": 8.068,
-    "target_rating": 7.89,
-    "delta": -0.178,
+    "current_rating": 7.89,
+    "target_rating": 7.887,
+    "delta": -0.003,
     "status": "queued"
   },
   {
@@ -863,9 +885,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 14,
-    "current_rating": 7.94,
-    "target_rating": 7.881,
-    "delta": -0.059,
+    "current_rating": 7.881,
+    "target_rating": 7.878,
+    "delta": -0.003,
     "status": "queued"
   },
   {
@@ -874,9 +896,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 15,
-    "current_rating": 8.027,
-    "target_rating": 7.872,
-    "delta": -0.155,
+    "current_rating": 7.872,
+    "target_rating": 7.868,
+    "delta": -0.004,
     "status": "queued"
   },
   {
@@ -885,9 +907,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 16,
-    "current_rating": 7.93,
-    "target_rating": 7.863,
-    "delta": -0.067,
+    "current_rating": 7.863,
+    "target_rating": 7.859,
+    "delta": -0.004,
     "status": "queued"
   },
   {
@@ -896,9 +918,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 17,
-    "current_rating": 7.921,
-    "target_rating": 7.854,
-    "delta": -0.067,
+    "current_rating": 7.854,
+    "target_rating": 7.85,
+    "delta": -0.004,
     "status": "queued"
   },
   {
@@ -907,9 +929,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 18,
-    "current_rating": 7.911,
-    "target_rating": 7.845,
-    "delta": -0.066,
+    "current_rating": 7.845,
+    "target_rating": 7.84,
+    "delta": -0.005,
     "status": "queued"
   },
   {
@@ -918,9 +940,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 19,
-    "current_rating": 7.901,
-    "target_rating": 7.836,
-    "delta": -0.065,
+    "current_rating": 7.836,
+    "target_rating": 7.831,
+    "delta": -0.005,
     "status": "queued"
   },
   {
@@ -929,9 +951,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 20,
-    "current_rating": 7.891,
-    "target_rating": 7.826,
-    "delta": -0.065,
+    "current_rating": 7.826,
+    "target_rating": 7.822,
+    "delta": -0.004,
     "status": "queued"
   },
   {
@@ -940,9 +962,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 21,
-    "current_rating": 7.881,
-    "target_rating": 7.817,
-    "delta": -0.064,
+    "current_rating": 7.817,
+    "target_rating": 7.812,
+    "delta": -0.005,
     "status": "queued"
   },
   {
@@ -951,9 +973,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 22,
-    "current_rating": 7.872,
-    "target_rating": 7.808,
-    "delta": -0.064,
+    "current_rating": 7.808,
+    "target_rating": 7.803,
+    "delta": -0.005,
     "status": "queued"
   },
   {
@@ -962,9 +984,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 23,
-    "current_rating": 7.862,
-    "target_rating": 7.799,
-    "delta": -0.063,
+    "current_rating": 7.799,
+    "target_rating": 7.794,
+    "delta": -0.005,
     "status": "queued"
   },
   {
@@ -973,9 +995,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 24,
-    "current_rating": 7.852,
-    "target_rating": 7.79,
-    "delta": -0.062,
+    "current_rating": 7.79,
+    "target_rating": 7.784,
+    "delta": -0.006,
     "status": "queued"
   },
   {
@@ -984,9 +1006,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 25,
-    "current_rating": 7.842,
-    "target_rating": 7.781,
-    "delta": -0.061,
+    "current_rating": 7.781,
+    "target_rating": 7.775,
+    "delta": -0.006,
     "status": "queued"
   },
   {
@@ -995,9 +1017,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 26,
-    "current_rating": 7.832,
-    "target_rating": 7.772,
-    "delta": -0.06,
+    "current_rating": 7.772,
+    "target_rating": 7.766,
+    "delta": -0.006,
     "status": "queued"
   },
   {
@@ -1006,9 +1028,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 27,
-    "current_rating": 7.823,
-    "target_rating": 7.763,
-    "delta": -0.06,
+    "current_rating": 7.763,
+    "target_rating": 7.756,
+    "delta": -0.007,
     "status": "queued"
   },
   {
@@ -1017,9 +1039,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 28,
-    "current_rating": 7.813,
-    "target_rating": 7.754,
-    "delta": -0.059,
+    "current_rating": 7.754,
+    "target_rating": 7.747,
+    "delta": -0.007,
     "status": "queued"
   },
   {
@@ -1028,9 +1050,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 29,
-    "current_rating": 7.803,
-    "target_rating": 7.745,
-    "delta": -0.058,
+    "current_rating": 7.745,
+    "target_rating": 7.738,
+    "delta": -0.007,
     "status": "queued"
   },
   {
@@ -1039,9 +1061,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 30,
-    "current_rating": 7.793,
-    "target_rating": 7.736,
-    "delta": -0.057,
+    "current_rating": 7.736,
+    "target_rating": 7.728,
+    "delta": -0.008,
     "status": "queued"
   },
   {
@@ -1050,9 +1072,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 31,
-    "current_rating": 7.784,
-    "target_rating": 7.727,
-    "delta": -0.057,
+    "current_rating": 7.727,
+    "target_rating": 7.719,
+    "delta": -0.008,
     "status": "queued"
   },
   {
@@ -1061,9 +1083,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 32,
-    "current_rating": 7.774,
-    "target_rating": 7.717,
-    "delta": -0.057,
+    "current_rating": 7.717,
+    "target_rating": 7.71,
+    "delta": -0.007,
     "status": "queued"
   },
   {
@@ -1072,9 +1094,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 33,
-    "current_rating": 7.764,
-    "target_rating": 7.708,
-    "delta": -0.056,
+    "current_rating": 7.708,
+    "target_rating": 7.7,
+    "delta": -0.008,
     "status": "queued"
   },
   {
@@ -1083,9 +1105,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 34,
-    "current_rating": 7.754,
-    "target_rating": 7.699,
-    "delta": -0.055,
+    "current_rating": 7.699,
+    "target_rating": 7.691,
+    "delta": -0.008,
     "status": "queued"
   },
   {
@@ -1094,9 +1116,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 35,
-    "current_rating": 7.744,
-    "target_rating": 7.69,
-    "delta": -0.054,
+    "current_rating": 7.69,
+    "target_rating": 7.682,
+    "delta": -0.008,
     "status": "queued"
   },
   {
@@ -1105,9 +1127,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 36,
-    "current_rating": 7.735,
-    "target_rating": 7.681,
-    "delta": -0.054,
+    "current_rating": 7.681,
+    "target_rating": 7.672,
+    "delta": -0.009,
     "status": "queued"
   },
   {
@@ -1116,9 +1138,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 37,
-    "current_rating": 7.725,
-    "target_rating": 7.672,
-    "delta": -0.053,
+    "current_rating": 7.672,
+    "target_rating": 7.663,
+    "delta": -0.009,
     "status": "queued"
   },
   {
@@ -1127,9 +1149,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 38,
-    "current_rating": 7.715,
-    "target_rating": 7.663,
-    "delta": -0.052,
+    "current_rating": 7.663,
+    "target_rating": 7.654,
+    "delta": -0.009,
     "status": "queued"
   },
   {
@@ -1138,9 +1160,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 39,
-    "current_rating": 7.705,
-    "target_rating": 7.654,
-    "delta": -0.051,
+    "current_rating": 7.654,
+    "target_rating": 7.644,
+    "delta": -0.01,
     "status": "queued"
   },
   {
@@ -1149,9 +1171,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 40,
-    "current_rating": 7.695,
-    "target_rating": 7.645,
-    "delta": -0.05,
+    "current_rating": 7.645,
+    "target_rating": 7.635,
+    "delta": -0.01,
     "status": "queued"
   },
   {
@@ -1160,9 +1182,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 41,
-    "current_rating": 7.686,
-    "target_rating": 7.636,
-    "delta": -0.05,
+    "current_rating": 7.636,
+    "target_rating": 7.626,
+    "delta": -0.01,
     "status": "queued"
   },
   {
@@ -1171,9 +1193,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 42,
-    "current_rating": 7.676,
-    "target_rating": 7.627,
-    "delta": -0.049,
+    "current_rating": 7.627,
+    "target_rating": 7.616,
+    "delta": -0.011,
     "status": "queued"
   },
   {
@@ -1182,9 +1204,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 43,
-    "current_rating": 7.666,
-    "target_rating": 7.618,
-    "delta": -0.048,
+    "current_rating": 7.618,
+    "target_rating": 7.607,
+    "delta": -0.011,
     "status": "queued"
   },
   {
@@ -1193,9 +1215,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 44,
-    "current_rating": 7.656,
-    "target_rating": 7.608,
-    "delta": -0.048,
+    "current_rating": 7.608,
+    "target_rating": 7.598,
+    "delta": -0.01,
     "status": "queued"
   },
   {
@@ -1204,9 +1226,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 45,
-    "current_rating": 7.646,
-    "target_rating": 7.599,
-    "delta": -0.047,
+    "current_rating": 7.599,
+    "target_rating": 7.588,
+    "delta": -0.011,
     "status": "queued"
   },
   {
@@ -1215,9 +1237,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 46,
-    "current_rating": 7.637,
-    "target_rating": 7.59,
-    "delta": -0.047,
+    "current_rating": 7.59,
+    "target_rating": 7.579,
+    "delta": -0.011,
     "status": "queued"
   },
   {
@@ -1226,9 +1248,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 47,
-    "current_rating": 7.627,
-    "target_rating": 7.581,
-    "delta": -0.046,
+    "current_rating": 7.581,
+    "target_rating": 7.57,
+    "delta": -0.011,
     "status": "queued"
   },
   {
@@ -1237,9 +1259,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 48,
-    "current_rating": 7.617,
-    "target_rating": 7.572,
-    "delta": -0.045,
+    "current_rating": 7.572,
+    "target_rating": 7.56,
+    "delta": -0.012,
     "status": "queued"
   },
   {
@@ -1248,9 +1270,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 49,
-    "current_rating": 7.607,
-    "target_rating": 7.563,
-    "delta": -0.044,
+    "current_rating": 7.563,
+    "target_rating": 7.551,
+    "delta": -0.012,
     "status": "queued"
   },
   {
@@ -1259,9 +1281,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 50,
-    "current_rating": 7.597,
-    "target_rating": 7.554,
-    "delta": -0.043,
+    "current_rating": 7.554,
+    "target_rating": 7.542,
+    "delta": -0.012,
     "status": "queued"
   },
   {
@@ -1270,9 +1292,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 51,
-    "current_rating": 7.588,
-    "target_rating": 7.545,
-    "delta": -0.043,
+    "current_rating": 7.545,
+    "target_rating": 7.532,
+    "delta": -0.013,
     "status": "queued"
   },
   {
@@ -1281,9 +1303,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 52,
-    "current_rating": 7.578,
-    "target_rating": 7.536,
-    "delta": -0.042,
+    "current_rating": 7.536,
+    "target_rating": 7.523,
+    "delta": -0.013,
     "status": "queued"
   },
   {
@@ -1292,9 +1314,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 53,
-    "current_rating": 7.568,
-    "target_rating": 7.527,
-    "delta": -0.041,
+    "current_rating": 7.527,
+    "target_rating": 7.514,
+    "delta": -0.013,
     "status": "queued"
   },
   {
@@ -1303,9 +1325,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 54,
-    "current_rating": 7.558,
-    "target_rating": 7.518,
-    "delta": -0.04,
+    "current_rating": 7.518,
+    "target_rating": 7.504,
+    "delta": -0.014,
     "status": "queued"
   },
   {
@@ -1314,9 +1336,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 55,
-    "current_rating": 7.548,
-    "target_rating": 7.509,
-    "delta": -0.039,
+    "current_rating": 7.509,
+    "target_rating": 7.495,
+    "delta": -0.014,
     "status": "queued"
   },
   {
@@ -1325,9 +1347,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 56,
-    "current_rating": 7.539,
-    "target_rating": 7.5,
-    "delta": -0.039,
+    "current_rating": 7.5,
+    "target_rating": 7.485,
+    "delta": -0.015,
     "status": "queued"
   },
   {
@@ -1336,9 +1358,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 57,
-    "current_rating": 7.529,
-    "target_rating": 7.49,
-    "delta": -0.039,
+    "current_rating": 7.49,
+    "target_rating": 7.476,
+    "delta": -0.014,
     "status": "queued"
   },
   {
@@ -1347,9 +1369,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 58,
-    "current_rating": 7.519,
-    "target_rating": 7.481,
-    "delta": -0.038,
+    "current_rating": 7.481,
+    "target_rating": 7.467,
+    "delta": -0.014,
     "status": "queued"
   },
   {
@@ -1358,9 +1380,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 59,
-    "current_rating": 7.509,
-    "target_rating": 7.472,
-    "delta": -0.037,
+    "current_rating": 7.472,
+    "target_rating": 7.457,
+    "delta": -0.015,
     "status": "queued"
   },
   {
@@ -1369,9 +1391,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 60,
-    "current_rating": 7.5,
-    "target_rating": 7.463,
-    "delta": -0.037,
+    "current_rating": 7.463,
+    "target_rating": 7.448,
+    "delta": -0.015,
     "status": "queued"
   },
   {
@@ -1380,9 +1402,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 61,
-    "current_rating": 7.49,
-    "target_rating": 7.454,
-    "delta": -0.036,
+    "current_rating": 7.454,
+    "target_rating": 7.439,
+    "delta": -0.015,
     "status": "queued"
   },
   {
@@ -1391,9 +1413,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 62,
-    "current_rating": 7.48,
-    "target_rating": 7.445,
-    "delta": -0.035,
+    "current_rating": 7.445,
+    "target_rating": 7.429,
+    "delta": -0.016,
     "status": "queued"
   },
   {
@@ -1402,9 +1424,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 63,
-    "current_rating": 7.47,
-    "target_rating": 7.436,
-    "delta": -0.034,
+    "current_rating": 7.436,
+    "target_rating": 7.42,
+    "delta": -0.016,
     "status": "queued"
   },
   {
@@ -1413,9 +1435,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 64,
-    "current_rating": 7.46,
-    "target_rating": 7.427,
-    "delta": -0.033,
+    "current_rating": 7.427,
+    "target_rating": 7.411,
+    "delta": -0.016,
     "status": "queued"
   },
   {
@@ -1424,9 +1446,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 65,
-    "current_rating": 7.451,
-    "target_rating": 7.418,
-    "delta": -0.033,
+    "current_rating": 7.418,
+    "target_rating": 7.401,
+    "delta": -0.017,
     "status": "queued"
   },
   {
@@ -1435,9 +1457,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 66,
-    "current_rating": 7.441,
-    "target_rating": 7.409,
-    "delta": -0.032,
+    "current_rating": 7.409,
+    "target_rating": 7.392,
+    "delta": -0.017,
     "status": "queued"
   },
   {
@@ -1446,9 +1468,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 67,
-    "current_rating": 7.431,
-    "target_rating": 7.4,
-    "delta": -0.031,
+    "current_rating": 7.4,
+    "target_rating": 7.383,
+    "delta": -0.017,
     "status": "queued"
   },
   {
@@ -1457,9 +1479,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 68,
-    "current_rating": 7.421,
-    "target_rating": 7.391,
-    "delta": -0.03,
+    "current_rating": 7.391,
+    "target_rating": 7.373,
+    "delta": -0.018,
     "status": "queued"
   },
   {
@@ -1468,9 +1490,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 69,
-    "current_rating": 7.411,
-    "target_rating": 7.381,
-    "delta": -0.03,
+    "current_rating": 7.381,
+    "target_rating": 7.364,
+    "delta": -0.017,
     "status": "queued"
   },
   {
@@ -1479,9 +1501,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 70,
-    "current_rating": 7.402,
-    "target_rating": 7.372,
-    "delta": -0.03,
+    "current_rating": 7.372,
+    "target_rating": 7.355,
+    "delta": -0.017,
     "status": "queued"
   },
   {
@@ -1490,9 +1512,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 71,
-    "current_rating": 7.392,
-    "target_rating": 7.363,
-    "delta": -0.029,
+    "current_rating": 7.363,
+    "target_rating": 7.345,
+    "delta": -0.018,
     "status": "queued"
   },
   {
@@ -1501,9 +1523,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 72,
-    "current_rating": 7.382,
-    "target_rating": 7.354,
-    "delta": -0.028,
+    "current_rating": 7.354,
+    "target_rating": 7.336,
+    "delta": -0.018,
     "status": "queued"
   },
   {
@@ -1512,9 +1534,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 73,
-    "current_rating": 7.372,
-    "target_rating": 7.345,
-    "delta": -0.027,
+    "current_rating": 7.345,
+    "target_rating": 7.327,
+    "delta": -0.018,
     "status": "queued"
   },
   {
@@ -1523,9 +1545,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 74,
-    "current_rating": 7.362,
-    "target_rating": 7.336,
-    "delta": -0.026,
+    "current_rating": 7.336,
+    "target_rating": 7.317,
+    "delta": -0.019,
     "status": "queued"
   },
   {
@@ -1534,9 +1556,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 75,
-    "current_rating": 7.353,
-    "target_rating": 7.327,
-    "delta": -0.026,
+    "current_rating": 7.327,
+    "target_rating": 7.308,
+    "delta": -0.019,
     "status": "queued"
   },
   {
@@ -1545,9 +1567,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 76,
-    "current_rating": 7.343,
-    "target_rating": 7.318,
-    "delta": -0.025,
+    "current_rating": 7.318,
+    "target_rating": 7.299,
+    "delta": -0.019,
     "status": "queued"
   },
   {
@@ -1556,9 +1578,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 77,
-    "current_rating": 7.333,
-    "target_rating": 7.309,
-    "delta": -0.024,
+    "current_rating": 7.309,
+    "target_rating": 7.289,
+    "delta": -0.02,
     "status": "queued"
   },
   {
@@ -1567,9 +1589,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 78,
-    "current_rating": 7.323,
-    "target_rating": 7.3,
-    "delta": -0.023,
+    "current_rating": 7.3,
+    "target_rating": 7.28,
+    "delta": -0.02,
     "status": "queued"
   },
   {
@@ -1578,9 +1600,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 79,
-    "current_rating": 7.313,
-    "target_rating": 7.291,
-    "delta": -0.022,
+    "current_rating": 7.291,
+    "target_rating": 7.271,
+    "delta": -0.02,
     "status": "queued"
   },
   {
@@ -1589,9 +1611,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 80,
-    "current_rating": 7.304,
-    "target_rating": 7.282,
-    "delta": -0.022,
+    "current_rating": 7.282,
+    "target_rating": 7.261,
+    "delta": -0.021,
     "status": "queued"
   },
   {
@@ -1600,9 +1622,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 81,
-    "current_rating": 7.294,
-    "target_rating": 7.272,
-    "delta": -0.022,
+    "current_rating": 7.272,
+    "target_rating": 7.252,
+    "delta": -0.02,
     "status": "queued"
   },
   {
@@ -1611,9 +1633,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 82,
-    "current_rating": 7.284,
-    "target_rating": 7.263,
-    "delta": -0.021,
+    "current_rating": 7.263,
+    "target_rating": 7.243,
+    "delta": -0.02,
     "status": "queued"
   },
   {
@@ -1622,9 +1644,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 83,
-    "current_rating": 7.274,
-    "target_rating": 7.254,
-    "delta": -0.02,
+    "current_rating": 7.254,
+    "target_rating": 7.233,
+    "delta": -0.021,
     "status": "queued"
   },
   {
@@ -1633,9 +1655,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 84,
-    "current_rating": 7.264,
-    "target_rating": 7.245,
-    "delta": -0.019,
+    "current_rating": 7.245,
+    "target_rating": 7.224,
+    "delta": -0.021,
     "status": "queued"
   },
   {
@@ -1644,9 +1666,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 85,
-    "current_rating": 7.255,
-    "target_rating": 7.236,
-    "delta": -0.019,
+    "current_rating": 7.236,
+    "target_rating": 7.215,
+    "delta": -0.021,
     "status": "queued"
   },
   {
@@ -1655,9 +1677,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 86,
-    "current_rating": 7.245,
-    "target_rating": 7.227,
-    "delta": -0.018,
+    "current_rating": 7.227,
+    "target_rating": 7.205,
+    "delta": -0.022,
     "status": "queued"
   },
   {
@@ -1666,9 +1688,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 87,
-    "current_rating": 7.235,
-    "target_rating": 7.218,
-    "delta": -0.017,
+    "current_rating": 7.218,
+    "target_rating": 7.196,
+    "delta": -0.022,
     "status": "queued"
   },
   {
@@ -1677,9 +1699,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 88,
-    "current_rating": 7.225,
-    "target_rating": 7.209,
-    "delta": -0.016,
+    "current_rating": 7.209,
+    "target_rating": 7.187,
+    "delta": -0.022,
     "status": "queued"
   },
   {
@@ -1688,9 +1710,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 89,
-    "current_rating": 7.215,
-    "target_rating": 7.2,
-    "delta": -0.015,
+    "current_rating": 7.2,
+    "target_rating": 7.177,
+    "delta": -0.023,
     "status": "queued"
   },
   {
@@ -1699,9 +1721,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 90,
-    "current_rating": 7.206,
-    "target_rating": 7.191,
-    "delta": -0.015,
+    "current_rating": 7.191,
+    "target_rating": 7.168,
+    "delta": -0.023,
     "status": "queued"
   },
   {
@@ -1710,9 +1732,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 91,
-    "current_rating": 7.196,
-    "target_rating": 7.182,
-    "delta": -0.014,
+    "current_rating": 7.182,
+    "target_rating": 7.159,
+    "delta": -0.023,
     "status": "queued"
   },
   {
@@ -1721,9 +1743,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 92,
-    "current_rating": 7.186,
-    "target_rating": 7.173,
-    "delta": -0.013,
+    "current_rating": 7.173,
+    "target_rating": 7.149,
+    "delta": -0.024,
     "status": "queued"
   },
   {
@@ -1732,20 +1754,9 @@
     "tier": "B",
     "source_bucket": 8,
     "rank_in_tier": 93,
-    "current_rating": 7.176,
-    "target_rating": 7.163,
-    "delta": -0.013,
-    "status": "queued"
-  },
-  {
-    "bgg_id": 13,
-    "name": "Catan",
-    "tier": "B",
-    "source_bucket": 8,
-    "rank_in_tier": 94,
-    "current_rating": 7.166,
-    "target_rating": 7.154,
-    "delta": -0.012,
+    "current_rating": 7.163,
+    "target_rating": 7.14,
+    "delta": -0.023,
     "status": "queued"
   },
   {
@@ -1753,10 +1764,10 @@
     "name": "XenoShyft: Dreadmire",
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 95,
-    "current_rating": 7.157,
-    "target_rating": 7.145,
-    "delta": -0.012,
+    "rank_in_tier": 94,
+    "current_rating": 7.145,
+    "target_rating": 7.131,
+    "delta": -0.014,
     "status": "queued"
   },
   {
@@ -1764,10 +1775,10 @@
     "name": "Disney Villainous: The Worst Takes it All",
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 96,
-    "current_rating": 7.147,
-    "target_rating": 7.136,
-    "delta": -0.011,
+    "rank_in_tier": 95,
+    "current_rating": 7.136,
+    "target_rating": 7.121,
+    "delta": -0.015,
     "status": "queued"
   },
   {
@@ -1775,10 +1786,10 @@
     "name": "7 Wonders",
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 97,
-    "current_rating": 7.137,
-    "target_rating": 7.127,
-    "delta": -0.01,
+    "rank_in_tier": 96,
+    "current_rating": 7.127,
+    "target_rating": 7.112,
+    "delta": -0.015,
     "status": "queued"
   },
   {
@@ -1786,10 +1797,10 @@
     "name": "New Angeles",
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 98,
-    "current_rating": 7.127,
-    "target_rating": 7.118,
-    "delta": -0.009,
+    "rank_in_tier": 97,
+    "current_rating": 7.118,
+    "target_rating": 7.103,
+    "delta": -0.015,
     "status": "queued"
   },
   {
@@ -1797,10 +1808,10 @@
     "name": "Terra Mystica",
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 99,
-    "current_rating": 7.118,
-    "target_rating": 7.109,
-    "delta": -0.009,
+    "rank_in_tier": 98,
+    "current_rating": 7.109,
+    "target_rating": 7.093,
+    "delta": -0.016,
     "status": "queued"
   },
   {
@@ -1808,10 +1819,10 @@
     "name": "Cities: Skylines – The Board Game",
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 100,
-    "current_rating": 7.108,
-    "target_rating": 7.1,
-    "delta": -0.008,
+    "rank_in_tier": 99,
+    "current_rating": 7.1,
+    "target_rating": 7.084,
+    "delta": -0.016,
     "status": "queued"
   },
   {
@@ -1819,10 +1830,10 @@
     "name": "Stone Age",
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 101,
-    "current_rating": 7.098,
-    "target_rating": 7.091,
-    "delta": -0.007,
+    "rank_in_tier": 100,
+    "current_rating": 7.091,
+    "target_rating": 7.075,
+    "delta": -0.016,
     "status": "queued"
   },
   {
@@ -1830,10 +1841,10 @@
     "name": "Brass: Birmingham",
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 102,
-    "current_rating": 7.088,
-    "target_rating": 7.082,
-    "delta": -0.006,
+    "rank_in_tier": 101,
+    "current_rating": 7.082,
+    "target_rating": 7.065,
+    "delta": -0.017,
     "status": "queued"
   },
   {
@@ -1841,10 +1852,10 @@
     "name": "Silver",
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 103,
-    "current_rating": 7.078,
-    "target_rating": 7.073,
-    "delta": -0.005,
+    "rank_in_tier": 102,
+    "current_rating": 7.073,
+    "target_rating": 7.056,
+    "delta": -0.017,
     "status": "queued"
   },
   {
@@ -1852,10 +1863,10 @@
     "name": "Anachrony",
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 104,
-    "current_rating": 7.069,
-    "target_rating": 7.064,
-    "delta": -0.005,
+    "rank_in_tier": 103,
+    "current_rating": 7.064,
+    "target_rating": 7.047,
+    "delta": -0.017,
     "status": "queued"
   },
   {
@@ -1863,10 +1874,10 @@
     "name": "Hyperspace",
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 105,
-    "current_rating": 7.059,
-    "target_rating": 7.054,
-    "delta": -0.005,
+    "rank_in_tier": 104,
+    "current_rating": 7.054,
+    "target_rating": 7.037,
+    "delta": -0.017,
     "status": "queued"
   },
   {
@@ -1874,21 +1885,10 @@
     "name": "Wildcatters",
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 106,
-    "current_rating": 7.049,
-    "target_rating": 7.045,
-    "delta": -0.004,
-    "status": "queued"
-  },
-  {
-    "bgg_id": 160610,
-    "name": "Thunderbirds",
-    "tier": "B",
-    "source_bucket": 8,
-    "rank_in_tier": 107,
-    "current_rating": 7.039,
-    "target_rating": 7.036,
-    "delta": -0.003,
+    "rank_in_tier": 105,
+    "current_rating": 7.045,
+    "target_rating": 7.028,
+    "delta": -0.017,
     "status": "queued"
   },
   {
@@ -1896,10 +1896,10 @@
     "name": "Alhambra",
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 108,
-    "current_rating": 7.029,
-    "target_rating": 7.027,
-    "delta": -0.002,
+    "rank_in_tier": 106,
+    "current_rating": 7.027,
+    "target_rating": 7.019,
+    "delta": -0.008,
     "status": "queued"
   },
   {
@@ -1907,10 +1907,10 @@
     "name": "Heat: Pedal to the Metal",
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 109,
-    "current_rating": 7.02,
-    "target_rating": 7.018,
-    "delta": -0.002,
+    "rank_in_tier": 107,
+    "current_rating": 7.018,
+    "target_rating": 7.009,
+    "delta": -0.009,
     "status": "queued"
   },
   {
@@ -1918,9 +1918,1120 @@
     "name": "Russian Railroads",
     "tier": "B",
     "source_bucket": 8,
-    "rank_in_tier": 110,
-    "current_rating": 7.01,
-    "target_rating": 7.009,
+    "rank_in_tier": 108,
+    "current_rating": 7.009,
+    "target_rating": 7.0,
+    "delta": -0.009,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 13,
+    "name": "Catan",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 1,
+    "current_rating": 7.154,
+    "target_rating": 6.999,
+    "delta": -0.155,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 194594,
+    "name": "Dice Forge",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 2,
+    "current_rating": 6.999,
+    "target_rating": 6.989,
+    "delta": -0.01,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 54,
+    "name": "Tikal",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 3,
+    "current_rating": 7.0,
+    "target_rating": 6.98,
+    "delta": -0.02,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 269210,
+    "name": "Twice as Clever!",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 4,
+    "current_rating": 6.989,
+    "target_rating": 6.97,
+    "delta": -0.019,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 200077,
+    "name": "Mint Works",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 5,
+    "current_rating": 6.98,
+    "target_rating": 6.961,
+    "delta": -0.019,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 146652,
+    "name": "Legendary Encounters: An Alien Deck Building Game",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 6,
+    "current_rating": 6.97,
+    "target_rating": 6.951,
+    "delta": -0.019,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 177639,
+    "name": "Raptor",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 7,
+    "current_rating": 6.96,
+    "target_rating": 6.942,
+    "delta": -0.018,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 283095,
+    "name": "Cosmic Colonies",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 8,
+    "current_rating": 6.951,
+    "target_rating": 6.932,
+    "delta": -0.019,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 147020,
+    "name": "Star Realms",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 9,
+    "current_rating": 6.941,
+    "target_rating": 6.923,
+    "delta": -0.018,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 260300,
+    "name": "Dungeon Mayhem",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 10,
+    "current_rating": 6.931,
+    "target_rating": 6.913,
+    "delta": -0.018,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 30549,
+    "name": "Pandemic",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 11,
+    "current_rating": 6.921,
+    "target_rating": 6.904,
+    "delta": -0.017,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 62871,
+    "name": "Zombie Dice",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 12,
+    "current_rating": 6.912,
+    "target_rating": 6.894,
+    "delta": -0.018,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 432,
+    "name": "Take 5",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 13,
+    "current_rating": 6.902,
+    "target_rating": 6.885,
+    "delta": -0.017,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 230802,
+    "name": "Azul",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 14,
+    "current_rating": 6.892,
+    "target_rating": 6.875,
+    "delta": -0.017,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 270314,
+    "name": "Ohanami",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 15,
+    "current_rating": 6.883,
+    "target_rating": 6.866,
+    "delta": -0.017,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 178044,
+    "name": "Small Star Empires",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 16,
+    "current_rating": 6.873,
+    "target_rating": 6.856,
+    "delta": -0.017,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 133473,
+    "name": "Sushi Go!",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 17,
+    "current_rating": 6.863,
+    "target_rating": 6.847,
+    "delta": -0.016,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 50,
+    "name": "Lost Cities",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 18,
+    "current_rating": 6.854,
+    "target_rating": 6.837,
+    "delta": -0.017,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 181304,
+    "name": "Mysterium",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 19,
+    "current_rating": 6.844,
+    "target_rating": 6.828,
+    "delta": -0.016,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 353470,
+    "name": "Star Wars: Jabba's Palace – A Love Letter Game",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 20,
+    "current_rating": 6.834,
+    "target_rating": 6.818,
+    "delta": -0.016,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 131357,
+    "name": "Coup",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 21,
+    "current_rating": 6.824,
+    "target_rating": 6.809,
+    "delta": -0.015,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 329151,
+    "name": "Draconic Dice",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 22,
+    "current_rating": 6.815,
+    "target_rating": 6.799,
+    "delta": -0.016,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 264241,
+    "name": "Mandala",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 23,
+    "current_rating": 6.805,
+    "target_rating": 6.79,
+    "delta": -0.015,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 274960,
+    "name": "Point Salad",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 24,
+    "current_rating": 6.795,
+    "target_rating": 6.78,
+    "delta": -0.015,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 129622,
+    "name": "Love Letter",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 25,
+    "current_rating": 6.786,
+    "target_rating": 6.771,
+    "delta": -0.015,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 313841,
+    "name": "Lunar Base",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 26,
+    "current_rating": 6.776,
+    "target_rating": 6.761,
+    "delta": -0.015,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 284083,
+    "name": "The Crew: The Quest for Planet Nine",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 27,
+    "current_rating": 6.766,
+    "target_rating": 6.752,
+    "delta": -0.014,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 300442,
+    "name": "Trekking the World",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 28,
+    "current_rating": 6.757,
+    "target_rating": 6.742,
+    "delta": -0.015,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 247367,
+    "name": "Air, Land, & Sea",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 29,
+    "current_rating": 6.747,
+    "target_rating": 6.733,
+    "delta": -0.014,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 284653,
+    "name": "Mind MGMT: The Psychic Espionage “Game.”",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 30,
+    "current_rating": 6.737,
+    "target_rating": 6.723,
+    "delta": -0.014,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 159473,
+    "name": "Quartermaster General",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 31,
+    "current_rating": 6.727,
+    "target_rating": 6.714,
+    "delta": -0.013,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 232043,
+    "name": "Queendomino",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 32,
+    "current_rating": 6.718,
+    "target_rating": 6.704,
+    "delta": -0.014,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 274037,
+    "name": "Solar Storm",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 33,
+    "current_rating": 6.708,
+    "target_rating": 6.695,
+    "delta": -0.013,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 279720,
+    "name": "Streets",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 34,
+    "current_rating": 6.698,
+    "target_rating": 6.685,
+    "delta": -0.013,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 290359,
+    "name": "Undaunted: North Africa",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 35,
+    "current_rating": 6.689,
+    "target_rating": 6.676,
+    "delta": -0.013,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 256852,
+    "name": "Aliens: Another Glorious Day in the Corps",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 36,
+    "current_rating": 6.679,
+    "target_rating": 6.666,
+    "delta": -0.013,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 347521,
+    "name": "Blitzkrieg!: World War Two in 20 Minutes (Second Edition)",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 37,
+    "current_rating": 6.669,
+    "target_rating": 6.656,
+    "delta": -0.013,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 170223,
+    "name": "Centauri Saga",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 38,
+    "current_rating": 6.66,
+    "target_rating": 6.647,
+    "delta": -0.013,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 344839,
+    "name": "Dog Lover",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 39,
+    "current_rating": 6.65,
+    "target_rating": 6.637,
+    "delta": -0.013,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 253786,
+    "name": "Don't Mess with Cthulhu Deluxe",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 40,
+    "current_rating": 6.64,
+    "target_rating": 6.628,
+    "delta": -0.012,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 65244,
+    "name": "Forbidden Island",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 41,
+    "current_rating": 6.63,
+    "target_rating": 6.618,
+    "delta": -0.012,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 31481,
+    "name": "Galaxy Trucker",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 42,
+    "current_rating": 6.621,
+    "target_rating": 6.609,
+    "delta": -0.012,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 278120,
+    "name": "God of War: The Card Game",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 43,
+    "current_rating": 6.611,
+    "target_rating": 6.599,
+    "delta": -0.012,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 158600,
+    "name": "Hanamikoji",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 44,
+    "current_rating": 6.601,
+    "target_rating": 6.59,
+    "delta": -0.011,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 195314,
+    "name": "Herbaceous",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 45,
+    "current_rating": 6.592,
+    "target_rating": 6.58,
+    "delta": -0.012,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 8203,
+    "name": "Hey, That's My Fish!",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 46,
+    "current_rating": 6.582,
+    "target_rating": 6.571,
+    "delta": -0.011,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 369258,
+    "name": "Isle of Skye: Big Box",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 47,
+    "current_rating": 6.572,
+    "target_rating": 6.561,
+    "delta": -0.011,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 272738,
+    "name": "Jaws",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 48,
+    "current_rating": 6.563,
+    "target_rating": 6.552,
+    "delta": -0.011,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 297562,
+    "name": "Kemet: Blood and Sand",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 49,
+    "current_rating": 6.553,
+    "target_rating": 6.542,
+    "delta": -0.011,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 379629,
+    "name": "Knarr",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 50,
+    "current_rating": 6.543,
+    "target_rating": 6.533,
+    "delta": -0.01,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 264141,
+    "name": "Kodachi",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 51,
+    "current_rating": 6.533,
+    "target_rating": 6.523,
+    "delta": -0.01,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 267401,
+    "name": "Lawyer Up",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 52,
+    "current_rating": 6.524,
+    "target_rating": 6.514,
+    "delta": -0.01,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 192638,
+    "name": "Multiuniversum",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 53,
+    "current_rating": 6.514,
+    "target_rating": 6.504,
+    "delta": -0.01,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 194879,
+    "name": "Not Alone",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 54,
+    "current_rating": 6.504,
+    "target_rating": 6.495,
+    "delta": -0.009,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 256713,
+    "name": "One Deck Galaxy",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 55,
+    "current_rating": 6.495,
+    "target_rating": 6.485,
+    "delta": -0.01,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 192153,
+    "name": "Reign of Cthulhu",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 56,
+    "current_rating": 6.485,
+    "target_rating": 6.476,
+    "delta": -0.009,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 38453,
+    "name": "Space Alert",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 57,
+    "current_rating": 6.475,
+    "target_rating": 6.466,
+    "delta": -0.009,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 182631,
+    "name": "Star Realms: Colony Wars",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 58,
+    "current_rating": 6.466,
+    "target_rating": 6.457,
+    "delta": -0.009,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 296108,
+    "name": "Terraforming Mars: The Dice Game",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 59,
+    "current_rating": 6.456,
+    "target_rating": 6.447,
+    "delta": -0.009,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 253284,
+    "name": "Ticket to Ride: New York",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 60,
+    "current_rating": 6.446,
+    "target_rating": 6.438,
+    "delta": -0.008,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 241724,
+    "name": "Villagers",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 61,
+    "current_rating": 6.436,
+    "target_rating": 6.428,
+    "delta": -0.008,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 362944,
+    "name": "War of the Ring: The Card Game",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 62,
+    "current_rating": 6.427,
+    "target_rating": 6.419,
+    "delta": -0.008,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 223779,
+    "name": "Pocket Mars",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 63,
+    "current_rating": 6.417,
+    "target_rating": 6.409,
+    "delta": -0.008,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 220700,
+    "name": "Cobra Paw",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 64,
+    "current_rating": 6.407,
+    "target_rating": 6.4,
+    "delta": -0.007,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 156009,
+    "name": "Port Royal",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 65,
+    "current_rating": 6.398,
+    "target_rating": 6.39,
+    "delta": -0.008,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 14996,
+    "name": "Ticket to Ride: Europe",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 66,
+    "current_rating": 6.388,
+    "target_rating": 6.381,
+    "delta": -0.007,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 179275,
+    "name": "One Deck Dungeon",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 67,
+    "current_rating": 6.378,
+    "target_rating": 6.371,
+    "delta": -0.007,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 147299,
+    "name": "Pocket Imperium",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 68,
+    "current_rating": 6.369,
+    "target_rating": 6.362,
+    "delta": -0.007,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 172,
+    "name": "For Sale",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 69,
+    "current_rating": 6.359,
+    "target_rating": 6.352,
+    "delta": -0.007,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 107529,
+    "name": "Kingdom Builder",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 70,
+    "current_rating": 6.349,
+    "target_rating": 6.343,
+    "delta": -0.006,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 245654,
+    "name": "Railroad Ink: Deep Blue Edition",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 71,
+    "current_rating": 6.339,
+    "target_rating": 6.333,
+    "delta": -0.006,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 271324,
+    "name": "It's a Wonderful World",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 72,
+    "current_rating": 6.33,
+    "target_rating": 6.323,
+    "delta": -0.007,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 166857,
+    "name": "Antike II",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 73,
+    "current_rating": 6.32,
+    "target_rating": 6.314,
+    "delta": -0.006,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 251830,
+    "name": "Alhambra: Mega Box",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 74,
+    "current_rating": 6.31,
+    "target_rating": 6.304,
+    "delta": -0.006,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 69789,
+    "name": "Ascension: Deckbuilding Game",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 75,
+    "current_rating": 6.301,
+    "target_rating": 6.295,
+    "delta": -0.006,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 98778,
+    "name": "Hanabi",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 76,
+    "current_rating": 6.291,
+    "target_rating": 6.285,
+    "delta": -0.006,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 210274,
+    "name": "Petrichor",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 77,
+    "current_rating": 6.281,
+    "target_rating": 6.276,
+    "delta": -0.005,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 183006,
+    "name": "Qwinto",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 78,
+    "current_rating": 6.272,
+    "target_rating": 6.266,
+    "delta": -0.006,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 254713,
+    "name": "The Artemis Project",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 79,
+    "current_rating": 6.262,
+    "target_rating": 6.257,
+    "delta": -0.005,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 189932,
+    "name": "Tyrants of the Underdark",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 80,
+    "current_rating": 6.252,
+    "target_rating": 6.247,
+    "delta": -0.005,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 213893,
+    "name": "Yamataï",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 81,
+    "current_rating": 6.242,
+    "target_rating": 6.238,
+    "delta": -0.004,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 283393,
+    "name": "Aquatica",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 82,
+    "current_rating": 6.233,
+    "target_rating": 6.228,
+    "delta": -0.005,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 143515,
+    "name": "Coal Baron",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 83,
+    "current_rating": 6.223,
+    "target_rating": 6.219,
+    "delta": -0.004,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 169654,
+    "name": "Deep Sea Adventure",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 84,
+    "current_rating": 6.213,
+    "target_rating": 6.209,
+    "delta": -0.004,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 158435,
+    "name": "Dogs of War",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 85,
+    "current_rating": 6.204,
+    "target_rating": 6.2,
+    "delta": -0.004,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 96260,
+    "name": "Dominant Species: The Card Game",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 86,
+    "current_rating": 6.194,
+    "target_rating": 6.19,
+    "delta": -0.004,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 269573,
+    "name": "Dracarys Dice",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 87,
+    "current_rating": 6.184,
+    "target_rating": 6.181,
+    "delta": -0.003,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 193738,
+    "name": "Great Western Trail",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 88,
+    "current_rating": 6.175,
+    "target_rating": 6.171,
+    "delta": -0.004,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 275034,
+    "name": "Judge Dredd: Helter Skelter",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 89,
+    "current_rating": 6.165,
+    "target_rating": 6.162,
+    "delta": -0.003,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 139030,
+    "name": "Mascarade",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 90,
+    "current_rating": 6.155,
+    "target_rating": 6.152,
+    "delta": -0.003,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 66589,
+    "name": "Navegador",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 91,
+    "current_rating": 6.145,
+    "target_rating": 6.143,
+    "delta": -0.002,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 300877,
+    "name": "New York Zoo",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 92,
+    "current_rating": 6.136,
+    "target_rating": 6.133,
+    "delta": -0.003,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 329082,
+    "name": "Radlands",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 93,
+    "current_rating": 6.126,
+    "target_rating": 6.124,
+    "delta": -0.002,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 237182,
+    "name": "Root",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 94,
+    "current_rating": 6.116,
+    "target_rating": 6.114,
+    "delta": -0.002,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 159503,
+    "name": "The Captain Is Dead",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 95,
+    "current_rating": 6.107,
+    "target_rating": 6.105,
+    "delta": -0.002,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 276894,
+    "name": "Ticket to Ride: London",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 96,
+    "current_rating": 6.097,
+    "target_rating": 6.095,
+    "delta": -0.002,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 128621,
+    "name": "Viticulture",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 97,
+    "current_rating": 6.087,
+    "target_rating": 6.086,
+    "delta": -0.001,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 266192,
+    "name": "Wingspan",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 98,
+    "current_rating": 6.078,
+    "target_rating": 6.076,
+    "delta": -0.002,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 184151,
+    "name": "Legend of the Five Rings: The Card Game",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 99,
+    "current_rating": 6.068,
+    "target_rating": 6.067,
+    "delta": -0.001,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 368017,
+    "name": "Point City",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 100,
+    "current_rating": 6.058,
+    "target_rating": 6.057,
+    "delta": -0.001,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 263918,
+    "name": "Cartographers",
+    "tier": "C",
+    "source_bucket": 7,
+    "rank_in_tier": 102,
+    "current_rating": 6.039,
+    "target_rating": 6.038,
     "delta": -0.001,
     "status": "queued"
   }

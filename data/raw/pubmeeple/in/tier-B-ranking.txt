@@ -1,19 +1,19 @@
-Dog Park
 PARKS
-Jaipur
+Dog Park
 7 Wonders Duel
-Godspeed
+Jaipur
 Unfathomable
-Memoir '44
+Godspeed
 Star Realms: Frontiers
+Memoir '44
 Fantasy Realms
 Mansions of Madness: Second Edition
-Senshi
 Dead of Winter: The Long Night
+Senshi
 Blood Rage
 X-ODUS: Rise of the Corruption
-My Little Scythe
 Tortuga 2199
+My Little Scythe
 War of the Worlds: The New Wave
 Planet Unknown
 Eminent Domain
@@ -91,7 +91,6 @@ Lost Ruins of Arnak
 On the Underground: London / Berlin
 Villages of Valeria
 XCOM: The Board Game
-Catan
 XenoShyft: Dreadmire
 Disney Villainous: The Worst Takes it All
 7 Wonders
@@ -104,8 +103,6 @@ Silver
 Anachrony
 Hyperspace
 Wildcatters
-Thunderbirds
 Alhambra
 Heat: Pedal to the Metal
 Russian Railroads
-Tikal
