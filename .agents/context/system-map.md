@@ -3,8 +3,12 @@
 ## Repository Layers
 
 - Skill layer: `.agents/skills/` contains script wrappers and task entrypoints.
+- Command layer: `.claude/skills/` contains slash-command shims over the skill layer.
 - Data layer: `data/` stores raw snapshots, canonical working data, reports, and publish artifacts.
-- Tooling layer: `tools/bgg-mcp/` hosts MCP server implementation.
+- Tooling layer: `tools/bgg-mcp/` hosts the vendored MCP server implementation.
+- Utility layer: `scripts/` hosts repo-level tools — `Test-Repo.ps1` (smoke check, runs on
+  pre-commit), `Get-BgStatus.ps1` (compact status), `Checkpoint-Canonical.ps1` (pre-mutation
+  safety copies, called by every canonical-mutating script).
 
 ## Primary Operator Surface
 
@@ -55,3 +59,4 @@
 - Tier summaries: `data/working/ranking/tiers.json`
 - Rank order: `data/working/ranking/rank-order.json`
 - Pending rating queue: `data/publish/queue/pending-rating-updates.json`
+- Pre-mutation checkpoints: `data/state/checkpoints/` (gitignored, last 20 kept)

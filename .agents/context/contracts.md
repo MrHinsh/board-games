@@ -313,11 +313,20 @@ Required columns:
 - `new_rating`
 - `bgg_game_url`
 
+Context-only columns (informational, ignored on import; joined from canonical):
+
+- `year_published`
+- `players`
+- `complexity`
+- `bgg_rating`
+
 Rules:
 
 - `new_rating` accepts integer values 1..10.
 - Blank `new_rating` means no change.
 - Blank `notes` means no change when importing from the CSV workflow.
+- Context columns exist to speed the operator's decision; import reads only
+  `bgg_id`, `new_rating`, and `notes`.
 
 ## Unrated CSV Report Contract
 
