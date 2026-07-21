@@ -1,4 +1,4 @@
-# Ratting System
+# Rating System
 
 This document defines how this repository rates games and converts tier plus rank-in-tier into BGG-compatible decimal ordering.
 

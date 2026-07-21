@@ -1,5 +1,12 @@
 # Ops Runbook
 
+## Preflight Checks
+1. Cookie cache exists at `.local/secrets/bgg-session.json` (refresh with `./Login-Bgg.ps1`).
+2. Canonical file exists at `data/working/canonical/games.json`.
+3. MCP server is running at `http://localhost:8080/mcp` before any pull
+   (`./.agents/skills/mrhinsh-bg-pull-fetch/scripts/Start-BggMcpServer.ps1`).
+4. After editing any PowerShell script, run `./scripts/Test-Repo.ps1`.
+
 ## Refresh Auth Cache
 1. Run `./Login-Bgg.ps1`.
 2. If blocked by Cloudflare 403, import browser cookie using `-Cookie`.
@@ -29,6 +36,23 @@ Equivalent lower-level example:
   `./.agents/skills/mrhinsh-bg-pull-rank-set/scripts/run.ps1`
 - Top report:
   `./.agents/skills/mrhinsh-bg-pull-report/scripts/run.ps1`
+
+## Rating Intake Loop (human-in-the-loop)
+
+Run after a pull when unrated games need scoring:
+
+1. Rebuild stack rank and unrated intake:
+  `./.agents/skills/mrhinsh-bg-pull-rank-set/scripts/Export-BggStackRank.ps1`
+2. Rebuild the rating sheet:
+  `./.agents/skills/mrhinsh-bg-pull-publish-queue/scripts/New-BggRatingUploadSheet.ps1`
+3. Edit `data/publish/sheets/bgg-rating-upload-sheet.csv`:
+  fill `new_rating` with integers 1-10; use `notes` for local review notes
+  (`bgg_comment` is the fetched BGG comment when present).
+4. Import the edited sheet:
+  `./.agents/skills/mrhinsh-bg-import-ratings/scripts/Import-BggRatingSheet.ps1`
+  (or `Import-BggRatingsFromUnrated.ps1` if you edited `intake-ranked.json` directly).
+5. Rebuild outputs: re-run steps 1-2, then the top report:
+  `./.agents/skills/mrhinsh-bg-pull-report/scripts/run.ps1 -Username 'mrhinsh'`
 
 ## Tier Workflow
 1. Build tier membership from canonical ratings:

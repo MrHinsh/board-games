@@ -1,45 +1,42 @@
 # Agent Operating Guide
 
-Start here before making changes.
+Personal BoardGameGeek (BGG) collection pipeline: pull plays and collection data via a
+local MCP server, rate and tier-rank games, push ratings back to BGG. Deterministic
+PowerShell scripts do the work — agents orchestrate and apply judgment only where a doc
+says so. Do not re-derive logic the scripts already implement.
 
-## Read Order
+## Hard rules (always apply)
 
-1. Read guardrails first.
+- Never commit secrets, cookies, or tokens. Local secret material lives only in `.local/` (gitignored).
+- Never overwrite files under `data/raw/` — snapshots are immutable.
+- Keep the data-flow order: fetch -> reconcile -> rank/report -> tier/rebalance -> publish/push.
+- Never read `data/**/*.json` or CSV files wholesale into context (`games.json` alone is ~420 KB).
+  Query with a script, `jq`-style filter, or targeted grep instead.
+- Preserve script entrypoints and parameter names unless explicitly asked to break them.
 
-- `.agents/guardrails/global-rules.md`
-- `.agents/guardrails/auth-and-secrets.md`
+## Commands
 
-1. Read context next.
+- Pull (read side, end-to-end local rebuild):
+  `./.agents/skills/mrhinsh-bg-pull/scripts/run.ps1 -Username 'MrHinsh'`
+- Push (write side, sync pending rating queue to BGG):
+  `./.agents/skills/mrhinsh-bg-push/scripts/run.ps1 -Username 'MrHinsh'`
+- Smoke check (script parse + data contract validation):
+  `./scripts/Test-Repo.ps1`
 
-- `.agents/context/system-map.md`
-- `.agents/context/contracts.md`
-- `.agents/context/ratting-system.md`
-- `.agents/context/tier-ranking-formula.md`
-- `.agents/context/ops-runbook.md`
-- `.agents/context/handoff.md`
+## Read only what the task needs
 
-## Intent
+| Task | Read first |
+| --- | --- |
+| Operating the pipeline, auth problems | `.agents/context/ops-runbook.md` |
+| Editing data schemas or file shapes | `.agents/context/contracts.md` |
+| Rating, tier, or rank conversion logic | `.agents/context/rating-system.md` and `.agents/context/tier-ranking-formula.md` |
+| Touching auth or secrets code | `.agents/guardrails/auth-and-secrets.md` |
+| Any other policy question | `.agents/guardrails/global-rules.md` |
+| Architecture orientation | `.agents/context/system-map.md` |
 
-- Guardrails define non-negotiable policy.
-- Context defines current system facts, contracts, and operator workflow.
-- Skills under `.agents/skills` execute the work.
+Skill-level docs live next to their scripts: `.agents/skills/<name>/SKILL.md`.
 
-## Core Repository Expectations
+## Definition of done
 
-- Do not store secrets in tracked files.
-- Use `.local` for local secret/cache material.
-- Keep data flow order: fetch -> reconcile -> rank/report -> tier/rebalance/publish.
-- Preserve script entrypoints unless explicitly asked to change them.
-
-## Auth Expectations
-
-- Scripted password login can be blocked by Cloudflare.
-- Use `Login-Bgg.ps1` and cached cookie flow as the primary operator path.
-- Write-to-BGG scripts use local cached cookie path.
-
-## Contract Discipline
-
-- Treat `.agents/context/contracts.md` as schema contract source of truth.
-- Treat `.agents/context/ratting-system.md` as workflow source of truth for tier/rank process.
-- Treat `.agents/context/tier-ranking-formula.md` as ranking conversion source of truth.
-- If code behavior changes, update those files in the same change set.
+- `./scripts/Test-Repo.ps1` passes.
+- If code behavior changed, the matching context doc above was updated in the same change set.

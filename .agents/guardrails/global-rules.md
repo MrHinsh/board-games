@@ -21,6 +21,13 @@ This file defines non-negotiable rules for agents working in this repository.
 - Never write auth material into tracked files under `data/`, `.agents/skills/`, or repo docs.
 - Always mask sensitive values in human-facing output.
 
+## Context Economy Rules
+- Never load `data/**` JSON/CSV files wholesale into agent context; `games.json` is ~420 KB.
+  Use scripts or targeted queries to extract only the rows/fields needed.
+- Do not re-read large docs already summarized in the current session.
+- Deterministic work belongs in scripts, not in agent reasoning. If a sequence is fixed,
+  wrap it in a `run.ps1` rather than having agents step through it manually.
+
 ## Script Change Rules
 - Preserve existing script entrypoints and parameter names unless explicitly asked to break them.
 - Prefer additive changes and backward-compatible defaults.

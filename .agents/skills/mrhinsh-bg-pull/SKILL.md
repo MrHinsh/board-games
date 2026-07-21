@@ -1,87 +1,49 @@
 # mrhinsh-bg-pull
 
-This is an orchestration workflow. It has no scripts of its own beyond the wrapper entrypoint.
-Invoke the existing implemented skills below in sequence and pass outputs between them.
+Read-side orchestration: pull from BGG, reconcile into canonical data, rebuild all local
+ranking, report, and publish artifacts. The entire sequence is implemented in `scripts/run.ps1`
+— run it; do not step through the sub-skills manually unless recovering from a failure.
 
----
-
-## Workflow: Pull from BGG and rebuild local publish artifacts
-
-### Step 1 - Fetch
-Run the existing fetch entrypoint and capture the emitted snapshot path.
+## Run
 
 ```powershell
-$snapshot = & ./.agents/skills/mrhinsh-bg-pull-fetch/scripts/run.ps1 `
-    -Username $Username `
-    -Endpoint $Endpoint `
-    -ApiKey $ApiKey `
-    -Cookie $Cookie `
-    -IncludeExpansions:$IncludeExpansions
+./.agents/skills/mrhinsh-bg-pull/scripts/run.ps1 `
+    -Username 'MrHinsh' `
+    -Endpoint 'http://localhost:8080/mcp' `
+    -ApiKey $env:BGG_API_KEY
 ```
 
-### Step 2 - Reconcile
-Merge the fetched snapshot into canonical working data.
-
-```powershell
-& ./.agents/skills/mrhinsh-bg-pull-reconcile/scripts/run.ps1 `
-    -SnapshotPath $snapshot
-```
-
-### Step 3 - Rank and rating intake artifacts
-Refresh ranking outputs and rebuild the operator upload sheet.
-
-```powershell
-& ./.agents/skills/mrhinsh-bg-pull-rank-set/scripts/run.ps1
-& ./.agents/skills/mrhinsh-bg-pull-publish-queue/scripts/run.ps1
-```
-
-### Step 4 - Reports
-Refresh top reports from the reconciled dataset.
-
-```powershell
-& ./.agents/skills/mrhinsh-bg-pull-report/scripts/run.ps1 `
-    -Username $Username `
-    -Endpoint $Endpoint `
-    -ApiKey $ApiKey `
-    -Cookie $Cookie `
-    -IncludeExpansions:$IncludeExpansions
-```
-
-### Step 5 - Tier and publish outputs
-Rebuild tier membership, normalize external ordering, apply any queued tier moves, and recalculate
-final decimal BGG ratings.
-
-```powershell
-& ./.agents/skills/mrhinsh-bg-pull-tier-map/scripts/run.ps1
-& ./.agents/skills/mrhinsh-bg-pull-normalize/scripts/run.ps1
-& ./.agents/skills/mrhinsh-bg-pull-tier-move/scripts/run.ps1
-& ./.agents/skills/mrhinsh-bg-pull-rank-rebalance/scripts/run.ps1 `
-    -ImportPath .\data\working\ranking\external-ordering.json
-```
-
----
-
-## Inputs
-- `$Username` - BGG username (mandatory)
-- `$Endpoint` - BGG MCP endpoint (default `http://localhost:8080/mcp`)
-- `$ApiKey`, `$Cookie` - optional auth material for MCP reads
-- `$IncludeExpansions` - include expansions in BGG reads and reports when set
-
-## Outputs
-- Raw BGG snapshot under `data/raw/bgg/collection/`
-- Reconciled canonical data under `data/working/canonical/`
-- Ranking reports under `data/reports/ranking/` and `data/reports/top/`
-- Publish artifacts under `data/publish/`
-- Pending BGG rating queue at `data/publish/queue/pending-rating-updates.json`
+Optional: `-Cookie` (auth override), `-IncludeExpansions`.
 
 ## Preconditions
-- MCP server is running before fetch starts
-- Existing canonical and publish directories are present
+
+- MCP server running at `$Endpoint`
+  (`./.agents/skills/mrhinsh-bg-pull-fetch/scripts/Start-BggMcpServer.ps1`).
+
+## Outputs
+
+- Raw immutable snapshot: `data/raw/bgg/collection/<timestamp>.json`
+- Canonical data: `data/working/canonical/games.json`, `data/working/unrated/intake.json`
+- Reports: `data/reports/quality/`, `data/reports/ranking/`, `data/reports/top/`
+- Publish artifacts: `data/publish/sheets/`, `data/publish/ranking/`, `data/publish/tiers/`
+- Pending rating queue: `data/publish/queue/pending-rating-updates.json`
 
 ## Idempotency
-- Safe to re-run. Each run writes a new immutable raw snapshot and rebuilds derived local artifacts.
 
-## Failure Modes
-- Fetch failure stops the workflow before reconcile
-- Reconcile failure stops downstream rank/report/tier steps
-- Any downstream script failure leaves previously generated artifacts in place from the last successful run
+Safe to re-run. Each run writes a new immutable snapshot and rebuilds derived artifacts.
+
+## Failure recovery
+
+`run.ps1` executes these sub-skills in order and stops at the first failure, leaving earlier
+outputs in place. To resume, run the failed step's `run.ps1` (each has its own `SKILL.md`),
+then continue down the list:
+
+1. `mrhinsh-bg-pull-fetch` (emits snapshot path; pass it to reconcile via `-SnapshotPath`)
+2. `mrhinsh-bg-pull-reconcile`
+3. `mrhinsh-bg-pull-rank-set`
+4. `mrhinsh-bg-pull-publish-queue`
+5. `mrhinsh-bg-pull-report`
+6. `mrhinsh-bg-pull-tier-map`
+7. `mrhinsh-bg-pull-normalize`
+8. `mrhinsh-bg-pull-tier-move`
+9. `mrhinsh-bg-pull-rank-rebalance` (`-ImportPath .\data\working\ranking\external-ordering.json`)

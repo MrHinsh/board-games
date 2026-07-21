@@ -1,7 +1,16 @@
 [CmdletBinding()]
-param()
+param(
+    [string]$SheetPath = '.\data\publish\sheets\bgg-rating-upload-sheet.csv',
+    [string]$UnratedPath = '.\data\working\unrated\intake-ranked.json',
+    [string]$PlayedPath = '.\data\working\canonical\games.json'
+)
 
 Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
 
-throw 'This skill does not have an implemented run script yet. Add implementation to scripts/run.ps1.'
+$importScript = Join-Path $PSScriptRoot 'Import-BggRatingSheet.ps1'
+if (-not (Test-Path $importScript)) {
+    throw "Missing script: $importScript"
+}
+
+& $importScript -SheetPath $SheetPath -UnratedPath $UnratedPath -PlayedPath $PlayedPath
