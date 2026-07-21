@@ -1,0 +1,255 @@
+diff --git a/tools/collection.go b/tools/collection.go
+index a72b5e3..adef96a 100644
+--- a/tools/collection.go
++++ b/tools/collection.go
+@@ -3,15 +3,77 @@ package tools
+ import (
+ 	"context"
+ 	"encoding/json"
++	"encoding/xml"
+ 	"fmt"
++	"io"
++	"net/http"
++	"net/url"
+ 	"os"
++	"strconv"
++	"time"
+ 
+ 	"github.com/kkjdaniel/gogeek/v2"
+ 	"github.com/kkjdaniel/gogeek/v2/collection"
++	"github.com/kkjdaniel/gogeek/v2/constants"
+ 	"github.com/mark3labs/mcp-go/mcp"
+ 	"github.com/mark3labs/mcp-go/server"
+ )
+ 
++type rawCollectionResponse struct {
++	XMLName xml.Name            `xml:"items"`
++	Items   []rawCollectionItem `xml:"item"`
++}
++
++type rawCollectionItem struct {
++	ObjectType    string              `xml:"objecttype,attr" json:"objecttype"`
++	ObjectID      int                 `xml:"objectid,attr" json:"objectid"`
++	Subtype       string              `xml:"subtype,attr" json:"subtype"`
++	CollectionID  int                 `xml:"collid,attr" json:"collid"`
++	Name          string              `xml:"name" json:"name"`
++	YearPublished int                 `xml:"yearpublished" json:"yearpublished"`
++	Image         string              `xml:"image" json:"image"`
++	Thumbnail     string              `xml:"thumbnail" json:"thumbnail"`
++	Stats         *rawCollectionStats `xml:"stats" json:"-"`
++	Status        rawCollectionStatus `xml:"status" json:"status"`
++	NumPlays      int                 `xml:"numplays" json:"numplays"`
++	Comment       string              `xml:"comment" json:"comment"`
++}
++
++type rawCollectionStats struct {
++	Rating rawCollectionRating `xml:"rating"`
++}
++
++type rawCollectionRating struct {
++	Value string `xml:"value,attr"`
++}
++
++type rawCollectionStatus struct {
++	Own          int    `xml:"own,attr" json:"own"`
++	PrevOwned    int    `xml:"prevowned,attr" json:"prevowned"`
++	ForTrade     int    `xml:"fortrade,attr" json:"fortrade"`
++	Want         int    `xml:"want,attr" json:"want"`
++	WantToPlay   int    `xml:"wanttoplay,attr" json:"wanttoplay"`
++	WantToBuy    int    `xml:"wanttobuy,attr" json:"wanttobuy"`
++	Wishlist     int    `xml:"wishlist,attr" json:"wishlist"`
++	Preordered   int    `xml:"preordered,attr" json:"preordered"`
++	LastModified string `xml:"lastmodified,attr" json:"lastmodified"`
++}
++
++type collectionExportItem struct {
++	ObjectType    string              `json:"objecttype"`
++	ObjectID      int                 `json:"objectid"`
++	Subtype       string              `json:"subtype"`
++	CollectionID  int                 `json:"collid"`
++	Name          string              `json:"name"`
++	YearPublished int                 `json:"yearpublished"`
++	Image         string              `json:"image"`
++	Thumbnail     string              `json:"thumbnail"`
++	Rating        float64             `json:"rating,omitempty"`
++	Status        rawCollectionStatus `json:"status"`
++	NumPlays      int                 `json:"numplays"`
++	Comment       string              `json:"comment"`
++}
++
+ func CollectionTool(client *gogeek.Client) (mcp.Tool, server.ToolHandlerFunc) {
+ 	tool := mcp.NewTool("bgg-collection",
+ 		mcp.WithDescription("Query a user's board game collection on BoardGameGeek (BGG). Returns all matching games by default with basic info (name, ID, rating, plays, status). Use the filter parameters to narrow results (e.g. owned, wishlist, rated, play count). For detailed information about specific games (description, mechanics, player count, complexity, etc.), follow up with bgg-details using the game IDs from the results."),
+@@ -86,18 +148,16 @@ func CollectionTool(client *gogeek.Client) (mcp.Tool, server.ToolHandlerFunc) {
+ 			username = envUsername
+ 		}
+ 
+-		options := buildCollectionOptions(arguments)
+-
+-		result, err := collection.Query(client, username, options...)
++		items, err := queryCollectionWithStats(client, username, arguments)
+ 		if err != nil {
+ 			return mcp.NewToolResultText(fmt.Sprintf("Error fetching collection: %v", err)), nil
+ 		}
+ 
+-		if len(result.Items) == 0 {
++		if len(items) == 0 {
+ 			return mcp.NewToolResultText("No items found in collection with the specified filters"), nil
+ 		}
+ 
+-		out, err := json.Marshal(result.Items)
++		out, err := json.Marshal(items)
+ 		if err != nil {
+ 			return mcp.NewToolResultText(fmt.Sprintf("Error formatting results: %v", err)), nil
+ 		}
+@@ -108,19 +168,143 @@ func CollectionTool(client *gogeek.Client) (mcp.Tool, server.ToolHandlerFunc) {
+ 	return tool, handler
+ }
+ 
++func queryCollectionWithStats(client *gogeek.Client, username string, arguments map[string]interface{}) ([]collectionExportItem, error) {
++	params := url.Values{}
++	params.Set("username", username)
++	params.Set("stats", "1")
++
++	for _, opt := range buildCollectionOptions(arguments) {
++		opt(params)
++	}
++
++	queryURL := constants.CollectionEndpoint + "?" + params.Encode()
++
++	var result rawCollectionResponse
++	body, err := fetchCollectionBody(client, queryURL)
++	if err != nil {
++		return nil, err
++	}
++
++	if err := xml.Unmarshal(body, &result); err != nil {
++		return nil, err
++	}
++
++	items := make([]collectionExportItem, 0, len(result.Items))
++	for _, item := range result.Items {
++		rating := 0.0
++		if item.Stats != nil {
++			rating = parseCollectionRating(item.Stats.Rating.Value)
++		}
++
++		items = append(items, collectionExportItem{
++			ObjectType:    item.ObjectType,
++			ObjectID:      item.ObjectID,
++			Subtype:       item.Subtype,
++			CollectionID:  item.CollectionID,
++			Name:          item.Name,
++			YearPublished: item.YearPublished,
++			Image:         item.Image,
++			Thumbnail:     item.Thumbnail,
++			Rating:        rating,
++			Status:        item.Status,
++			NumPlays:      item.NumPlays,
++			Comment:       item.Comment,
++		})
++	}
++
++	return items, nil
++}
++
++func parseCollectionRating(value string) float64 {
++	if value == "" || value == "N/A" {
++		return 0
++	}
++
++	rating, err := strconv.ParseFloat(value, 64)
++	if err != nil {
++		return 0
++	}
++
++	return rating
++}
++
++func fetchCollectionBody(client *gogeek.Client, queryURL string) ([]byte, error) {
++	for attempt := 0; attempt <= 5; attempt++ {
++		client.Limiter().Take()
++
++		req, err := http.NewRequest(http.MethodGet, queryURL, nil)
++		if err != nil {
++			return nil, err
++		}
++
++		switch client.AuthMode() {
++		case gogeek.AuthAPIKey:
++			req.Header.Set("Authorization", "Bearer "+client.APIKey())
++		case gogeek.AuthCookie:
++			req.Header.Set("Cookie", client.CookieString())
++		}
++
++		resp, err := http.DefaultClient.Do(req)
++		if err != nil {
++			return nil, err
++		}
++
++		if resp.StatusCode == http.StatusAccepted {
++			resp.Body.Close()
++			if attempt == 5 {
++				return nil, fmt.Errorf("collection request still processing")
++			}
++			time.Sleep(3 * time.Second)
++			continue
++		}
++
++		if resp.StatusCode == http.StatusTooManyRequests {
++			resp.Body.Close()
++			if attempt == 5 {
++				return nil, fmt.Errorf("collection request rate limited")
++			}
++
++			wait := 5 * time.Second
++			if retryAfter := resp.Header.Get("Retry-After"); retryAfter != "" {
++				if seconds, err := strconv.Atoi(retryAfter); err == nil && seconds > 0 {
++					wait = time.Duration(seconds) * time.Second
++				}
++			}
++
++			time.Sleep(wait)
++			continue
++		}
++
++		defer resp.Body.Close()
++
++		if resp.StatusCode != http.StatusOK {
++			return nil, fmt.Errorf("unexpected status code: %d", resp.StatusCode)
++		}
++
++		return io.ReadAll(resp.Body)
++	}
++
++	return nil, fmt.Errorf("failed to fetch collection response")
++}
++
+ func buildCollectionOptions(arguments map[string]interface{}) []collection.CollectionOption {
+ 	var options []collection.CollectionOption
+ 
+-	ownershipFilters := []string{"owned", "wishlist", "preordered", "fortrade", "wanttoplay", "wanttobuy"}
+-	hasOwnershipFilter := false
+-	for _, filter := range ownershipFilters {
+-		if arguments[filter] != nil {
+-			hasOwnershipFilter = true
+-			break
++	hasExplicitFilter := false
++	for key, value := range arguments {
++		if value == nil {
++			continue
+ 		}
++
++		if key == "username" || key == "subtype" {
++			continue
++		}
++
++		hasExplicitFilter = true
++		break
+ 	}
+ 
+-	if !hasOwnershipFilter {
++	if !hasExplicitFilter {
+ 		options = append(options, collection.WithOwned(true))
+ 	}
+ 
