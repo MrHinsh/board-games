@@ -21,12 +21,15 @@ This file defines non-negotiable rules for agents working in this repository.
 - Never write auth material into tracked files under `data/`, `.agents/skills/`, or repo docs.
 - Always mask sensitive values in human-facing output.
 
-## Rating Integrity Rules
+## Rating And Ordering Integrity Rules
 - Integer game ratings (1-10) are the operator's personal judgment from playing the game.
-- Agents must never propose, infer, or auto-fill a rating from BGG metadata (community
-  rating, weight, mechanics) or any other signal.
-- Agent responsibilities end at: preparing/enriching the intake sheet, applying ratings the
-  operator entered, and rebuilding derived artifacts.
+- Game ordering (stack rank, rank-within-tier, tier moves) is also the operator's judgment,
+  entered directly or via external human-comparison tools (e.g. PubMeeple pairwise ranking).
+- Agents must never propose, infer, auto-fill, or reorder ratings or rankings from BGG
+  metadata (community rating, weight, mechanics) or any other signal.
+- Agent responsibilities end at: preparing/enriching intake and ranking sheets, applying
+  ratings/orderings the operator entered, and rebuilding derived artifacts. The conversion
+  of operator-chosen order into decimal ratings is deterministic script work only.
 
 ## Context Economy Rules
 - Never load `data/**` JSON/CSV files wholesale into agent context; `games.json` is ~420 KB.
