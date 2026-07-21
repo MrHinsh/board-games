@@ -1,4 +1,4 @@
-# mrhinsh-bg-normalize
+# mrhinsh-bg-pull-normalize
 
 Purpose:
 - Export tier/ranking files for external tools.
@@ -17,5 +17,5 @@ Outputs:
 
 Example:
 ```powershell
-./.agents/skills/mrhinsh-bg-normalize/scripts/run.ps1
+./.agents/skills/mrhinsh-bg-pull-normalize/scripts/run.ps1
 ```

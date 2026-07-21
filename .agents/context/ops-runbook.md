@@ -21,24 +21,24 @@ The pull command wraps the existing fetch and reconcile pattern before continuin
 report, and publish rebuild steps.
 
 Equivalent lower-level example:
-`$snapshot = ./.agents/skills/mrhinsh-bg-fetch/scripts/run.ps1 -Username 'mrhinsh' -Endpoint 'http://localhost:8080/mcp' -ApiKey $env:BGG_API_KEY`
-`./.agents/skills/mrhinsh-bg-reconcile/scripts/run.ps1 -SnapshotPath $snapshot`
+`$snapshot = ./.agents/skills/mrhinsh-bg-pull-fetch/scripts/run.ps1 -Username 'mrhinsh' -Endpoint 'http://localhost:8080/mcp' -ApiKey $env:BGG_API_KEY`
+`./.agents/skills/mrhinsh-bg-pull-reconcile/scripts/run.ps1 -SnapshotPath $snapshot`
 
 ## Rank + Report
 - Rank set:
-  `./.agents/skills/mrhinsh-bg-rank-set/scripts/run.ps1`
+  `./.agents/skills/mrhinsh-bg-pull-rank-set/scripts/run.ps1`
 - Top report:
-  `./.agents/skills/mrhinsh-bg-report/scripts/run.ps1`
+  `./.agents/skills/mrhinsh-bg-pull-report/scripts/run.ps1`
 
 ## Tier Workflow
 1. Build tier membership from canonical ratings:
-  `./.agents/skills/mrhinsh-bg-tier-map/scripts/run.ps1`
+  `./.agents/skills/mrhinsh-bg-pull-tier-map/scripts/run.ps1`
 2. Export files for external tier/ranking tools and normalize any imports:
-  `./.agents/skills/mrhinsh-bg-normalize/scripts/run.ps1`
+  `./.agents/skills/mrhinsh-bg-pull-normalize/scripts/run.ps1`
 3. Apply imported/manual tier moves:
-  `./.agents/skills/mrhinsh-bg-tier-move/scripts/run.ps1`
+  `./.agents/skills/mrhinsh-bg-pull-tier-move/scripts/run.ps1`
 4. Rebalance rank-in-tier into decimal ratings and publish queue:
-  `./.agents/skills/mrhinsh-bg-rank-rebalance/scripts/run.ps1`
+  `./.agents/skills/mrhinsh-bg-pull-rank-rebalance/scripts/run.ps1`
 5. Dry-run BGG sync:
   `./.agents/skills/mrhinsh-bg-push-rating/scripts/Sync-BggRatingQueue.ps1 -WhatIf`
 6. Live BGG sync:

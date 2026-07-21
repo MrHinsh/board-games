@@ -1,4 +1,4 @@
-# mrhinsh-bg-tier-map
+# mrhinsh-bg-pull-tier-map
 
 Purpose:
 - Build first-class tier membership from canonical game ratings.
@@ -16,5 +16,5 @@ Outputs:
 
 Example:
 ```powershell
-./.agents/skills/mrhinsh-bg-tier-map/scripts/run.ps1
+./.agents/skills/mrhinsh-bg-pull-tier-map/scripts/run.ps1
 ```

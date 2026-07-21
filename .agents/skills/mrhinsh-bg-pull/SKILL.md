@@ -11,7 +11,7 @@ Invoke the existing implemented skills below in sequence and pass outputs betwee
 Run the existing fetch entrypoint and capture the emitted snapshot path.
 
 ```powershell
-$snapshot = & ./.agents/skills/mrhinsh-bg-fetch/scripts/run.ps1 `
+$snapshot = & ./.agents/skills/mrhinsh-bg-pull-fetch/scripts/run.ps1 `
     -Username $Username `
     -Endpoint $Endpoint `
     -ApiKey $ApiKey `
@@ -23,7 +23,7 @@ $snapshot = & ./.agents/skills/mrhinsh-bg-fetch/scripts/run.ps1 `
 Merge the fetched snapshot into canonical working data.
 
 ```powershell
-& ./.agents/skills/mrhinsh-bg-reconcile/scripts/run.ps1 `
+& ./.agents/skills/mrhinsh-bg-pull-reconcile/scripts/run.ps1 `
     -SnapshotPath $snapshot
 ```
 
@@ -31,15 +31,15 @@ Merge the fetched snapshot into canonical working data.
 Refresh ranking outputs and rebuild the operator upload sheet.
 
 ```powershell
-& ./.agents/skills/mrhinsh-bg-rank-set/scripts/run.ps1
-& ./.agents/skills/mrhinsh-bg-publish-queue/scripts/run.ps1
+& ./.agents/skills/mrhinsh-bg-pull-rank-set/scripts/run.ps1
+& ./.agents/skills/mrhinsh-bg-pull-publish-queue/scripts/run.ps1
 ```
 
 ### Step 4 - Reports
 Refresh top reports from the reconciled dataset.
 
 ```powershell
-& ./.agents/skills/mrhinsh-bg-report/scripts/run.ps1 `
+& ./.agents/skills/mrhinsh-bg-pull-report/scripts/run.ps1 `
     -Username $Username `
     -Endpoint $Endpoint `
     -ApiKey $ApiKey `
@@ -52,10 +52,10 @@ Rebuild tier membership, normalize external ordering, apply any queued tier move
 final decimal BGG ratings.
 
 ```powershell
-& ./.agents/skills/mrhinsh-bg-tier-map/scripts/run.ps1
-& ./.agents/skills/mrhinsh-bg-normalize/scripts/run.ps1
-& ./.agents/skills/mrhinsh-bg-tier-move/scripts/run.ps1
-& ./.agents/skills/mrhinsh-bg-rank-rebalance/scripts/run.ps1 `
+& ./.agents/skills/mrhinsh-bg-pull-tier-map/scripts/run.ps1
+& ./.agents/skills/mrhinsh-bg-pull-normalize/scripts/run.ps1
+& ./.agents/skills/mrhinsh-bg-pull-tier-move/scripts/run.ps1
+& ./.agents/skills/mrhinsh-bg-pull-rank-rebalance/scripts/run.ps1 `
     -ImportPath .\data\working\ranking\external-ordering.json
 ```
 

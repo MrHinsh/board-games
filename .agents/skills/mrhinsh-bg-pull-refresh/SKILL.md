@@ -1,4 +1,4 @@
-# mrhinsh-bg-refresh
+# mrhinsh-bg-pull-refresh
 
 This is an **orchestration workflow**. It has no scripts of its own. Invoke the sub-skills
 below in sequence and pass outputs between them.
@@ -8,12 +8,12 @@ below in sequence and pass outputs between them.
 ## Workflow: Refresh canonical game data from BGG
 
 ### Step 1 — Fetch
-Invoke **mrhinsh-bg-fetch**.
+Invoke **mrhinsh-bg-pull-fetch**.
 
-Read `.agents/skills/mrhinsh-bg-fetch/SKILL.md` and run its script:
+Read `.agents/skills/mrhinsh-bg-pull-fetch/SKILL.md` and run its script:
 
 ```powershell
-$snapshot = & ./.agents/skills/mrhinsh-bg-fetch/scripts/run.ps1 `
+$snapshot = & ./.agents/skills/mrhinsh-bg-pull-fetch/scripts/run.ps1 `
     -Username $Username `
     -Endpoint $Endpoint `
     -ApiKey $ApiKey `
@@ -23,13 +23,13 @@ $snapshot = & ./.agents/skills/mrhinsh-bg-fetch/scripts/run.ps1 `
 The script emits the path to the saved snapshot file. Capture it in `$snapshot`.
 
 ### Step 2 — Reconcile
-Invoke **mrhinsh-bg-reconcile**.
+Invoke **mrhinsh-bg-pull-reconcile**.
 
-Read `.agents/skills/mrhinsh-bg-reconcile/SKILL.md` and run its script, passing the snapshot
+Read `.agents/skills/mrhinsh-bg-pull-reconcile/SKILL.md` and run its script, passing the snapshot
 path from Step 1:
 
 ```powershell
-& ./.agents/skills/mrhinsh-bg-reconcile/scripts/run.ps1 `
+& ./.agents/skills/mrhinsh-bg-pull-reconcile/scripts/run.ps1 `
     -SnapshotPath $snapshot
 ```
 
@@ -47,7 +47,7 @@ path from Step 1:
 - `data/reports/quality/reconcile-report.json` — diff summary (written by reconcile)
 
 ## Preconditions
-- MCP server is running (start it if needed before invoking mrhinsh-bg-fetch)
+- MCP server is running (start it if needed before invoking mrhinsh-bg-pull-fetch)
 
 ## Idempotency
 - Safe to re-run. Each run writes a new timestamped snapshot; canonical merge is additive.

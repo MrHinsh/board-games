@@ -12,15 +12,15 @@ param(
 Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
 
-$fetchScript = Join-Path $PSScriptRoot '..\..\mrhinsh-bg-fetch\scripts\run.ps1'
-$reconcileScript = Join-Path $PSScriptRoot '..\..\mrhinsh-bg-reconcile\scripts\run.ps1'
-$rankSetScript = Join-Path $PSScriptRoot '..\..\mrhinsh-bg-rank-set\scripts\Export-BggStackRank.ps1'
-$publishQueueScript = Join-Path $PSScriptRoot '..\..\mrhinsh-bg-publish-queue\scripts\New-BggRatingUploadSheet.ps1'
-$reportScript = Join-Path $PSScriptRoot '..\..\mrhinsh-bg-report\scripts\Export-BggTop10.ps1'
-$tierMapScript = Join-Path $PSScriptRoot '..\..\mrhinsh-bg-tier-map\scripts\run.ps1'
-$normalizeScript = Join-Path $PSScriptRoot '..\..\mrhinsh-bg-normalize\scripts\run.ps1'
-$tierMoveScript = Join-Path $PSScriptRoot '..\..\mrhinsh-bg-tier-move\scripts\run.ps1'
-$rankRebalanceScript = Join-Path $PSScriptRoot '..\..\mrhinsh-bg-rank-rebalance\scripts\run.ps1'
+$fetchScript = Join-Path $PSScriptRoot '..\..\mrhinsh-bg-pull-fetch\scripts\run.ps1'
+$reconcileScript = Join-Path $PSScriptRoot '..\..\mrhinsh-bg-pull-reconcile\scripts\run.ps1'
+$rankSetScript = Join-Path $PSScriptRoot '..\..\mrhinsh-bg-pull-rank-set\scripts\Export-BggStackRank.ps1'
+$publishQueueScript = Join-Path $PSScriptRoot '..\..\mrhinsh-bg-pull-publish-queue\scripts\New-BggRatingUploadSheet.ps1'
+$reportScript = Join-Path $PSScriptRoot '..\..\mrhinsh-bg-pull-report\scripts\Export-BggTop10.ps1'
+$tierMapScript = Join-Path $PSScriptRoot '..\..\mrhinsh-bg-pull-tier-map\scripts\run.ps1'
+$normalizeScript = Join-Path $PSScriptRoot '..\..\mrhinsh-bg-pull-normalize\scripts\run.ps1'
+$tierMoveScript = Join-Path $PSScriptRoot '..\..\mrhinsh-bg-pull-tier-move\scripts\run.ps1'
+$rankRebalanceScript = Join-Path $PSScriptRoot '..\..\mrhinsh-bg-pull-rank-rebalance\scripts\run.ps1'
 
 foreach ($script in @(
     $fetchScript,

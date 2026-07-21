@@ -1,7 +1,7 @@
-# mrhinsh-bg-reconcile
+# mrhinsh-bg-pull-reconcile
 
 Purpose:
-- Read a normalized snapshot produced by mrhinsh-bg-fetch.
+- Read a normalized snapshot produced by mrhinsh-bg-pull-fetch.
 - Merge it into `data/working/canonical/games.json` using the following sequential steps:
   1. **Load**: read the snapshot and the existing canonical file (empty list if not present).
   2. **Existing games** — for each game already in canonical (matched by `bgg_id`):
@@ -20,7 +20,7 @@ Purpose:
   6. **Write report**: write a reconciliation report to `data/reports/quality/reconcile-report.json`.
 
 Inputs:
-- `$SnapshotPath` — path to the JSON snapshot produced by mrhinsh-bg-fetch (mandatory)
+- `$SnapshotPath` — path to the JSON snapshot produced by mrhinsh-bg-pull-fetch (mandatory)
 - `data/working/canonical/games.json` — existing canonical record (may not exist on first run)
 - `data/working/unrated/intake.json` — existing intake list (may not exist on first run)
 
@@ -30,7 +30,7 @@ Outputs:
 - `data/reports/quality/reconcile-report.json` — diff summary with added/updated/unchanged counts
 
 Preconditions:
-- Snapshot file exists at `$SnapshotPath` (run mrhinsh-bg-fetch first).
+- Snapshot file exists at `$SnapshotPath` (run mrhinsh-bg-pull-fetch first).
 
 Postconditions:
 - Canonical contains all games from the snapshot.
@@ -47,6 +47,6 @@ Failure Modes:
 
 Example:
 ```powershell
-$snapshot = & ./.agents/skills/mrhinsh-bg-fetch/scripts/run.ps1 -Username "MrHinsh"
-& ./.agents/skills/mrhinsh-bg-reconcile/scripts/run.ps1 -SnapshotPath $snapshot
+$snapshot = & ./.agents/skills/mrhinsh-bg-pull-fetch/scripts/run.ps1 -Username "MrHinsh"
+& ./.agents/skills/mrhinsh-bg-pull-reconcile/scripts/run.ps1 -SnapshotPath $snapshot
 ```

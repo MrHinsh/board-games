@@ -1,4 +1,4 @@
-# mrhinsh-bg-tier-move
+# mrhinsh-bg-pull-tier-move
 
 Purpose:
 - Apply tier moves imported from external tier tools or direct operator commands.
@@ -14,6 +14,6 @@ Outputs:
 
 Examples:
 ```powershell
-./.agents/skills/mrhinsh-bg-tier-move/scripts/run.ps1
-./.agents/skills/mrhinsh-bg-tier-move/scripts/run.ps1 -GameId 12345 -Tier A
+./.agents/skills/mrhinsh-bg-pull-tier-move/scripts/run.ps1
+./.agents/skills/mrhinsh-bg-pull-tier-move/scripts/run.ps1 -GameId 12345 -Tier A
 ```

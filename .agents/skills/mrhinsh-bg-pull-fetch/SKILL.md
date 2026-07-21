@@ -1,4 +1,4 @@
-# mrhinsh-bg-fetch
+# mrhinsh-bg-pull-fetch
 
 Purpose:
 - Call the BGG MCP server to retrieve the user's played collection.
@@ -34,6 +34,6 @@ Failure Modes:
 
 Example:
 ```powershell
-$snapshot = & ./.agents/skills/mrhinsh-bg-fetch/scripts/run.ps1 -Username "MrHinsh"
+$snapshot = & ./.agents/skills/mrhinsh-bg-pull-fetch/scripts/run.ps1 -Username "MrHinsh"
 Write-Host "Snapshot saved to: $snapshot"
 ```

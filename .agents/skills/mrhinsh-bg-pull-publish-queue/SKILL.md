@@ -1,4 +1,4 @@
-# mrhinsh-bg-report
+# mrhinsh-bg-pull-publish-queue
 
 Purpose:
 - TODO: describe this skill's responsibility.

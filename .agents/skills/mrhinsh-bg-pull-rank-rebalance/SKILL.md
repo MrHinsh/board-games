@@ -1,4 +1,4 @@
-# mrhinsh-bg-rank-rebalance
+# mrhinsh-bg-pull-rank-rebalance
 
 Purpose:
 - Convert tier membership and rank-in-tier into final decimal BGG ratings.
@@ -15,6 +15,6 @@ Outputs:
 
 Examples:
 ```powershell
-./.agents/skills/mrhinsh-bg-rank-rebalance/scripts/run.ps1
-./.agents/skills/mrhinsh-bg-rank-rebalance/scripts/run.ps1 -ImportPath .\data\working\ranking\external-ordering.json
+./.agents/skills/mrhinsh-bg-pull-rank-rebalance/scripts/run.ps1
+./.agents/skills/mrhinsh-bg-pull-rank-rebalance/scripts/run.ps1 -ImportPath .\data\working\ranking\external-ordering.json
 ```

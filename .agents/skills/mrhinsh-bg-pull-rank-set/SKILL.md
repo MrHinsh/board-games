@@ -1,4 +1,4 @@
-# mrhinsh-bg-rank-set
+# mrhinsh-bg-pull-rank-set
 
 Purpose:
 - TODO: describe this skill's responsibility.
