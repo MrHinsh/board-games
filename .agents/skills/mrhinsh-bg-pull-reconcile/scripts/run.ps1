@@ -31,6 +31,8 @@ param(
 Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
 
+& (Join-Path $PSScriptRoot '..\..\..\..\scripts\Checkpoint-Canonical.ps1') -Reason 'reconcile'
+
 function Set-ObjectProperty {
     param(
         [Parameter(Mandatory = $true)]

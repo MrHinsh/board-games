@@ -8,6 +8,8 @@ param(
 Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
 
+& (Join-Path $PSScriptRoot '..\..\..\..\scripts\Checkpoint-Canonical.ps1') -Reason 'import-sheet'
+
 function Set-ObjectProperty {
     param(
         [Parameter(Mandatory = $true)]

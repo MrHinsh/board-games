@@ -12,6 +12,8 @@ param(
 Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
 
+& (Join-Path $PSScriptRoot '..\..\..\..\scripts\Checkpoint-Canonical.ps1') -Reason 'rebalance'
+
 . "$PSScriptRoot\..\..\mrhinsh-bg-shared\scripts\BggTierHelpers.ps1"
 
 $membership = @(Read-JsonFile -Path $MembershipPath -Default @())

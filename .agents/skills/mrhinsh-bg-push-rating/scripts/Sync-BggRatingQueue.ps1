@@ -2,7 +2,11 @@
 param(
     [string]$QueuePath = '.\data\publish\queue\pending-rating-updates.json',
     [string]$Username,
-    [int]$Limit = 0
+    [int]$Limit = 0,
+
+    # Ratings jumps larger than this require -AllowLargeDelta (guards against a bad rebalance)
+    [decimal]$MaxDelta = 2.0,
+    [switch]$AllowLargeDelta
 )
 
 Set-StrictMode -Version Latest
@@ -26,6 +30,34 @@ if ($queue.Count -eq 0) {
 
 if ($Limit -gt 0) {
     $queue = @($queue | Select-Object -First $Limit)
+}
+
+# Validate the queue before anything reaches BGG. All rules are deterministic;
+# ratings/ordering themselves are operator judgment and are never altered here.
+$validationErrors = [System.Collections.Generic.List[string]]::new()
+foreach ($item in $queue) {
+    $label = "$($item.name) ($($item.bgg_id))"
+    $rating = [decimal]$item.target_rating
+
+    if ($rating -lt 1 -or $rating -gt 10) {
+        $validationErrors.Add("${label}: target_rating $rating outside 1-10")
+    }
+    $tierProp = $item.PSObject.Properties['tier']
+    if ($tierProp -and [string]$tierProp.Value -in @('X', 'U')) {
+        $validationErrors.Add("${label}: tier $($tierProp.Value) must never be synced to BGG")
+    }
+    $currentProp = $item.PSObject.Properties['current_rating']
+    if ($currentProp -and $null -ne $currentProp.Value -and [decimal]$currentProp.Value -gt 0) {
+        $delta = [Math]::Abs($rating - [decimal]$currentProp.Value)
+        if ($delta -gt $MaxDelta -and -not $AllowLargeDelta) {
+            $validationErrors.Add("${label}: rating change $delta exceeds $MaxDelta (re-run with -AllowLargeDelta if intended)")
+        }
+    }
+}
+
+if ($validationErrors.Count -gt 0) {
+    $validationErrors | ForEach-Object { Write-Warning $_ }
+    throw ("Queue validation failed with {0} issue(s); nothing was synced." -f $validationErrors.Count)
 }
 
 $results = [System.Collections.Generic.List[object]]::new()

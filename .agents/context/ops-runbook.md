@@ -71,6 +71,13 @@ Run after a pull when unrated games need scoring:
 These lower-level steps remain available, but the preferred operator surface is now
 `mrhinsh-bg-pull` and `mrhinsh-bg-push`.
 
+## Recovering Canonical Data
+Every mutating script (reconcile, imports, rebalance) writes a checkpoint of
+`games.json`, `equivalent-games.json`, and `intake-ranked.json` to
+`data/state/checkpoints/<timestamp>-<reason>/` first (last 20 kept, gitignored).
+To recover from a bad mutation, copy the files back from the newest good checkpoint,
+or use `git restore` if the last good state was committed.
+
 ## Common Failures
 - HTTP 403 during password login:
   Cloudflare challenge. Use browser cookie import.

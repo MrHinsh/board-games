@@ -19,7 +19,13 @@ below. Full operational detail lives in
    go build -o bgg-mcp.exe .
    ```
 
-2. **Authenticate to BGG** (cookie cache in gitignored `.local/`):
+2. **Enable the pre-commit smoke check** (once per clone):
+
+   ```powershell
+   git config core.hooksPath .githooks
+   ```
+
+3. **Authenticate to BGG** (cookie cache in gitignored `.local/`):
 
    ```powershell
    ./Login-Bgg.ps1
@@ -66,11 +72,14 @@ tier/rank adjustments. Step-by-step sequences for both are in the
 | `tools/bgg-mcp/` | Vendored BGG MCP server (Go) |
 | `.local/` | Secrets and cookie cache — gitignored, never commit |
 
-## Verify
+## Verify and inspect
 
 ```powershell
-./scripts/Test-Repo.ps1
+./scripts/Test-Repo.ps1      # parse all scripts + validate canonical data contract (also runs pre-commit)
+./scripts/Get-BgStatus.ps1   # compact pipeline status: counts, queue, anomalies, freshness
 ```
 
-Parses every PowerShell script and validates `data/working/canonical/games.json` against the
-contract in [.agents/context/contracts.md](.agents/context/contracts.md).
+Safety nets: every script that mutates canonical data first snapshots it to
+`data/state/checkpoints/` (local, last 20 kept) via `scripts/Checkpoint-Canonical.ps1`, and
+the push sync refuses out-of-range ratings, X/U-tier entries, and rating jumps larger than
+2 points unless re-run with `-AllowLargeDelta`.

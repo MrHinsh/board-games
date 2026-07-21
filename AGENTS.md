@@ -22,6 +22,8 @@ says so. Do not re-derive logic the scripts already implement.
   `./.agents/skills/mrhinsh-bg-push/scripts/run.ps1 -Username 'MrHinsh'`
 - Smoke check (script parse + data contract validation):
   `./scripts/Test-Repo.ps1`
+- Status briefing (compact JSON, no large-file reads needed):
+  `./scripts/Get-BgStatus.ps1`
 
 ## Read only what the task needs
 
