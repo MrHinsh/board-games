@@ -10,16 +10,17 @@ param(
 Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
 
-if (-not (Get-Command docker -ErrorAction SilentlyContinue)) {
-    throw 'Docker is required but was not found in PATH.'
+$engine = if (Get-Command wslc -ErrorAction SilentlyContinue) {
+    'wslc'
+} elseif (Get-Command docker -ErrorAction SilentlyContinue) {
+    'docker'
+} else {
+    throw 'Neither wslc nor docker was found in PATH.'
 }
 
-$existing = docker ps -a --filter "name=^/${ContainerName}$" --format '{{.Names}}'
-if ($existing -contains $ContainerName) {
-    docker rm -f $ContainerName | Out-Null
-}
+& $engine rm -f $ContainerName 2>$null | Out-Null
 
-$dockerArgs = @(
+$runArgs = @(
     'run', '-d',
     '--name', $ContainerName,
     '-p', "${Port}:8080",
@@ -28,20 +29,20 @@ $dockerArgs = @(
 )
 
 if ($ApiKey) {
-    $dockerArgs += @('-e', "BGG_API_KEY=$ApiKey")
+    $runArgs += @('-e', "BGG_API_KEY=$ApiKey")
 }
 if ($Cookie) {
     Write-Warning 'Cookie parameter is ignored. MCP authentication should be configured via API key/environment only.'
 }
 if ($Username) {
-    $dockerArgs += @('-e', "BGG_USERNAME=$Username")
+    $runArgs += @('-e', "BGG_USERNAME=$Username")
 }
 
-$dockerArgs += 'kdaniel/bgg-mcp'
+$runArgs += 'kdaniel/bgg-mcp'
 
-$containerId = & docker @dockerArgs
+$containerId = & $engine @runArgs
 if (-not $containerId) {
-    throw 'Failed to start bgg-mcp container.'
+    throw "Failed to start bgg-mcp container via $engine."
 }
 
 $status = [pscustomobject]@{
