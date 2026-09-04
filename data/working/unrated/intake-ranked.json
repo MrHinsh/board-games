@@ -151,6 +151,25 @@
     "mechanics": "Race"
   },
   {
+    "group_key": "1-4",
+    "bgg_id": 428099,
+    "name": "Revenant",
+    "current_rating": 0.0,
+    "num_plays": 2,
+    "players": "1-4",
+    "complexity": 4.1268,
+    "bgg_rating": 7.89513,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": "Science Fiction",
+    "mechanics": [
+      "Area Majority / Influence",
+      "Hidden Victory Points",
+      "Variable Player Powers",
+      "Worker Placement"
+    ]
+  },
+  {
     "group_key": "2-4",
     "bgg_id": 108745,
     "name": "Seasons",
@@ -195,6 +214,40 @@
     "mechanics": [
       "Hand Management",
       "Set Collection",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 403150,
+    "name": "World Order",
+    "current_rating": 0.0,
+    "num_plays": 2,
+    "players": "2-4",
+    "complexity": 3.7826,
+    "bgg_rating": 8.14506,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Economic",
+      "Educational",
+      "Political"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Automatic Resource Growth",
+      "Campaign / Battle Card Driven",
+      "Deck, Bag, and Pool Building",
+      "End Game Bonuses",
+      "Hand Management",
+      "Income",
+      "Multi-Use Cards",
+      "Once-Per-Game Abilities",
+      "Resource to Move",
+      "Simulation",
+      "Solo / Solitaire Game",
+      "Trading",
+      "Turn Order: Stat-Based",
       "Variable Player Powers"
     ]
   },
@@ -691,6 +744,63 @@
   },
   {
     "group_key": "1-5",
+    "bgg_id": 381248,
+    "name": "Nemesis: Retaliation",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "1-5",
+    "complexity": 3.7704,
+    "bgg_rating": 8.67287,
+    "bgg_comment": "April 2025",
+    "notes": "",
+    "categories": [
+      "Exploration",
+      "Fighting",
+      "Horror",
+      "Miniatures",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hidden Roles",
+      "Modular Board",
+      "Player Elimination",
+      "Semi-Cooperative Game",
+      "Solo / Solitaire Game",
+      "Traitor Game",
+      "Variable Player Powers"
+    ]
+  },
+  {
+    "group_key": "1-4",
+    "bgg_id": 434367,
+    "name": "Nippon: Zaibatsu",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 3.6021,
+    "bgg_rating": 8.50318,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Economic",
+      "Industry / Manufacturing"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Contracts",
+      "End Game Bonuses",
+      "Income",
+      "Open Drafting",
+      "Solo / Solitaire Game",
+      "Variable Set-up",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ]
+  },
+  {
+    "group_key": "1-5",
     "bgg_id": 234277,
     "name": "Nusfjord",
     "current_rating": 0.0,
@@ -1018,6 +1128,28 @@
     ]
   },
   {
+    "group_key": "1-4",
+    "bgg_id": 429895,
+    "name": "Vestige",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "1-4",
+    "complexity": 3,
+    "bgg_rating": 7.75982,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Exploration",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "End Game Bonuses",
+      "Modular Board",
+      "Variable Player Powers"
+    ]
+  },
+  {
     "group_key": "unknown",
     "bgg_id": 0,
     "name": "",
@@ -1038,8 +1170,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "2-5",
-    "complexity": 1.236,
-    "bgg_rating": 6.71079,
+    "complexity": 1.234,
+    "bgg_rating": 6.69076,
     "bgg_comment": "",
     "notes": "",
     "categories": "Card Game",
@@ -1058,8 +1190,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.1157,
-    "bgg_rating": 7.54285,
+    "complexity": 3.1057,
+    "bgg_rating": 7.5365,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1080,6 +1212,28 @@
     ]
   },
   {
+    "group_key": "2",
+    "bgg_id": 358981,
+    "name": "Air, Land, & Sea: Spies, Lies, & Supplies",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2",
+    "complexity": 1.7838,
+    "bgg_rating": 7.71832,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Animals",
+      "Card Game",
+      "World War II"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Card Play Conflict Resolution",
+      "Hand Management"
+    ]
+  },
+  {
     "group_key": "1-4",
     "bgg_id": 287680,
     "name": "Ark: Awakening",
@@ -1087,7 +1241,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 3.8182,
-    "bgg_rating": 6.85083,
+    "bgg_rating": 6.87429,
     "bgg_comment": "2021\\03",
     "notes": "",
     "categories": [
@@ -1136,7 +1290,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 3.25,
-    "bgg_rating": 6.95083,
+    "bgg_rating": 7.00337,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1155,8 +1309,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.25,
-    "bgg_rating": 7.90973,
+    "complexity": 3.2542,
+    "bgg_rating": 7.85893,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1182,8 +1336,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "3-5",
-    "complexity": 2.5592,
-    "bgg_rating": 7.45888,
+    "complexity": 2.5605,
+    "bgg_rating": 7.44746,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1211,8 +1365,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "2-4",
-    "complexity": 1.8258,
-    "bgg_rating": 7.06925,
+    "complexity": 1.8219,
+    "bgg_rating": 7.07009,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1238,8 +1392,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-2",
-    "complexity": 1.9435,
-    "bgg_rating": 7.50159,
+    "complexity": 1.9444,
+    "bgg_rating": 7.48777,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1261,8 +1415,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "2-4",
-    "complexity": 2.5652,
-    "bgg_rating": 7.265,
+    "complexity": 2.5532,
+    "bgg_rating": 7.26269,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1286,7 +1440,7 @@
     "num_plays": 0,
     "players": "1-5",
     "complexity": 2.55,
-    "bgg_rating": 7.25433,
+    "bgg_rating": 7.2418,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1307,8 +1461,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "2-5",
-    "complexity": 3.8471,
-    "bgg_rating": 7.89079,
+    "complexity": 3.8636,
+    "bgg_rating": 7.88146,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1323,6 +1477,7 @@
       "Hand Management",
       "Hexagon Grid",
       "Income",
+      "Tech Trees / Tech Tracks",
       "Variable Player Powers"
     ]
   },
@@ -1333,8 +1488,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 4.0868,
-    "bgg_rating": 7.47248,
+    "complexity": 4.0905,
+    "bgg_rating": 7.46258,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1361,7 +1516,7 @@
     "num_plays": 0,
     "players": "2-4",
     "complexity": 1.6667,
-    "bgg_rating": 6.83762,
+    "bgg_rating": 6.83596,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1383,8 +1538,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "2-4",
-    "complexity": 2.6462,
-    "bgg_rating": 7.41977,
+    "complexity": 2.6515,
+    "bgg_rating": 7.40767,
     "bgg_comment": "",
     "notes": "",
     "categories": "City Building",
@@ -1409,7 +1564,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 2.25,
-    "bgg_rating": 5.96494,
+    "bgg_rating": 5.93747,
     "bgg_comment": "2020\\03",
     "notes": "",
     "categories": "Science Fiction",
@@ -1427,7 +1582,7 @@
     "num_plays": 0,
     "players": "1-5",
     "complexity": 2.9355,
-    "bgg_rating": 7.54476,
+    "bgg_rating": 7.53673,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1453,7 +1608,7 @@
     "num_plays": 0,
     "players": "2-4",
     "complexity": 2.6316,
-    "bgg_rating": 6.65862,
+    "bgg_rating": 6.65159,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1474,8 +1629,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-5",
-    "complexity": 2.5238,
-    "bgg_rating": 7.38167,
+    "complexity": 2.5156,
+    "bgg_rating": 7.3693,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1498,8 +1653,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "2-5",
-    "complexity": 2.0364,
-    "bgg_rating": 6.68191,
+    "complexity": 2.0357,
+    "bgg_rating": 6.66292,
     "bgg_comment": "",
     "notes": "",
     "categories": "Fantasy",
@@ -1517,7 +1672,7 @@
     "num_plays": 0,
     "players": "1-6",
     "complexity": 2.4615,
-    "bgg_rating": 6.16074,
+    "bgg_rating": 6.15092,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1526,7 +1681,10 @@
       "Medical",
       "Puzzle"
     ],
-    "mechanics": "Cooperative Game"
+    "mechanics": [
+      "Cooperative Game",
+      "Hidden Roles"
+    ]
   },
   {
     "group_key": "1-5",
@@ -1535,8 +1693,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-5",
-    "complexity": 3.6766,
-    "bgg_rating": 7.47851,
+    "complexity": 3.6785,
+    "bgg_rating": 7.47418,
     "bgg_comment": "",
     "notes": "",
     "categories": "Adventure",
@@ -1558,8 +1716,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.5825,
-    "bgg_rating": 7.84002,
+    "complexity": 3.5769,
+    "bgg_rating": 7.82605,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1588,13 +1746,12 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.9799,
-    "bgg_rating": 7.48,
+    "complexity": 3.9961,
+    "bgg_rating": 7.47654,
     "bgg_comment": "",
     "notes": "",
     "categories": [
       "Industry / Manufacturing",
-      "Racing",
       "Science Fiction",
       "Territory Building"
     ],
@@ -1603,6 +1760,7 @@
       "Highest-Lowest Scoring",
       "Income",
       "Pick-up and Deliver",
+      "Race",
       "Solo / Solitaire Game"
     ]
   },
@@ -1614,7 +1772,7 @@
     "num_plays": 0,
     "players": "1-6",
     "complexity": 3,
-    "bgg_rating": 5.66667,
+    "bgg_rating": 7.36957,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1643,8 +1801,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.8426,
-    "bgg_rating": 8.1509,
+    "complexity": 3.8482,
+    "bgg_rating": 8.12804,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1669,8 +1827,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-5",
-    "complexity": 2.2271,
-    "bgg_rating": 7.40839,
+    "complexity": 2.2297,
+    "bgg_rating": 7.40023,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1703,8 +1861,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "2-6",
-    "complexity": 1.35,
-    "bgg_rating": 6.65203,
+    "complexity": 1.3333,
+    "bgg_rating": 6.65145,
     "bgg_comment": "",
     "notes": "",
     "categories": "Card Game",
@@ -1720,8 +1878,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 4.1566,
-    "bgg_rating": 6.34945,
+    "complexity": 4.1594,
+    "bgg_rating": 6.34381,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1750,7 +1908,7 @@
     "num_plays": 0,
     "players": "2-5",
     "complexity": 2.2982,
-    "bgg_rating": 6.96234,
+    "bgg_rating": 6.95675,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1787,8 +1945,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "2-4",
-    "complexity": 3.5862,
-    "bgg_rating": 7.50202,
+    "complexity": 3.569,
+    "bgg_rating": 7.49454,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1816,8 +1974,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.5714,
-    "bgg_rating": 7.66236,
+    "complexity": 3.5333,
+    "bgg_rating": 7.65247,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1847,7 +2005,7 @@
     "num_plays": 0,
     "players": "1-6",
     "complexity": 3.7857,
-    "bgg_rating": 7.18889,
+    "bgg_rating": 7.16995,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1878,8 +2036,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "2-4",
-    "complexity": 2.7742,
-    "bgg_rating": 7.29214,
+    "complexity": 2.75,
+    "bgg_rating": 7.28841,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1898,8 +2056,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1",
-    "complexity": 3.4,
-    "bgg_rating": 8.09136,
+    "complexity": 3.4074,
+    "bgg_rating": 8.0793,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1928,7 +2086,7 @@
     "num_plays": 0,
     "players": "3-5",
     "complexity": 2,
-    "bgg_rating": 6.73651,
+    "bgg_rating": 6.725,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1953,8 +2111,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-5",
-    "complexity": 4.817,
-    "bgg_rating": 8.34845,
+    "complexity": 4.8184,
+    "bgg_rating": 8.33848,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1986,7 +2144,7 @@
     "num_plays": 0,
     "players": "2-4",
     "complexity": 2.6,
-    "bgg_rating": 6.64985,
+    "bgg_rating": 6.62892,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2010,7 +2168,7 @@
     "num_plays": 0,
     "players": "2-5",
     "complexity": 3.1765,
-    "bgg_rating": 7.08526,
+    "bgg_rating": 7.0754,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2037,7 +2195,7 @@
     "num_plays": 0,
     "players": "1-2",
     "complexity": 2,
-    "bgg_rating": 7.02975,
+    "bgg_rating": 7.09922,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2058,7 +2216,7 @@
     "num_plays": 0,
     "players": "1-2",
     "complexity": 1.3333,
-    "bgg_rating": 6.79078,
+    "bgg_rating": 6.85474,
     "bgg_comment": "⏩",
     "notes": "",
     "categories": [
@@ -2078,8 +2236,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "2-6",
-    "complexity": 2.6575,
-    "bgg_rating": 6.46495,
+    "complexity": 2.6538,
+    "bgg_rating": 6.46374,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2126,7 +2284,7 @@
     "num_plays": 0,
     "players": "1-2",
     "complexity": null,
-    "bgg_rating": 7.3167,
+    "bgg_rating": 7.38107,
     "bgg_comment": "",
     "notes": "",
     "categories": "Card Game",
@@ -2145,8 +2303,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1",
-    "complexity": 2.8968,
-    "bgg_rating": 8.07804,
+    "complexity": 2.8779,
+    "bgg_rating": 8.0681,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2170,8 +2328,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "2-5",
-    "complexity": 1.8947,
-    "bgg_rating": 7.05309,
+    "complexity": 1.9,
+    "bgg_rating": 7.05871,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2192,7 +2350,7 @@
     "num_plays": 0,
     "players": "2",
     "complexity": 2.6667,
-    "bgg_rating": 7.26067,
+    "bgg_rating": 7.25495,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2210,7 +2368,7 @@
     "num_plays": 0,
     "players": "2-6",
     "complexity": 3.2,
-    "bgg_rating": 7.18484,
+    "bgg_rating": 7.17737,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2236,7 +2394,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 3.0082,
-    "bgg_rating": 7.12133,
+    "bgg_rating": 7.1185,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2262,8 +2420,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.4435,
-    "bgg_rating": 7.47508,
+    "complexity": 3.436,
+    "bgg_rating": 7.46337,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2294,7 +2452,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 1.8636,
-    "bgg_rating": 6.834,
+    "bgg_rating": 6.82439,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2314,7 +2472,7 @@
     "num_plays": 0,
     "players": "2-4",
     "complexity": 2.1667,
-    "bgg_rating": 5.41604,
+    "bgg_rating": 5.43015,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2336,7 +2494,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 1.95,
-    "bgg_rating": 6.01259,
+    "bgg_rating": 6.0056,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2360,7 +2518,7 @@
     "num_plays": 0,
     "players": "2",
     "complexity": 2.5244,
-    "bgg_rating": 7.17463,
+    "bgg_rating": 7.17336,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2382,7 +2540,7 @@
     "num_plays": 0,
     "players": "2",
     "complexity": 1.8277,
-    "bgg_rating": 6.82743,
+    "bgg_rating": 6.82513,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2398,71 +2556,14 @@
     ]
   },
   {
-    "group_key": "1-5",
-    "bgg_id": 381248,
-    "name": "Nemesis: Retaliation",
-    "current_rating": 0.0,
-    "num_plays": 0,
-    "players": "1-5",
-    "complexity": 3.7573,
-    "bgg_rating": 8.69814,
-    "bgg_comment": "April 2025",
-    "notes": "",
-    "categories": [
-      "Exploration",
-      "Fighting",
-      "Horror",
-      "Miniatures",
-      "Science Fiction"
-    ],
-    "mechanics": [
-      "Cooperative Game",
-      "Dice Rolling",
-      "Hidden Roles",
-      "Modular Board",
-      "Player Elimination",
-      "Semi-Cooperative Game",
-      "Solo / Solitaire Game",
-      "Traitor Game",
-      "Variable Player Powers"
-    ]
-  },
-  {
-    "group_key": "1-4",
-    "bgg_id": 434367,
-    "name": "Nippon: Zaibatsu",
-    "current_rating": 0.0,
-    "num_plays": 0,
-    "players": "1-4",
-    "complexity": 3.5923,
-    "bgg_rating": 8.56441,
-    "bgg_comment": "",
-    "notes": "",
-    "categories": [
-      "Economic",
-      "Industry / Manufacturing"
-    ],
-    "mechanics": [
-      "Area Majority / Influence",
-      "Contracts",
-      "End Game Bonuses",
-      "Income",
-      "Open Drafting",
-      "Solo / Solitaire Game",
-      "Variable Set-up",
-      "Worker Placement",
-      "Worker Placement, Different Worker Types"
-    ]
-  },
-  {
     "group_key": "1-4",
     "bgg_id": 396790,
     "name": "Nucleum",
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 4.1876,
-    "bgg_rating": 8.11267,
+    "complexity": 4.1967,
+    "bgg_rating": 8.10911,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2491,7 +2592,7 @@
     "num_plays": 0,
     "players": "1",
     "complexity": 2.2222,
-    "bgg_rating": 7.63448,
+    "bgg_rating": 7.61774,
     "bgg_comment": "⏩",
     "notes": "",
     "categories": [
@@ -2513,8 +2614,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.3434,
-    "bgg_rating": 7.02414,
+    "complexity": 3.34,
+    "bgg_rating": 7.01073,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2537,8 +2638,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.5699,
-    "bgg_rating": 7.96616,
+    "complexity": 3.625,
+    "bgg_rating": 7.94871,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2562,8 +2663,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "2-4",
-    "complexity": 3.0351,
-    "bgg_rating": 7.26238,
+    "complexity": 3.0343,
+    "bgg_rating": 7.25593,
     "bgg_comment": "",
     "notes": "",
     "categories": "Science Fiction",
@@ -2585,7 +2686,7 @@
     "num_plays": 0,
     "players": "1-2",
     "complexity": 2.6,
-    "bgg_rating": 7.12812,
+    "bgg_rating": 7.1834,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2606,7 +2707,7 @@
     "num_plays": 0,
     "players": "1-6",
     "complexity": 2.4638,
-    "bgg_rating": 7.93197,
+    "bgg_rating": 7.92865,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2634,7 +2735,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 2.5368,
-    "bgg_rating": 6.87038,
+    "bgg_rating": 6.86455,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2649,32 +2750,13 @@
   },
   {
     "group_key": "1-4",
-    "bgg_id": 428099,
-    "name": "Revenant",
-    "current_rating": 0.0,
-    "num_plays": 0,
-    "players": "1-4",
-    "complexity": 3.8125,
-    "bgg_rating": 7.16742,
-    "bgg_comment": "",
-    "notes": "",
-    "categories": "Science Fiction",
-    "mechanics": [
-      "Area Majority / Influence",
-      "Hidden Victory Points",
-      "Variable Player Powers",
-      "Worker Placement"
-    ]
-  },
-  {
-    "group_key": "1-4",
     "bgg_id": 334931,
     "name": "Robinson Crusoe: Adventures on the Cursed Island – Collector's Edition (Gamefound Edition)",
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
     "complexity": 3.7143,
-    "bgg_rating": 7.39394,
+    "bgg_rating": 7.41566,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2702,8 +2784,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.9148,
-    "bgg_rating": 8.0171,
+    "complexity": 3.9355,
+    "bgg_rating": 8.01332,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2711,6 +2793,11 @@
       "Space Exploration"
     ],
     "mechanics": [
+      "Area Majority / Influence",
+      "Contracts",
+      "Income",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
       "Variable Set-up",
       "Worker Placement, Different Worker Types"
     ]
@@ -2722,8 +2809,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.8988,
-    "bgg_rating": 7.91656,
+    "complexity": 3.8966,
+    "bgg_rating": 7.90523,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2757,7 +2844,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 2.3333,
-    "bgg_rating": 8.37818,
+    "bgg_rating": 8.35395,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2781,8 +2868,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-2",
-    "complexity": 2.6897,
-    "bgg_rating": 7.47799,
+    "complexity": 2.6875,
+    "bgg_rating": 7.45948,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2805,7 +2892,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 2.697,
-    "bgg_rating": 7.07301,
+    "bgg_rating": 7.06425,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2831,17 +2918,21 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 2.2069,
-    "bgg_rating": 7.03234,
+    "bgg_rating": 7.01723,
     "bgg_comment": "",
     "notes": "",
     "categories": [
       "Political",
       "Science Fiction",
-      "Space Exploration"
+      "Space Exploration",
+      "Territory Building"
     ],
     "mechanics": [
       "Action Queue",
       "Area Majority / Influence",
+      "Hand Management",
+      "Modular Board",
+      "Multi-Use Cards",
       "Rondel",
       "Set Collection"
     ]
@@ -2854,7 +2945,7 @@
     "num_plays": 0,
     "players": "1-6",
     "complexity": 2.6222,
-    "bgg_rating": 7.30522,
+    "bgg_rating": 7.30011,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2881,8 +2972,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.365,
-    "bgg_rating": 7.72527,
+    "complexity": 3.3687,
+    "bgg_rating": 7.72433,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2916,7 +3007,7 @@
     "num_plays": 0,
     "players": "2",
     "complexity": 2.7113,
-    "bgg_rating": 7.93915,
+    "bgg_rating": 7.93697,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2941,7 +3032,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 2.977,
-    "bgg_rating": 7.66132,
+    "bgg_rating": 7.65692,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2964,8 +3055,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-2",
-    "complexity": 4.0471,
-    "bgg_rating": 8.67498,
+    "complexity": 4.0677,
+    "bgg_rating": 8.67669,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2992,7 +3083,7 @@
     "num_plays": 0,
     "players": "1",
     "complexity": 1.6,
-    "bgg_rating": 7.55587,
+    "bgg_rating": 7.53979,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3020,7 +3111,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 2.9286,
-    "bgg_rating": 7.98671,
+    "bgg_rating": 7.98659,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3053,8 +3144,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.8333,
-    "bgg_rating": 7.57313,
+    "complexity": 3.84,
+    "bgg_rating": 7.59526,
     "bgg_comment": "",
     "notes": "",
     "categories": "Space Exploration",
@@ -3072,7 +3163,7 @@
     "num_plays": 0,
     "players": "1-7",
     "complexity": 3.9,
-    "bgg_rating": 7.95896,
+    "bgg_rating": 7.95832,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3100,7 +3191,7 @@
     "num_plays": 0,
     "players": "2-4",
     "complexity": 3.8261,
-    "bgg_rating": 4.50246,
+    "bgg_rating": 4.45668,
     "bgg_comment": "Backed in 2021! ⚠️ Who the F knows!",
     "notes": "",
     "categories": [
@@ -3129,8 +3220,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.9225,
-    "bgg_rating": 7.24454,
+    "complexity": 3.9323,
+    "bgg_rating": 7.23972,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3155,8 +3246,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.2857,
-    "bgg_rating": 8.63801,
+    "complexity": 3.2963,
+    "bgg_rating": 8.6147,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3174,6 +3265,7 @@
       "Events",
       "Hand Management",
       "Modular Board",
+      "Narrative Choice / Paragraph",
       "Role Playing",
       "Scenario / Mission / Campaign Game",
       "Solo / Solitaire Game",
@@ -3187,8 +3279,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.3717,
-    "bgg_rating": 8.02867,
+    "complexity": 3.3708,
+    "bgg_rating": 8.02439,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3252,8 +3344,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "2",
-    "complexity": 3.6074,
-    "bgg_rating": 7.8265,
+    "complexity": 3.6037,
+    "bgg_rating": 7.82294,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3277,8 +3369,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 4.0541,
-    "bgg_rating": 7.8754,
+    "complexity": 4.0513,
+    "bgg_rating": 7.87468,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3302,8 +3394,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 2.5842,
-    "bgg_rating": 7.32127,
+    "complexity": 2.5825,
+    "bgg_rating": 7.30908,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3314,6 +3406,7 @@
       "Dice Rolling",
       "End Game Bonuses",
       "Open Drafting",
+      "Paper-and-Pencil",
       "Solo / Solitaire Game",
       "Turn Order: Claim Action"
     ]
@@ -3326,7 +3419,7 @@
     "num_plays": 0,
     "players": "3-6",
     "complexity": 3,
-    "bgg_rating": 6.94154,
+    "bgg_rating": 6.93888,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3354,8 +3447,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.0552,
-    "bgg_rating": 7.98087,
+    "complexity": 3.0702,
+    "bgg_rating": 7.97755,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3375,6 +3468,8 @@
       "Race",
       "Resource Queue",
       "Solo / Solitaire Game",
+      "Tech Trees / Tech Tracks",
+      "Turn Order: Stat-Based",
       "Variable Set-up",
       "Worker Placement",
       "Worker Placement with Dice Workers"
@@ -3387,8 +3482,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.75,
-    "bgg_rating": 5.66087,
+    "complexity": 3.6667,
+    "bgg_rating": 5.68387,
     "bgg_comment": "",
     "notes": "",
     "categories": "Civilization",
@@ -3407,8 +3502,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.1075,
-    "bgg_rating": 7.44133,
+    "complexity": 3.1131,
+    "bgg_rating": 7.43557,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3436,8 +3531,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "2-5",
-    "complexity": 2.1097,
-    "bgg_rating": 6.53668,
+    "complexity": 2.1061,
+    "bgg_rating": 6.53486,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3470,7 +3565,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 2.7692,
-    "bgg_rating": 7.26395,
+    "bgg_rating": 7.25599,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3494,8 +3589,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-5",
-    "complexity": 2.2105,
-    "bgg_rating": 7.35028,
+    "complexity": 2.1538,
+    "bgg_rating": 7.24707,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3517,8 +3612,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 4.188,
-    "bgg_rating": 7.54687,
+    "complexity": 4.1838,
+    "bgg_rating": 7.54175,
     "bgg_comment": "",
     "notes": "",
     "categories": "Dice",
@@ -3539,8 +3634,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "3-6",
-    "complexity": 4.3539,
-    "bgg_rating": 8.56424,
+    "complexity": 4.3634,
+    "bgg_rating": 8.56005,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3565,6 +3660,7 @@
       "King of the Hill",
       "Modular Board",
       "Movement Points",
+      "Player Elimination",
       "Race",
       "Tech Trees / Tech Tracks",
       "Trading",
@@ -3581,8 +3677,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "2",
-    "complexity": 3.6151,
-    "bgg_rating": 8.22962,
+    "complexity": 3.615,
+    "bgg_rating": 8.22622,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3609,24 +3705,55 @@
   },
   {
     "group_key": "1-4",
-    "bgg_id": 429895,
-    "name": "Vestige",
+    "bgg_id": 401978,
+    "name": "Undaunted 2200: Callisto",
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3,
-    "bgg_rating": 7.9,
+    "complexity": 2.8,
+    "bgg_rating": 7.68747,
     "bgg_comment": "",
     "notes": "",
     "categories": [
-      "Exploration",
-      "Science Fiction"
+      "Card Game",
+      "Science Fiction",
+      "Wargame"
     ],
     "mechanics": [
-      "Area Majority / Influence",
-      "End Game Bonuses",
-      "Modular Board",
-      "Variable Player Powers"
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Hand Management",
+      "Open Drafting",
+      "Solo / Solitaire Game",
+      "Team-Based Game"
+    ]
+  },
+  {
+    "group_key": "2-4",
+    "bgg_id": 464543,
+    "name": "Undaunted 2200: Revolution",
+    "current_rating": 0.0,
+    "num_plays": 0,
+    "players": "2-4",
+    "complexity": 2,
+    "bgg_rating": 8.4,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Aviation / Flight",
+      "Card Game",
+      "Dice",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Command Cards",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Scenario / Mission / Campaign Game",
+      "Team-Based Game"
     ]
   },
   {
@@ -3636,8 +3763,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.4551,
-    "bgg_rating": 7.79522,
+    "complexity": 3.4579,
+    "bgg_rating": 7.79034,
     "bgg_comment": "",
     "notes": "",
     "categories": "Medieval",
@@ -3661,8 +3788,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.8065,
-    "bgg_rating": 7.77707,
+    "complexity": 3.8066,
+    "bgg_rating": 7.7641,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3692,8 +3819,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-6",
-    "complexity": 2.4521,
-    "bgg_rating": 7.85307,
+    "complexity": 2.4554,
+    "bgg_rating": 7.84343,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3714,39 +3841,14 @@
     ]
   },
   {
-    "group_key": "2-4",
-    "bgg_id": 403150,
-    "name": "World Order",
-    "current_rating": 0.0,
-    "num_plays": 0,
-    "players": "2-4",
-    "complexity": 3.6897,
-    "bgg_rating": 7.84314,
-    "bgg_comment": "",
-    "notes": "",
-    "categories": [
-      "Economic",
-      "Educational",
-      "Political"
-    ],
-    "mechanics": [
-      "Area Majority / Influence",
-      "Deck, Bag, and Pool Building",
-      "Hand Management",
-      "Multi-Use Cards",
-      "Solo / Solitaire Game",
-      "Variable Player Powers"
-    ]
-  },
-  {
     "group_key": "1-4",
     "bgg_id": 322589,
     "name": "Zapotec",
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 2.9865,
-    "bgg_rating": 7.13576,
+    "complexity": 3,
+    "bgg_rating": 7.13149,
     "bgg_comment": "",
     "notes": "",
     "categories": [

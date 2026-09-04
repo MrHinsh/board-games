@@ -13,44 +13,44 @@
   {
     "tier": "A",
     "tier_sort": 1,
-    "count": 74,
+    "count": 67,
     "source_buckets": [
       {
         "bucket": 9,
-        "count": 74
+        "count": 67
       }
     ]
   },
   {
     "tier": "B",
     "tier_sort": 2,
-    "count": 103,
+    "count": 100,
     "source_buckets": [
       {
         "bucket": 8,
-        "count": 103
+        "count": 100
       }
     ]
   },
   {
     "tier": "C",
     "tier_sort": 3,
-    "count": 104,
+    "count": 106,
     "source_buckets": [
       {
         "bucket": 7,
-        "count": 104
+        "count": 106
       }
     ]
   },
   {
     "tier": "D",
     "tier_sort": 4,
-    "count": 62,
+    "count": 70,
     "source_buckets": [
       {
         "bucket": 6,
-        "count": 62
+        "count": 70
       }
     ]
   },
