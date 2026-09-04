@@ -28,7 +28,10 @@ param(
     [int]$CacheMaxAgeDays     = 30,
     [int]$RequestDelayMs      = 800,
     [int]$BatchSize           = 20,
-    [switch]$IncludeFanExpansions
+    [switch]$IncludeFanExpansions,
+    [switch]$IncludePromos,
+    [string[]]$Tiers,
+    [string]$MembershipPath   = '.\data\working\ranking\tier-membership.json'
 )
 
 Set-StrictMode -Version Latest
@@ -45,6 +48,19 @@ if (-not (Test-Path $CanonicalPath)) { throw "Canonical file not found: $Canonic
 $owned = @((Get-Content $CanonicalPath -Raw | ConvertFrom-Json) | Where-Object { $_.collection })
 if ($owned.Count -eq 0) { throw "No owned games in canonical dataset." }
 Write-Host "    Owned base games: $($owned.Count)"
+
+$tierByBggId = @{}
+if ($Tiers) {
+    if (-not (Test-Path $MembershipPath)) { throw "Tier membership file not found: $MembershipPath" }
+    $membership = Get-Content $MembershipPath -Raw | ConvertFrom-Json
+    $tierSet    = [System.Collections.Generic.HashSet[string]]::new()
+    foreach ($t in $Tiers) { [void]$tierSet.Add($t.ToUpper()) }
+    foreach ($m in $membership) { $tierByBggId[[int]$m.bgg_id] = [string]$m.tier }
+    $owned = @($owned | Where-Object {
+        $tierByBggId.ContainsKey([int]$_.bgg_id) -and $tierSet.Contains($tierByBggId[[int]$_.bgg_id])
+    })
+    Write-Host "    Filtered to tiers $($Tiers -join ','): $($owned.Count)"
+}
 
 # ---------------------------------------------------------------------------
 # Step 2 - owned expansions via MCP
@@ -145,6 +161,19 @@ for ($i = 0; $i -lt $idsToFetch.Count; $i += $BatchSize) {
 Write-Host "[4/5] Computing missing expansions..." -ForegroundColor Cyan
 
 $fanPattern = '(?i)\bfan\s+expansion\b'
+
+# Promo / merchandise / tiny-expansion patterns. Exclude by default; enable with -IncludePromos.
+$promoPattern = '(?ix)
+    \b(promo|promos|promotional|promodeck|preorder|kickstarter\s+exclusive|convention\s+exclusive|
+       essen\s+exclusive|spiel\s+exclusive|gen\s?con|arkham\s+night|
+       playmat|neoprene|acrylic|sleeve|sleeves|insert|organizer|storage\s+box|deck\s+box|
+       dice\s+tray|dice\s+tower|coin(s)?|pin|badge|sticker(s)?|keychain|bookmark|magnet|
+       art\s+print|postcard|greeting\s+card|calendar|puzzle|accessories|
+       accessory\s+pack|swag|merch|
+       beta\s+card(s)?|extra\s+(apprentices|player\s+boards|buildings)|
+       mini\s+card\s+set|single\s+card|one[- ]card|bonus\s+card|
+       gift\s+set|charity|treasure\s+chest)\b'
+
 $report     = New-Object System.Collections.Generic.List[object]
 
 foreach ($g in ($owned | Sort-Object -Property name)) {
@@ -164,23 +193,28 @@ foreach ($g in ($owned | Sort-Object -Property name)) {
         $expId   = [int]$link.id
         $expName = [string]$link.value
         if ($ownedExpansionIds.Contains($expId)) { continue }
-        $isFan = $expName -match $fanPattern
-        if ($isFan -and -not $IncludeFanExpansions) { continue }
+        $isFan   = $expName -match $fanPattern
+        $isPromo = $expName -match $promoPattern
+        if ($isFan   -and -not $IncludeFanExpansions) { continue }
+        if ($isPromo -and -not $IncludePromos)        { continue }
         $missing.Add([pscustomobject]@{
             expansion_id   = $expId
             expansion_name = $expName
             is_fan         = [bool]$isFan
+            is_promo       = [bool]$isPromo
         }) | Out-Null
     }
 
     if ($missing.Count -gt 0) {
-        $report.Add([pscustomobject]@{
+        $entry = [pscustomobject]@{
             bgg_id         = $id
             name           = $g.name
             year_published = $g.year_published
             missing_count  = $missing.Count
             missing        = $missing
-        }) | Out-Null
+        }
+        if ($Tiers) { Add-Member -InputObject $entry -NotePropertyName tier -NotePropertyValue $tierByBggId[$id] -Force }
+        $report.Add($entry) | Out-Null
     }
 }
 
@@ -190,21 +224,27 @@ foreach ($g in ($owned | Sort-Object -Property name)) {
 Write-Host "[5/5] Writing report..." -ForegroundColor Cyan
 New-Item -ItemType Directory -Force -Path $OutDir | Out-Null
 
-$jsonPath = Join-Path $OutDir 'missing-expansions.json'
-$csvPath  = Join-Path $OutDir 'missing-expansions.csv'
-$mdPath   = Join-Path $OutDir 'summary.md'
+$suffix = ''
+if ($Tiers) { $suffix += '-tiers-' + ((@($Tiers) | Sort-Object) -join '') }
+if ($IncludePromos)        { $suffix += '-withpromos' }
+if ($IncludeFanExpansions) { $suffix += '-withfans' }
+$jsonPath = Join-Path $OutDir ("missing-expansions$suffix.json")
+$csvPath  = Join-Path $OutDir ("missing-expansions$suffix.csv")
+$mdPath   = Join-Path $OutDir ("summary$suffix.md")
 
 $report | ConvertTo-Json -Depth 6 | Set-Content -Path $jsonPath -Encoding UTF8
 
 $csvRows = foreach ($g in $report) {
     foreach ($e in $g.missing) {
-        [pscustomobject]@{
-            base_bgg_id    = $g.bgg_id
-            base_name      = $g.name
-            expansion_id   = $e.expansion_id
-            expansion_name = $e.expansion_name
-            is_fan         = $e.is_fan
-        }
+        $row = [ordered]@{}
+        if ($Tiers) { $row['tier'] = $g.tier }
+        $row['base_bgg_id']    = $g.bgg_id
+        $row['base_name']      = $g.name
+        $row['expansion_id']   = $e.expansion_id
+        $row['expansion_name'] = $e.expansion_name
+        $row['is_fan']         = $e.is_fan
+        $row['is_promo']       = $e.is_promo
+        [pscustomobject]$row
     }
 }
 $csvRows | Export-Csv -Path $csvPath -NoTypeInformation -Encoding UTF8
@@ -214,17 +254,29 @@ $md = @()
 $md += "# Missing expansions report"
 $md += ""
 $md += "Generated: $((Get-Date).ToString('yyyy-MM-dd HH:mm'))"
-$md += "Owned base games: $($owned.Count) | Owned expansions: $($ownedExpansionIds.Count)"
+$md += "Owned base games considered: $($owned.Count) | Owned expansions: $($ownedExpansionIds.Count)"
 $md += "Base games with missing expansions: $($report.Count)"
 $md += "Total missing expansions: $(@($csvRows).Count)"
+if ($Tiers)                { $md += "Tier filter: $($Tiers -join ',')" }
 $md += ($(if ($IncludeFanExpansions) { 'Fan expansions: INCLUDED' } else { 'Fan expansions: excluded' }))
+$md += ($(if ($IncludePromos)        { 'Promos/merch: INCLUDED'    } else { 'Promos/merch: excluded'    }))
 $md += ""
-$md += "## Top $topN games by missing-expansion count"
+$md += "## Games by missing-expansion count"
 $md += ""
-$md += "| Base game | Year | Missing |"
-$md += "|---|---|---|"
-foreach ($g in ($report | Sort-Object missing_count -Descending | Select-Object -First $topN)) {
-    $md += "| $($g.name) | $($g.year_published) | $($g.missing_count) |"
+if ($Tiers) {
+    $md += "| Tier | Base game | Year | Missing |"
+    $md += "|---|---|---|---|"
+    foreach ($g in ($report | Sort-Object @{e='tier';d=$false}, @{e='missing_count';d=$true})) {
+        $md += "| $($g.tier) | $($g.name) | $($g.year_published) | $($g.missing_count) |"
+    }
+} else {
+    $md += "Showing top $topN."
+    $md += ""
+    $md += "| Base game | Year | Missing |"
+    $md += "|---|---|---|"
+    foreach ($g in ($report | Sort-Object missing_count -Descending | Select-Object -First $topN)) {
+        $md += "| $($g.name) | $($g.year_published) | $($g.missing_count) |"
+    }
 }
 $md -join "`n" | Set-Content -Path $mdPath -Encoding UTF8
 

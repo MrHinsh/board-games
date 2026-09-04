@@ -22,9 +22,14 @@ links — the MCP `bgg-details` tool does not expose them).
 - `-OutDir` — report output directory. Default `.\data\reports\expansions`.
 - `-CacheMaxAgeDays` — reuse cached XML younger than this. Default 30.
 - `-RequestDelayMs` — polite delay between BGG calls. Default 800.
-- `-IncludeFanExpansions` — include fan/community expansions (default: excluded
-  by name pattern). Operator judgment which to filter — keep the flag off and
-  read the raw JSON if you want to see fans separately.
+- `-IncludeFanExpansions` — include fan/community expansions (default: excluded).
+- `-IncludePromos` — include promos, merchandise, playmats, dice trays, mini
+  card packs, convention exclusives, etc. (default: excluded).
+- `-Tiers S,A` — restrict base games to the given tier codes (from
+  `data/working/ranking/tier-membership.json`). Adds a `tier` column to CSV
+  output and appends the tier suffix to output filenames.
+- `-MembershipPath` — path to tier-membership JSON. Default
+  `.\data\working\ranking\tier-membership.json`.
 
 ## Outputs
 
