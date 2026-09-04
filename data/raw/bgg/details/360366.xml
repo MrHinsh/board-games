@@ -1,0 +1,161 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="360366">
+    <thumbnail>https://cf.geekdo-images.com/6CuAyahBKTGESBydipoUBQ__small/img/c3XPaLm3avSLT_1v68ZxVqy1K0g=/fit-in/200x150/filters:strip_icc()/pic8157139.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/6CuAyahBKTGESBydipoUBQ__original/img/ZKEsH6TBPkJesqJOhJZMEEzNKLI=/0x0/filters:format(jpeg)/pic8157139.jpg</image>
+    <name type="primary" sortindex="1" value="Tainted Grail: Kings of Ruin" />
+    <name type="alternate" sortindex="1" value="Tainted Grail: Monarcas da Ruína" />
+    <name type="alternate" sortindex="1" value="Осквернённый Грааль: Короли краха" />
+    <name type="alternate" sortindex="1" value="污痕圣杯：破灭之王" />
+    <description>Kings of Ruin is a new stand-alone story campaign from the team behind the acclaimed Tainted Grail board game, set in the same universe. Playable with a brand new set of exciting characters, it continues the stories of Fall of Avalon, Last Knight, and Age of Legends while also providing a perfect self-contained entry into the saga for new players.
+
+During your experience with the game you will explore new land (with a totally changed system of traveling through Wyrdness), solve encounters with force or diplomacy with unique puzzle card system, and develop your heroes with new passive skills, cards and powerful items.
+
+Most importantly, you will discover a dark immersive story of abandoned land at the wrong side of Avalon and Kings of Ruin ruling there: 
+Claudyne, the Unknighted. 
+Amberqueen Veneda. 
+Nonus, Bishop of the Deep.
+
+</description>
+    <yearpublished value="2024" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="44">
+      <results numplayers="1">
+        <result value="Best" numvotes="24" />
+        <result value="Recommended" numvotes="18" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="26" />
+        <result value="Recommended" numvotes="12" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="2" />
+        <result value="Recommended" numvotes="13" />
+        <result value="Not Recommended" numvotes="17" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="7" />
+        <result value="Not Recommended" numvotes="26" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="28" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 1–2 players" />
+      <result name="recommmendedwith" value="Recommended with 1–2 players" />
+    </poll-summary>
+    <playingtime value="120" />
+    <minplaytime value="90" />
+    <maxplaytime value="120" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="0" />
+        <result value="12" numvotes="3" />
+        <result value="14" numvotes="3" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="1" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+        <result level="5" value="Unplayable in another language" numvotes="1" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1022" value="Adventure" />
+    <link type="boardgamecategory" id="1020" value="Exploration" />
+    <link type="boardgamecategory" id="1010" value="Fantasy" />
+    <link type="boardgamecategory" id="1047" value="Miniatures" />
+    <link type="boardgamecategory" id="1082" value="Mythology" />
+    <link type="boardgamemechanic" id="2046" value="Area Movement" />
+    <link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+    <link type="boardgamemechanic" id="3004" value="Deck Construction" />
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+    <link type="boardgamemechanic" id="2850" value="Events" />
+    <link type="boardgamemechanic" id="2040" value="Hand Management" />
+    <link type="boardgamemechanic" id="2011" value="Modular Board" />
+    <link type="boardgamemechanic" id="2851" value="Narrative Choice / Paragraph" />
+    <link type="boardgamemechanic" id="2028" value="Role Playing" />
+    <link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamemechanic" id="2027" value="Storytelling" />
+    <link type="boardgamefamily" id="66292" value="Crowdfunding: Gamefound" />
+    <link type="boardgamefamily" id="63177" value="Game: Tainted Grail" />
+    <link type="boardgamefamily" id="24281" value="Mechanism: Campaign Games" />
+    <link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+    <link type="boardgamefamily" id="22839" value="Theme: King Arthur / The Knights of the Round Table / Camelot" />
+    <link type="boardgameexpansion" id="371622" value="Tainted Grail: Kings of Ruin – Black Goat of the Moors" />
+    <link type="boardgameexpansion" id="420045" value="Tainted Grail: Kings of Ruin – Into the Mists" />
+    <link type="boardgameexpansion" id="420043" value="Tainted Grail: Kings of Ruin – Lost Chapters" />
+    <link type="boardgameexpansion" id="405800" value="Tainted Grail: Kings of Ruin – Treasure Seeker Promo Cards" />
+    <link type="boardgameexpansion" id="372608" value="Tainted Grail: Modular Campsite" />
+    <link type="boardgameexpansion" id="386803" value="Tainted Grail: Story Dice Expansion" />
+    <link type="boardgameaccessory" id="462628" value="Tainted Grail: Kings of Ruin – Black Goat" />
+    <link type="boardgameaccessory" id="372739" value="Tainted Grail: Kings of Ruin – Deluxe Exploration Journal" />
+    <link type="boardgameaccessory" id="381528" value="Tainted Grail: Kings of Ruin – Mounted Heroes" />
+    <link type="boardgameaccessory" id="372530" value="Tainted Grail: Kings of Ruin – Playmat" />
+    <link type="boardgameaccessory" id="371623" value="Tainted Grail: Kings of Ruin – Wyrd Encounters" />
+    <link type="boardgameaccessory" id="372381" value="Tainted Grail: Upgraded Resources" />
+    <link type="boardgamecompilation" id="371486" value="Tainted Grail: Kings of Ruin (Gamefound Edition)" />
+    <link type="boardgameimplementation" id="264220" value="Tainted Grail: The Fall of Avalon" inbound="true" />
+    <link type="boardgamedesigner" id="121682" value="Andrzej Betkiewicz" />
+    <link type="boardgamedesigner" id="138112" value="Michał Lach" />
+    <link type="boardgamedesigner" id="42812" value="Krzysztof Piskorski" />
+    <link type="boardgamedesigner" id="160983" value="Konrad Sulżycki" />
+    <link type="boardgameartist" id="38917" value="Mateusz Bielski" />
+    <link type="boardgameartist" id="143063" value="Jakub Dzikowski" />
+    <link type="boardgameartist" id="39040" value="Piotr Foksowicz" />
+    <link type="boardgameartist" id="161843" value="Jakub Jagoda" />
+    <link type="boardgameartist" id="113980" value="Patryk Jędraszek" />
+    <link type="boardgameartist" id="161841" value="Dawid Jurek" />
+    <link type="boardgameartist" id="161840" value="Weronika Kordeusz" />
+    <link type="boardgameartist" id="114786" value="Ewa Labak" />
+    <link type="boardgameartist" id="154973" value="Pamela Łuniewska" />
+    <link type="boardgameartist" id="135964" value="Piotr Orleański" />
+    <link type="boardgameartist" id="163058" value="Michał Peitsch" />
+    <link type="boardgameartist" id="86660" value="Michael Peitsch" />
+    <link type="boardgameartist" id="132712" value="Reliah A. Szade" />
+    <link type="boardgameartist" id="161842" value="Maciej Wierzchowski" />
+    <link type="boardgamepublisher" id="29412" value="Awaken Realms" />
+    <link type="boardgamepublisher" id="34522" value="CrowD Games" />
+    <link type="boardgamepublisher" id="32591" value="MeepleBR" />
+    <link type="boardgamepublisher" id="8147" value="YOKA Games" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1307" />
+        <average value="8.6147" />
+        <bayesaverage value="6.40529" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1586" bayesaverage="6.40529" />
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="226" bayesaverage="6.84464" />
+        </ranks>
+        <stddev value="1.46028" />
+        <median value="0" />
+        <owned value="6502" />
+        <trading value="66" />
+        <wanting value="105" />
+        <wishing value="1276" />
+        <numcomments value="484" />
+        <numweights value="54" />
+        <averageweight value="3.2963" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

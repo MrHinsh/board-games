@@ -1,0 +1,135 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="214029">
+    <thumbnail>https://cf.geekdo-images.com/YpkxAeGyRn6smZTjCwy7ew__small/img/KX5JpI9WbjNszg2B2Ab1Z8YY-Nk=/fit-in/200x150/filters:strip_icc()/pic4410814.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/YpkxAeGyRn6smZTjCwy7ew__original/img/XKBGgMU1SQufehaypyUOxkN9X58=/0x0/filters:format(jpeg)/pic4410814.jpg</image>
+    <name type="primary" sortindex="1" value="SpaceCorp: 2025-2300AD" />
+    <description>SpaceCorp: 2025-2300 AD is a fast-playing board game in which one to four players explore and develop outer space over three eras. Each player controls an Earth-based enterprise seeking profit by driving the expansion of humanity into the Solar System and beyond. In SpaceCorp you can &amp;hellip;
+
+
+     Assemble a spaceport at a Lagrange Point.
+     Launch an exploration mission to Mars.
+     Mine the asteroids.
+     Earn profit from exotic resources discovered on the Jovian moons.
+     Discover microbial life in the subsurface oceans of Charon.
+     Decode exo-DNA to develop radiation resistant human pioneers.
+     Undertake a mission to Alpha Centauri in a generation ship.
+     Break through technological barriers to achieve faster-than-light travel.
+     Establish a colony in the Tau Ceti star system.
+
+
+Each of the three eras is played on a different board:
+
+
+     The first era, Mariners, covers exploration and development out to Mars.
+     In Planeteers, players settle the outer solar system.
+     In Starfarers, players send missions to nearby star systems and establish interstellar colonies.
+
+
+The game is based on Ejner Fulsang's SpaceCorp book, the first of the Galactican Series.
+
+</description>
+    <yearpublished value="2018" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="135">
+      <results numplayers="1">
+        <result value="Best" numvotes="31" />
+        <result value="Recommended" numvotes="66" />
+        <result value="Not Recommended" numvotes="7" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="8" />
+        <result value="Recommended" numvotes="63" />
+        <result value="Not Recommended" numvotes="19" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="54" />
+        <result value="Recommended" numvotes="38" />
+        <result value="Not Recommended" numvotes="6" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="34" />
+        <result value="Recommended" numvotes="41" />
+        <result value="Not Recommended" numvotes="15" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="53" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 3 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="240" />
+    <minplaytime value="60" />
+    <maxplaytime value="240" />
+    <minage value="12" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="26">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="1" />
+        <result value="8" numvotes="4" />
+        <result value="10" numvotes="8" />
+        <result value="12" numvotes="8" />
+        <result value="14" numvotes="3" />
+        <result value="16" numvotes="2" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="8">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="5" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1021" value="Economic" />
+    <link type="boardgamecategory" id="1020" value="Exploration" />
+    <link type="boardgamecategory" id="1016" value="Science Fiction" />
+    <link type="boardgamecategory" id="1113" value="Space Exploration" />
+    <link type="boardgamemechanic" id="2912" value="Contracts" />
+    <link type="boardgamemechanic" id="2040" value="Hand Management" />
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+    <link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+    <link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+    <link type="boardgamefamily" id="19298" value="Space: Earth's Solar System" />
+    <link type="boardgameexpansion" id="292670" value="SpaceCorp: Ventures" />
+    <link type="boardgamedesigner" id="679" value="John H. Butterfield" />
+    <link type="boardgameartist" id="6331" value="Chad Jensen" />
+    <link type="boardgameartist" id="11872" value="Kurt Miller" />
+    <link type="boardgameartist" id="109443" value="Douglas Shrock" />
+    <link type="boardgameartist" id="140" value="Mark Simonitch" />
+    <link type="boardgamepublisher" id="52" value="GMT Games" />
+    <link type="boardgamepublisher" id="15906" value="Nuts! Publishing" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="3109" />
+        <average value="7.65692" />
+        <bayesaverage value="6.68323" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="944" bayesaverage="6.68323" />
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="518" bayesaverage="6.84464" />
+        </ranks>
+        <stddev value="1.39882" />
+        <median value="0" />
+        <owned value="5665" />
+        <trading value="115" />
+        <wanting value="307" />
+        <wishing value="1836" />
+        <numcomments value="832" />
+        <numweights value="174" />
+        <averageweight value="2.977" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,117 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="317859">
+    <thumbnail>https://cf.geekdo-images.com/8XCJExd_Oj1aLMxJkopdBg__small/img/DAsTGDbpygEWEmuvtI5KY0L5ldM=/fit-in/200x150/filters:strip_icc()/pic7421954.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/8XCJExd_Oj1aLMxJkopdBg__original/img/pAYbekQLyPYr2ID1vPp2QARDlE4=/0x0/filters:format(jpeg)/pic7421954.jpg</image>
+    <name type="primary" sortindex="1" value="Forests of Pangaia" />
+    <name type="alternate" sortindex="1" value="盖娅森林" />
+    <description>You are a young spirit of the forest, sent out by Gaia to bring the first life to the world. While you are growing your trees across the vast and barren lands of Pangaia, you must complete a series of rituals to honor Mother Nature. Those rituals unleash Gaia's energy of life and are the beginning of the endless cycle of growth and decay.
+
+In Forests of Pangaia, you grow your own forest and contend with other players for territory. Strategic choices are crucial along the way. Will you keep your forest calm and isolated or mingle with others to reap the benefits gained from diversity?
+
+</description>
+    <yearpublished value="2023" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="29">
+      <results numplayers="1">
+        <result value="Best" numvotes="3" />
+        <result value="Recommended" numvotes="4" />
+        <result value="Not Recommended" numvotes="7" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="4" />
+        <result value="Recommended" numvotes="15" />
+        <result value="Not Recommended" numvotes="4" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="12" />
+        <result value="Recommended" numvotes="6" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="5" />
+        <result value="Recommended" numvotes="11" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="10" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 3 players" />
+      <result name="recommmendedwith" value="Recommended with 2–4 players" />
+    </poll-summary>
+    <playingtime value="60" />
+    <minplaytime value="40" />
+    <maxplaytime value="60" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="4" />
+        <result value="12" numvotes="2" />
+        <result value="14" numvotes="1" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="1" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1010" value="Fantasy" />
+    <link type="boardgamecategory" id="1086" value="Territory Building" />
+    <link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+    <link type="boardgamemechanic" id="2048" value="Pattern Building" />
+    <link type="boardgamemechanic" id="2004" value="Set Collection" />
+    <link type="boardgamemechanic" id="2874" value="Victory Points as a Resource" />
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+    <link type="boardgamefamily" id="48871" value="Theme: Nature" />
+    <link type="boardgamefamily" id="57181" value="Theme: Trees and Forests" />
+    <link type="boardgameexpansion" id="457321" value="Forest of Pangaea: Rising Roots" />
+    <link type="boardgameaccessory" id="357461" value="Forests of Pangaia: Laserox Organizer" />
+    <link type="boardgameimplementation" id="449854" value="The Dawn of Pangaea" />
+    <link type="boardgamedesigner" id="129692" value="Thomas Franken" />
+    <link type="boardgameartist" id="148037" value="Marcel Domke" />
+    <link type="boardgameartist" id="148035" value="Chris Karbach" />
+    <link type="boardgameartist" id="148038" value="Anna Meshchanova" />
+    <link type="boardgameartist" id="68568" value="Paperhead" />
+    <link type="boardgamepublisher" id="46449" value="Pangaia Games" />
+    <link type="boardgamepublisher" id="38209" value="Gameland 游戏大陆" />
+    <link type="boardgamepublisher" id="39051" value="Treecer (Treeceratops)" />
+    <link type="boardgamepublisher" id="54519" value="Yaofish Games" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="997" />
+        <average value="7.24481" />
+        <bayesaverage value="5.98217" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3319" bayesaverage="5.98217" />
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1521" bayesaverage="6.08341" />
+        </ranks>
+        <stddev value="1.27603" />
+        <median value="0" />
+        <owned value="2817" />
+        <trading value="52" />
+        <wanting value="68" />
+        <wishing value="692" />
+        <numcomments value="300" />
+        <numweights value="47" />
+        <averageweight value="2.3617" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

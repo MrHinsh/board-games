@@ -1,0 +1,109 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="296237">
+    <thumbnail>https://cf.geekdo-images.com/4W5U-pDY26c8J-dFj0zcpw__small/img/8x1nNSSoupbep3O27SFeKB5QOaQ=/fit-in/200x150/filters:strip_icc()/pic5115890.png</thumbnail>
+    <image>https://cf.geekdo-images.com/4W5U-pDY26c8J-dFj0zcpw__original/img/ub4d2qfYUacICsAxiw2lM9iytxY=/0x0/filters:format(png)/pic5115890.png</image>
+    <name type="primary" sortindex="1" value="Warp's Edge" />
+    <name type="alternate" sortindex="1" value="Maximální warp" />
+    <name type="alternate" sortindex="1" value="折跃奇兵" />
+    <description>You are Taylor Minde, rookie pilot of the Force&amp;rsquo;s Outer Rim. After a crucial battle you are stranded far away from your fleet, lost and alone. With resources running low you jump through warp gate after warp gate hoping to find the right combination home.
+
+But home is not what you find. The warp takes you further out in the galaxy than the Force has ever gone. You are deep behind enemy lines and find yourself on the edge of a blackhole... and on the doorstep of the enemy&amp;rsquo;s mighty mothership.
+
+You have a moment of bravery and approach the enemy&amp;rsquo;s fleet. Just maybe you can get through them and destroy the mothership... but before you have a chance to react the enemy is already upon you. Lasers fire. Photon cannons pierce through the blackness. A moment later your shields are gone, your laser battery empty, and your hull damaged. Your powerless ship splits apart as you fall from the enemy and into the black hole below.
+
+Just as your ship crests gravity&amp;rsquo;s edge you and infinite blackness takes hold... you are back where you started. The enemy fleet is before you. The mothership looming in the distance. And, most importantly, your laser battery is full. You have a second chance at the edge of space and now you know what&amp;rsquo;s coming...
+
+Warp&amp;rsquo;s Edge is a solo bag-building game of space combat. Pilot one of four starfighters, which each have their own unique weapon loadouts. You&amp;rsquo;ll be facing off against one of five alien motherships and its accompanying fleet. Every matchup offers a different challenge, pushing you toward new strategies and tactics. You have a limited number of warps to succeed, so choose wisely as you improve your arsenal and learn new skills!
+
+In the box you will also find a 28-page choose-your-path storybook, Singularity, written by Banana Chan. This sets the stage for the events of the game and reveals Taylor&amp;rsquo;s backstory. You can even customize the game setup based on the narrative choices you make!
+
+</description>
+    <yearpublished value="2020" />
+    <minplayers value="1" />
+    <maxplayers value="1" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="78">
+      <results numplayers="1">
+        <result value="Best" numvotes="74" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="3" />
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="3" />
+        <result value="Recommended" numvotes="4" />
+        <result value="Not Recommended" numvotes="58" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 1 players" />
+      <result name="recommmendedwith" value="Recommended with 1 players" />
+    </poll-summary>
+    <playingtime value="45" />
+    <minplaytime value="30" />
+    <maxplaytime value="45" />
+    <minage value="10" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="25">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="5" />
+        <result value="10" numvotes="14" />
+        <result value="12" numvotes="4" />
+        <result value="14" numvotes="2" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="10">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="7" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+        <result level="5" value="Unplayable in another language" numvotes="1" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1016" value="Science Fiction" />
+    <link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+    <link type="boardgamefamily" id="61977" value="Players: Solitaire Only Games" />
+    <link type="boardgamefamily" id="75579" value="Series: Renegade Solo Heroes" />
+    <link type="boardgameexpansion" id="357008" value="Warp's Edge: Anomaly" />
+    <link type="boardgameexpansion" id="321438" value="Warp's Edge: Viren Invasion" />
+    <link type="boardgameaccessory" id="357009" value="Warp's Edge: Anomaly – Token Upgrade Pack" />
+    <link type="boardgameaccessory" id="322452" value="Warp's Edge: Playmat" />
+    <link type="boardgameaccessory" id="322450" value="Warp's Edge: Token Upgrade Pack" />
+    <link type="boardgamedesigner" id="43431" value="Scott Almes" />
+    <link type="boardgameartist" id="85335" value="Tyler Johnson" />
+    <link type="boardgamepublisher" id="28072" value="Renegade Game Studios" />
+    <link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+    <link type="boardgamepublisher" id="8351" value="Gen-X Games (GenX)" />
+    <link type="boardgamepublisher" id="22651" value="Origames" />
+    <link type="boardgamepublisher" id="24844" value="Schwerkraft-Verlag" />
+    <link type="boardgamepublisher" id="41423" value="TLAMA games" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="4618" />
+        <average value="7.63261" />
+        <bayesaverage value="6.86904" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="661" bayesaverage="6.86904" />
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="404" bayesaverage="6.99045" />
+        </ranks>
+        <stddev value="1.18984" />
+        <median value="0" />
+        <owned value="11394" />
+        <trading value="189" />
+        <wanting value="244" />
+        <wishing value="2621" />
+        <numcomments value="960" />
+        <numweights value="159" />
+        <averageweight value="2.3836" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

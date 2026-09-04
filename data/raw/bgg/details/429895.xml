@@ -1,0 +1,126 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="429895">
+    <thumbnail>https://cf.geekdo-images.com/j6vBxiJtk569LHQ6f4F_SA__small/img/SnYMApM73NADrgD1O0QzBreE3As=/fit-in/200x150/filters:strip_icc()/pic8472722.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/j6vBxiJtk569LHQ6f4F_SA__original/img/udM0rMCLiOPnx-fk82QZwdND8ts=/0x0/filters:format(jpeg)/pic8472722.jpg</image>
+    <name type="primary" sortindex="1" value="Vestige" />
+    <description>In a bold age of neo-humanistic advancement and technological breakthrough, life evolved, and the lines between biology and engineering blurred. The limits of possibility were shattered. A great civilization rose toward the stars, toward an enlightenment increasingly within reach. That civilization collapsed. How and why are long since forgotten. Chaos reigned. Technological understanding was lost to generations of strife and survivalism as time rendered everything (humanity included) into discarded scraps of what once was. In this fallen world, the last wretched vestiges of humanity vie for the only hope for significance that remains: leverage.
+
+Vestige is a highly-strategic, competitive modern euro that you can play in an hour. It is built around a resource alchemy system modeled on the color wheel that offers great depth but can be understood almost instantly; for example, mix might (red) and cunning (yellow) to attain guile (orange). A modular game board; variable end-game conditions; and a card-tableau, engine-building heart makes every game crunchy, and combo-driven. Derived from Vindication, Vestige reimagines its systems in a new setting and with a new depth-to-approachability ratio.
+
+Each turn you move around a randomly generated map of locations, each offering a unique action or effect. Visiting these locations you unlock your potential, spread your influence, develop your attributes, build your network of contacts across three factions (smugglers, mercenaries, lawmakers), and then work with that network to complete jobs your contacts are suited for (unearthing artifacts, claiming bounties, and developing augmentations). Through action selection, card-tableau combo building, area control, and careful resource management you seek to gain more leverage than your opponents, all while the powers-that-be use any and all insidious tricks at their disposal to keep you down where they want you.
+
+-description from publisher
+
+</description>
+    <yearpublished value="2026" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+      <results numplayers="1">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="3" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="6" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="4" />
+        <result value="Recommended" numvotes="3" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="4" />
+        <result value="Not Recommended" numvotes="2" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="3" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 3 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="120" />
+    <minplaytime value="45" />
+    <maxplaytime value="120" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="0" />
+        <result value="12" numvotes="1" />
+        <result value="14" numvotes="0" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1020" value="Exploration" />
+    <link type="boardgamecategory" id="1016" value="Science Fiction" />
+    <link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+    <link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+    <link type="boardgamemechanic" id="2011" value="Modular Board" />
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+    <link type="boardgamefamily" id="22184" value="Admin: Upcoming Releases" />
+    <link type="boardgamefamily" id="66292" value="Crowdfunding: Gamefound" />
+    <link type="boardgameexpansion" id="435756" value="Vestige: 5th and 6th Player Mob Box" />
+    <link type="boardgameexpansion" id="435900" value="Vestige: Bone" />
+    <link type="boardgameexpansion" id="435895" value="Vestige: Chop Box Module" />
+    <link type="boardgameexpansion" id="472498" value="Vestige: Community Scrap Pack" />
+    <link type="boardgameexpansion" id="435713" value="Vestige: Cultivation of Power Scrap Pack" />
+    <link type="boardgameexpansion" id="435753" value="Vestige: Followers of the Codex Scrap Pack" />
+    <link type="boardgameexpansion" id="435755" value="Vestige: Map Region Module" />
+    <link type="boardgameexpansion" id="435896" value="Vestige: Scarlet Sage" />
+    <link type="boardgameexpansion" id="435667" value="Vestige: Shrouded Underworld Scrap Pack" />
+    <link type="boardgameexpansion" id="435794" value="Vestige: The Ascendent Machine Scrap Pack" />
+    <link type="boardgameexpansion" id="435701" value="Vestige: The Scavengers Scrap Pack" />
+    <link type="boardgameexpansion" id="435711" value="Vestige: Treachery Scrap Pack" />
+    <link type="boardgameaccessory" id="472493" value="Vestige: 5th and 6th Player Mats" />
+    <link type="boardgameaccessory" id="472492" value="Vestige: Neoprene Player Mat Module" />
+    <link type="boardgameaccessory" id="472494" value="Vestige: Printed Sleeves Pack" />
+    <link type="boardgameimplementation" id="224783" value="Vindication" inbound="true" />
+    <link type="boardgamedesigner" id="157428" value="Eric D. Johnson" />
+    <link type="boardgamedesigner" id="100012" value="Marc Neidlinger" />
+    <link type="boardgameartist" id="164503" value="NinjaJo" />
+    <link type="boardgamepublisher" id="36015" value="Orange Nebula, LLC" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="276" />
+        <average value="7.75982" />
+        <bayesaverage value="5.71119" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6156" bayesaverage="5.71119" />
+        </ranks>
+        <stddev value="1.5179" />
+        <median value="0" />
+        <owned value="1212" />
+        <trading value="23" />
+        <wanting value="68" />
+        <wishing value="383" />
+        <numcomments value="139" />
+        <numweights value="13" />
+        <averageweight value="3" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

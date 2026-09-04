@@ -1,0 +1,130 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="313841">
+    <thumbnail>https://cf.geekdo-images.com/Xc5u9xHkaC-5bWk_XfoU3g__small/img/Tpwq2juJWZa0lNo0awcRLxI8pR8=/fit-in/200x150/filters:strip_icc()/pic6403620.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/Xc5u9xHkaC-5bWk_XfoU3g__original/img/bU33ek6CHBVMXOj8nfP0b6FNOYE=/0x0/filters:format(jpeg)/pic6403620.jpg</image>
+    <name type="primary" sortindex="1" value="Lunar Base" />
+    <description>Lunar Base is a 2-6 player strategy card game where you compete to build the most formidable moon base. Begin your mission at your unique base station, build powerful modules by connecting cards with matching orb halves to expand your base. Recruit agents to infiltrate your opponents' bases, applying one-time effects. Win the space race by fulfilling one of four victory conditions: growing your colony, advancing scientific research, amassing lunar credits, or gaining the most influence.
+
+Game Features
+With Lunar Base, every game is a new frontier. Players can explore different tactics and discover new card combinations in each playthrough. Lunar Base features high replayability, easy setup, quick playtime, and medium-light weight complexity. The game also has adjustable difficulty; whether you&amp;rsquo;re taking your first small steps in gaming or leaping in as a seasoned strategist.
+
+Why Lunar Base
+Despite its compact size, Lunar Base packs an expansive gameplay experience with satisfying depth. Plus, it's portable enough to play anywhere (low earth orbit not tested, but we&amp;rsquo;re optimistic!). It's perfect for quick warm-up, filler, and wind-down games, or as the launchpad for an epic best of 3/5/7 game night. Simple to learn yet challenging to master, Lunar Base is a small but mighty tribute to mankind's lunar aspirations&amp;mdash;proving that the greatest journeys begin with the flip of a card. So gear up, plant your flag into the nearest moon rock, power on your rovers, and commandeer a bacon printer (because what's space exploration without the comfort of home?).
+
+</description>
+    <yearpublished value="2021" />
+    <minplayers value="2" />
+    <maxplayers value="6" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+      <results numplayers="1">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="8" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2" />
+        <result value="Recommended" numvotes="8" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="6" />
+        <result value="Recommended" numvotes="4" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="9" />
+        <result value="Recommended" numvotes="1" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="2" />
+        <result value="Recommended" numvotes="7" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="6" />
+        <result value="Not Recommended" numvotes="2" />
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="6" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 3–4 players" />
+      <result name="recommmendedwith" value="Recommended with 2–6 players" />
+    </poll-summary>
+    <playingtime value="30" />
+    <minplaytime value="15" />
+    <maxplaytime value="30" />
+    <minage value="10" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="1" />
+        <result value="10" numvotes="3" />
+        <result value="12" numvotes="0" />
+        <result value="14" numvotes="1" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1002" value="Card Game" />
+    <link type="boardgamecategory" id="1029" value="City Building" />
+    <link type="boardgamecategory" id="1016" value="Science Fiction" />
+    <link type="boardgamecategory" id="1113" value="Space Exploration" />
+    <link type="boardgamemechanic" id="2041" value="Open Drafting" />
+    <link type="boardgamemechanic" id="2876" value="Race" />
+    <link type="boardgamemechanic" id="2686" value="Take That" />
+    <link type="boardgamemechanic" id="2002" value="Tile Placement" />
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+    <link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+    <link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+    <link type="boardgamefamily" id="111131" value="Space: Colonization / Extraterrestrial Colonisation" />
+    <link type="boardgamefamily" id="10166" value="Space: Earth's Moon" />
+    <link type="boardgameexpansion" id="348711" value="Lunar Base: Kickstarter Limited Edition Extra Cards" />
+    <link type="boardgamedesigner" id="128531" value="Kaido Koort" />
+    <link type="boardgamedesigner" id="131512" value="Martin Paroll" />
+    <link type="boardgamedesigner" id="128543" value="Joosep Simm" />
+    <link type="boardgamedesigner" id="128854" value="Silver Türk" />
+    <link type="boardgameartist" id="128532" value="Ladislava Bohacova" />
+    <link type="boardgamepublisher" id="49930" value="Plepic Games" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="455" />
+        <average value="7.11885" />
+        <bayesaverage value="5.73273" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5780" bayesaverage="5.73273" />
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2147" bayesaverage="5.79287" />
+        </ranks>
+        <stddev value="1.36204" />
+        <median value="0" />
+        <owned value="876" />
+        <trading value="22" />
+        <wanting value="11" />
+        <wishing value="151" />
+        <numcomments value="102" />
+        <numweights value="21" />
+        <averageweight value="2.0476" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

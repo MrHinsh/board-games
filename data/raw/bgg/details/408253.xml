@@ -1,0 +1,117 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="408253">
+    <thumbnail>https://cf.geekdo-images.com/_6Rir6yI7ZBRs29VWktGVw__small/img/Zwa8N0fKX8Wwt66OaK0x1BN5OUw=/fit-in/200x150/filters:strip_icc()/pic8673965.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/_6Rir6yI7ZBRs29VWktGVw__original/img/gT5xO5He-7I0yjWKRI7759qEovM=/0x0/filters:format(jpeg)/pic8673965.jpg</image>
+    <name type="primary" sortindex="1" value="Tiny Epic Cthulhu: Deluxe Edition" />
+    <description>The Deluxe edition of Tiny Epic Cthulhu includes Tiny Epic Cthulhu: Astral Artifacts Mini Expansion packaged inside of the base game's box.
+
+The Astral Artifacts mini expansion is a captivating addition that unveils long-forgotten relics from the past, offering invaluable assistance to our valiant heroes in their ongoing struggle. Imbued with cosmic energy, these artifacts were skillfully crafted by artisans of ancient times, only to be lost and concealed from the world for countless centuries. However, as the forces of the Old Ones began to stir, a courageous band of Heroes embarked on a perilous quest to recover these five extraordinary artifacts.
+
+</description>
+    <yearpublished value="2024" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="1" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="1" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="1" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 2 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="45" />
+    <minplaytime value="30" />
+    <maxplaytime value="45" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="0" />
+        <result value="12" numvotes="1" />
+        <result value="14" numvotes="0" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1024" value="Horror" />
+    <link type="boardgamecategory" id="1082" value="Mythology" />
+    <link type="boardgamecategory" id="1016" value="Science Fiction" />
+    <link type="boardgamemechanic" id="2001" value="Action Points" />
+    <link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+    <link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+    <link type="boardgamemechanic" id="3007" value="Matching" />
+    <link type="boardgamemechanic" id="3099" value="Multi-Use Cards" />
+    <link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+    <link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+    <link type="boardgamemechanic" id="2004" value="Set Collection" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+    <link type="boardgamefamily" id="25072" value="Series: Tiny Epic (Gamelyn Games/Tycoon Games)" />
+    <link type="boardgamefamily" id="5141" value="Theme: Cthulhu Mythos" />
+    <link type="boardgameexpansion" id="408254" value="Tiny Epic Cthulhu: Cult of Chaos" />
+    <link type="boardgameaccessory" id="466374" value="Tiny Epic Cthulhu: 4 Pack Player Mat" />
+    <link type="boardgameaccessory" id="466375" value="Tiny Epic Cthulhu: Game Mat" />
+    <link type="boardgamecompilation" id="404893" value="Tiny Epic Cthulhu" inbound="true" />
+    <link type="boardgamedesigner" id="43431" value="Scott Almes" />
+    <link type="boardgameartist" id="157740" value="Susie O'Connor" />
+    <link type="boardgameartist" id="58857" value="Ian Rosenthaler" />
+    <link type="boardgamepublisher" id="23957" value="Gamelyn Games" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="141" />
+        <average value="7.29217" />
+        <bayesaverage value="5.59665" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.59665" />
+        </ranks>
+        <stddev value="1.17863" />
+        <median value="0" />
+        <owned value="1484" />
+        <trading value="14" />
+        <wanting value="9" />
+        <wishing value="29" />
+        <numcomments value="79" />
+        <numweights value="2" />
+        <averageweight value="3" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

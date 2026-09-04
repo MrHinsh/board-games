@@ -1,0 +1,125 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="428099">
+    <thumbnail>https://cf.geekdo-images.com/3jI41d32ExxZua8WiP_Zhg__small/img/ZVr_VfjGozJFWXHsdp2aI2zGFps=/fit-in/200x150/filters:strip_icc()/pic8426405.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/3jI41d32ExxZua8WiP_Zhg__original/img/4CsUkhzTDUG5IRgUlVY16pG5mdI=/0x0/filters:format(jpeg)/pic8426405.jpg</image>
+    <name type="primary" sortindex="1" value="Revenant" />
+    <description>From the void between dimensions, an ancient cosmic entity emerged&amp;mdash;corrupting, consuming, and devouring all in its path. In the wake of the cataclysm known as Voidfall, the admirals of the fallen galactic empire, the Domineum, forged a desperate contingency plan. To preserve the legacy of the human civilization from the Voidborn threat, a former imperial flagship, the Revenant, was retrofitted to carry vast databanks containing the accumulated knowledge of humanity and escape the fallen empire. Now, bearing humanity&amp;rsquo;s last hope and escorted by the ships of the Domineum&amp;rsquo;s last Great Houses, you must guide the fleet to safety beyond the known galaxy, balance fragile alliances, and secure not only the survival of humankind&amp;mdash;but also your own political destiny.
+
+Revenant is a standalone, competitive worker placement game of shifting allegiances, set in the Voidfall universe. Players take on the role of rival admirals coordinating the defense of a fleeing starfleet, and competing to earn influence with the factions that stand to survive the journey.
+
+Across four rounds, players assign crew to ships throughout the fleet, from which they will fight corrupted ships, explore planets in search of resources, upgrade their ship and crew, deploy new vessels, and more. Each ship is affiliated with one of the Great Houses, and each time you assign crew there, you gain influence with that House.
+
+The journey won&amp;rsquo;t be an easy one. The Voidborn&amp;rsquo;s corrupted forces will continuously attack the fleet, dealing damage to various ships at the end of every round. You can take your part in protecting the fleet by destroying enemy ships, repairing friendly vessels or maneuvering them to safe areas, or ultimately activating the Revenant&amp;rsquo;s hyperdrive to jump to a safer sector. Regardless of your efforts, there will be casualties - you have to make sure that the Houses you have influence in are protected above others.
+
+Revenant spices up the resource management and engine-building of a mid-weight euro with dynamic tactical challenges, constant player interaction, and shifting allegiances.
+
+&amp;mdash;description from the publisher
+
+</description>
+    <yearpublished value="2026" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="30">
+      <results numplayers="1">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="11" />
+        <result value="Not Recommended" numvotes="7" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="4" />
+        <result value="Recommended" numvotes="12" />
+        <result value="Not Recommended" numvotes="3" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="17" />
+        <result value="Recommended" numvotes="3" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="5" />
+        <result value="Recommended" numvotes="11" />
+        <result value="Not Recommended" numvotes="6" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="12" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 3 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="120" />
+    <minplaytime value="90" />
+    <maxplaytime value="120" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="1" />
+        <result value="10" numvotes="0" />
+        <result value="12" numvotes="2" />
+        <result value="14" numvotes="2" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1016" value="Science Fiction" />
+    <link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+    <link type="boardgamemechanic" id="2987" value="Hidden Victory Points" />
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+    <link type="boardgamemechanic" id="2082" value="Worker Placement" />
+    <link type="boardgamefamily" id="64949" value="Components: Map (Interplanetary or Interstellar scale)" />
+    <link type="boardgamefamily" id="63869" value="Contests: Fastaval Design Competition" />
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+    <link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+    <link type="boardgamefamily" id="77906" value="Misc: DIZED Tutorial" />
+    <link type="boardgamefamily" id="78680" value="Misc: Made by Panda" />
+    <link type="boardgameexpansion" id="473375" value="Revenant: Reason and Faith" />
+    <link type="boardgameaccessory" id="435026" value="Revenant: Enamel Painted Metal Resource Set" />
+    <link type="boardgameaccessory" id="435025" value="Revenant: Main Board Playmat" />
+    <link type="boardgamecompilation" id="435024" value="Revenant: Kickstarter Edition" />
+    <link type="boardgamedesigner" id="108046" value="Allan Kirkeby" />
+    <link type="boardgameartist" id="64844" value="Ian O'Toole" />
+    <link type="boardgamepublisher" id="29156" value="Mindclash Games" />
+    <link type="boardgamepublisher" id="30677" value="Maldito Games" />
+    <link type="boardgamepublisher" id="2726" value="Portal Games" />
+    <link type="boardgamepublisher" id="40058" value="Skellig Games" />
+    <link type="boardgamepublisher" id="29409" value="Super Meeple" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="585" />
+        <average value="7.89513" />
+        <bayesaverage value="5.93855" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3615" bayesaverage="5.93855" />
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1526" bayesaverage="6.07913" />
+        </ranks>
+        <stddev value="1.48242" />
+        <median value="0" />
+        <owned value="1920" />
+        <trading value="15" />
+        <wanting value="130" />
+        <wishing value="1320" />
+        <numcomments value="225" />
+        <numweights value="71" />
+        <averageweight value="4.1268" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

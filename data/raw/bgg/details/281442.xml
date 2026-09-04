@@ -1,0 +1,140 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="281442">
+    <thumbnail>https://cf.geekdo-images.com/3p7c-u4I9YpHRh1ET--7KQ__small/img/ls291pf29DbrptJQCLE_nD_Qa1Y=/fit-in/200x150/filters:strip_icc()/pic5373953.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/3p7c-u4I9YpHRh1ET--7KQ__original/img/XGFiRfH8Z9eygUDHgM7W4YNvspQ=/0x0/filters:format(jpeg)/pic5373953.jpg</image>
+    <name type="primary" sortindex="1" value="Trismegistus: The Ultimate Formula" />
+    <name type="alternate" sortindex="1" value="Trismegistus la formula finale" />
+    <name type="alternate" sortindex="1" value="Trismegistus: Der Stein der Weisen" />
+    <name type="alternate" sortindex="1" value="Trismegistus: L'Ultime Formule" />
+    <name type="alternate" sortindex="1" value="Trismegistus: La Fórmula Definitiva" />
+    <name type="alternate" sortindex="1" value="Trismegistus: Ostateczna Formuła" />
+    <name type="alternate" sortindex="1" value="特利斯墨吉斯忒斯炼金终极配方" />
+    <description>You are an adept of the mysterious art of alchemy, seeking a way to become the successor of the greatest alchemist ever living &amp;mdash; Hermes Trismegistus. In order to do so you will be transmuting mere metals into pure gold, performing experiments, and inventing artifacts to finally achieve everlasting greatness.
+
+Trismegistus: The Ultimate Formula is played over three rounds during which you will draft exactly three dice. By expertly utilizing the potency of your drafted die, you will be able to transmute precious materials, collect alchemical essences, purchase and activate artifacts, and perform experiments that will progress you along four mastery tracks. You will also build a secret hand of publication cards which &amp;mdash; together with the value of your experiments, the completed formulas of your Philosopher's Stone, and your collected gold &amp;mdash; will determine your final score in victory points and, perhaps, make you the greatest alchemist, someone able to rival Hermes Trismegistus himself!
+
+The game features custom dice, the sides of which represent alchemical materials. At the beginning of each round, the dice are rolled and grouped by their respective types. On your turn, you must either draft a new die or utilize the untapped potency of a previously drafted die. Based on the material associated with your chosen die, you will be able to collect certain essences in addition to the material to which the die is keyed. Additionally, the color of the die will determine which types of transmutations you can perform, refining raw materials and increasing your mastery of the elements.
+
+Acquire precious artifacts in order to maximize the effects of your transmutations. Conduct experiments. Increase your knowledge and expertise and discover the ultimate formula!
+
+The game includes a solo mode by D&amp;aacute;vid Turczi and Nick Shaw.
+
+&amp;mdash;description from the publisher
+
+</description>
+    <yearpublished value="2019" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="139">
+      <results numplayers="1">
+        <result value="Best" numvotes="12" />
+        <result value="Recommended" numvotes="44" />
+        <result value="Not Recommended" numvotes="12" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="80" />
+        <result value="Recommended" numvotes="34" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="32" />
+        <result value="Recommended" numvotes="56" />
+        <result value="Not Recommended" numvotes="11" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="7" />
+        <result value="Recommended" numvotes="25" />
+        <result value="Not Recommended" numvotes="62" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="59" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 2 players" />
+      <result name="recommmendedwith" value="Recommended with 1–3 players" />
+    </poll-summary>
+    <playingtime value="120" />
+    <minplaytime value="90" />
+    <maxplaytime value="120" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="16">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="1" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="0" />
+        <result value="12" numvotes="1" />
+        <result value="14" numvotes="11" />
+        <result value="16" numvotes="3" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="9">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="9" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1017" value="Dice" />
+    <link type="boardgamemechanic" id="2001" value="Action Points" />
+    <link type="boardgamemechanic" id="2912" value="Contracts" />
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+    <link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+    <link type="boardgamemechanic" id="2843" value="Follow" />
+    <link type="boardgamemechanic" id="2041" value="Open Drafting" />
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+    <link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+    <link type="boardgamefamily" id="22135" value="Crowdfunding: Spieleschmiede" />
+    <link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+    <link type="boardgamefamily" id="65163" value="Mechanism: Dice Drafting" />
+    <link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+    <link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+    <link type="boardgamefamily" id="111632" value="Series: T games (Daniele Tascini)" />
+    <link type="boardgamefamily" id="64970" value="Theme: Alchemy" />
+    <link type="boardgameexpansion" id="301357" value="Trismegistus: The Ultimate Formula – Alchemists" />
+    <link type="boardgameexpansion" id="305650" value="Trismegistus: The Ultimate Formula – Teotihuacan: Shadow of Xitle Promo Tile" />
+    <link type="boardgameimplementation" id="440942" value="Trismegistus" />
+    <link type="boardgameimplementation" id="324609" value="Trismegistus: Roll &amp; Write" />
+    <link type="boardgamedesigner" id="118417" value="Federico Pierlorenzi" />
+    <link type="boardgamedesigner" id="59986" value="Daniele Tascini" />
+    <link type="boardgameartist" id="93734" value="Paweł Niziołek" />
+    <link type="boardgameartist" id="112558" value="Paulina Wach" />
+    <link type="boardgamepublisher" id="26630" value="Board&amp;Dice" />
+    <link type="boardgamepublisher" id="12540" value="Game Harbor" />
+    <link type="boardgamepublisher" id="42147" value="Giant Roc" />
+    <link type="boardgamepublisher" id="7251" value="Giochix.it" />
+    <link type="boardgamepublisher" id="27470" value="Lucrum Games" />
+    <link type="boardgamepublisher" id="30677" value="Maldito Games" />
+    <link type="boardgamepublisher" id="30034" value="Pixie Games" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="3916" />
+        <average value="7.54175" />
+        <bayesaverage value="6.71216" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="898" bayesaverage="6.71216" />
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="502" bayesaverage="6.8646" />
+        </ranks>
+        <stddev value="1.51625" />
+        <median value="0" />
+        <owned value="6241" />
+        <trading value="223" />
+        <wanting value="137" />
+        <wishing value="1320" />
+        <numcomments value="824" />
+        <numweights value="370" />
+        <averageweight value="4.1838" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

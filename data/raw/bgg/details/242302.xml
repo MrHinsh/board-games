@@ -1,0 +1,134 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="242302">
+    <thumbnail>https://cf.geekdo-images.com/MHhQxXVjiaa6C-04nGiIWw__small/img/rgETRyeuYs_wiZ5y-9Zj5H8kyFo=/fit-in/200x150/filters:strip_icc()/pic6640638.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/MHhQxXVjiaa6C-04nGiIWw__original/img/QyWen0FVOKD_4wf7Na7fdsMTjis=/0x0/filters:format(jpeg)/pic6640638.jpg</image>
+    <name type="primary" sortindex="1" value="Space Base" />
+    <name type="alternate" sortindex="1" value="Космобаза" />
+    <name type="alternate" sortindex="1" value="スペースベース" />
+    <name type="alternate" sortindex="1" value="太空基地" />
+    <description>In Space Base, players assume the roles of Commodores of a small fleet of ships. Ships begin docked at their stations and are then deployed to sectors as new ships are commissioned under your command. Use cargo vessels to engage in trade and commerce; mining vessels to build reoccurring base income; and carriers to spread your influence. Establish new colonies for a new Commodore in a sector to gain even more influence. Gain enough influence and you can be promoted to Admiral!
+
+Space Base is a quick-to-learn, quick-to-play dice game using the core "I roll, everyone gets stuff" mechanism seen in other games. It's also a strategic engine builder using a player board (your space base) and tableaus of ship cards you can buy and add to your board. The cards you buy and the order you buy them in have interesting implications on your engine beyond just the ability on the card you buy, making for a different type of engine construction than seen in similar games. Players can take their engine in a number of directions: long odds and explosive gains, low luck and steady income, big end-game combos to launch from last to first, or a mix-and-match approach. Ultimately, Space Base is a game you can just start playing and teach everyone how to play in the first round or two and has a satisfying blend of dice-chucking luck and challenging strategic choices.
+
+</description>
+    <yearpublished value="2018" />
+    <minplayers value="2" />
+    <maxplayers value="5" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="348">
+      <results numplayers="1">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="6" />
+        <result value="Not Recommended" numvotes="188" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="42" />
+        <result value="Recommended" numvotes="202" />
+        <result value="Not Recommended" numvotes="47" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="178" />
+        <result value="Recommended" numvotes="114" />
+        <result value="Not Recommended" numvotes="3" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="178" />
+        <result value="Recommended" numvotes="97" />
+        <result value="Not Recommended" numvotes="16" />
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="34" />
+        <result value="Recommended" numvotes="140" />
+        <result value="Not Recommended" numvotes="74" />
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="17" />
+        <result value="Not Recommended" numvotes="156" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 3–4 players" />
+      <result name="recommmendedwith" value="Recommended with 2–5 players" />
+    </poll-summary>
+    <playingtime value="60" />
+    <minplaytime value="60" />
+    <maxplaytime value="60" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="89">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="2" />
+        <result value="6" numvotes="2" />
+        <result value="8" numvotes="27" />
+        <result value="10" numvotes="41" />
+        <result value="12" numvotes="16" />
+        <result value="14" numvotes="1" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="20">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="12" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="2" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1017" value="Dice" />
+    <link type="boardgamecategory" id="1016" value="Science Fiction" />
+    <link type="boardgamecategory" id="1113" value="Space Exploration" />
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+    <link type="boardgamemechanic" id="2041" value="Open Drafting" />
+    <link type="boardgamemechanic" id="2909" value="Random Production" />
+    <link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+    <link type="boardgamefamily" id="77905" value="Digital Implementations: Sovranti" />
+    <link type="boardgamefamily" id="56976" value="Game: Space Base" />
+    <link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+    <link type="boardgameexpansion" id="453739" value="Dead Reckoning: Other Games Promo Pack" />
+    <link type="boardgameexpansion" id="475770" value="Space Base: A.E.G. Electrify 09-2026 Promo Card" />
+    <link type="boardgameexpansion" id="322546" value="Space Base: Biodome" />
+    <link type="boardgameexpansion" id="277564" value="Space Base: Command Station" />
+    <link type="boardgameexpansion" id="359273" value="Space Base: Dead Reckoning Promo Cards" />
+    <link type="boardgameexpansion" id="277286" value="Space Base: Dreadnaught Promo Pack" />
+    <link type="boardgameexpansion" id="388569" value="Space Base: Genesis" />
+    <link type="boardgameexpansion" id="266483" value="Space Base: The Emergence of Shy Pluto" />
+    <link type="boardgameexpansion" id="349810" value="Space Base: The Mysteries of Terra Proxima" />
+    <link type="boardgameexpansion" id="368444" value="Space Base: U.E.C. John D Clair Promo Card" />
+    <link type="boardgameexpansion" id="449898" value="Space Base: Velocity" />
+    <link type="boardgameaccessory" id="324994" value="Space Base: BoardGameBoost Resource Track Overlay" />
+    <link type="boardgameaccessory" id="379279" value="Space Base: Premium Sleeves" />
+    <link type="boardgamedesigner" id="57723" value="John D. Clair" />
+    <link type="boardgameartist" id="9329" value="Chris Walton" />
+    <link type="boardgamepublisher" id="396" value="Alderac Entertainment Group" />
+    <link type="boardgamepublisher" id="3475" value="Arclight Games" />
+    <link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+    <link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+    <link type="boardgamepublisher" id="34801" value="Lavka Games" />
+    <link type="boardgamepublisher" id="30677" value="Maldito Games" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="23970" />
+        <average value="7.54016" />
+        <bayesaverage value="7.32433" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="229" bayesaverage="7.32433" />
+          <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="37" bayesaverage="7.37188" />
+        </ranks>
+        <stddev value="1.27313" />
+        <median value="0" />
+        <owned value="32948" />
+        <trading value="286" />
+        <wanting value="759" />
+        <wishing value="6151" />
+        <numcomments value="3578" />
+        <numweights value="454" />
+        <averageweight value="2.1366" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

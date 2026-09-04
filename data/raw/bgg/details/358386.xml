@@ -1,0 +1,127 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="358386">
+    <thumbnail>https://cf.geekdo-images.com/5S4mv0txfpPBtvttcOThUg__small/img/FEO54Xugm76DQryaUz2dlewNlH0=/fit-in/200x150/filters:strip_icc()/pic6742326.png</thumbnail>
+    <image>https://cf.geekdo-images.com/5S4mv0txfpPBtvttcOThUg__original/img/KlEPo8uJ7k6Z7_k9FPz96FNYRQ0=/0x0/filters:format(png)/pic6742326.png</image>
+    <name type="primary" sortindex="1" value="Moon" />
+    <description>Moon depicts an almost plausible rush to construct lunar bases that are attractive places to live and work for the people of Earth. The most prestigious base will become the new lunar capital!
+
+The game employs the familiar "pick &amp; pass" or "hand drafting" mechanism for players to select a new structure cards to add to their base. Each hand of cards represents a convoy of experts and equipment travelling between the players' outposts, giving the player the choice of one new construction each turn. In a new twist on the genre, each hand always contains one of a number of "Expedition" cards that grant a special free action every turn before passing on to the next player.
+
+Wooden lunar rover tokens are a neutral resource that add a worker placement element to the game. They are also used to break ties and so must be used with care.
+
+Over the three distinct eras of the game, players compete for majority in 5 aspects of their bases: housing, transportation, science, industry, and food production. At the end of each era, the leader in each of these areas as determined by flag icons on their constructed buildings, collects bonus victory points.
+
+Each game also features a number of randomly selected "Reputation" cards which provide one-time or ongoing bonuses for the player who meets the requirement and claims the card.
+
+Moon is the third game of a loose trilogy, preceeded by Villagers and Streets.
+
+&amp;mdash;description from the publisher
+
+</description>
+    <yearpublished value="2023" />
+    <minplayers value="1" />
+    <maxplayers value="5" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="35">
+      <results numplayers="1">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="10" />
+        <result value="Not Recommended" numvotes="2" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="3" />
+        <result value="Recommended" numvotes="24" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="19" />
+        <result value="Recommended" numvotes="4" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="6" />
+        <result value="Recommended" numvotes="7" />
+        <result value="Not Recommended" numvotes="5" />
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="5" />
+        <result value="Not Recommended" numvotes="12" />
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="13" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 3 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="90" />
+    <minplaytime value="45" />
+    <maxplaytime value="90" />
+    <minage value="10" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="1" />
+        <result value="12" numvotes="1" />
+        <result value="14" numvotes="0" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1016" value="Science Fiction" />
+    <link type="boardgamecategory" id="1113" value="Space Exploration" />
+    <link type="boardgamemechanic" id="2984" value="Closed Drafting" />
+    <link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+    <link type="boardgamemechanic" id="2040" value="Hand Management" />
+    <link type="boardgamemechanic" id="2082" value="Worker Placement" />
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+    <link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+    <link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+    <link type="boardgamefamily" id="111131" value="Space: Colonization / Extraterrestrial Colonisation" />
+    <link type="boardgamefamily" id="10166" value="Space: Earth's Moon" />
+    <link type="boardgameexpansion" id="382957" value="Moon: Valkyrie Expansion" />
+    <link type="boardgameaccessory" id="431210" value="Moon: Playmat" />
+    <link type="boardgameaccessory" id="419782" value="Moon: Tame My Games Organizer" />
+    <link type="boardgamedesigner" id="73614" value="Haakon Gaarder" />
+    <link type="boardgameartist" id="73614" value="Haakon Gaarder" />
+    <link type="boardgamepublisher" id="29691" value="Sinister Fish Games" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1449" />
+        <average value="7.27926" />
+        <bayesaverage value="6.16013" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2404" bayesaverage="6.16013" />
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1180" bayesaverage="6.29575" />
+        </ranks>
+        <stddev value="1.2117" />
+        <median value="0" />
+        <owned value="4427" />
+        <trading value="70" />
+        <wanting value="153" />
+        <wishing value="1216" />
+        <numcomments value="389" />
+        <numweights value="38" />
+        <averageweight value="2.5" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

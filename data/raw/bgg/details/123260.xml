@@ -1,0 +1,167 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="123260">
+    <thumbnail>https://cf.geekdo-images.com/1YcHesB7LRvCF8i9vgH7qw__small/img/LmYQpfDR6ds-9jGknAgbqjwuVs8=/fit-in/200x150/filters:strip_icc()/pic6009608.png</thumbnail>
+    <image>https://cf.geekdo-images.com/1YcHesB7LRvCF8i9vgH7qw__original/img/BVcGhHh0nedwcBBzu_ku-yh8LWY=/0x0/filters:format(png)/pic6009608.png</image>
+    <name type="primary" sortindex="1" value="Suburbia" />
+    <name type="alternate" sortindex="1" value="Пригород" />
+    <name type="alternate" sortindex="1" value="シティビルダー" />
+    <description>Plan, build, and develop a small town into a major metropolis. Use hex-shaped building tiles to add residential, commercial, civic, and industrial areas, as well as special points of interest that provide benefits and take advantage of the resources of nearby towns. Your goal is to have your borough thrive and end up with a greater population than any of your opponents.
+
+Suburbia is a tile-laying game in which each player tries to build up an economic engine and infrastructure that will be initially self-sufficient, and eventually become both profitable and encourage population growth. As your town grows, you'll modify both your income and your reputation. As your income increases, you'll have more cash on hand to purchase better and more valuable buildings, such as an international airport or a high-rise office building. As your reputation increases, you'll gain more and more population &amp;mdash; and the player with the largest population at the end of the game wins.
+
+During each game, players compete for several unique goals that offer an additional population boost &amp;mdash; and the buildings available in each game vary, so you'll never play the same game twice!
+
+The second edition of Suburbia features updated artwork, larger tiles than in the original game, a dual-sided scoreboard, GameTrayz storage organizers, and more!
+
+</description>
+    <yearpublished value="2012" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="403">
+      <results numplayers="1">
+        <result value="Best" numvotes="12" />
+        <result value="Recommended" numvotes="126" />
+        <result value="Not Recommended" numvotes="113" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="111" />
+        <result value="Recommended" numvotes="227" />
+        <result value="Not Recommended" numvotes="17" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="210" />
+        <result value="Recommended" numvotes="112" />
+        <result value="Not Recommended" numvotes="4" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="94" />
+        <result value="Recommended" numvotes="168" />
+        <result value="Not Recommended" numvotes="48" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="6" />
+        <result value="Not Recommended" numvotes="175" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 3 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="90" />
+    <minplaytime value="60" />
+    <maxplaytime value="90" />
+    <minage value="8" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="80">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="3" />
+        <result value="8" numvotes="15" />
+        <result value="10" numvotes="38" />
+        <result value="12" numvotes="20" />
+        <result value="14" numvotes="4" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="79">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="24" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="49" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="5" />
+        <result level="5" value="Unplayable in another language" numvotes="1" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1029" value="City Building" />
+    <link type="boardgamecategory" id="1021" value="Economic" />
+    <link type="boardgamemechanic" id="2924" value="Auction: Dutch" />
+    <link type="boardgamemechanic" id="2887" value="Catch the Leader" />
+    <link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+    <link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+    <link type="boardgamemechanic" id="2902" value="Income" />
+    <link type="boardgamemechanic" id="2041" value="Open Drafting" />
+    <link type="boardgamemechanic" id="2004" value="Set Collection" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamemechanic" id="2002" value="Tile Placement" />
+    <link type="boardgamefamily" id="48877" value="Components: Game Trayz Inside" />
+    <link type="boardgamefamily" id="104952" value="Digital Implementations: Apple App Store" />
+    <link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+    <link type="boardgamefamily" id="28052" value="Game: Suburbia" />
+    <link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+    <link type="boardgamefamily" id="78680" value="Misc: Made by Panda" />
+    <link type="boardgamefamily" id="6485" value="Misc: Mensa Select" />
+    <link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+    <link type="boardgamefamily" id="113768" value="Players: Games with expansions that change player count" />
+    <link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+    <link type="boardgamefamily" id="68322" value="Theme: City" />
+    <link type="boardgameexpansion" id="171007" value="Suburbia 5★" />
+    <link type="boardgameexpansion" id="145196" value="Suburbia Inc" />
+    <link type="boardgameexpansion" id="465130" value="Suburbia: 15 Extra City Tiles" />
+    <link type="boardgameexpansion" id="290858" value="Suburbia: Collector's Edition – Man vs. Meeple Studios" />
+    <link type="boardgameexpansion" id="275850" value="Suburbia: Collector's Edition – Sax Serenade Jazz Club" />
+    <link type="boardgameexpansion" id="277302" value="Suburbia: Collector's Edition – Tantrum House" />
+    <link type="boardgameexpansion" id="277303" value="Suburbia: Collector's Edition – The Dice Towers" />
+    <link type="boardgameexpansion" id="176806" value="Suburbia: Con Tiles" />
+    <link type="boardgameexpansion" id="128386" value="Suburbia: Essen SPIEL Expansion" />
+    <link type="boardgameexpansion" id="332410" value="Suburbia: Expansions (Second Edition)" />
+    <link type="boardgameexpansion" id="154984" value="Suburbia: Hala Stulecia" />
+    <link type="boardgameexpansion" id="412887" value="Suburbia: Nightlife Promo Tiles" />
+    <link type="boardgameaccessory" id="155329" value="Suburbia: 3D Buildings" />
+    <link type="boardgameaccessory" id="170724" value="Suburbia: Acrylic Tokens" />
+    <link type="boardgameaccessory" id="295528" value="Suburbia: Go7 Game Insert" />
+    <link type="boardgameaccessory" id="271968" value="Suburbia: Insert Here Insert" />
+    <link type="boardgameaccessory" id="371856" value="Suburbia: Metal Coins" />
+    <link type="boardgameaccessory" id="271316" value="Suburbia: Suburban Organizer" />
+    <link type="boardgameaccessory" id="271425" value="Suburbia: Suburban Organizer – Extra Dividers" />
+    <link type="boardgameaccessory" id="272272" value="Suburbia: Tower Rex Organizer" />
+    <link type="boardgameaccessory" id="412886" value="Suburbia: Wooden Interactive Markers" />
+    <link type="boardgamecompilation" id="343588" value="Suburbia + Inc." />
+    <link type="boardgamecompilation" id="267367" value="Suburbia: Collector's Edition" />
+    <link type="boardgamedesigner" id="6046" value="Ted Alspach" />
+    <link type="boardgameartist" id="6046" value="Ted Alspach" />
+    <link type="boardgameartist" id="101838" value="Jason Boles" />
+    <link type="boardgameartist" id="11507" value="Klemens Franz" />
+    <link type="boardgameartist" id="81815" value="Stephanie Gustafsson" />
+    <link type="boardgameartist" id="133250" value="Alanna Kelsey" />
+    <link type="boardgameartist" id="51078" value="Brett Stebbins" />
+    <link type="boardgameartist" id="115391" value="T. B. (II)" />
+    <link type="boardgameartist" id="62217" value="Ollin Timm" />
+    <link type="boardgamepublisher" id="5774" value="Bézier Games" />
+    <link type="boardgamepublisher" id="3475" value="Arclight Games" />
+    <link type="boardgamepublisher" id="36401" value="Arrakis Games" />
+    <link type="boardgamepublisher" id="34522" value="CrowD Games" />
+    <link type="boardgamepublisher" id="28415" value="GoKids 玩樂小子" />
+    <link type="boardgamepublisher" id="234" value="Lookout Games" />
+    <link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+    <link type="boardgamepublisher" id="32581" value="PaperGames (III)" />
+    <link type="boardgamepublisher" id="25406" value="Planszoweczka.pl" />
+    <link type="boardgamepublisher" id="2726" value="Portal Games" />
+    <link type="boardgamepublisher" id="17786" value="uplay.it edizioni" />
+    <link type="boardgamepublisher" id="2861" value="Ystari Games" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="26656" />
+        <average value="7.45252" />
+        <bayesaverage value="7.27396" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="253" bayesaverage="7.27396" />
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="196" bayesaverage="7.30241" />
+        </ranks>
+        <stddev value="1.24664" />
+        <median value="0" />
+        <owned value="31674" />
+        <trading value="824" />
+        <wanting value="814" />
+        <wishing value="6386" />
+        <numcomments value="4610" />
+        <numweights value="1057" />
+        <averageweight value="2.7559" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

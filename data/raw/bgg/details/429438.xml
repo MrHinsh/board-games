@@ -1,0 +1,125 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="429438">
+    <thumbnail>https://cf.geekdo-images.com/Bpomnj9RBdTwQNcuFrAmVg__small/img/wkTKinRioV7dwaupRnywU5MpQ1Y=/fit-in/200x150/filters:strip_icc()/pic8444642.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/Bpomnj9RBdTwQNcuFrAmVg__original/img/O7tSERhO4nluMd3_92_-paBvJwQ=/0x0/filters:format(jpeg)/pic8444642.jpg</image>
+    <name type="primary" sortindex="1" value="Ayar: Children of the Sun" />
+    <name type="alternate" sortindex="1" value="Ayar: Die Kinder der Sonne" />
+    <name type="alternate" sortindex="1" value="Ayar: Les Enfants du Soleil" />
+    <description>Retell the incredible origin myth of the Inca in this dramatic mid-weight eurogame.
+
+In the beginning, Viracocha the creator brought forth Inti, the sun god, and Mama Quilla, the moon god. From the union of these two gods sprang four sons and four daughters: the Ayar. These siblings were tasked with guiding the first clans and teaching them the skills needed to build a civilization. As they traveled the land in search of fertile ground, the Ayar one by one met their fates until only two remained to found Tawantinsuyu &amp;ndash; the Inca Empire.
+
+In Ayar: Children of the Sun, players take control of one of the first clans, journeying with the Ayar across the Andes. Follow their teaching and improve your skills at farming, pottery, weaving, and reed bundling. As well as advancing your own clan, you must influence the progress of the Ayar, ensuring the survival of those who reward your most developed skills. Seek the approval of Mama Quilla through long-term strategy, and please Inti with tactical play. Be careful not to earn the ire of one of these jealous gods because at the end of the game, whichever one favors you least will determine your final score.
+
+The future of your clan &amp;ndash; and the Inca civilization &amp;ndash; is in your hands.
+
+&amp;mdash;description from the publisher
+
+</description>
+    <yearpublished value="2025" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="49">
+      <results numplayers="1">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="13" />
+        <result value="Not Recommended" numvotes="13" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="4" />
+        <result value="Recommended" numvotes="21" />
+        <result value="Not Recommended" numvotes="12" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="22" />
+        <result value="Recommended" numvotes="13" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="14" />
+        <result value="Recommended" numvotes="21" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="15" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 3 players" />
+      <result name="recommmendedwith" value="Recommended with 2–4 players" />
+    </poll-summary>
+    <playingtime value="90" />
+    <minplaytime value="60" />
+    <maxplaytime value="90" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="1" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="0" />
+        <result value="12" numvotes="1" />
+        <result value="14" numvotes="5" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="2" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient" />
+    <link type="boardgamecategory" id="1015" value="Civilization" />
+    <link type="boardgamecategory" id="1094" value="Educational" />
+    <link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+    <link type="boardgamemechanic" id="2889" value="Highest-Lowest Scoring" />
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+    <link type="boardgamemechanic" id="2004" value="Set Collection" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamemechanic" id="2002" value="Tile Placement" />
+    <link type="boardgamemechanic" id="2939" value="Track Movement" />
+    <link type="boardgamemechanic" id="2082" value="Worker Placement" />
+    <link type="boardgamefamily" id="18053" value="Animals: Llamas / Alpacas" />
+    <link type="boardgamefamily" id="69682" value="Cities: Cusco (Peru)" />
+    <link type="boardgamefamily" id="61645" value="Continents: South America" />
+    <link type="boardgamefamily" id="65062" value="Country: Inca Empire" />
+    <link type="boardgamefamily" id="106729" value="Misc: GettingGames Tutorial Videos" />
+    <link type="boardgamefamily" id="119625" value="Series: Euro trilogy (Osprey Games)" />
+    <link type="boardgamedesigner" id="123300" value="Mandela Fernandez-Grandon" />
+    <link type="boardgamedesigner" id="100575" value="Fabio Lopiano" />
+    <link type="boardgameartist" id="64844" value="Ian O'Toole" />
+    <link type="boardgamepublisher" id="29313" value="Osprey Games" />
+    <link type="boardgamepublisher" id="42147" value="Giant Roc" />
+    <link type="boardgamepublisher" id="29409" value="Super Meeple" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1037" />
+        <average value="7.85893" />
+        <bayesaverage value="6.19728" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2264" bayesaverage="6.19728" />
+        </ranks>
+        <stddev value="1.17453" />
+        <median value="0" />
+        <owned value="1979" />
+        <trading value="21" />
+        <wanting value="188" />
+        <wishing value="1185" />
+        <numcomments value="192" />
+        <numweights value="59" />
+        <averageweight value="3.2542" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

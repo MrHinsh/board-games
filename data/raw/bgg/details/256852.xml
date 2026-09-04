@@ -1,0 +1,137 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="256852">
+    <thumbnail>https://cf.geekdo-images.com/87YtB_EfUVeuVSdaIpkXYQ__small/img/FzG2Pp77ajrThROBQoOcPUjdPT4=/fit-in/200x150/filters:strip_icc()/pic4307898.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/87YtB_EfUVeuVSdaIpkXYQ__original/img/nGXOWRA2d8TtzL4-hMFMMRhS2zM=/0x0/filters:format(jpeg)/pic4307898.jpg</image>
+    <name type="primary" sortindex="1" value="Aliens: Another Glorious Day in the Corps" />
+    <name type="alternate" sortindex="1" value="Aliens: Ein glorreicher Tag im Korps" />
+    <name type="alternate" sortindex="1" value="Aliens: Encore Une Jolie Journée De Soleil" />
+    <name type="alternate" sortindex="1" value="Aliens: otro glorioso día en el cuerpo" />
+    <name type="alternate" sortindex="1" value="Vetřelci: Další skvělý den u jednotky" />
+    <description>Aliens: Another Glorious Day in the Corps! is a co‑operative survival board game in which you and your team of specialist Colonial Marines will gear up with serious firepower and head into Hadley's Hope to find survivors and answers. But you're not alone. To survive, you'll need to work together, keep your cool, and stay frosty to fight off relentless Xenomorph ambushes and get out of there alive.
+
+Players can play up to six different missions, taking them into different areas from the Hadley&amp;rsquo;s Hope terraforming facility to the deep, dark recesses of an xenomorph nest. Aliens also offers an exciting campaign mode to play four of the missions linked together, so players will need to fight relentless xenomorph attacks and keep each other alive all the way to the end of the campaign. The remaining two missions are purely about survival, it&amp;rsquo;s kill or be killed. The players are dropped into the game with nothing more than a pistol. They will need to scavenge weapons and gear while hordes of Xenomorph aliens are trying to get at them. How long can you survive against the odds?
+
+&amp;mdash;description from the publisher
+
+</description>
+    <yearpublished value="2020" />
+    <minplayers value="1" />
+    <maxplayers value="6" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="52">
+      <results numplayers="1">
+        <result value="Best" numvotes="13" />
+        <result value="Recommended" numvotes="20" />
+        <result value="Not Recommended" numvotes="11" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="10" />
+        <result value="Recommended" numvotes="29" />
+        <result value="Not Recommended" numvotes="5" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="21" />
+        <result value="Recommended" numvotes="18" />
+        <result value="Not Recommended" numvotes="4" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="13" />
+        <result value="Recommended" numvotes="22" />
+        <result value="Not Recommended" numvotes="4" />
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="3" />
+        <result value="Recommended" numvotes="17" />
+        <result value="Not Recommended" numvotes="14" />
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="5" />
+        <result value="Recommended" numvotes="14" />
+        <result value="Not Recommended" numvotes="19" />
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="5" />
+        <result value="Not Recommended" numvotes="21" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 2–3 players" />
+      <result name="recommmendedwith" value="Recommended with 1–5 players" />
+    </poll-summary>
+    <playingtime value="120" />
+    <minplaytime value="60" />
+    <maxplaytime value="120" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="19">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="4" />
+        <result value="10" numvotes="2" />
+        <result value="12" numvotes="5" />
+        <result value="14" numvotes="7" />
+        <result value="16" numvotes="1" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="5">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="5" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1024" value="Horror" />
+    <link type="boardgamecategory" id="1047" value="Miniatures" />
+    <link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+    <link type="boardgamecategory" id="1016" value="Science Fiction" />
+    <link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+    <link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+    <link type="boardgamefamily" id="5679" value="Creatures: Aliens / Extraterrestrials" />
+    <link type="boardgamefamily" id="62097" value="Movies: Alien / Aliens" />
+    <link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+    <link type="boardgameexpansion" id="313533" value="Aliens: Another Glorious Day in the Corps – Get Away From Her, You B***h!" />
+    <link type="boardgameexpansion" id="313532" value="Aliens: Another Glorious Day in the Corps – Ultimate Badasses" />
+    <link type="boardgameexpansion" id="383476" value="Aliens: Another Glorious Day in the Corps – We're in the Pipe, Five by Five" />
+    <link type="boardgameaccessory" id="339425" value="Aliens: Another Glorious Day in the Corps – Alien Queen" />
+    <link type="boardgameaccessory" id="338510" value="Aliens: Another Glorious Day in the Corps – Alien Warriors" />
+    <link type="boardgameaccessory" id="317096" value="Aliens: Another Glorious Day in the Corps – Assets and Hazards" />
+    <link type="boardgameaccessory" id="344420" value="Aliens: Another Glorious Day in the Corps – Heroes of Hadley's Hope" />
+    <link type="boardgameaccessory" id="402006" value="Aliens: Another Glorious Day in the Corps – Marines APC" />
+    <link type="boardgameaccessory" id="344418" value="Aliens: Another Glorious Day in the Corps – Sulaco Survivors" />
+    <link type="boardgamedesigner" id="89100" value="Andrew Haught" />
+    <link type="boardgameartist" id="27926" value="Jose David Lanza Cebrian" />
+    <link type="boardgameartist" id="63593" value="Victor Pesch" />
+    <link type="boardgamepublisher" id="11420" value="Gale Force Nine, LLC" />
+    <link type="boardgamepublisher" id="21053" value="Rexhry" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1963" />
+        <average value="7.42522" />
+        <bayesaverage value="6.23706" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2106" bayesaverage="6.23706" />
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="410" bayesaverage="6.50736" />
+        </ranks>
+        <stddev value="1.56536" />
+        <median value="0" />
+        <owned value="5993" />
+        <trading value="67" />
+        <wanting value="157" />
+        <wishing value="1397" />
+        <numcomments value="523" />
+        <numweights value="74" />
+        <averageweight value="2.8378" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,160 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="309297">
+    <thumbnail>https://cf.geekdo-images.com/XdUjor_LELMgyQzYXojRDw__small/img/u3M8R9Zp57ZAKqIz2lqgAtlHv1g=/fit-in/200x150/filters:strip_icc()/pic5899411.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/XdUjor_LELMgyQzYXojRDw__original/img/VcWKBl_QFwviEWLFwYG5It8hBGM=/0x0/filters:format(jpeg)/pic5899411.jpg</image>
+    <name type="primary" sortindex="1" value="SCOPE Stalingrad" />
+    <name type="alternate" sortindex="1" value="スコープ: スターリングラード狙撃戦" />
+    <name type="alternate" sortindex="1" value="准镜：斯大林格勒" />
+    <name type="alternate" sortindex="1" value="스코프: 스탈린그라드" />
+    <description>SCOPE is a 2 to 4 player game, set in the Battle of Stalingrad, where players take on the role of sniper teams on both sides. The objective of the game is to eliminate the enemy snipers or enemy troops for a total value of points depending on the scenario being played.
+
+A fast and immersive game of 5-15 minutes per match, with various levels of difficulty and rules that are explained in two minutes on the clock. When you try it, you won&amp;rsquo;t be able to stop playing it.
+
+SCOPE is a game of strategy, cunning, and bluffing that will make you feel like a real sniper, searching and selecting your targets, shooting wisely and changing position so as not to be discovered and eliminated.
+
+
+RULES:GAME SET UP: each player places their Area Cards face down, in a rectangular matrix that forms their Front. You can arrange the cards anywhere. The number and type of cards depends on the chosen Scenario. A player can look at their cards whenever they want during the course of the game.
+
+OBJECTIVE: The player who first eliminates all the Snipers of the rival team or who first reaches the Objective Points of the chosen Scenario wins.
+
+
+BASIC GAME:Two players alternate turns during the game. In a turn, each player must perform only one of the following two actions:
+
+MOVE: the player takes the 4 cards of any Quadrant (group of 2&amp;times;2 Area Cards) from their Front, and rearrange them as they wish in the same Quadrant.
+
+SEARCH: The player reveals an enemy Area Card. If the card contains a Sniper or Unit, the player can Shoot and eliminate it.
+
+If you decide to Shoot, remove the Area Card and place it in your scoring zone. Then, place your Shot Card in the center of a Quadrant of your Front where there is at least one Sniper. The removed card is replaced by an Empty Area card of the same Front. If the revealed card is a Decoy the player is obliged to Shoot without removing the Decoy from the Front.
+
+The Shot Card represents the loud noise of the shot. It is placed on the Quadrant from where the Sniper has Shot. It remains in that position until the start of their next turn.
+
+
+ADVANCED MODE:Advanced Mode adds rules to the Basic Game, making it a more complete and challenging game experience. In this game mode, Unit Cards provide more actions to choose from in turn, so that the player has more options depending on the allied units present in the Front. Similar to the Basic Game, players can only use only one action per turn.
+
+SNIPER: provides the SEARCH (and Shoot) action of the Basic Game.
+
+OFFICER: reveal an allied Officer position to gain an extra MOVE action.
+
+SCOUT: reveal two adjacent cards without being able to Shoot.
+
+MORTAR: reveal an allied Mortar position to attack and eliminate any card (also a Decoy).
+
+MACHINE GUN: can Shoot at adjacent cards and stop Infantry assaults.
+
+INFANTRY: can invade the enemy Front and return as reinforcements after being eliminated.
+
+
+3-4 PLAYERS GAME:In 4 Player Games each side is divided into Snipers and Units. So that each player controls one of this Divisions. It is played by teams. The round is divided into 4 turns, in which the corresponding player can only use an action from the cards of their Division.
+
+In 3 Player Games a player leads the two Divisions on the same side.
+
+</description>
+    <yearpublished value="2020" />
+    <minplayers value="2" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+      <results numplayers="1">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="1" />
+        <result value="Not Recommended" numvotes="5" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="9" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="2" />
+        <result value="Not Recommended" numvotes="5" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="2" />
+        <result value="Not Recommended" numvotes="4" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="6" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 2 players" />
+      <result name="recommmendedwith" value="Recommended with 2 players" />
+    </poll-summary>
+    <playingtime value="15" />
+    <minplaytime value="10" />
+    <maxplaytime value="15" />
+    <minage value="12" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="0" />
+        <result value="12" numvotes="2" />
+        <result value="14" numvotes="0" />
+        <result value="16" numvotes="2" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="8">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="4" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1002" value="Card Game" />
+    <link type="boardgamecategory" id="1039" value="Deduction" />
+    <link type="boardgamecategory" id="1045" value="Memory" />
+    <link type="boardgamecategory" id="1019" value="Wargame" />
+    <link type="boardgamecategory" id="1049" value="World War II" />
+    <link type="boardgamemechanic" id="2967" value="Hidden Movement" />
+    <link type="boardgamemechanic" id="2047" value="Memory" />
+    <link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+    <link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+    <link type="boardgamefamily" id="66993" value="Cities: Volgograd (Russia)" />
+    <link type="boardgamefamily" id="11966" value="Country: Russia" />
+    <link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+    <link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+    <link type="boardgamefamily" id="25436" value="Organizations: Board Games Association of Creators in Spain (LUDO)" />
+    <link type="boardgamefamily" id="80975" value="Series: SCOPE Games (Draco Ideas)" />
+    <link type="boardgamedesigner" id="126885" value="Juan A. Nácher" />
+    <link type="boardgameartist" id="86131" value="Matias Cazorla" />
+    <link type="boardgameartist" id="18529" value="Rasenjin Hayami" />
+    <link type="boardgamepublisher" id="28788" value="Draco Ideas" />
+    <link type="boardgamepublisher" id="35928" value="Banana Games" />
+    <link type="boardgamepublisher" id="27445" value="Bonsai Games" />
+    <link type="boardgamepublisher" id="7251" value="Giochix.it" />
+    <link type="boardgamepublisher" id="55324" value="HIT Games" />
+    <link type="boardgamepublisher" id="25973" value="Zacatrus" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="301" />
+        <average value="6.80834" />
+        <bayesaverage value="5.6127" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8897" bayesaverage="5.6127" />
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1813" bayesaverage="5.88108" />
+        </ranks>
+        <stddev value="1.51108" />
+        <median value="0" />
+        <owned value="993" />
+        <trading value="17" />
+        <wanting value="11" />
+        <wishing value="88" />
+        <numcomments value="51" />
+        <numweights value="15" />
+        <averageweight value="1.5333" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

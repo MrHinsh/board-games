@@ -1,0 +1,126 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="379629">
+    <thumbnail>https://cf.geekdo-images.com/PaYRAlezMGDlLt8LXmR_sQ__small/img/9BXSosnE91-b8tHUEz3Qgfr0aAo=/fit-in/200x150/filters:strip_icc()/pic7857343.png</thumbnail>
+    <image>https://cf.geekdo-images.com/PaYRAlezMGDlLt8LXmR_sQ__original/img/9nndYkVCIDsSHM3CmuiLk-0WCHk=/0x0/filters:format(png)/pic7857343.png</image>
+    <name type="primary" sortindex="1" value="Knarr" />
+    <name type="alternate" sortindex="1" value="Кнорр" />
+    <name type="alternate" sortindex="1" value="クナール" />
+    <name type="alternate" sortindex="1" value="维京商船" />
+    <name type="alternate" sortindex="1" value="나르 바이킹 시대" />
+    <description>In Knarr, you are the leader of a band of Vikings that you send to new destinations. Manage the recruitment of your crew, and choose the best territories to explore. Depending on the destinations reached (for trading or influence) and the Vikings who accompany you, you can increase your reputation to gain even more wealth. Each turn, you:
+
+
+     Place a new member in your Viking crew, activate the effects of all of them with the same icon, and get another one from those available under the matching color on the central board, or
+
+
+
+     Explore new destinations, with the opportunity to trade with those places and get more gains or reputation.
+
+
+</description>
+    <yearpublished value="2023" />
+    <minplayers value="2" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="167">
+      <results numplayers="1">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="17" />
+        <result value="Not Recommended" numvotes="80" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="40" />
+        <result value="Recommended" numvotes="85" />
+        <result value="Not Recommended" numvotes="15" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="83" />
+        <result value="Recommended" numvotes="44" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="40" />
+        <result value="Recommended" numvotes="75" />
+        <result value="Not Recommended" numvotes="8" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="76" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 3 players" />
+      <result name="recommmendedwith" value="Recommended with 2–4 players" />
+    </poll-summary>
+    <playingtime value="30" />
+    <minplaytime value="30" />
+    <maxplaytime value="30" />
+    <minage value="10" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="42">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="2" />
+        <result value="8" numvotes="13" />
+        <result value="10" numvotes="23" />
+        <result value="12" numvotes="3" />
+        <result value="14" numvotes="1" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="17">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="17" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1002" value="Card Game" />
+    <link type="boardgamemechanic" id="2040" value="Hand Management" />
+    <link type="boardgamemechanic" id="2041" value="Open Drafting" />
+    <link type="boardgamemechanic" id="2876" value="Race" />
+    <link type="boardgamemechanic" id="2004" value="Set Collection" />
+    <link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+    <link type="boardgamefamily" id="5613" value="Theme: Vikings" />
+    <link type="boardgameexpansion" id="463722" value="Knarr: Skali" />
+    <link type="boardgamedesigner" id="120680" value="Thomas Dupont" />
+    <link type="boardgameartist" id="14837" value="Antoine Carrion" />
+    <link type="boardgamepublisher" id="19260" value="Bombyx" />
+    <link type="boardgamepublisher" id="2366" value="Devir" />
+    <link type="boardgamepublisher" id="37681" value="Fabrika Igr" />
+    <link type="boardgamepublisher" id="12540" value="Game Harbor" />
+    <link type="boardgamepublisher" id="8820" value="Gémklub" />
+    <link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+    <link type="boardgamepublisher" id="7992" value="MINDOK" />
+    <link type="boardgamepublisher" id="53706" value="MM-Spiele" />
+    <link type="boardgamepublisher" id="21847" value="Pandasaurus Games" />
+    <link type="boardgamepublisher" id="41167" value="Popcorn Games" />
+    <link type="boardgamepublisher" id="60542" value="Red Square Games" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="8638" />
+        <average value="7.47237" />
+        <bayesaverage value="7.01892" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="488" bayesaverage="7.01892" />
+          <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="98" bayesaverage="7.12392" />
+        </ranks>
+        <stddev value="1.08178" />
+        <median value="0" />
+        <owned value="13835" />
+        <trading value="111" />
+        <wanting value="369" />
+        <wishing value="3067" />
+        <numcomments value="1199" />
+        <numweights value="230" />
+        <averageweight value="1.913" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

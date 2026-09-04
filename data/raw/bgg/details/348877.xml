@@ -1,0 +1,160 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="348877">
+    <thumbnail>https://cf.geekdo-images.com/6dmG06rhV8aQhUaJkIqC7A__small/img/7lqXDZ-l8JCKkWTKNROUOdeD48I=/fit-in/200x150/filters:strip_icc()/pic6445788.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/6dmG06rhV8aQhUaJkIqC7A__original/img/WgK9w2atb0Ai-0KXz9V4tGdKxjI=/0x0/filters:format(jpeg)/pic6445788.jpg</image>
+    <name type="primary" sortindex="1" value="Lobotomy 2: Manhunt" />
+    <name type="alternate" sortindex="1" value="Lobotomia 2: Obława" />
+    <description>Lobotomy 2: Manhunt is the sequel of Lobotomy.
+In this cooperative survival horror board game. Each of you will play as a patient of a mental asylum. The monstrous staff will do everything to keep you in so you will have to use your unexplainable powers to escape. Be sure to find the difference between reality and delusions before it is too late.
+
+Lobotomy 2: Manhunt has greatly improved since last game but still keeps the original Lobotomy spirit and atmosphere. It features:
+
+     modular map with asylum parts and outdoor parts (yes now you can check the asylum's surroundings)
+     best parts of Lobotomy such as cooldown system and Warden-based timer are still here
+     streamlined combat, movement and character management
+     new characters with personal goals
+     crafting system - improve your weapons and equipment by collecting junk
+     story-heavy scenarios. With the addition of scenario book game is now more thematic than ever. Explore the board which can expand during the game and hold more secrets and goals 
+     scenarios can be played separately but they have a story continuity. There is also a "Sandbox" mode for an endless replayability (similar to the Lobotomy 1)
+
+
+</description>
+    <yearpublished value="2022" />
+    <minplayers value="1" />
+    <maxplayers value="5" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="16">
+      <results numplayers="1">
+        <result value="Best" numvotes="6" />
+        <result value="Recommended" numvotes="1" />
+        <result value="Not Recommended" numvotes="6" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="7" />
+        <result value="Recommended" numvotes="5" />
+        <result value="Not Recommended" numvotes="2" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="3" />
+        <result value="Recommended" numvotes="9" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="7" />
+        <result value="Recommended" numvotes="3" />
+        <result value="Not Recommended" numvotes="2" />
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="6" />
+        <result value="Not Recommended" numvotes="3" />
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="8" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 4 players" />
+      <result name="recommmendedwith" value="Recommended with 1–5 players" />
+    </poll-summary>
+    <playingtime value="120" />
+    <minplaytime value="60" />
+    <maxplaytime value="120" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="0" />
+        <result value="12" numvotes="1" />
+        <result value="14" numvotes="1" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1022" value="Adventure" />
+    <link type="boardgamecategory" id="1017" value="Dice" />
+    <link type="boardgamecategory" id="1020" value="Exploration" />
+    <link type="boardgamecategory" id="1046" value="Fighting" />
+    <link type="boardgamecategory" id="1024" value="Horror" />
+    <link type="boardgamecategory" id="1047" value="Miniatures" />
+    <link type="boardgamemechanic" id="2001" value="Action Points" />
+    <link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+    <link type="boardgamemechanic" id="2011" value="Modular Board" />
+    <link type="boardgamemechanic" id="2947" value="Movement Points" />
+    <link type="boardgamemechanic" id="2027" value="Storytelling" />
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+    <link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+    <link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+    <link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+    <link type="boardgamefamily" id="66292" value="Crowdfunding: Gamefound" />
+    <link type="boardgamefamily" id="42733" value="Game: Lobotomy" />
+    <link type="boardgamefamily" id="62214" value="Medical: Psychiatric Hospitals / Asylums" />
+    <link type="boardgameexpansion" id="438191" value="Lobotomy 2: Dimensions of Madness" />
+    <link type="boardgameexpansion" id="396310" value="Lobotomy 2: Manhunt – 2023 Promo Characters" />
+    <link type="boardgameexpansion" id="376889" value="Lobotomy 2: Manhunt – Criminally Insane Character Expansion" />
+    <link type="boardgameexpansion" id="368766" value="Lobotomy 2: Manhunt – Hell Level Expansion" />
+    <link type="boardgameexpansion" id="368735" value="Lobotomy 2: Manhunt – Inferno Expansion" />
+    <link type="boardgameexpansion" id="368822" value="Lobotomy 2: Manhunt – Jazza Ward Character Expansion" />
+    <link type="boardgameexpansion" id="368839" value="Lobotomy 2: Manhunt – Legacy Ward Character Expansion" />
+    <link type="boardgameexpansion" id="368953" value="Lobotomy 2: Manhunt – Lobotomy 1 Monster Conversion Set" />
+    <link type="boardgameexpansion" id="368987" value="Lobotomy 2: Manhunt – Lobotomy 1 Monsters: Classic" />
+    <link type="boardgameexpansion" id="369415" value="Lobotomy 2: Manhunt – Lobotomy 1 Monsters: Cthulhu" />
+    <link type="boardgameexpansion" id="434307" value="Lobotomy 2: Manhunt – Lobotomy 1 Monsters: Elite" />
+    <link type="boardgameexpansion" id="369297" value="Lobotomy 2: Manhunt – Lobotomy 1 Monsters: From the Deep" />
+    <link type="boardgameexpansion" id="368988" value="Lobotomy 2: Manhunt – Lobotomy 1 Monsters: Horror" />
+    <link type="boardgameexpansion" id="368850" value="Lobotomy 2: Manhunt – Original Ward" />
+    <link type="boardgameexpansion" id="368819" value="Lobotomy 2: Manhunt – Villain Ward Character Expansion" />
+    <link type="boardgameexpansion" id="434308" value="Lobotomy II: Manhunt – Lobotomy 1 Monsters: Nightmare" />
+    <link type="boardgameexpansion" id="349477" value="Lobotomy: Essen 2021  promo set" />
+    <link type="boardgameexpansion" id="430774" value="Lobotomy: Essen 2024 Promo character" />
+    <link type="boardgameaccessory" id="368955" value="Lobotomy 2: Additional Dice Set" />
+    <link type="boardgameimplementation" id="173805" value="Lobotomy" inbound="true" />
+    <link type="boardgamedesigner" id="99228" value="Judgement Dave" />
+    <link type="boardgamedesigner" id="76352" value="Sebastian Kozak" />
+    <link type="boardgameartist" id="151467" value="Kinga Brotoń" />
+    <link type="boardgameartist" id="27926" value="Jose David Lanza Cebrian" />
+    <link type="boardgameartist" id="151469" value="Michał Domański" />
+    <link type="boardgameartist" id="151468" value="Adam Lepieszkiewicz" />
+    <link type="boardgameartist" id="151471" value="Taty Ribeiro" />
+    <link type="boardgameartist" id="151470" value="Vinh Trần" />
+    <link type="boardgameartist" id="151466" value="Jędrzej Wiliński" />
+    <link type="boardgamepublisher" id="27649" value="Titan Forge Games" />
+    <link type="boardgamepublisher" id="31815" value="Czacha Games" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="424" />
+        <average value="8.00789" />
+        <bayesaverage value="5.82334" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4598" bayesaverage="5.82334" />
+        </ranks>
+        <stddev value="1.57927" />
+        <median value="0" />
+        <owned value="1248" />
+        <trading value="17" />
+        <wanting value="62" />
+        <wishing value="492" />
+        <numcomments value="123" />
+        <numweights value="15" />
+        <averageweight value="3.1333" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,149 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="247567">
+    <thumbnail>https://cf.geekdo-images.com/JvKFX6-LVZ5vBzTzn_xEKA__small/img/Gd0n4-MX4KDkuXk52TE8ELBWUV8=/fit-in/200x150/filters:strip_icc()/pic5340392.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/JvKFX6-LVZ5vBzTzn_xEKA__original/img/1eX3ywVvFgYOEJUDGiJdS2UEreQ=/0x0/filters:format(jpeg)/pic5340392.jpg</image>
+    <name type="primary" sortindex="1" value="D-Day Dice Pocket" />
+    <name type="alternate" sortindex="1" value="D-Day Dice Aus der Tasche" />
+    <name type="alternate" sortindex="1" value="D-Day Dice de Bolsillo" />
+    <name type="alternate" sortindex="1" value="D-Day Dice Poche" />
+    <description>D-Day Dice Pocket: Two mini games in one small box!
+
+"D-Day Dice Battle!" is a dice-rolling, competitive push-your-luck game for any number of players, where you must match the enemy forces die for die. While doing so, you can earn medals to influence your rolls... or hinder the rolls of the others!
+
+"D-Day Dice Express!" is a cooperative game for 1 to 4 players, where everyone must work together to invade the beaches of Normandy. Fighting in increasingly harder conditions on 6 different beaches, players must rally specialists to defeat the German defences.
+
+This box includes 13 dice, 7 medal/specialist cards, 6 advanced beaches and 1 special black die, "The Kommandant", which brings an extra layer of difficulty to both games.
+
+Also included are special rules to include the grey dice into your main D-Day Dice game as MGF Dice.
+
+This is completely separate game to D-Day Dice, but uses the RWB mechanic.
+
+</description>
+    <yearpublished value="2018" />
+    <minplayers value="1" />
+    <maxplayers value="8" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+      <results numplayers="1">
+        <result value="Best" numvotes="9" />
+        <result value="Recommended" numvotes="2" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="3" />
+        <result value="Recommended" numvotes="3" />
+        <result value="Not Recommended" numvotes="2" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="1" />
+        <result value="Not Recommended" numvotes="4" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="1" />
+        <result value="Not Recommended" numvotes="4" />
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="1" />
+        <result value="Not Recommended" numvotes="5" />
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="1" />
+        <result value="Not Recommended" numvotes="5" />
+      </results>
+      <results numplayers="7">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="1" />
+        <result value="Not Recommended" numvotes="5" />
+      </results>
+      <results numplayers="8">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="1" />
+        <result value="Not Recommended" numvotes="5" />
+      </results>
+      <results numplayers="8+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="7" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 1 players" />
+      <result name="recommmendedwith" value="Recommended with 1–2 players" />
+    </poll-summary>
+    <playingtime value="15" />
+    <minplaytime value="15" />
+    <maxplaytime value="15" />
+    <minage value="10" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="1" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="1" />
+        <result value="10" numvotes="1" />
+        <result value="12" numvotes="0" />
+        <result value="14" numvotes="0" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1017" value="Dice" />
+    <link type="boardgamecategory" id="1019" value="Wargame" />
+    <link type="boardgamecategory" id="1049" value="World War II" />
+    <link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+    <link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+    <link type="boardgamemechanic" id="2870" value="Re-rolling and Locking" />
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+    <link type="boardgamefamily" id="61327" value="Game: D-Day Dice" />
+    <link type="boardgamefamily" id="4705" value="Organizations: The Game Artisans of Canada" />
+    <link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+    <link type="boardgamefamily" id="11080" value="Series: RWB System" />
+    <link type="boardgameexpansion" id="293896" value="D-Day Dice: Patriots &amp; Smugglers" />
+    <link type="boardgameintegration" id="233208" value="D-Day Dice (Second Edition)" />
+    <link type="boardgameimplementation" id="113108" value="D-Day Dice: MGF Dice" inbound="true" />
+    <link type="boardgamedesigner" id="12685" value="Emmanuel Aquin" />
+    <link type="boardgameartist" id="75217" value="Dominik Kasprzycki" />
+    <link type="boardgamepublisher" id="29784" value="Word Forge Games" />
+    <link type="boardgamepublisher" id="42147" value="Giant Roc" />
+    <link type="boardgamepublisher" id="30677" value="Maldito Games" />
+    <link type="boardgamepublisher" id="15906" value="Nuts! Publishing" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="349" />
+        <average value="6.3664" />
+        <bayesaverage value="5.5998" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9527" bayesaverage="5.5998" />
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2320" bayesaverage="5.77868" />
+          <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2433" bayesaverage="5.62487" />
+        </ranks>
+        <stddev value="1.51717" />
+        <median value="0" />
+        <owned value="1265" />
+        <trading value="35" />
+        <wanting value="16" />
+        <wishing value="60" />
+        <numcomments value="115" />
+        <numweights value="16" />
+        <averageweight value="1.125" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

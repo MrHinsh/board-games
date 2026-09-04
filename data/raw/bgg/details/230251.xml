@@ -1,0 +1,130 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="230251">
+    <thumbnail>https://cf.geekdo-images.com/bVaQt6bySelGamGztEGnMQ__small/img/WlghGu6_EfKQRvqS6_fTRt9YCXs=/fit-in/200x150/filters:strip_icc()/pic3634430.png</thumbnail>
+    <image>https://cf.geekdo-images.com/bVaQt6bySelGamGztEGnMQ__original/img/hVNm0XaTvqD9KdnaFQpdtgNx1n8=/0x0/filters:format(png)/pic3634430.png</image>
+    <name type="primary" sortindex="1" value="Mint Delivery" />
+    <name type="alternate" sortindex="1" value="薄荷快递" />
+    <description>Mint Delivery is a mint tin-sized, pick-up-and-deliver board game designed to be quick-to-play and easy-to-learn.
+
+In the game, players take the role of a mint delivery truck driver, driving around the area taking orders for mints, then delivering them. Each player has two actions on their turn, such as moving, loading their truck, and upgrading the mints they are carrying.
+
+Once enough orders have been fulfilled, the game ends. Whoever has fulfilled the highest value of orders will be deemed the employee of the month and win.
+
+</description>
+    <yearpublished value="2017" />
+    <minplayers value="1" />
+    <maxplayers value="5" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="30">
+      <results numplayers="1">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="5" />
+        <result value="Not Recommended" numvotes="15" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2" />
+        <result value="Recommended" numvotes="15" />
+        <result value="Not Recommended" numvotes="4" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="4" />
+        <result value="Recommended" numvotes="13" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="10" />
+        <result value="Recommended" numvotes="8" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="3" />
+        <result value="Recommended" numvotes="6" />
+        <result value="Not Recommended" numvotes="4" />
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="1" />
+        <result value="Not Recommended" numvotes="11" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 4 players" />
+      <result name="recommmendedwith" value="Recommended with 2–5 players" />
+    </poll-summary>
+    <playingtime value="30" />
+    <minplaytime value="15" />
+    <maxplaytime value="30" />
+    <minage value="13" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="12">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="8" />
+        <result value="10" numvotes="4" />
+        <result value="12" numvotes="0" />
+        <result value="14" numvotes="0" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="6">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="3" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1021" value="Economic" />
+    <link type="boardgamecategory" id="1088" value="Industry / Manufacturing" />
+    <link type="boardgamemechanic" id="2001" value="Action Points" />
+    <link type="boardgamemechanic" id="2912" value="Contracts" />
+    <link type="boardgamemechanic" id="2914" value="Increase Value of Unchosen Resources" />
+    <link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+    <link type="boardgamefamily" id="56591" value="Containers: Mint Tins" />
+    <link type="boardgamefamily" id="109935" value="Containers: Tin/Metal Box" />
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+    <link type="boardgamefamily" id="22135" value="Crowdfunding: Spieleschmiede" />
+    <link type="boardgamefamily" id="114091" value="Food &amp; Drink: Candy" />
+    <link type="boardgamefamily" id="58901" value="Misc: Self-Referential Games" />
+    <link type="boardgamefamily" id="67352" value="Series: Mint (Five24 Labs/Poketto)" />
+    <link type="boardgameaccessory" id="258836" value="Mint Delivery: Playmat" />
+    <link type="boardgamedesigner" id="58853" value="Justin Blaske" />
+    <link type="boardgameartist" id="91537" value="Felix Janson" />
+    <link type="boardgameartist" id="69500" value="Thomas Tamblyn" />
+    <link type="boardgamepublisher" id="22785" value="Five24 Labs" />
+    <link type="boardgamepublisher" id="46520" value="Poketto" />
+    <link type="boardgamepublisher" id="39755" value="17wanzy (Yihu BG)" />
+    <link type="boardgamepublisher" id="42203" value="funbot" />
+    <link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+    <link type="boardgamepublisher" id="30677" value="Maldito Games" />
+    <link type="boardgamepublisher" id="30034" value="Pixie Games" />
+    <link type="boardgamepublisher" id="3242" value="Raven Distribution" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2576" />
+        <average value="6.15349" />
+        <bayesaverage value="5.81722" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4658" bayesaverage="5.81722" />
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2010" bayesaverage="5.85421" />
+          <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1536" bayesaverage="5.87456" />
+        </ranks>
+        <stddev value="1.35928" />
+        <median value="0" />
+        <owned value="8848" />
+        <trading value="366" />
+        <wanting value="21" />
+        <wishing value="283" />
+        <numcomments value="748" />
+        <numweights value="57" />
+        <averageweight value="1.6316" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

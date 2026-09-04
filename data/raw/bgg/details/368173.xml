@@ -1,0 +1,160 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="368173">
+    <thumbnail>https://cf.geekdo-images.com/OvhEUaF43CIjSFz8aF_yzQ__small/img/KxAyjZ09Q1HjFhjBCTMuSz3Zus4=/fit-in/200x150/filters:strip_icc()/pic6996891.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/OvhEUaF43CIjSFz8aF_yzQ__original/img/HoWWP2Q0rLOyInX0KZqObNkT8SM=/0x0/filters:format(jpeg)/pic6996891.jpg</image>
+    <name type="primary" sortindex="1" value="Let's Go! To Japan" />
+    <name type="alternate" sortindex="1" value="Auf nach Japan!" />
+    <name type="alternate" sortindex="1" value="Idemo u Japan" />
+    <name type="alternate" sortindex="1" value="Jedziemy do Japonii" />
+    <name type="alternate" sortindex="1" value="Ταξίδι στην Ιαπωνία" />
+    <name type="alternate" sortindex="1" value="Гайда до Японії" />
+    <name type="alternate" sortindex="1" value="Поехали! В Японию" />
+    <name type="alternate" sortindex="1" value="來去日本！" />
+    <name type="alternate" sortindex="1" value="레츠 고! 투 재팬" />
+    <description>In Let's Go! To Japan, you are a traveler planning, then experiencing your own dream vacation to Japan.
+
+The game consists of thirteen rounds in which players draw activity cards illustrated by Japan-based artists and strategically place them in different days in their week-long itinerary. These can't-miss tourist attractions will have you bouncing between Tokyo and Kyoto as you try to puzzle out the optimal activities to maximize your experience while balancing your resources. The game ends with a final round in which you ultimately go on your planned trip, activating each of your cards in order along the way.
+
+The player who collects the most points by the end of their trip wins!
+
+-description from designer
+
+</description>
+    <yearpublished value="2024" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="132">
+      <results numplayers="1">
+        <result value="Best" numvotes="5" />
+        <result value="Recommended" numvotes="45" />
+        <result value="Not Recommended" numvotes="26" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="34" />
+        <result value="Recommended" numvotes="61" />
+        <result value="Not Recommended" numvotes="6" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="54" />
+        <result value="Recommended" numvotes="38" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="39" />
+        <result value="Recommended" numvotes="46" />
+        <result value="Not Recommended" numvotes="5" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="5" />
+        <result value="Recommended" numvotes="18" />
+        <result value="Not Recommended" numvotes="32" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 3 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="60" />
+    <minplaytime value="45" />
+    <maxplaytime value="60" />
+    <minage value="10" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="24">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="3" />
+        <result value="10" numvotes="18" />
+        <result value="12" numvotes="3" />
+        <result value="14" numvotes="0" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="13">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="1" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="10" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1002" value="Card Game" />
+    <link type="boardgamecategory" id="1011" value="Transportation" />
+    <link type="boardgamecategory" id="1097" value="Travel" />
+    <link type="boardgamemechanic" id="2984" value="Closed Drafting" />
+    <link type="boardgamemechanic" id="2912" value="Contracts" />
+    <link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+    <link type="boardgamemechanic" id="2040" value="Hand Management" />
+    <link type="boardgamemechanic" id="2981" value="Melding and Splaying" />
+    <link type="boardgamemechanic" id="3099" value="Multi-Use Cards" />
+    <link type="boardgamemechanic" id="2004" value="Set Collection" />
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamemechanic" id="2027" value="Storytelling" />
+    <link type="boardgamemechanic" id="3100" value="Tags" />
+    <link type="boardgamefamily" id="7334" value="Animals: Cats" />
+    <link type="boardgamefamily" id="64963" value="Cities: Kyoto (Japan)" />
+    <link type="boardgamefamily" id="18616" value="Cities: Tokyo (Japan)" />
+    <link type="boardgamefamily" id="10634" value="Country: Japan" />
+    <link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+    <link type="boardgamefamily" id="65396" value="Food &amp; Drink: Ramen" />
+    <link type="boardgamefamily" id="64227" value="Food &amp; Drink: Sushi" />
+    <link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+    <link type="boardgamefamily" id="69032" value="Theme: Temple" />
+    <link type="boardgameexpansion" id="469022" value="Let's Go! Back To Japan" />
+    <link type="boardgameexpansion" id="453455" value="Let's Go! to Japan: 5th Player Pack" />
+    <link type="boardgameexpansion" id="387481" value="Let's Go! To Japan: Day Trip" />
+    <link type="boardgameexpansion" id="387479" value="Let's Go! To Japan: Grab Your Passport" />
+    <link type="boardgameaccessory" id="419018" value="Let's Go! To Japan: Ceramic Token Bowls" />
+    <link type="boardgameaccessory" id="446472" value="Let's Go! To Japan: Gachapon Oversized Meeple" />
+    <link type="boardgameaccessory" id="386730" value="Let's Go! To Japan: Neoprene Player Mats" />
+    <link type="boardgamecompilation" id="428031" value="Let's Go! To Japan: Matsuri Edition" />
+    <link type="boardgameimplementation" id="455256" value="Let's Go! To France" />
+    <link type="boardgamedesigner" id="101567" value="Josh Wood" />
+    <link type="boardgameartist" id="152097" value="Chaykov" />
+    <link type="boardgameartist" id="152096" value="Kailene Falls" />
+    <link type="boardgameartist" id="147292" value="Toshiyuki Hara 原としゆき" />
+    <link type="boardgameartist" id="152098" value="Magdalena Pruckner" />
+    <link type="boardgameartist" id="147291" value="Erica Ward" />
+    <link type="boardgamepublisher" id="396" value="Alderac Entertainment Group" />
+    <link type="boardgamepublisher" id="53775" value="BO3 Studio" />
+    <link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+    <link type="boardgamepublisher" id="40510" value="Delirium Games" />
+    <link type="boardgamepublisher" id="27389" value="Don't Panic Games" />
+    <link type="boardgamepublisher" id="61182" value="eFantasy Publications" />
+    <link type="boardgamepublisher" id="56684" value="Laguna" />
+    <link type="boardgamepublisher" id="34801" value="Lavka Games" />
+    <link type="boardgamepublisher" id="46500" value="Lord of Boards" />
+    <link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+    <link type="boardgamepublisher" id="46431" value="MTS Games" />
+    <link type="boardgamepublisher" id="24844" value="Schwerkraft-Verlag" />
+    <link type="boardgamepublisher" id="44181" value="Studio Supernova" />
+    <link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+    <link type="boardgamepublisher" id="57325" value="狗吠火車" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="8070" />
+        <average value="7.56065" />
+        <bayesaverage value="7.06951" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="425" bayesaverage="7.06951" />
+          <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="77" bayesaverage="7.18413" />
+        </ranks>
+        <stddev value="1.18551" />
+        <median value="0" />
+        <owned value="14312" />
+        <trading value="117" />
+        <wanting value="364" />
+        <wishing value="3230" />
+        <numcomments value="1309" />
+        <numweights value="206" />
+        <averageweight value="2.2621" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

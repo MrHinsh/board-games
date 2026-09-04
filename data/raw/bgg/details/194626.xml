@@ -1,0 +1,164 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="194626">
+    <thumbnail>https://cf.geekdo-images.com/qiPO300rG73UqxJvpUe3og__small/img/jo26IkaY-DSx4MhfRQ7lDHCPtbo=/fit-in/200x150/filters:strip_icc()/pic7354069.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/qiPO300rG73UqxJvpUe3og__original/img/r-ZepVlPDZRwmxcWJgLA4GpaXfY=/0x0/filters:format(jpeg)/pic7354069.jpg</image>
+    <name type="primary" sortindex="1" value="Happy Salmon" />
+    <name type="alternate" sortindex="1" value="Boldog lazac" />
+    <name type="alternate" sortindex="1" value="Lucky Lachs" />
+    <name type="alternate" sortindex="1" value="Lucky Lachs Blue" />
+    <name type="alternate" sortindex="1" value="Salmão Feliz" />
+    <name type="alternate" sortindex="1" value="Saumon Frétillant" />
+    <name type="alternate" sortindex="1" value="Slappy Salmon" />
+    <name type="alternate" sortindex="1" value="Šťastný candát" />
+    <name type="alternate" sortindex="1" value="Вобла" />
+    <name type="alternate" sortindex="1" value="Шалений карась" />
+    <name type="alternate" sortindex="1" value="ハッピーサーモン 日本語版 グリーン" />
+    <name type="alternate" sortindex="1" value="ハッピーサーモン 日本語版 ブルー" />
+    <name type="alternate" sortindex="1" value="연어는 행복해" />
+    <description>Happy Salmon is a simple, ultra-fast, very silly card game.
+
+There are no turns. Players call out the action shown on their cards as fast as they can. When two players have a match, they celebrate by performing the action. Actions include the classic "High 5", the unifying "Pound It", the frantic "Switcheroo", and the delightful and bizarre "Happy Salmon".
+
+Each time a player celebrates a match, they quickly discard a card. The first person to get rid of all their cards wins.
+
+</description>
+    <yearpublished value="2016" />
+    <minplayers value="3" />
+    <maxplayers value="8" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="85">
+      <results numplayers="1">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="58" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="1" />
+        <result value="Not Recommended" numvotes="56" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="2" />
+        <result value="Recommended" numvotes="13" />
+        <result value="Not Recommended" numvotes="47" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="11" />
+        <result value="Recommended" numvotes="47" />
+        <result value="Not Recommended" numvotes="11" />
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="45" />
+        <result value="Recommended" numvotes="26" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="65" />
+        <result value="Recommended" numvotes="8" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="7">
+        <result value="Best" numvotes="19" />
+        <result value="Recommended" numvotes="12" />
+        <result value="Not Recommended" numvotes="20" />
+      </results>
+      <results numplayers="8">
+        <result value="Best" numvotes="6" />
+        <result value="Recommended" numvotes="4" />
+        <result value="Not Recommended" numvotes="3" />
+      </results>
+      <results numplayers="8+">
+        <result value="Best" numvotes="4" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="8" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 5–6 players" />
+      <result name="recommmendedwith" value="Recommended with 4–8 players" />
+    </poll-summary>
+    <playingtime value="2" />
+    <minplaytime value="2" />
+    <maxplaytime value="2" />
+    <minage value="6" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="32">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="1" />
+        <result value="4" numvotes="7" />
+        <result value="5" numvotes="16" />
+        <result value="6" numvotes="7" />
+        <result value="8" numvotes="1" />
+        <result value="10" numvotes="0" />
+        <result value="12" numvotes="0" />
+        <result value="14" numvotes="0" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="10">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="3" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="7" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1089" value="Animals" />
+    <link type="boardgamecategory" id="1041" value="Children's Game" />
+    <link type="boardgamecategory" id="1030" value="Party Game" />
+    <link type="boardgamecategory" id="1037" value="Real-time" />
+    <link type="boardgamemechanic" id="2831" value="Real-Time" />
+    <link type="boardgamefamily" id="7975" value="Animals: Fish / Fishes" />
+    <link type="boardgamefamily" id="67583" value="Containers: Unique Shape" />
+    <link type="boardgamefamily" id="73785" value="Containers: Zippered Pouch" />
+    <link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+    <link type="boardgamefamily" id="48480" value="Series: Happy Planet (North Star Games)" />
+    <link type="boardgameaccessory" id="437527" value="Happy Salmon: Braille Accessibility Kit" />
+    <link type="boardgameintegration" id="246693" value="Funky Chicken" />
+    <link type="boardgameimplementation" id="411347" value="Hoppy Salmon" />
+    <link type="boardgamedesigner" id="68073" value="Ken Gruhl" />
+    <link type="boardgamedesigner" id="68072" value="Quentin Weir" />
+    <link type="boardgamedesigner" id="71478" value="Matthew Inman" />
+    <link type="boardgamedesigner" id="80158" value="Elan Lee" />
+    <link type="boardgameartist" id="107023" value="Linda DeSantis" />
+    <link type="boardgameartist" id="71478" value="Matthew Inman" />
+    <link type="boardgamepublisher" id="32307" value="Exploding Kittens" />
+    <link type="boardgamepublisher" id="2164" value="North Star Games, LLC" />
+    <link type="boardgamepublisher" id="267" value="999 Games" />
+    <link type="boardgamepublisher" id="4304" value="Albi" />
+    <link type="boardgamepublisher" id="917" value="DV Games" />
+    <link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+    <link type="boardgamepublisher" id="21640" value="GP Games" />
+    <link type="boardgamepublisher" id="8923" value="IELLO" />
+    <link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+    <link type="boardgamepublisher" id="37" value="KOSMOS" />
+    <link type="boardgamepublisher" id="23031" value="Magellan" />
+    <link type="boardgamepublisher" id="38392" value="MEBO Games" />
+    <link type="boardgamepublisher" id="7772" value="Mercurio" />
+    <link type="boardgamepublisher" id="36563" value="Reflexshop" />
+    <link type="boardgamepublisher" id="53490" value="Rozum" />
+    <link type="boardgamepublisher" id="18477" value="Top Toys" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="7128" />
+        <average value="6.64147" />
+        <bayesaverage value="6.32273" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1808" bayesaverage="6.32273" />
+          <rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="140" bayesaverage="6.45938" />
+        </ranks>
+        <stddev value="1.60676" />
+        <median value="0" />
+        <owned value="17625" />
+        <trading value="224" />
+        <wanting value="72" />
+        <wishing value="976" />
+        <numcomments value="1515" />
+        <numweights value="140" />
+        <averageweight value="1.0571" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

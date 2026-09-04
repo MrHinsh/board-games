@@ -1,0 +1,161 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="343900">
+    <thumbnail>https://cf.geekdo-images.com/QDkeggSB5MVExqAEXxfvgw__small/img/ZXv9tBBTH1JhDziJ0Wgm7_Aaj6U=/fit-in/200x150/filters:strip_icc()/pic7506502.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/QDkeggSB5MVExqAEXxfvgw__original/img/AdKxSxTStXuLbaZLNLnq4IWMQfA=/0x0/filters:format(jpeg)/pic7506502.jpg</image>
+    <name type="primary" sortindex="1" value="Senjutsu: Battle For Japan" />
+    <name type="alternate" sortindex="1" value="Senjutsu" />
+    <name type="alternate" sortindex="1" value="Senjutsu: Bataille pour le Japon" />
+    <name type="alternate" sortindex="1" value="Senjutsu: Batalla por Japón" />
+    <name type="alternate" sortindex="1" value="Senjutsu: Battaglia per il Giappone" />
+    <name type="alternate" sortindex="1" value="Senjutsu: Bitva o Japonsko" />
+    <name type="alternate" sortindex="1" value="Senjutsu: Bitwa o Japonię" />
+    <name type="alternate" sortindex="1" value="Senjutsu: Japán hadurainak vérrel írott legendája" />
+    <name type="alternate" sortindex="1" value="Сенджюцу: Битва за Японію" />
+    <name type="alternate" sortindex="1" value="Сэндзюцу: Битва за Японию" />
+    <description>Senjutsu is a 1-4 Player Samurai Duelling Game with slick Deck Construction mechanics, simultaneous reveal combat and beautiful miniatures from a panel of sculptors.  Control 1 of 4 fearsome Samurai, warriors bound to the Bushido Code, each with their own strengths, weaknesses, and motivations.
+
+Using Senjutsu's Deck Construction Mechanics, forge a unique deck of devastating attacks, powerful blocks, timely mediations, and dynamic special moves. The intuitive card-classifying system makes forging your Samurai&amp;rsquo;s Ability Deck easy.
+
+The Core Box includes dozens of different Ability Cards to shape your chosen Samurai's fighting style. There are thousands of possible deck combinations available,
+
+Gameplay Summary:
+
+
+     Position your Samurai on the Battlefield. 
+     Draw a hand of Ability Cards from your 40 Card Ability Deck. 
+     Choose an Ability Card to use and place it facedown with the opponent's card.
+     Reveal the cards simultaneously and check the initiatives. 
+     Resolve the card and its effects.
+
+
+Any Samurai who takes 5 wounds will fall... leaving the vanquisher victorious.
+
+</description>
+    <yearpublished value="2023" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="38">
+      <results numplayers="1">
+        <result value="Best" numvotes="10" />
+        <result value="Recommended" numvotes="18" />
+        <result value="Not Recommended" numvotes="5" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="27" />
+        <result value="Recommended" numvotes="4" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="2" />
+        <result value="Recommended" numvotes="17" />
+        <result value="Not Recommended" numvotes="10" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="6" />
+        <result value="Recommended" numvotes="20" />
+        <result value="Not Recommended" numvotes="5" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="3" />
+        <result value="Not Recommended" numvotes="17" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 2 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="20" />
+    <minplaytime value="15" />
+    <maxplaytime value="20" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="10">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="3" />
+        <result value="12" numvotes="3" />
+        <result value="14" numvotes="4" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1039" value="Deduction" />
+    <link type="boardgamecategory" id="1046" value="Fighting" />
+    <link type="boardgamemechanic" id="3004" value="Deck Construction" />
+    <link type="boardgamemechanic" id="3002" value="Deduction" />
+    <link type="boardgamemechanic" id="2676" value="Grid Movement" />
+    <link type="boardgamemechanic" id="2040" value="Hand Management" />
+    <link type="boardgamemechanic" id="2967" value="Hidden Movement" />
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+    <link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+    <link type="boardgamefamily" id="10634" value="Country: Japan" />
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+    <link type="boardgamefamily" id="22135" value="Crowdfunding: Spieleschmiede" />
+    <link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+    <link type="boardgamefamily" id="79353" value="Game: Senjutsu – Battle For Japan" />
+    <link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+    <link type="boardgamefamily" id="79354" value="Series: The Battle For Japan (Stone Sword Games)" />
+    <link type="boardgamefamily" id="28732" value="Theme: Samurai" />
+    <link type="boardgameexpansion" id="419965" value="Senjutsu: Battle For Japan – Daimyo's Castle" />
+    <link type="boardgameexpansion" id="359043" value="Senjutsu: Battle For Japan – Legends of Japan" />
+    <link type="boardgameexpansion" id="349470" value="Senjutsu: Battle For Japan – The Gathering Storm" />
+    <link type="boardgameexpansion" id="349468" value="Senjutsu: Battle For Japan – The Ghost in the Night" />
+    <link type="boardgameexpansion" id="349493" value="Senjutsu: Battle For Japan – The Shadow Under Steel" />
+    <link type="boardgameexpansion" id="359042" value="Senjutsu: Battle For Japan – The Wolf At The Door" />
+    <link type="boardgameexpansion" id="359041" value="Senjutsu: Battle For Japan – When Two Worlds Collide" />
+    <link type="boardgameexpansion" id="381141" value="Senjutsu: Battle For Japan – Winds of Change" />
+    <link type="boardgameaccessory" id="407552" value="Senjutsu: Battle For Japan – Deluxe Box" />
+    <link type="boardgameaccessory" id="440123" value="Senjutsu: Battle For Japan – The GiftForge all-in insert" />
+    <link type="boardgamedesigner" id="103960" value="Paul D. Allen" />
+    <link type="boardgamedesigner" id="122513" value="James Faulkner" />
+    <link type="boardgameartist" id="124669" value="Imad Awan" />
+    <link type="boardgameartist" id="143375" value="Raben White" />
+    <link type="boardgamepublisher" id="44118" value="Stone Sword Games" />
+    <link type="boardgamepublisher" id="48072" value="Bumble3ee Interactive" />
+    <link type="boardgamepublisher" id="58739" value="Geekach LLC" />
+    <link type="boardgamepublisher" id="42147" value="Giant Roc" />
+    <link type="boardgamepublisher" id="34801" value="Lavka Games" />
+    <link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+    <link type="boardgamepublisher" id="5400" value="Matagot" />
+    <link type="boardgamepublisher" id="29487" value="Ogry Games" />
+    <link type="boardgamepublisher" id="27654" value="Pendragon Game Studio" />
+    <link type="boardgamepublisher" id="36563" value="Reflexshop" />
+    <link type="boardgamepublisher" id="41423" value="TLAMA games" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1369" />
+        <average value="7.18765" />
+        <bayesaverage value="6.00654" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3162" bayesaverage="6.00654" />
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="565" bayesaverage="6.43956" />
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="617" bayesaverage="6.2351" />
+        </ranks>
+        <stddev value="1.81474" />
+        <median value="0" />
+        <owned value="4331" />
+        <trading value="119" />
+        <wanting value="62" />
+        <wishing value="1037" />
+        <numcomments value="347" />
+        <numweights value="38" />
+        <averageweight value="2.9211" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

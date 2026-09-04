@@ -1,0 +1,101 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="438930">
+    <thumbnail>https://cf.geekdo-images.com/GZN8jul9KBSH3UdE9HsMvw__small/img/widQzLWMx_NYV218K408mug6VmQ=/fit-in/200x150/filters:strip_icc()/pic8693572.png</thumbnail>
+    <image>https://cf.geekdo-images.com/GZN8jul9KBSH3UdE9HsMvw__original/img/6xdhklrKmaTujlko62KTnDp3yJc=/0x0/filters:format(png)/pic8693572.png</image>
+    <name type="primary" sortindex="1" value="Paranormal" />
+    <description>Paranormal is a game about hunting monsters, helping people, and preventing the end of the world. Take on the role of different members of the Remington family as you hunt down ghosts, vampires, witches, and demons across the United States. Along the way, you'll collect clues about the whereabouts of the Big Bad who's trying to end the world, and then you'll try to go stop it.
+
+At its core, Paranormal is an action point game with dice-rolling combat. Spend action points to move, fight, and find helpful asset cards. Roll dice to meet monster card requirements and slow down the doom track. Use item, weapon, and ally cards to mitigate dice rolls and manipulate monsters.
+
+Put together enough clues to figure out where the Big Bad, a missing family member, and a special weapon are, and then head to that town to prevent the end of the world and win the game. All in about 45 minutes.
+
+If you enjoy campy TV shows and movies about hunting monsters, I think you'll really enjoy this game!
+
+&amp;mdash;description from the publisher
+
+</description>
+    <yearpublished value="2025" />
+    <minplayers value="1" />
+    <maxplayers value="2" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+      <results numplayers="1">
+        <result value="Best" numvotes="5" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="1" />
+        <result value="Not Recommended" numvotes="3" />
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="4" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 1 players" />
+      <result name="recommmendedwith" value="Recommended with 1 players" />
+    </poll-summary>
+    <playingtime value="60" />
+    <minplaytime value="30" />
+    <maxplaytime value="60" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="0" />
+        <result value="12" numvotes="1" />
+        <result value="14" numvotes="1" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1017" value="Dice" />
+    <link type="boardgamecategory" id="1024" value="Horror" />
+    <link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+    <link type="boardgamemechanic" id="2001" value="Action Points" />
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+    <link type="boardgamefamily" id="22184" value="Admin: Upcoming Releases" />
+    <link type="boardgamefamily" id="66292" value="Crowdfunding: Gamefound" />
+    <link type="boardgamefamily" id="61977" value="Players: Solitaire Only Games" />
+    <link type="boardgamedesigner" id="111862" value="Gabe Barrett" />
+    <link type="boardgameartist" id="77921" value="Cole Munro-Chitty" />
+    <link type="boardgamepublisher" id="55769" value="Best With 1 Games" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="103" />
+        <average value="7.1834" />
+        <bayesaverage value="5.55938" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12384" bayesaverage="5.55938" />
+        </ranks>
+        <stddev value="1.32159" />
+        <median value="0" />
+        <owned value="646" />
+        <trading value="10" />
+        <wanting value="19" />
+        <wishing value="74" />
+        <numcomments value="44" />
+        <numweights value="5" />
+        <averageweight value="2.6" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

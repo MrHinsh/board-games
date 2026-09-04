@@ -1,0 +1,104 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="420240">
+    <thumbnail>https://cf.geekdo-images.com/hh9R46uW3xAJsAYvugbuFA__small/img/XcEjkPnVUALnmwmDTa_SG170CXw=/fit-in/200x150/filters:strip_icc()/pic8180243.png</thumbnail>
+    <image>https://cf.geekdo-images.com/hh9R46uW3xAJsAYvugbuFA__original/img/uUhrFi8kdBqLbG7Nprbae-Ml_l8=/0x0/filters:format(png)/pic8180243.png</image>
+    <name type="primary" sortindex="1" value="Hunted: Mining Colony 415 (2nd Edition)" />
+    <description>You were on your way back to earth after a year-long mission when a distress beacon abruptly roused you from hypersleep. The message was mostly static, but it was obvious that something terrible was happening at Mining Colony 415.
+
+Once you and your crew landed and started looking around, unidentified lifeforms started wreaking havoc. During the chaos, everyone got split up and you don&amp;rsquo;t know if anyone is alive or dead. Even Sprinkles, the ship&amp;rsquo;s cat, is missing.
+
+You just heard over the colony&amp;rsquo;s announcement system that the self-destruct protocol has been activated, so you&amp;rsquo;ll have to race back to Landing Pad 7 to get aboard your ship and get out of there before everything explodes&amp;hellip; and you&amp;rsquo;ll have to do it while being hunted by the aliens.
+
+Hunted: Mining Colony 415 is a fast-paced solo game that constantly presents you with tense choices. All the cards are multi-use forcing you to make quick decisions about which ones to discard and which ones to activate. You'll have to balance running, fighting, and hiding if you want to get off the planet alive. It uses uses a dexterity mechanic to resolve events and combat.
+
+The second edition features updated systems for events and taking damage, and it has a non-dexterity option for resolving combat and tests. It also comes in a VHS case!
+
+&amp;mdash;description from the publisher
+
+</description>
+    <yearpublished value="2024" />
+    <minplayers value="1" />
+    <maxplayers value="2" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="1" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 1 players" />
+      <result name="recommmendedwith" value="Recommended with 1 players" />
+    </poll-summary>
+    <playingtime value="30" />
+    <minplaytime value="20" />
+    <maxplaytime value="30" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="0" />
+        <result value="12" numvotes="0" />
+        <result value="14" numvotes="0" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1032" value="Action / Dexterity" />
+    <link type="boardgamecategory" id="1002" value="Card Game" />
+    <link type="boardgamecategory" id="1016" value="Science Fiction" />
+    <link type="boardgamemechanic" id="2860" value="Flicking" />
+    <link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+    <link type="boardgamefamily" id="66292" value="Crowdfunding: Gamefound" />
+    <link type="boardgamefamily" id="74088" value="Game: Hunted" />
+    <link type="boardgameaccessory" id="433227" value="Hunted: Kobayashi Tower/Mining Colony 415 – Neoprene Playmat" />
+    <link type="boardgameimplementation" id="289565" value="Hunted: Mining Colony 415" inbound="true" />
+    <link type="boardgamedesigner" id="111862" value="Gabe Barrett" />
+    <link type="boardgameartist" id="121161" value="Jorge M. Velez" />
+    <link type="boardgamepublisher" id="55769" value="Best With 1 Games" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="116" />
+        <average value="6.85474" />
+        <bayesaverage value="5.55961" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12359" bayesaverage="5.55961" />
+        </ranks>
+        <stddev value="1.22307" />
+        <median value="0" />
+        <owned value="570" />
+        <trading value="17" />
+        <wanting value="18" />
+        <wishing value="63" />
+        <numcomments value="42" />
+        <numweights value="3" />
+        <averageweight value="1.3333" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

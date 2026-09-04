@@ -1,0 +1,185 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="172225">
+    <thumbnail>https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__small/img/3tH4pIc1Udzkd0tXc6MgVQ59BC0=/fit-in/200x150/filters:strip_icc()/pic2691976.png</thumbnail>
+    <image>https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__original/img/0ciN1VZYifUd0qIDO0e8cGXmiss=/0x0/filters:format(png)/pic2691976.png</image>
+    <name type="primary" sortindex="1" value="Exploding Kittens" />
+    <name type="alternate" sortindex="1" value="Eksplodujące kotki" />
+    <name type="alternate" sortindex="1" value="Eksplozivni Mačići" />
+    <name type="alternate" sortindex="1" value="Exploding Kitten: 10 Years of Chaos" />
+    <name type="alternate" sortindex="1" value="Exploding Kittens بسبس بومبا" />
+    <name type="alternate" sortindex="1" value="Exploding Kittens: Original Edition" />
+    <name type="alternate" sortindex="1" value="Robbanó cicák" />
+    <name type="alternate" sortindex="1" value="Výbušná koťátka" />
+    <name type="alternate" sortindex="1" value="World's Smallest Exploding Kittens" />
+    <name type="alternate" sortindex="1" value="Εκρηκτικά Γατάκια" />
+    <name type="alternate" sortindex="1" value="Εκρηκτικά Γατάκια" />
+    <name type="alternate" sortindex="1" value="Взрывные котята" />
+    <name type="alternate" sortindex="1" value="Вибухові кошенята" />
+    <name type="alternate" sortindex="1" value="Вибухові кошенята: Оригінальне видання" />
+    <name type="alternate" sortindex="1" value="חתולים מתפוצצים" />
+    <name type="alternate" sortindex="1" value="เหมียวระเบิด" />
+    <name type="alternate" sortindex="1" value="こねこばくはつ" />
+    <name type="alternate" sortindex="1" value="爆炸貓" />
+    <name type="alternate" sortindex="1" value="익스플로딩 키튼" />
+    <name type="alternate" sortindex="1" value="익스플로딩 키튼: 혼돈의 10년" />
+    <description>Exploding Kittens is a kitty-powered version of Russian Roulette. Players take turns drawing cards until someone draws an exploding kitten and loses the game. The deck is made up of cards that let you avoid exploding by peeking at cards before you draw, forcing your opponent to draw multiple cards, or shuffling the deck.
+
+The game gets more and more intense with each card you draw because fewer cards left in the deck means a greater chance of drawing the kitten and exploding in a fiery ball of feline hyperbole.
+
+</description>
+    <yearpublished value="2015" />
+    <minplayers value="2" />
+    <maxplayers value="5" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="444">
+      <results numplayers="1">
+        <result value="Best" numvotes="2" />
+        <result value="Recommended" numvotes="2" />
+        <result value="Not Recommended" numvotes="348" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="11" />
+        <result value="Recommended" numvotes="103" />
+        <result value="Not Recommended" numvotes="269" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="54" />
+        <result value="Recommended" numvotes="306" />
+        <result value="Not Recommended" numvotes="36" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="300" />
+        <result value="Recommended" numvotes="99" />
+        <result value="Not Recommended" numvotes="9" />
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="256" />
+        <result value="Recommended" numvotes="110" />
+        <result value="Not Recommended" numvotes="17" />
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="30" />
+        <result value="Recommended" numvotes="53" />
+        <result value="Not Recommended" numvotes="194" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 4–5 players" />
+      <result name="recommmendedwith" value="Recommended with 3–5 players" />
+    </poll-summary>
+    <playingtime value="15" />
+    <minplaytime value="15" />
+    <maxplaytime value="15" />
+    <minage value="7" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="174">
+      <results>
+        <result value="2" numvotes="1" />
+        <result value="3" numvotes="1" />
+        <result value="4" numvotes="1" />
+        <result value="5" numvotes="5" />
+        <result value="6" numvotes="61" />
+        <result value="8" numvotes="81" />
+        <result value="10" numvotes="19" />
+        <result value="12" numvotes="4" />
+        <result value="14" numvotes="0" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="1" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="48">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="39" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="8" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1089" value="Animals" />
+    <link type="boardgamecategory" id="1002" value="Card Game" />
+    <link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+    <link type="boardgamecategory" id="1079" value="Humor" />
+    <link type="boardgamemechanic" id="2040" value="Hand Management" />
+    <link type="boardgamemechanic" id="3000" value="Hot Potato" />
+    <link type="boardgamemechanic" id="2685" value="Player Elimination" />
+    <link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+    <link type="boardgamemechanic" id="2004" value="Set Collection" />
+    <link type="boardgamemechanic" id="2686" value="Take That" />
+    <link type="boardgamefamily" id="7334" value="Animals: Cats" />
+    <link type="boardgamefamily" id="24432" value="Card Games: Matching" />
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+    <link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+    <link type="boardgamefamily" id="78432" value="Digital Implementations: Google Play" />
+    <link type="boardgamefamily" id="74974" value="Game: Exploding Kittens" />
+    <link type="boardgamefamily" id="66787" value="Series: World's Smallest (Super Impulse)" />
+    <link type="boardgameexpansion" id="209454" value="Blackbox Press kit" />
+    <link type="boardgameexpansion" id="477504" value="Exploding Kittens: Aggro Kittens" />
+    <link type="boardgameexpansion" id="312667" value="Exploding Kittens: Barking Kittens" />
+    <link type="boardgameexpansion" id="477505" value="Exploding Kittens: Creepy Kittens" />
+    <link type="boardgameexpansion" id="204053" value="Exploding Kittens: Imploding Kittens" />
+    <link type="boardgameexpansion" id="260214" value="Exploding Kittens: Streaking Kittens" />
+    <link type="boardgameexpansion" id="232697" value="Hidden Compartment Pack: Expansion for Cards Against Humanity and Exploding Kittens" />
+    <link type="boardgameexpansion" id="372808" value="Zombie Kittens: Not the Full Game. Just the 22 Expansion Cards" />
+    <link type="boardgameaccessory" id="437899" value="Exploding Kittens: Braille Accessibility Kit" />
+    <link type="boardgameintegration" id="356226" value="Exploding Kittens: 2-Player Edition" />
+    <link type="boardgameintegration" id="172242" value="Exploding Kittens: NSFW Edition" />
+    <link type="boardgameintegration" id="362202" value="Zombie Kittens" />
+    <link type="boardgameimplementation" id="383201" value="Exploding Kittens: Cat Burglar Edition" />
+    <link type="boardgameimplementation" id="476165" value="Exploding Kittens: Curse You!" />
+    <link type="boardgameimplementation" id="435944" value="Exploding Kittens: Duels" />
+    <link type="boardgameimplementation" id="395906" value="Exploding Kittens: Good vs Evil" />
+    <link type="boardgameimplementation" id="430593" value="Exploding Kittens: Grab &amp; Game" />
+    <link type="boardgameimplementation" id="246398" value="Exploding Kittens: Newbie Edition" />
+    <link type="boardgameimplementation" id="256804" value="Exploding Kittens: Party Pack" />
+    <link type="boardgameimplementation" id="343282" value="Exploding Kittens: Recipes for Disaster" />
+    <link type="boardgameimplementation" id="341164" value="Exploding Minions" />
+    <link type="boardgamedesigner" id="71478" value="Matthew Inman" />
+    <link type="boardgamedesigner" id="80158" value="Elan Lee" />
+    <link type="boardgamedesigner" id="5874" value="Shane Small" />
+    <link type="boardgameartist" id="71478" value="Matthew Inman" />
+    <link type="boardgameartist" id="80158" value="Elan Lee" />
+    <link type="boardgameartist" id="5874" value="Shane Small" />
+    <link type="boardgamepublisher" id="23584" value="Ad Magic, Inc. (AdMagic Games)" />
+    <link type="boardgamepublisher" id="32307" value="Exploding Kittens" />
+    <link type="boardgamepublisher" id="4" value="(Self-Published)" />
+    <link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+    <link type="boardgamepublisher" id="38809" value="Angry Lion Games" />
+    <link type="boardgamepublisher" id="157" value="asmodee" />
+    <link type="boardgamepublisher" id="34209" value="Blackfire Games" />
+    <link type="boardgamepublisher" id="34501" value="Boardgame Space" />
+    <link type="boardgamepublisher" id="50696" value="CoolPlay" />
+    <link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+    <link type="boardgamepublisher" id="8820" value="Gémklub" />
+    <link type="boardgamepublisher" id="28415" value="GoKids 玩樂小子" />
+    <link type="boardgamepublisher" id="23382" value="HaKubia" />
+    <link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+    <link type="boardgamepublisher" id="18852" value="Hobby World" />
+    <link type="boardgamepublisher" id="9634" value="KADABRA" />
+    <link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+    <link type="boardgamepublisher" id="41167" value="Popcorn Games" />
+    <link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+    <link type="boardgamepublisher" id="53490" value="Rozum" />
+    <link type="boardgamepublisher" id="33998" value="Siam Board Games" />
+    <link type="boardgamepublisher" id="30088" value="Super Impulse" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="42439" />
+        <average value="6.06845" />
+        <bayesaverage value="5.88537" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4032" bayesaverage="5.88537" />
+          <rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="580" bayesaverage="5.6918" />
+        </ranks>
+        <stddev value="1.7414" />
+        <median value="0" />
+        <owned value="95513" />
+        <trading value="1244" />
+        <wanting value="82" />
+        <wishing value="1774" />
+        <numcomments value="6420" />
+        <numweights value="1042" />
+        <averageweight value="1.0787" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

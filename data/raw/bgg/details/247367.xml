@@ -1,0 +1,135 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="247367">
+    <thumbnail>https://cf.geekdo-images.com/3wpYeNwO7k_yjpIN7IQwaw__small/img/kfzWQvTxwcVx_ljICqhu5Coq53Q=/fit-in/200x150/filters:strip_icc()/pic4387681.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/3wpYeNwO7k_yjpIN7IQwaw__original/img/_qQC98hufgmPn_fwMrP4I0sYKO8=/0x0/filters:format(jpeg)/pic4387681.jpg</image>
+    <name type="primary" sortindex="1" value="Air, Land, &amp; Sea" />
+    <name type="alternate" sortindex="1" value="Air, Land &amp; Sea: Bestioles en Guerre" />
+    <name type="alternate" sortindex="1" value="Air, Land, and Sea: Animali in Guerra" />
+    <name type="alternate" sortindex="1" value="Air, Land, and Sea: Critters at War" />
+    <name type="alternate" sortindex="1" value="Aire, Tierra y Mar" />
+    <name type="alternate" sortindex="1" value="Luft, Land und See" />
+    <name type="alternate" sortindex="1" value="Zwierzęcy front" />
+    <name type="alternate" sortindex="1" value="По всем фронтам" />
+    <name type="alternate" sortindex="1" value="По всем фронтам: Зверский десант" />
+    <name type="alternate" sortindex="1" value="По всіх фронтах: Звірі на війні" />
+    <description>As Supreme Commander of your country's military forces in Air, Land, &amp; Sea, you must carefully deploy your forces across three theaters of war: air, land, and sea. At the start of each battle, you're dealt a hand of six cards. Players take turns playing cards one at a time, until all cards have been played &amp;mdash; or one player decides to withdraw. The order in which you play your cards is critical, as is whether you play them face up or face down. Playing a card face up triggers its tactical ability, but the card must be played in its corresponding theater. Face-down cards can be played to any theater, but have a strength of only 2 and do not grant tactical abilities.
+
+Sometimes, it may be best to withdraw in order to deny your opponent complete victory as points are awarded at the end of each battle based on the results. The first player to 12 points wins!
+
+Air, Land, &amp; Sea: Critters at War features the same gameplay as in Air, Land, &amp; Sea, but with 100% critters and more vibrant colors.
+
+</description>
+    <yearpublished value="2019" />
+    <minplayers value="2" />
+    <maxplayers value="2" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="81">
+      <results numplayers="1">
+        <result value="Best" numvotes="2" />
+        <result value="Recommended" numvotes="1" />
+        <result value="Not Recommended" numvotes="60" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="78" />
+        <result value="Recommended" numvotes="1" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="62" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 2 players" />
+      <result name="recommmendedwith" value="Recommended with 2 players" />
+    </poll-summary>
+    <playingtime value="20" />
+    <minplaytime value="20" />
+    <maxplaytime value="20" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="28">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="1" />
+        <result value="8" numvotes="15" />
+        <result value="10" numvotes="7" />
+        <result value="12" numvotes="4" />
+        <result value="14" numvotes="1" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="12">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="6" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1089" value="Animals" />
+    <link type="boardgamecategory" id="1002" value="Card Game" />
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+    <link type="boardgamecategory" id="1049" value="World War II" />
+    <link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+    <link type="boardgamemechanic" id="2857" value="Card Play Conflict Resolution" />
+    <link type="boardgamemechanic" id="2040" value="Hand Management" />
+    <link type="boardgamemechanic" id="3144" value="Lane Battler" />
+    <link type="boardgamefamily" id="103962" value="Card Games: Lane Battler" />
+    <link type="boardgamefamily" id="61206" value="Category: Two-Player Fighting Games" />
+    <link type="boardgamefamily" id="22135" value="Crowdfunding: Spieleschmiede" />
+    <link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+    <link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+    <link type="boardgamefamily" id="61979" value="Players: Two-Player Only Games" />
+    <link type="boardgamefamily" id="72016" value="Players: Wargames with Rules Supporting Only Two Players" />
+    <link type="boardgamefamily" id="115722" value="Series:  Air, Land, &amp; Sea" />
+    <link type="boardgamefamily" id="65154" value="Theme: Animal Battles" />
+    <link type="boardgamefamily" id="65774" value="Theme: Anthropomorphic Animals" />
+    <link type="boardgameexpansion" id="314335" value="Air, Land, &amp; Sea: Ultimatum (Promo)" />
+    <link type="boardgameaccessory" id="355999" value="Air, Land, &amp; Sea: Foil Theater Cards" />
+    <link type="boardgameaccessory" id="381225" value="Air, Land, and Sea: Critters at War – Foil Theater Cards" />
+    <link type="boardgameintegration" id="478092" value="Air, Land, &amp; Sea: Hearts, Minds, &amp; Enemy Lines" />
+    <link type="boardgameintegration" id="358981" value="Air, Land, &amp; Sea: Spies, Lies, &amp; Supplies" />
+    <link type="boardgamecompilation" id="478329" value="Animali in Guerra: Collector's Box" />
+    <link type="boardgamedesigner" id="73364" value="Jon Perry" />
+    <link type="boardgameartist" id="110420" value="Valerio Buonfantino" />
+    <link type="boardgameartist" id="74467" value="Stephen Gibson" />
+    <link type="boardgameartist" id="106544" value="Derek Laufman" />
+    <link type="boardgamepublisher" id="17812" value="Arcane Wonders" />
+    <link type="boardgamepublisher" id="1001" value="(Web published)" />
+    <link type="boardgamepublisher" id="42728" value="FunMill.ru" />
+    <link type="boardgamepublisher" id="48438" value="Games7Days" />
+    <link type="boardgamepublisher" id="42147" value="Giant Roc" />
+    <link type="boardgamepublisher" id="18852" value="Hobby World" />
+    <link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+    <link type="boardgamepublisher" id="30677" value="Maldito Games" />
+    <link type="boardgamepublisher" id="45510" value="Rawstone" />
+    <link type="boardgamepublisher" id="44181" value="Studio Supernova" />
+    <link type="boardgamepublisher" id="28082" value="Нескучные игры" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="11014" />
+        <average value="7.43613" />
+        <bayesaverage value="7.06959" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="424" bayesaverage="7.06959" />
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="300" bayesaverage="7.13149" />
+        </ranks>
+        <stddev value="1.16029" />
+        <median value="0" />
+        <owned value="21637" />
+        <trading value="336" />
+        <wanting value="291" />
+        <wishing value="3747" />
+        <numcomments value="2339" />
+        <numweights value="201" />
+        <averageweight value="1.7363" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

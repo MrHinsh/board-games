@@ -1,0 +1,159 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="340466">
+    <thumbnail>https://cf.geekdo-images.com/_kZDRdv3tONk9vTcA_OwSA__small/img/_8WyQKScotYGRBbKT1ypXnH2YiA=/fit-in/200x150/filters:strip_icc()/pic8317346.png</thumbnail>
+    <image>https://cf.geekdo-images.com/_kZDRdv3tONk9vTcA_OwSA__original/img/oEyl7gbuPch1ZM8H8e47XEOb_rs=/0x0/filters:format(png)/pic8317346.png</image>
+    <name type="primary" sortindex="1" value="Unfathomable" />
+    <name type="alternate" sortindex="1" value="Abgrundtief" />
+    <name type="alternate" sortindex="1" value="Insondabili" />
+    <name type="alternate" sortindex="1" value="Insondable" />
+    <name type="alternate" sortindex="3" value="L'Insondable" />
+    <name type="alternate" sortindex="1" value="Insondável" />
+    <name type="alternate" sortindex="1" value="Kifürkészhetetlen" />
+    <name type="alternate" sortindex="1" value="Nevyzpytatelní" />
+    <name type="alternate" sortindex="1" value="Odmęty grozy" />
+    <name type="alternate" sortindex="1" value="Незбагненне" />
+    <name type="alternate" sortindex="1" value="Непостижимое" />
+    <name type="alternate" sortindex="1" value="深淵之中" />
+    <name type="alternate" sortindex="1" value="深渊之中" />
+    <description>The year is 1913. The steamship SS Atlantica is two days out from port on its voyage across the Atlantic Ocean. Its unsuspecting passengers fully anticipated a calm journey to Boston, Massachusetts, with nothing out of the ordinary to look forward to. However, strange nightmares plague the minds of the people aboard the ship every night; rumors circulate of dark shapes following closely behind the ship just beneath the waves; and tensions rise when a body is discovered in the ship's chapel, signs of a strange ritual littered around the corpse.
+
+Lurking within the depths of the Atlantic Ocean are a swarm of vicious, unspeakable horrors: the Deep Ones, led by Mother Hydra and Father Dagon. For reasons unknown, they have set their sights on the Atlantica, and their minions, taking the form of human-Deep One hybrids, have infiltrated the steamship to help sink it from within. Each game of Unfathomable has one or more players assuming the role of one of these hybrids, and how well they can secretly sabotage the efforts of the other players might mean the difference between a successful voyage and a sunken ship.
+
+If you're a human, you need to fend off Deep Ones, prevent the Atlantica from taking too much damage, and carefully manage the ship's four crucial resources if you want any hope of making it to Boston, all while trying to figure out which of your fellow players are friends and which are foes. Everyone shares the same resource pool, but humans will try to preserve them while traitors will strive to subtly deplete them. Being able to tell when someone is purposefully draining the group's resources is harder than you think, especially when you take crises into account!
+
+At the end of each player's turn, that player must draw a mythos card. Each of these cards represents a crisis that the whole group must try to resolve together. Some of these crises, such as "Food Rationing", call for a choice that could potentially put the ship's passengers or resources at risk, while others, such as "Hull Leak", call for a skill test in which failure could have disastrous consequences.
+
+During a skill test, each player contributes skill cards from their hand to a face-down pile shared by the group. Once everyone has contributed (or chosen not to), the cards are shuffled, then revealed. If enough of the correct skills were contributed, then the group passes the test! But if the wrong skills were contributed, they can actually hinder the results, leading to failure. Thus, skill tests are dangerous opportunities for traitors to sabotage the humans' efforts, so you have to stay on your toes at all times.
+
+&amp;mdash;description from the publisher
+
+</description>
+    <yearpublished value="2021" />
+    <minplayers value="3" />
+    <maxplayers value="6" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="169">
+      <results numplayers="1">
+        <result value="Best" numvotes="2" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="108" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="111" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="30" />
+        <result value="Not Recommended" numvotes="88" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="21" />
+        <result value="Recommended" numvotes="89" />
+        <result value="Not Recommended" numvotes="17" />
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="109" />
+        <result value="Recommended" numvotes="31" />
+        <result value="Not Recommended" numvotes="7" />
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="41" />
+        <result value="Recommended" numvotes="70" />
+        <result value="Not Recommended" numvotes="24" />
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="3" />
+        <result value="Not Recommended" numvotes="72" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 5 players" />
+      <result name="recommmendedwith" value="Recommended with 4–6 players" />
+    </poll-summary>
+    <playingtime value="240" />
+    <minplaytime value="120" />
+    <maxplaytime value="240" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="24">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="3" />
+        <result value="12" numvotes="8" />
+        <result value="14" numvotes="12" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="1" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="8">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="8" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1023" value="Bluffing" />
+    <link type="boardgamecategory" id="1039" value="Deduction" />
+    <link type="boardgamecategory" id="1010" value="Fantasy" />
+    <link type="boardgamecategory" id="1024" value="Horror" />
+    <link type="boardgamecategory" id="1093" value="Novel-based" />
+    <link type="boardgamemechanic" id="2046" value="Area Movement" />
+    <link type="boardgamemechanic" id="2040" value="Hand Management" />
+    <link type="boardgamemechanic" id="2891" value="Hidden Roles" />
+    <link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+    <link type="boardgamemechanic" id="2814" value="Traitor Game" />
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+    <link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+    <link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+    <link type="boardgamefamily" id="4311" value="Series: Arkham Horror Files (Fantasy Flight Games)" />
+    <link type="boardgamefamily" id="75454" value="Theme: Art style – Art Nouveau" />
+    <link type="boardgamefamily" id="71978" value="Theme: Cruise ships" />
+    <link type="boardgamefamily" id="5141" value="Theme: Cthulhu Mythos" />
+    <link type="boardgameexpansion" id="416590" value="Unfathomable: From the Abyss" />
+    <link type="boardgameaccessory" id="366176" value="Unfathomable: FancyButFunctional Box Organizer" />
+    <link type="boardgameaccessory" id="445494" value="Unfathomable: Folded Space Insert" />
+    <link type="boardgameaccessory" id="381313" value="Unfathomable: PrintablesByCaren Insert" />
+    <link type="boardgameaccessory" id="363146" value="Unfathomable: The GiftForge Insert" />
+    <link type="boardgameimplementation" id="37111" value="Battlestar Galactica: The Board Game" inbound="true" />
+    <link type="boardgamedesigner" id="50438" value="Tony Fanchi" />
+    <link type="boardgamedesigner" id="6651" value="Corey Konieczka" />
+    <link type="boardgameartist" id="24858" value="Henning Ludvigsen" />
+    <link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+    <link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+    <link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+    <link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+    <link type="boardgamepublisher" id="58739" value="Geekach LLC" />
+    <link type="boardgamepublisher" id="28415" value="GoKids 玩樂小子" />
+    <link type="boardgamepublisher" id="18852" value="Hobby World" />
+    <link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="7492" />
+        <average value="7.45119" />
+        <bayesaverage value="6.91112" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="611" bayesaverage="6.91112" />
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="139" bayesaverage="7.08115" />
+        </ranks>
+        <stddev value="1.46031" />
+        <median value="0" />
+        <owned value="15903" />
+        <trading value="218" />
+        <wanting value="291" />
+        <wishing value="4204" />
+        <numcomments value="1275" />
+        <numweights value="211" />
+        <averageweight value="3.1232" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

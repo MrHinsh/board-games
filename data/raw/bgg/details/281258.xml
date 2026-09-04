@@ -1,0 +1,151 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="281258">
+    <thumbnail>https://cf.geekdo-images.com/IPMyu6Yj1j-fuQt0hgHINw__small/img/u1T6wKdSvBjUYzgZm9wAL1Zrj5M=/fit-in/200x150/filters:strip_icc()/pic4933104.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/IPMyu6Yj1j-fuQt0hgHINw__original/img/EJf4Ogge9qYHFLGzxcAAYTkGFhU=/0x0/filters:format(jpeg)/pic4933104.jpg</image>
+    <name type="primary" sortindex="1" value="Sub Terra II: Inferno's Edge" />
+    <name type="alternate" sortindex="1" value="Sub Terra 2" />
+    <name type="alternate" sortindex="1" value="Sub Terra II" />
+    <name type="alternate" sortindex="1" value="Sub Terra II: Au bord de l'enfer" />
+    <description>Sub Terra II: Inferno's Edge is a cooperative adventure board game. You and up to five friends must explore a tile-based volcano temple to steal a legendary artifact.  To get it, you must find the path to the inner sanctum, unlock the secrets within, then escape the way you came.
+
+This is a dangerous place. You'll need to work as a team to avoid deadly traps, brave scorching lava and defeat the temple's mysterious guardians. Stick together to share your skills, or split up to cover more ground. But beware - the volcano stirs beneath you, and you're running out of time...
+
+In Sub Terra II: Inferno's Edge, players will be progressively revealing new tiles, forming the board, mapping the volcanic temple from its sunlit entrance to its fiery core. As players explore through the temple, they will have to overcome obstacles, avoid hazardous terrain, and face the ferocious guardians of the 'artifact'. On each player's turn, after taking their actions, a random hazard will activate, making careful planning of actions essential to survival.
+
+Players must collectively locate and obtain 3 'keys', mysterious objects that are needed to gain entry to the chamber containing the legendary artifact. Your adventures must be quick, though, as the volcano stirs and as the game progresses you get closer to the volcano erupting, flipping tiles to completely inhospitable lava flows that will chase the adventurers from the cave.
+
+&amp;mdash;description from the publisher
+
+</description>
+    <yearpublished value="2023" />
+    <minplayers value="1" />
+    <maxplayers value="6" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="32">
+      <results numplayers="1">
+        <result value="Best" numvotes="4" />
+        <result value="Recommended" numvotes="17" />
+        <result value="Not Recommended" numvotes="2" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="12" />
+        <result value="Recommended" numvotes="10" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="8" />
+        <result value="Recommended" numvotes="15" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="15" />
+        <result value="Recommended" numvotes="8" />
+        <result value="Not Recommended" numvotes="3" />
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="5" />
+        <result value="Recommended" numvotes="13" />
+        <result value="Not Recommended" numvotes="4" />
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="4" />
+        <result value="Recommended" numvotes="14" />
+        <result value="Not Recommended" numvotes="4" />
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="1" />
+        <result value="Not Recommended" numvotes="11" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 2, 4 players" />
+      <result name="recommmendedwith" value="Recommended with 1–6 players" />
+    </poll-summary>
+    <playingtime value="75" />
+    <minplaytime value="45" />
+    <maxplaytime value="75" />
+    <minage value="10" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="1" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="5" />
+        <result value="12" numvotes="1" />
+        <result value="14" numvotes="0" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="1" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1022" value="Adventure" />
+    <link type="boardgamecategory" id="1017" value="Dice" />
+    <link type="boardgamecategory" id="1020" value="Exploration" />
+    <link type="boardgamecategory" id="1010" value="Fantasy" />
+    <link type="boardgamecategory" id="1024" value="Horror" />
+    <link type="boardgamecategory" id="1082" value="Mythology" />
+    <link type="boardgamemechanic" id="2001" value="Action Points" />
+    <link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+    <link type="boardgamemechanic" id="2676" value="Grid Movement" />
+    <link type="boardgamemechanic" id="2959" value="Map Addition" />
+    <link type="boardgamemechanic" id="2011" value="Modular Board" />
+    <link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+    <link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamemechanic" id="2002" value="Tile Placement" />
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+    <link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+    <link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+    <link type="boardgamefamily" id="53369" value="Game: Sub Terra" />
+    <link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+    <link type="boardgamefamily" id="69032" value="Theme: Temple" />
+    <link type="boardgamefamily" id="63335" value="Theme: Volcanoes" />
+    <link type="boardgameexpansion" id="290827" value="Sub Terra II: Arima's Light" />
+    <link type="boardgameexpansion" id="290828" value="Sub Terra II: Typhaon Wakes" />
+    <link type="boardgameaccessory" id="395836" value="Sub Terra II: Attack of the Crabs" />
+    <link type="boardgameaccessory" id="290830" value="Sub Terra II: Inferno's Edge – Core Upgrade Pack" />
+    <link type="boardgameimplementation" id="204472" value="Sub Terra" inbound="true" />
+    <link type="boardgamedesigner" id="87948" value="Tim Pinder" />
+    <link type="boardgameartist" id="97837" value="Diana Franco Campos" />
+    <link type="boardgamepublisher" id="31638" value="Inside the Box Board Games LLP (ITB)" />
+    <link type="boardgamepublisher" id="39898" value="Naylor Games" />
+    <link type="boardgamepublisher" id="15906" value="Nuts! Publishing" />
+    <link type="boardgamepublisher" id="24844" value="Schwerkraft-Verlag" />
+    <link type="boardgamepublisher" id="34182" value="Second Gate Games" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1252" />
+        <average value="7.47687" />
+        <bayesaverage value="6.13436" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2524" bayesaverage="6.13436" />
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="495" bayesaverage="6.39909" />
+          <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="761" bayesaverage="6.27037" />
+        </ranks>
+        <stddev value="1.50109" />
+        <median value="0" />
+        <owned value="2957" />
+        <trading value="51" />
+        <wanting value="106" />
+        <wishing value="849" />
+        <numcomments value="324" />
+        <numweights value="31" />
+        <averageweight value="2.1613" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

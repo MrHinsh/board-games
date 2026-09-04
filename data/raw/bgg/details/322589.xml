@@ -1,0 +1,142 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="322589">
+    <thumbnail>https://cf.geekdo-images.com/MsSuyFg7rV3CLcWTcYek4g__small/img/0cEURkEl4T8EUcAFJn450Yhtynk=/fit-in/200x150/filters:strip_icc()/pic5735710.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/MsSuyFg7rV3CLcWTcYek4g__original/img/emeNCt5U-35b7ksheO_wl52zegY=/0x0/filters:format(jpeg)/pic5735710.jpg</image>
+    <name type="primary" sortindex="1" value="Zapotec" />
+    <name type="alternate" sortindex="1" value="サポテカ" />
+    <description>The Zapotec were a pre-Columbian civilization that flourished in the Valley of Oaxaca in Mesoamerica. Archaeological evidence reveal their culture going back at least 2,500 years. Remnants of the ancient city of Monte Alb&amp;aacute;n in the form of buildings, ball courts, magnificent tombs, and finely worked gold jewelry testify of this once great civilization. Monte Alb&amp;aacute;n was one of the first major cities in Mesoamerica and the center of the Zapotec state that dominated much of the territory that today belongs to the Mexican state of Oaxaca.
+
+In a game of Zapotec, you build temples, cornfields and villages in the three valleys surrounding the capital to generate resources needed for building pyramids, making sacrifices to the gods, and performing rituals.
+
+Each round, players simultaneously pick a card from their hand to determine their turn order and the resources they collect. Players then perform individual turns and spend resources to build new houses, gain access to special abilities, make sacrifices to the gods and build pyramids. The played action card determines three important aspects of each player's turn:
+
+
+    The resource printed at the top of the card determines the row or column to activate on the resource grid to collect income.
+
+
+
+    The icon in the middle of the card matches one of the nine properties of the building spaces on the map (one of three building types, one of three regions, or one of three terrain types). On their turn, players may build only on spaces that match that icon.
+
+
+
+    The number at the bottom of the card dictates the turn order for the round when the card is played.
+
+
+At the end of the round, players draft new cards from the central offer, with the final undrafted card becoming the scoring bonus card for the following round.
+
+After five rounds, players score points for pyramids, for their position on the sacrifice track, and for their ritual cards. The player with the most victory points wins.
+
+&amp;mdash;description from publisher
+
+</description>
+    <yearpublished value="2022" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="52">
+      <results numplayers="1">
+        <result value="Best" numvotes="6" />
+        <result value="Recommended" numvotes="25" />
+        <result value="Not Recommended" numvotes="7" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="10" />
+        <result value="Recommended" numvotes="24" />
+        <result value="Not Recommended" numvotes="7" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="33" />
+        <result value="Recommended" numvotes="6" />
+        <result value="Not Recommended" numvotes="5" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="9" />
+        <result value="Recommended" numvotes="16" />
+        <result value="Not Recommended" numvotes="10" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="19" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 3 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="75" />
+    <minplaytime value="60" />
+    <maxplaytime value="75" />
+    <minage value="12" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="1" />
+        <result value="12" numvotes="4" />
+        <result value="14" numvotes="0" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="1" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="1" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient" />
+    <link type="boardgamecategory" id="1086" value="Territory Building" />
+    <link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+    <link type="boardgamemechanic" id="2040" value="Hand Management" />
+    <link type="boardgamemechanic" id="2041" value="Open Drafting" />
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamemechanic" id="2826" value="Turn Order: Stat-Based" />
+    <link type="boardgamefamily" id="10642" value="Country: Mexico" />
+    <link type="boardgamefamily" id="22135" value="Crowdfunding: Spieleschmiede" />
+    <link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+    <link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+    <link type="boardgamefamily" id="43639" value="Theme: Native Americans / First Peoples" />
+    <link type="boardgameexpansion" id="350461" value="Loot Box #1" />
+    <link type="boardgameexpansion" id="350459" value="Zapotec: Asymmetrical Player Boards" />
+    <link type="boardgameexpansion" id="350471" value="Zapotec: Quick Start" />
+    <link type="boardgamedesigner" id="100575" value="Fabio Lopiano" />
+    <link type="boardgameartist" id="86237" value="Zbigniew Umgelter" />
+    <link type="boardgameartist" id="129439" value="Aleksander Zawada" />
+    <link type="boardgamepublisher" id="26630" value="Board&amp;Dice" />
+    <link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+    <link type="boardgamepublisher" id="7251" value="Giochix.it" />
+    <link type="boardgamepublisher" id="42145" value="Kobold Spieleverlag" />
+    <link type="boardgamepublisher" id="30677" value="Maldito Games" />
+    <link type="boardgamepublisher" id="30034" value="Pixie Games" />
+    <link type="boardgamepublisher" id="22609" value="テンデイズゲームズ (TendaysGames)" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1638" />
+        <average value="7.13149" />
+        <bayesaverage value="6.155" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2425" bayesaverage="6.155" />
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1179" bayesaverage="6.29615" />
+        </ranks>
+        <stddev value="1.18436" />
+        <median value="0" />
+        <owned value="3532" />
+        <trading value="155" />
+        <wanting value="73" />
+        <wishing value="584" />
+        <numcomments value="389" />
+        <numweights value="76" />
+        <averageweight value="3" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

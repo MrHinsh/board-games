@@ -1,0 +1,156 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="279537">
+    <thumbnail>https://cf.geekdo-images.com/NItjtztEUAKOpaTWZddu9A__small/img/x8YD4cAVOAbSDsZbmKgU0-WQ9wI=/fit-in/200x150/filters:strip_icc()/pic5744928.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/NItjtztEUAKOpaTWZddu9A__original/img/fr-JmerGdiEj6r9UM7F6laogGF0=/0x0/filters:format(jpeg)/pic5744928.jpg</image>
+    <name type="primary" sortindex="5" value="The Search for Planet X" />
+    <name type="alternate" sortindex="1" value="À la Recherche de la Planète X" />
+    <name type="alternate" sortindex="4" value="La Búsqueda del Planeta X" />
+    <name type="alternate" sortindex="1" value="Em Busca do Planeta X" />
+    <name type="alternate" sortindex="1" value="Poszukiwanie Planety X" />
+    <name type="alternate" sortindex="5" value="Die Suche nach Planet X" />
+    <name type="alternate" sortindex="4" value="Az X bolygó nyomában" />
+    <name type="alternate" sortindex="1" value="X行星之谜" />
+    <name type="alternate" sortindex="1" value="Αναζητώντας τον πλανήτη Χ" />
+    <name type="alternate" sortindex="1" value="Поиски планеты X" />
+    <name type="alternate" sortindex="1" value="У пошуках планети X" />
+    <name type="alternate" sortindex="1" value="惑星Xの探索" />
+    <name type="alternate" sortindex="1" value="행성 X를 찾아서" />
+    <description>At the edge of our solar system, a dark planet may lurk. In 2015, astronomers estimated a large distant planet could explain the unique orbits of dwarf planets and other objects. Since then, astronomers have been scanning the sky, hoping to find this planet.
+
+In The Search for Planet X, players take on the role of astronomers who use observations and logical deductions to search for this hypothetical planet. Each game, the companion app randomly selects an arrangement of objects and a location for Planet X following predefined logic rules.
+
+Each round, as the earth travels around the sun, players use the app to perform scans and attend conferences. As they gain information about the location of the objects, they mark that information on their deduction sheets. As players learn the locations of the various objects, they can start publishing theories, which is how players score points.
+
+As more and more objects are found, players narrow down the possible locations for Planet X. Once a player believes they know its location and the objects on either side of it, they use the app to conduct a search. The game ends when a player successfully locates Planet X, and all players have a final chance to score some additional points.
+
+The Search for Planet X captures the thrill of discovery, the puzzle-y nature of astronomical investigation, and the competition inherent in the scientific process. Can you be the first to find Planet X?
+
+&amp;mdash;description from the publisher
+
+</description>
+    <yearpublished value="2020" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="289">
+      <results numplayers="1">
+        <result value="Best" numvotes="50" />
+        <result value="Recommended" numvotes="124" />
+        <result value="Not Recommended" numvotes="31" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="147" />
+        <result value="Recommended" numvotes="92" />
+        <result value="Not Recommended" numvotes="7" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="120" />
+        <result value="Recommended" numvotes="82" />
+        <result value="Not Recommended" numvotes="9" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="45" />
+        <result value="Recommended" numvotes="128" />
+        <result value="Not Recommended" numvotes="25" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="129" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 2–3 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="75" />
+    <minplaytime value="60" />
+    <maxplaytime value="75" />
+    <minage value="13" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="50">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="5" />
+        <result value="10" numvotes="14" />
+        <result value="12" numvotes="19" />
+        <result value="14" numvotes="9" />
+        <result value="16" numvotes="2" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="1" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="30">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="1" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="12" />
+        <result level="5" value="Unplayable in another language" numvotes="8" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1039" value="Deduction" />
+    <link type="boardgamecategory" id="1028" value="Puzzle" />
+    <link type="boardgamecategory" id="1113" value="Space Exploration" />
+    <link type="boardgamemechanic" id="2001" value="Action Points" />
+    <link type="boardgamemechanic" id="3002" value="Deduction" />
+    <link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+    <link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+    <link type="boardgamemechanic" id="2813" value="Rondel" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamemechanic" id="2663" value="Turn Order: Time Track" />
+    <link type="boardgamefamily" id="41489" value="Components: Digital Hybrid – App/Website Required" />
+    <link type="boardgamefamily" id="48877" value="Components: Game Trayz Inside" />
+    <link type="boardgamefamily" id="104481" value="Components: Player Screens" />
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+    <link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+    <link type="boardgamefamily" id="19296" value="Space: Asteroids" />
+    <link type="boardgamefamily" id="19297" value="Space: Comets" />
+    <link type="boardgamefamily" id="19298" value="Space: Earth's Solar System" />
+    <link type="boardgamefamily" id="66108" value="Theme: Astronomy" />
+    <link type="boardgamefamily" id="66167" value="Theme: Science" />
+    <link type="boardgameaccessory" id="321929" value="The Search for Planet X: New Horizon Upgrade Pack" />
+    <link type="boardgameimplementation" id="358557" value="The Search for Lost Species" />
+    <link type="boardgameimplementation" id="414648" value="The Search for UAPs" />
+    <link type="boardgamedesigner" id="65581" value="Matthew O'Malley" />
+    <link type="boardgamedesigner" id="60749" value="Ben Rosset" />
+    <link type="boardgameartist" id="92957" value="James Masino" />
+    <link type="boardgameartist" id="117735" value="Michael Pedro" />
+    <link type="boardgamepublisher" id="24489" value="Foxtrot Games" />
+    <link type="boardgamepublisher" id="28072" value="Renegade Game Studios" />
+    <link type="boardgamepublisher" id="39755" value="17wanzy (Yihu BG)" />
+    <link type="boardgamepublisher" id="8820" value="Gémklub" />
+    <link type="boardgamepublisher" id="18852" value="Hobby World" />
+    <link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+    <link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+    <link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+    <link type="boardgamepublisher" id="30677" value="Maldito Games" />
+    <link type="boardgamepublisher" id="32591" value="MeepleBR" />
+    <link type="boardgamepublisher" id="24844" value="Schwerkraft-Verlag" />
+    <link type="boardgamepublisher" id="29154" value="数寄ゲームズ (Suki Games)" />
+    <link type="boardgamepublisher" id="17786" value="uplay.it edizioni" />
+    <link type="boardgamepublisher" id="44209" value="Ігромаг" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="16019" />
+        <average value="7.88892" />
+        <bayesaverage value="7.54697" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="116" bayesaverage="7.54697" />
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="90" bayesaverage="7.59974" />
+        </ranks>
+        <stddev value="1.23574" />
+        <median value="0" />
+        <owned value="27399" />
+        <trading value="318" />
+        <wanting value="582" />
+        <wishing value="6897" />
+        <numcomments value="2201" />
+        <numweights value="357" />
+        <averageweight value="2.4258" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

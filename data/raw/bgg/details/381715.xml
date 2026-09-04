@@ -1,0 +1,154 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="381715">
+    <thumbnail>https://cf.geekdo-images.com/eZoBkdBSEKVHPCC3r3gnIA__small/img/n_aUSIq-ox4LCkC4Prac6Z8bJOU=/fit-in/200x150/filters:strip_icc()/pic7385351.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/eZoBkdBSEKVHPCC3r3gnIA__original/img/59uBymcqrdARRmy72LVoFVL6NRs=/0x0/filters:format(jpeg)/pic7385351.jpg</image>
+    <name type="primary" sortindex="1" value="Teotihuacan: City of Gods – Deluxe Master Set" />
+    <name type="alternate" sortindex="1" value="Teotihuacán: Ciudad de Dioses – Edición completa" />
+    <name type="alternate" sortindex="1" value="Teotihuacan: Die Stadt der Götter – Luxus Edition" />
+    <name type="alternate" sortindex="1" value="特奥蒂瓦坎：众神之城 豪华大师版" />
+    <description>Travel back in time to the greatest city in Mesoamerica. Witness the glory and the twilight of the powerful pre-Columbian civilization. Strategize, accrue wealth, gain the favour of the gods, and become the builder of the magnificent Pyramid of the Sun. Now with all the expansions, promos and more, packed in one box and with upgraded deluxe components.
+
+In Teotihuacan: City of Gods, each player commands a force of worker dice, which grow in strength with every move. On your turn, you move a worker around a modular board, always choosing one of two areas of the location tile you land on: one offering you an action (and a worker upgrade), the other providing you with a powerful bonus (but without an upgrade).
+
+While managing their workforce and resources, players develop new technologies, climb the steps of the three great temples, build houses for the inhabitants of the city, and raise the legendary and breath-taking Pyramid of the Sun in the center of the city.
+
+Each game is played in three eras. As the dawn of the Aztecs comes closer, player efforts (and their ability to feed their workforce) are evaluated a total of three times. The player with the most fame is the winner.
+
+&amp;mdash;description from the publisher
+
+</description>
+    <yearpublished value="2024" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="20">
+      <results numplayers="1">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="7" />
+        <result value="Not Recommended" numvotes="3" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="3" />
+        <result value="Recommended" numvotes="12" />
+        <result value="Not Recommended" numvotes="2" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="14" />
+        <result value="Recommended" numvotes="3" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="8" />
+        <result value="Recommended" numvotes="9" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="4" />
+        <result value="Not Recommended" numvotes="9" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 3 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="120" />
+    <minplaytime value="90" />
+    <maxplaytime value="120" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="0" />
+        <result value="12" numvotes="2" />
+        <result value="14" numvotes="4" />
+        <result value="16" numvotes="1" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient" />
+    <link type="boardgamemechanic" id="2046" value="Area Movement" />
+    <link type="boardgamemechanic" id="2813" value="Rondel" />
+    <link type="boardgamemechanic" id="2004" value="Set Collection" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamemechanic" id="2002" value="Tile Placement" />
+    <link type="boardgamemechanic" id="2939" value="Track Movement" />
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+    <link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+    <link type="boardgamemechanic" id="2935" value="Worker Placement with Dice Workers" />
+    <link type="boardgamefamily" id="77012" value="Constructions: Pyramids" />
+    <link type="boardgamefamily" id="10642" value="Country: Mexico" />
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+    <link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+    <link type="boardgamefamily" id="60543" value="Game: Teotihuacan" />
+    <link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+    <link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+    <link type="boardgamefamily" id="43638" value="Theme: Aztecs" />
+    <link type="boardgamefamily" id="62849" value="Versions &amp; Editions: Big Box Versions of Individual Games" />
+    <link type="boardgameexpansion" id="315049" value="Teotihuacan: City of Gods – 5th Player Expansion" />
+    <link type="boardgameaccessory" id="476951" value="Teotihuacan: City of Gods – Deluxe Master Set Box of Holding" />
+    <link type="boardgameaccessory" id="476952" value="Teotihuacan: City of Gods – Deluxe Master Set: Cardboard Resource Holder" />
+    <link type="boardgameaccessory" id="445495" value="Teotihuacan: City of Gods – Deluxe Master Set: Folded Space Insert" />
+    <link type="boardgameaccessory" id="457854" value="Teotihuacan: City of Gods – Deluxe Master Set: Resources Pack" />
+    <link type="boardgameaccessory" id="427458" value="Teotihuacan: City of Gods – Set of Double Sided Playmats" />
+    <link type="boardgameaccessory" id="427460" value="Teotihuacan: City of Gods – Set of Players' Game Mats" />
+    <link type="boardgamecompilation" id="264153" value="Teotihuacan: Brettspiel Adventskalender 2018 Promo" inbound="true" />
+    <link type="boardgamecompilation" id="229853" value="Teotihuacan: City of Gods" inbound="true" />
+    <link type="boardgamecompilation" id="283302" value="Teotihuacan: City of Gods – Decoration Tiles" inbound="true" />
+    <link type="boardgamecompilation" id="279161" value="Teotihuacan: City of Gods – Man vs Meeple Promo" inbound="true" />
+    <link type="boardgamecompilation" id="301254" value="Teotihuacan: City of Gods – Promo Bundle" inbound="true" />
+    <link type="boardgamecompilation" id="279160" value="Teotihuacan: City of Gods – Pyramid Tile Promo, Red Temple" inbound="true" />
+    <link type="boardgamecompilation" id="262936" value="Teotihuacan: Dice Settlers Promo" inbound="true" />
+    <link type="boardgamecompilation" id="316777" value="Teotihuacan: Expansion Period" inbound="true" />
+    <link type="boardgamecompilation" id="340392" value="Teotihuacan: Expert Challenges – Book 1" inbound="true" />
+    <link type="boardgamecompilation" id="341949" value="Teotihuacan: Expert Challenges – Book 2" inbound="true" />
+    <link type="boardgamecompilation" id="350462" value="Teotihuacan: Expert Challenges – Book 3" inbound="true" />
+    <link type="boardgamecompilation" id="270364" value="Teotihuacan: Late Preclassic Period" inbound="true" />
+    <link type="boardgamecompilation" id="386071" value="Teotihuacan: New Priests" inbound="true" />
+    <link type="boardgamecompilation" id="293473" value="Teotihuacan: Shadow of Xitle" inbound="true" />
+    <link type="boardgamedesigner" id="59986" value="Daniele Tascini" />
+    <link type="boardgameartist" id="93734" value="Paweł Niziołek" />
+    <link type="boardgameartist" id="59181" value="Odysseas Stamoglou" />
+    <link type="boardgameartist" id="112558" value="Paulina Wach" />
+    <link type="boardgameartist" id="129439" value="Aleksander Zawada" />
+    <link type="boardgamepublisher" id="26630" value="Board&amp;Dice" />
+    <link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+    <link type="boardgamepublisher" id="12540" value="Game Harbor" />
+    <link type="boardgamepublisher" id="30677" value="Maldito Games" />
+    <link type="boardgamepublisher" id="44349" value="Mosaico Jogos" />
+    <link type="boardgamepublisher" id="24844" value="Schwerkraft-Verlag" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="722" />
+        <average value="8.41064" />
+        <bayesaverage value="6.16168" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.16168" />
+        </ranks>
+        <stddev value="1.39905" />
+        <median value="0" />
+        <owned value="2804" />
+        <trading value="27" />
+        <wanting value="79" />
+        <wishing value="257" />
+        <numcomments value="221" />
+        <numweights value="34" />
+        <averageweight value="3.9118" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

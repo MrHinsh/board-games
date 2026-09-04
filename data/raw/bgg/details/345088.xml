@@ -1,0 +1,134 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="345088">
+    <thumbnail>https://cf.geekdo-images.com/2Nh43nx7eETi-An9NYSaag__small/img/_4sJJ78f4jI6KH0cdjsk_OmQHY4=/fit-in/200x150/filters:strip_icc()/pic6699425.png</thumbnail>
+    <image>https://cf.geekdo-images.com/2Nh43nx7eETi-An9NYSaag__original/img/6sBp9YvQEdH5E-Rnhng8orEPO6c=/0x0/filters:format(png)/pic6699425.png</image>
+    <name type="primary" sortindex="1" value="Founders of Teotihuacan" />
+    <name type="alternate" sortindex="5" value="Die Erbauer von Teotihuacan" />
+    <name type="alternate" sortindex="1" value="Fondateurs de Teotihuacan" />
+    <name type="alternate" sortindex="1" value="Fundadores de Teotihuacán" />
+    <name type="alternate" sortindex="1" value="特奧蒂瓦坎:創錄" />
+    <description>Travel back in time to the founding of one of the greatest cities of Mesoamerica and become a part of its history once again. Design the foundations of a great pre-Columbian civilization, with its buildings, temples, and a grand pyramid in the center. Find perfect locations for production buildings and great temples, and build the might of the great pyramid overlooking your city. Establish yourself as the very best among competing architects, and your project will secure you a spot among the great Founders of Teotihuacan!
+
+Founders of Teotihuacan is a strategy game where you compete against your friends to create the best design of the city of Teotihuacan. Over the course of three to four rounds you will place your action disks to the main board, forming towers of varying strength, strategically use the bonuses they offer, and construct temples, resource buildings and the pyramid central to your project of Teotihuacan. You will balance generating resources and using them, as finding good locations on your city board becomes increasingly more difficult, and you will try to outwit your opponents, making use of an innovative and interactive action system. Finally, once the eclipse comes, all designs will be assessed and the player with the most points will win and become the architect to join the ranks of Founders of Teotihuacan!
+
+Founders of Teotihuacan is a stand-alone game, related to Teotihuacan: City of Gods only by the shared setting of the ancient city of Teotihuacan. Thematically, the events in Founders takes place at an earlier time in history, while what was to become a magnificent city was yet in its infancy and only few inhabited the area.
+
+On your turn, you must either perform an Action or pass. To perform an Action, place between 1 and 3 of your Action disks on an Action space on the Main board that already contains at least one disk (minimum a Bonus disk and possibly also opponent disk(s)), and carry out a corresponding Action. The Action disk(s) should be placed on top of the disk(s) already on that space, forming a stack. Each Action space can hold a maximum of 4 Action disks&amp;mdash;including Bonus disks!
+
+Your personal player board is divided into four Districts or quadrants. Buildings and Temples can only be placed within the two Districts closest to your Architect. Pyramid tiles can only be placed within the six Pyramid squares closest to your Architect. Your Action Strength is equal to the total number of disks (whether yours, an opponent&amp;rsquo;s disks, or Bonus disks) on an Action space.
+
+After performing an Action (not when passing), move your Architect clockwise to the next side of your Player board, signifying
+the end of your turn. This changes your Architect's Reach for your next turn. After all players have passed, the current round ends.
+
+After the game has ended, players score additional Victory Points for how well their Districts complement their Pyramid.
+
+&amp;mdash;description from the publisher
+
+</description>
+    <yearpublished value="2022" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="26">
+      <results numplayers="1">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="9" />
+        <result value="Not Recommended" numvotes="6" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="14" />
+        <result value="Recommended" numvotes="5" />
+        <result value="Not Recommended" numvotes="2" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="11" />
+        <result value="Not Recommended" numvotes="3" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="4" />
+        <result value="Recommended" numvotes="7" />
+        <result value="Not Recommended" numvotes="3" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="11" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 2 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="60" />
+    <minplaytime value="45" />
+    <maxplaytime value="60" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="1" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="2" />
+        <result value="12" numvotes="5" />
+        <result value="14" numvotes="0" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="5">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="5" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient" />
+    <link type="boardgamecategory" id="1029" value="City Building" />
+    <link type="boardgamemechanic" id="2001" value="Action Points" />
+    <link type="boardgamemechanic" id="2912" value="Contracts" />
+    <link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+    <link type="boardgamemechanic" id="2900" value="Market" />
+    <link type="boardgamemechanic" id="2002" value="Tile Placement" />
+    <link type="boardgamemechanic" id="2828" value="Turn Order: Progressive" />
+    <link type="boardgamemechanic" id="2082" value="Worker Placement" />
+    <link type="boardgamefamily" id="24571" value="Components: Polyominoes" />
+    <link type="boardgamefamily" id="10642" value="Country: Mexico" />
+    <link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+    <link type="boardgameexpansion" id="363198" value="Founders of Teotihuacan: Extra Bonus Disks" />
+    <link type="boardgameexpansion" id="376961" value="Founders of Teotihuacan: Worship Tiles" />
+    <link type="boardgamedesigner" id="69416" value="Filip Głowacz" />
+    <link type="boardgameartist" id="139767" value="Chuy de Leon" />
+    <link type="boardgameartist" id="59181" value="Odysseas Stamoglou" />
+    <link type="boardgameartist" id="129439" value="Aleksander Zawada" />
+    <link type="boardgamepublisher" id="26630" value="Board&amp;Dice" />
+    <link type="boardgamepublisher" id="41518" value="Bucaneiros Jogos" />
+    <link type="boardgamepublisher" id="30677" value="Maldito Games" />
+    <link type="boardgamepublisher" id="24844" value="Schwerkraft-Verlag" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="878" />
+        <average value="6.81196" />
+        <bayesaverage value="5.84797" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4357" bayesaverage="5.84797" />
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1808" bayesaverage="5.94195" />
+        </ranks>
+        <stddev value="1.29465" />
+        <median value="0" />
+        <owned value="2356" />
+        <trading value="123" />
+        <wanting value="35" />
+        <wishing value="293" />
+        <numcomments value="194" />
+        <numweights value="40" />
+        <averageweight value="2.85" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

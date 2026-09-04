@@ -1,0 +1,137 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="192455">
+    <thumbnail>https://cf.geekdo-images.com/CMoSU8D1nuS87MM_D83cQA__small/img/GOGBQER3ZN1nsNv3uSXChaw5B6k=/fit-in/200x150/filters:strip_icc()/pic3151415.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/CMoSU8D1nuS87MM_D83cQA__original/img/3QDy_tH8jbQssldPa2g6Ti7jl-c=/0x0/filters:format(jpeg)/pic3151415.jpg</image>
+    <name type="primary" sortindex="1" value="First Martians: Adventures on the Red Planet" />
+    <name type="alternate" sortindex="1" value="Colonos de Marte" />
+    <name type="alternate" sortindex="1" value="First Martians: Abenteuer auf dem Roten Planeten" />
+    <name type="alternate" sortindex="1" value="First Martians: Aventures sur la planète rouge" />
+    <name type="alternate" sortindex="1" value="First Martians: Avventure sul Pianeta Rosso" />
+    <name type="alternate" sortindex="1" value="Pierwsi Marsjanie: Przygody na Czerwonej Planecie" />
+    <name type="alternate" sortindex="1" value="První Marťané: Dobrodružství na Rudé planetě" />
+    <description>Built on the core of the award-winning Robinson Crusoe: Adventures on the Cursed Island, First Martians: Adventures on the Red Planet pits players against the hostile Martian environment and a whole host of new adventures and challenges. The immersive experience is further enhanced with an integrated app that maintains the balance and challenge throughout. Players have the option of taking on the design as a series of separate games, in a custom campaign mode in which each successive game builds on the last.
+
+</description>
+    <yearpublished value="2017" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="98">
+      <results numplayers="1">
+        <result value="Best" numvotes="66" />
+        <result value="Recommended" numvotes="24" />
+        <result value="Not Recommended" numvotes="3" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="20" />
+        <result value="Recommended" numvotes="46" />
+        <result value="Not Recommended" numvotes="8" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="10" />
+        <result value="Recommended" numvotes="42" />
+        <result value="Not Recommended" numvotes="18" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="12" />
+        <result value="Recommended" numvotes="34" />
+        <result value="Not Recommended" numvotes="23" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="53" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 1 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="90" />
+    <minplaytime value="60" />
+    <maxplaytime value="90" />
+    <minage value="10" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="28">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="0" />
+        <result value="12" numvotes="7" />
+        <result value="14" numvotes="14" />
+        <result value="16" numvotes="7" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="10">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="6" />
+        <result level="5" value="Unplayable in another language" numvotes="4" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1022" value="Adventure" />
+    <link type="boardgamecategory" id="1020" value="Exploration" />
+    <link type="boardgamecategory" id="1016" value="Science Fiction" />
+    <link type="boardgamecategory" id="1113" value="Space Exploration" />
+    <link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+    <link type="boardgamemechanic" id="2824" value="Legacy Game" />
+    <link type="boardgamemechanic" id="2011" value="Modular Board" />
+    <link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamemechanic" id="2027" value="Storytelling" />
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+    <link type="boardgamemechanic" id="2082" value="Worker Placement" />
+    <link type="boardgamefamily" id="41489" value="Components: Digital Hybrid – App/Website Required" />
+    <link type="boardgamefamily" id="24281" value="Mechanism: Campaign Games" />
+    <link type="boardgamefamily" id="25404" value="Mechanism: Legacy" />
+    <link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+    <link type="boardgamefamily" id="111131" value="Space: Colonization / Extraterrestrial Colonisation" />
+    <link type="boardgamefamily" id="10169" value="Space: Mars" />
+    <link type="boardgamefamily" id="65494" value="Theme: Survival" />
+    <link type="boardgameexpansion" id="241932" value="First Martians: Extra ROI Tiles Promo" />
+    <link type="boardgameexpansion" id="308639" value="First Martians: New Upgrades" />
+    <link type="boardgameexpansion" id="368421" value="First Martians: Rescue Team" />
+    <link type="boardgameexpansion" id="234363" value="First Martians: Watch It Played Promo Tokens" />
+    <link type="boardgameaccessory" id="271955" value="First Martians: Adventures on the Red Planet – Insert Here Insert" />
+    <link type="boardgameimplementation" id="121921" value="Robinson Crusoe: Adventures on the Cursed Island" inbound="true" />
+    <link type="boardgamedesigner" id="4735" value="Ignacy Trzewiczek" />
+    <link type="boardgameartist" id="39040" value="Piotr Foksowicz" />
+    <link type="boardgameartist" id="106619" value="Aurélien Fournier" />
+    <link type="boardgameartist" id="98224" value="Aga Jakimiec" />
+    <link type="boardgameartist" id="106620" value="Katarzyna Kozaczkiewicz" />
+    <link type="boardgameartist" id="69434" value="Maciej Mutwil" />
+    <link type="boardgameartist" id="21002" value="Rafał Szyma" />
+    <link type="boardgamepublisher" id="2726" value="Portal Games" />
+    <link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+    <link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+    <link type="boardgamepublisher" id="27654" value="Pendragon Game Studio" />
+    <link type="boardgamepublisher" id="21053" value="Rexhry" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="3814" />
+        <average value="6.34381" />
+        <bayesaverage value="5.95727" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3481" bayesaverage="5.95727" />
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="808" bayesaverage="6.04362" />
+        </ranks>
+        <stddev value="1.96414" />
+        <median value="0" />
+        <owned value="11617" />
+        <trading value="879" />
+        <wanting value="119" />
+        <wishing value="1928" />
+        <numcomments value="1385" />
+        <numweights value="251" />
+        <averageweight value="4.1594" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

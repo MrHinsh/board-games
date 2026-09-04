@@ -1,0 +1,151 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="296108">
+    <thumbnail>https://cf.geekdo-images.com/ZaBpuleG30S1-hAmJnL4RA__small/img/7AM38OD3FPy_I1Z2t8HP2GYz4WU=/fit-in/200x150/filters:strip_icc()/pic7077185.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/ZaBpuleG30S1-hAmJnL4RA__original/img/V1kFJ4iZmcH94m7gNYgHvuMny0w=/0x0/filters:format(jpeg)/pic7077185.jpg</image>
+    <name type="primary" sortindex="1" value="Terraforming Mars: The Dice Game" />
+    <name type="alternate" sortindex="3" value="A Mars terraformálása: Kockajáték" />
+    <name type="alternate" sortindex="1" value="Mars: Teraformace – Kostková hra" />
+    <name type="alternate" sortindex="1" value="Terraformacja Marsa: Gra Kościana" />
+    <name type="alternate" sortindex="1" value="Terraforming Mars: Das Würfelspiel" />
+    <name type="alternate" sortindex="1" value="Terraforming Mars: El juego de dados" />
+    <name type="alternate" sortindex="1" value="Terraforming Mars: Het Dobbelspel" />
+    <name type="alternate" sortindex="1" value="Terraforming Mars: Le Jeu de dés" />
+    <name type="alternate" sortindex="1" value="Terraforming Mars: O Jogo de Dados" />
+    <name type="alternate" sortindex="1" value="骰筑火星" />
+    <name type="alternate" sortindex="1" value="테라포밍 마스 주사위 게임" />
+    <description>Terraforming Mars: The Dice Game is a card-driven dice game in which players use special dice to develop their corporations and terraform Mars into a new home for humanity. The dice represent resources that players spend to play cards and perform other actions. During the game, you increase your production of dice, terraform, place cities and greenery tiles on the board, and gain various bonuses. Each turn, you either produce new dice (Production Turn) or perform actions (Action Turn).
+
+Whenever you terraform Mars (raise oxygen or temperature, or place an ocean tile), you gain 2 Victory Points (VP). You can also gain VP for placing tiles and playing cards, as well as winning Awards and Milestones.
+
+The game ends when two of the three global parameters &amp;mdash; oxygen/temperature/ocean &amp;mdash; have been completed. The player with most VP wins.
+
+</description>
+    <yearpublished value="2023" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="121">
+      <results numplayers="1">
+        <result value="Best" numvotes="16" />
+        <result value="Recommended" numvotes="48" />
+        <result value="Not Recommended" numvotes="19" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="67" />
+        <result value="Recommended" numvotes="30" />
+        <result value="Not Recommended" numvotes="2" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="32" />
+        <result value="Recommended" numvotes="44" />
+        <result value="Not Recommended" numvotes="7" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="11" />
+        <result value="Recommended" numvotes="39" />
+        <result value="Not Recommended" numvotes="28" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="1" />
+        <result value="Not Recommended" numvotes="52" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 2 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="45" />
+    <minplaytime value="45" />
+    <maxplaytime value="45" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="22">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="2" />
+        <result value="10" numvotes="7" />
+        <result value="12" numvotes="9" />
+        <result value="14" numvotes="4" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="18">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="4" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="9" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1017" value="Dice" />
+    <link type="boardgamecategory" id="1021" value="Economic" />
+    <link type="boardgamecategory" id="1016" value="Science Fiction" />
+    <link type="boardgamecategory" id="1113" value="Space Exploration" />
+    <link type="boardgamemechanic" id="2912" value="Contracts" />
+    <link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+    <link type="boardgamemechanic" id="2856" value="Die Icon Resolution" />
+    <link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+    <link type="boardgamemechanic" id="2040" value="Hand Management" />
+    <link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamemechanic" id="2002" value="Tile Placement" />
+    <link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+    <link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+    <link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+    <link type="boardgamefamily" id="77906" value="Misc: DIZED Tutorial" />
+    <link type="boardgamefamily" id="46915" value="Series: Terraforming Mars" />
+    <link type="boardgamefamily" id="49694" value="Setting: Future Timeline (Fryxgames)" />
+    <link type="boardgamefamily" id="111131" value="Space: Colonization / Extraterrestrial Colonisation" />
+    <link type="boardgamefamily" id="19298" value="Space: Earth's Solar System" />
+    <link type="boardgamefamily" id="10169" value="Space: Mars" />
+    <link type="boardgamefamily" id="62201" value="Versions &amp; Editions: Dice Versions of Non-Dice Games" />
+    <link type="boardgameexpansion" id="453392" value="Terraforming Mars: The Dice Game – Missions" />
+    <link type="boardgameexpansion" id="380939" value="Terraforming Mars: The Dice Game – Promos" />
+    <link type="boardgameaccessory" id="405898" value="Terraforming Mars: The Dice Game – GGG Insert/Organizer" />
+    <link type="boardgameaccessory" id="400304" value="Terraforming Mars: The Dice Game – Neoprene Game Boards" />
+    <link type="boardgameaccessory" id="400305" value="Terraforming Mars: The Dice Game – Neoprene Game Boards for TM 3D Tiles" />
+    <link type="boardgameimplementation" id="167791" value="Terraforming Mars" inbound="true" />
+    <link type="boardgamedesigner" id="52075" value="Jacob Fryxelius" />
+    <link type="boardgameartist" id="62819" value="Isaac Fryxelius" />
+    <link type="boardgamepublisher" id="18575" value="FryxGames" />
+    <link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+    <link type="boardgamepublisher" id="5380" value="Intrafin Games" />
+    <link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+    <link type="boardgamepublisher" id="30677" value="Maldito Games" />
+    <link type="boardgamepublisher" id="32591" value="MeepleBR" />
+    <link type="boardgamepublisher" id="7992" value="MINDOK" />
+    <link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+    <link type="boardgamepublisher" id="36563" value="Reflexshop" />
+    <link type="boardgamepublisher" id="24844" value="Schwerkraft-Verlag" />
+    <link type="boardgamepublisher" id="11652" value="Stronghold Games" />
+    <link type="boardgamepublisher" id="36763" value="Surfin' Meeple China" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="4852" />
+        <average value="7.2949" />
+        <bayesaverage value="6.64334" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1022" bayesaverage="6.64334" />
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="624" bayesaverage="6.74196" />
+        </ranks>
+        <stddev value="1.46454" />
+        <median value="0" />
+        <owned value="10630" />
+        <trading value="117" />
+        <wanting value="140" />
+        <wishing value="1345" />
+        <numcomments value="897" />
+        <numweights value="144" />
+        <averageweight value="2.4028" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

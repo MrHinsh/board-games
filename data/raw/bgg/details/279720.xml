@@ -1,0 +1,125 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="279720">
+    <thumbnail>https://cf.geekdo-images.com/jFoE4L04cE7sMK8YuAOg3Q__small/img/Xahk2O4dNxnp9kGqWZY-TtqHuQ8=/fit-in/200x150/filters:strip_icc()/pic6413824.png</thumbnail>
+    <image>https://cf.geekdo-images.com/jFoE4L04cE7sMK8YuAOg3Q__original/img/d2WGbMUxHxs7UBZMkDtbvzm3r4A=/0x0/filters:format(png)/pic6413824.png</image>
+    <name type="primary" sortindex="1" value="Streets" />
+    <name type="alternate" sortindex="1" value="ストリート・スクエア" />
+    <description>The city was once a small and sleepy town, but the affordable properties have attracted artists, startup companies, and families. Celebrities and influencers are moving in, and after some recent archeological findings, the tourist industry is booming. Street by street, the city is transforming into a centre of culture and commerce.
+
+Players are investors creating attractive new streets in the growing city, investing in new businesses and homes. Some streets will become hotspots for hipsters, others will be dominated by tourists or families with children. Others still will become designated shopping areas. Where will your Microbrewery profit the most? What is the best location for a Toy Store? What kind of environments are the other investors creating, and can you exploit their work for your own gain?
+
+As each street is completed, the people on it will move to new buildings that interest them - hopefully one of your buildings in an up-and-coming street. Can you compete with the hype of your rivals and grow your following over time? To earn the most money and win the game you need to manage your limited investment funds cleverly, planning ahead while keeping your mind open to fresh opportunities.
+
+Streets is a tile-laying game where players build a city together. Each building has a simple valuation formula which earns money for the owner when the street is scored. Valuations are affected by the other buildings in the street, so smart placement is essential to maximise profit. On top of this, the city is populated by hipsters, families, shoppers and tourists, each with their own preferred building type. Cleverly located properties can benefit from the growing crowds of people who further increase the value of the buildings they visit.
+
+Optional expansion modules add powerful asymmetric player abilities, and extra layers of strategy &amp; tough decisions.
+
+&amp;mdash;description from the publisher
+
+</description>
+    <yearpublished value="2021" />
+    <minplayers value="1" />
+    <maxplayers value="5" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="30">
+      <results numplayers="1">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="17" />
+        <result value="Not Recommended" numvotes="6" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="3" />
+        <result value="Recommended" numvotes="18" />
+        <result value="Not Recommended" numvotes="3" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="14" />
+        <result value="Recommended" numvotes="9" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="12" />
+        <result value="Recommended" numvotes="8" />
+        <result value="Not Recommended" numvotes="2" />
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="13" />
+        <result value="Not Recommended" numvotes="5" />
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="1" />
+        <result value="Not Recommended" numvotes="15" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 3–4 players" />
+      <result name="recommmendedwith" value="Recommended with 1–5 players" />
+    </poll-summary>
+    <playingtime value="60" />
+    <minplaytime value="30" />
+    <maxplaytime value="60" />
+    <minage value="10" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="14">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="2" />
+        <result value="10" numvotes="10" />
+        <result value="12" numvotes="2" />
+        <result value="14" numvotes="0" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="1" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1029" value="City Building" />
+    <link type="boardgamemechanic" id="2004" value="Set Collection" />
+    <link type="boardgamemechanic" id="2002" value="Tile Placement" />
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+    <link type="boardgamefamily" id="68322" value="Theme: City" />
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+    <link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+    <link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+    <link type="boardgameexpansion" id="364759" value="Streets: Board Game Arena Promo Tile" />
+    <link type="boardgameexpansion" id="356098" value="Streets: Dice Tower 2021 Promo Tile" />
+    <link type="boardgameexpansion" id="343679" value="Streets: Kickstarter Promo Pack" />
+    <link type="boardgameaccessory" id="447942" value="Streets: Coin Chest" />
+    <link type="boardgamedesigner" id="73614" value="Haakon Gaarder" />
+    <link type="boardgameartist" id="73614" value="Haakon Gaarder" />
+    <link type="boardgamepublisher" id="29691" value="Sinister Fish Games" />
+    <link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1966" />
+        <average value="6.56124" />
+        <bayesaverage value="5.97034" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3397" bayesaverage="5.97034" />
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1587" bayesaverage="6.04719" />
+        </ranks>
+        <stddev value="1.28592" />
+        <median value="0" />
+        <owned value="4802" />
+        <trading value="125" />
+        <wanting value="46" />
+        <wishing value="506" />
+        <numcomments value="455" />
+        <numweights value="57" />
+        <averageweight value="1.9825" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

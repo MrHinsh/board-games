@@ -1,0 +1,149 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="339789">
+    <thumbnail>https://cf.geekdo-images.com/eCdiHCB9OobumwaGl4dbOQ__small/img/dyaAIesMyeQWUoLRA25Dj9MhruI=/fit-in/200x150/filters:strip_icc()/pic6204967.png</thumbnail>
+    <image>https://cf.geekdo-images.com/eCdiHCB9OobumwaGl4dbOQ__original/img/U4DY7_OUE1XI1m1Fi0iubbf2sEI=/0x0/filters:format(png)/pic6204967.png</image>
+    <name type="primary" sortindex="1" value="Welcome to the Moon" />
+    <name type="alternate" sortindex="1" value="Köszöntünk a Holdon" />
+    <name type="alternate" sortindex="1" value="Vítejte na Měsíci" />
+    <name type="alternate" sortindex="1" value="Добро пожаловать на Луну" />
+    <name type="alternate" sortindex="1" value="ウェルカム・トゥ・ザ・ムーン" />
+    <name type="alternate" sortindex="1" value="欢迎来到月球" />
+    <name type="alternate" sortindex="1" value="웰컴 투 더 문" />
+    <description>You've built housing for humanity in neighborhoods and New Las Vegas. Now you need to save humanity through space colonization...
+
+Welcome to the Moon uses the same flip-and-write game mechanisms as the earlier title Welcome To..., but now you can play in a campaign across eight adventure sheets. On a turn, you flip cards from three stacks to create three different combinations of a starship number and a corresponding action, then all players choose one of these three combinations. You use the number to fill a space in a zone on your adventure sheet in numerical order, and everyone is racing to be the first to complete common missions.
+
+The eight adventure sheets feature very different mechanisms from the classic Welcome To... concept, and when you play in campaign mode, you'll make choices that change the next adventure, which means that each campaign will differ from the previous one.
+
+</description>
+    <yearpublished value="2021" />
+    <minplayers value="1" />
+    <maxplayers value="6" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="151">
+      <results numplayers="1">
+        <result value="Best" numvotes="55" />
+        <result value="Recommended" numvotes="48" />
+        <result value="Not Recommended" numvotes="11" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="81" />
+        <result value="Recommended" numvotes="38" />
+        <result value="Not Recommended" numvotes="2" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="64" />
+        <result value="Recommended" numvotes="35" />
+        <result value="Not Recommended" numvotes="2" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="59" />
+        <result value="Recommended" numvotes="33" />
+        <result value="Not Recommended" numvotes="7" />
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="33" />
+        <result value="Recommended" numvotes="45" />
+        <result value="Not Recommended" numvotes="13" />
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="26" />
+        <result value="Recommended" numvotes="44" />
+        <result value="Not Recommended" numvotes="18" />
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="3" />
+        <result value="Recommended" numvotes="4" />
+        <result value="Not Recommended" numvotes="54" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 2–4 players" />
+      <result name="recommmendedwith" value="Recommended with 1–6 players" />
+    </poll-summary>
+    <playingtime value="30" />
+    <minplaytime value="25" />
+    <maxplaytime value="30" />
+    <minage value="10" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="35">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="1" />
+        <result value="8" numvotes="5" />
+        <result value="10" numvotes="26" />
+        <result value="12" numvotes="3" />
+        <result value="14" numvotes="0" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="18">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="17" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1029" value="City Building" />
+    <link type="boardgamecategory" id="1016" value="Science Fiction" />
+    <link type="boardgamecategory" id="1113" value="Space Exploration" />
+    <link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+    <link type="boardgamemechanic" id="2999" value="Bingo" />
+    <link type="boardgamemechanic" id="2851" value="Narrative Choice / Paragraph" />
+    <link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+    <link type="boardgamemechanic" id="2048" value="Pattern Building" />
+    <link type="boardgamemechanic" id="2876" value="Race" />
+    <link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamefamily" id="63161" value="Components: Dry Erase Markers / Dry Erase Surfaces" />
+    <link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+    <link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+    <link type="boardgamefamily" id="24281" value="Mechanism: Campaign Games" />
+    <link type="boardgamefamily" id="66143" value="Mechanism: Flip-and-Write" />
+    <link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+    <link type="boardgamefamily" id="57257" value="Series: Alexis Solo Mode" />
+    <link type="boardgamefamily" id="52618" value="Series: Welcome To ..." />
+    <link type="boardgamefamily" id="111131" value="Space: Colonization / Extraterrestrial Colonisation" />
+    <link type="boardgamefamily" id="10166" value="Space: Earth's Moon" />
+    <link type="boardgameimplementation" id="233867" value="Welcome To..." inbound="true" />
+    <link type="boardgamedesigner" id="105241" value="Alexis Allard" />
+    <link type="boardgamedesigner" id="94040" value="Benoit Turpin" />
+    <link type="boardgameartist" id="88432" value="Anne Heidsieck" />
+    <link type="boardgamepublisher" id="26604" value="Blue Cocker Games" />
+    <link type="boardgamepublisher" id="60698" value="BoardGamePlanet" />
+    <link type="boardgamepublisher" id="39390" value="Engames" />
+    <link type="boardgamepublisher" id="8820" value="Gémklub" />
+    <link type="boardgamepublisher" id="25996" value="Jumping Turtle Games" />
+    <link type="boardgamepublisher" id="9325" value="Lifestyle Boardgames Ltd" />
+    <link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+    <link type="boardgamepublisher" id="21053" value="Rexhry" />
+    <link type="boardgamepublisher" id="33010" value="SD Games" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="9757" />
+        <average value="7.84343" />
+        <bayesaverage value="7.35136" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="213" bayesaverage="7.35136" />
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="47" bayesaverage="7.47296" />
+          <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="23" bayesaverage="7.46539" />
+        </ranks>
+        <stddev value="1.19066" />
+        <median value="0" />
+        <owned value="21023" />
+        <trading value="202" />
+        <wanting value="390" />
+        <wishing value="3921" />
+        <numcomments value="1324" />
+        <numweights value="224" />
+        <averageweight value="2.4554" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

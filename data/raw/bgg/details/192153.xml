@@ -1,0 +1,142 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="192153">
+    <thumbnail>https://cf.geekdo-images.com/rwNaEQfzABp7dkpnwn1Ksw__small/img/A77zWf8GZ3rPK5FPTitlJuTAoNM=/fit-in/200x150/filters:strip_icc()/pic2866737.png</thumbnail>
+    <image>https://cf.geekdo-images.com/rwNaEQfzABp7dkpnwn1Ksw__original/img/NCSz1g5A1Dydfqlv68rbPEoRTes=/0x0/filters:format(png)/pic2866737.png</image>
+    <name type="primary" sortindex="1" value="Reign of Cthulhu" />
+    <name type="alternate" sortindex="1" value="Czas Cthulhu" />
+    <name type="alternate" sortindex="1" value="Pandemic: Czas Cthulhu" />
+    <name type="alternate" sortindex="1" value="Pandemic: Die Schreckensherrschaft des Cthulhu" />
+    <name type="alternate" sortindex="1" value="Pandemic: El Reino de Cthulhu" />
+    <name type="alternate" sortindex="1" value="Pandemic: Il Regno di Cthulhu" />
+    <name type="alternate" sortindex="1" value="Pandemic: Le règne de Cthulhu" />
+    <name type="alternate" sortindex="1" value="Pandemic: O reino de Cthulhu" />
+    <name type="alternate" sortindex="1" value="Pandemic: Reign of Cthulhu" />
+    <name type="alternate" sortindex="1" value="Pandemic: Schreckensherrschaft des Cthulhu" />
+    <name type="alternate" sortindex="4" value="El Reino de Cthulhu" />
+    <name type="alternate" sortindex="1" value="パンデミック：クトゥルフの呼び声" />
+    <name type="alternate" sortindex="1" value="瘟疫危機：克蘇魯的支配" />
+    <description>Beings of ancient evil, known as Old Ones, are threatening to break out of their cosmic prison and awake into the world. Everything you know and love could be destroyed by chaos and madness. Can you and your fellow investigators manage to find and seal every portal in time? Hurry before you lose yourself to insanity.
+
+In Pandemic: Reign of Cthulhu, you'll experience the classic Pandemic gameplay with an horrific twist that'll have you face twelve Old Ones, each threatening the world with their unique powers. As players take on the roles of investigators attempting to seal a series of portals before monsters of unspeakable horror pour into our world there is, of course, a high risk of the investigators losing their own minds.
+
+Instead of curing diseases like in the original Pandemic, players seal portals and shut down cults in the classic New England fictional towns of Arkham, Dunwich, Innsmouth, and Kingsport. Can you and your fellow investigators manage to find and seal every portal in time? Hurry before you lose yourself to insanity and the evil that lurks beneath your feet...
+
+Part of the Pandemic series.
+
+</description>
+    <yearpublished value="2016" />
+    <minplayers value="2" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="143">
+      <results numplayers="1">
+        <result value="Best" numvotes="17" />
+        <result value="Recommended" numvotes="61" />
+        <result value="Not Recommended" numvotes="35" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="22" />
+        <result value="Recommended" numvotes="87" />
+        <result value="Not Recommended" numvotes="11" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="39" />
+        <result value="Recommended" numvotes="66" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="58" />
+        <result value="Recommended" numvotes="41" />
+        <result value="Not Recommended" numvotes="8" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="3" />
+        <result value="Not Recommended" numvotes="67" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 4 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="40" />
+    <minplaytime value="40" />
+    <maxplaytime value="40" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="37">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="1" />
+        <result value="8" numvotes="9" />
+        <result value="10" numvotes="15" />
+        <result value="12" numvotes="8" />
+        <result value="14" numvotes="4" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="10">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="9" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1024" value="Horror" />
+    <link type="boardgamecategory" id="1093" value="Novel-based" />
+    <link type="boardgamemechanic" id="2001" value="Action Points" />
+    <link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+    <link type="boardgamemechanic" id="2040" value="Hand Management" />
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+    <link type="boardgamemechanic" id="2004" value="Set Collection" />
+    <link type="boardgamemechanic" id="2008" value="Trading" />
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+    <link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+    <link type="boardgamefamily" id="3430" value="Game: Pandemic" />
+    <link type="boardgamefamily" id="63524" value="Occupation: Medic / Doctor / Nurses" />
+    <link type="boardgamefamily" id="5141" value="Theme: Cthulhu Mythos" />
+    <link type="boardgameaccessory" id="287052" value="Pandemic: Reign of Cthulhu – Feldherr Inlay" />
+    <link type="boardgameimplementation" id="30549" value="Pandemic" inbound="true" />
+    <link type="boardgamedesigner" id="378" value="Matt Leacock" />
+    <link type="boardgamedesigner" id="34257" value="Chuck D. Yager" />
+    <link type="boardgameartist" id="74074" value="Philippe Guérin" />
+    <link type="boardgameartist" id="88448" value="Fred Jordan" />
+    <link type="boardgameartist" id="80022" value="Atha Kanaani" />
+    <link type="boardgameartist" id="91357" value="Paul Kluka" />
+    <link type="boardgameartist" id="14057" value="Chris Quilliams" />
+    <link type="boardgamepublisher" id="538" value="Z-Man Games" />
+    <link type="boardgamepublisher" id="15889" value="Asterion Press" />
+    <link type="boardgamepublisher" id="2366" value="Devir" />
+    <link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+    <link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+    <link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+    <link type="boardgamepublisher" id="5812" value="Lacerta" />
+    <link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="11140" />
+        <average value="7.355" />
+        <bayesaverage value="6.94961" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="568" bayesaverage="6.94961" />
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="151" bayesaverage="7.04953" />
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="420" bayesaverage="6.96635" />
+        </ranks>
+        <stddev value="1.24344" />
+        <median value="0" />
+        <owned value="21812" />
+        <trading value="311" />
+        <wanting value="269" />
+        <wishing value="2722" />
+        <numcomments value="1815" />
+        <numweights value="233" />
+        <averageweight value="2.1717" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

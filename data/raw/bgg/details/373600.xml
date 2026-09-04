@@ -1,0 +1,172 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="373600">
+    <thumbnail>https://cf.geekdo-images.com/asStsgtyfmFidfGwjrZv9A__small/img/EVA6tZOYp0nT1YZ95A4UmhObrBU=/fit-in/200x150/filters:strip_icc()/pic7155574.png</thumbnail>
+    <image>https://cf.geekdo-images.com/asStsgtyfmFidfGwjrZv9A__original/img/OcWVltP0JuyjNaLLfd0dru16XtI=/0x0/filters:format(png)/pic7155574.png</image>
+    <name type="primary" sortindex="1" value="Cthulhu: Death May Die – Fear of the Unknown" />
+    <name type="alternate" sortindex="1" value="Cthulhu: Death May Die – Furcht vor dem Unbekannten" />
+    <name type="alternate" sortindex="1" value="Cthulhu: Death May Die – La Peur de l'Inconnu" />
+    <name type="alternate" sortindex="1" value="Cthulhu: Death May Die – Miedo a lo desconocido" />
+    <name type="alternate" sortindex="1" value="Cthulhu: Death May Die – Paura dell'Ignoto" />
+    <name type="alternate" sortindex="1" value="Cthulhu: Death May Die – Strach przed Nieznanym" />
+    <name type="alternate" sortindex="1" value="Cthulhu: I smrt může zemřít – Strach z neznáma" />
+    <name type="alternate" sortindex="1" value="Ктулху: Смерть може вмерти – Страх перед незвіданим" />
+    <name type="alternate" sortindex="1" value="Ктулху: Смерть может умереть – Страх неведомого" />
+    <name type="alternate" sortindex="1" value="크툴루: 죽음마저 죽으리니 - 미지의 공포" />
+    <description>Cthulhu: Death May Die is back with a new standalone box and upgraded rules! Designed by Rob Daviau and Marco Portugal, Fear of the Unknown marks a new Season of the hit board game that brought a new twist to the mythos universe created by H.P. Lovecraft. Face the challenges of 6 new Episode and 2 new Elder Boxes, that bring new insanities and monsters as well as new modular rules in this cooperative board game for 1 to 5 players.
+
+&amp;mdash;description from the publisher
+
+</description>
+    <yearpublished value="2024" />
+    <minplayers value="1" />
+    <maxplayers value="5" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="33">
+      <results numplayers="1">
+        <result value="Best" numvotes="6" />
+        <result value="Recommended" numvotes="14" />
+        <result value="Not Recommended" numvotes="10" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="10" />
+        <result value="Recommended" numvotes="17" />
+        <result value="Not Recommended" numvotes="2" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="21" />
+        <result value="Recommended" numvotes="6" />
+        <result value="Not Recommended" numvotes="2" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="5" />
+        <result value="Recommended" numvotes="15" />
+        <result value="Not Recommended" numvotes="5" />
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="5" />
+        <result value="Not Recommended" numvotes="14" />
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="16" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 3 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="90" />
+    <minplaytime value="90" />
+    <maxplaytime value="90" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="1" />
+        <result value="12" numvotes="3" />
+        <result value="14" numvotes="0" />
+        <result value="16" numvotes="1" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1010" value="Fantasy" />
+    <link type="boardgamecategory" id="1046" value="Fighting" />
+    <link type="boardgamecategory" id="1024" value="Horror" />
+    <link type="boardgamecategory" id="1047" value="Miniatures" />
+    <link type="boardgamecategory" id="1093" value="Novel-based" />
+    <link type="boardgamemechanic" id="2001" value="Action Points" />
+    <link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+    <link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+    <link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+    <link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+    <link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+    <link type="boardgamefamily" id="5615" value="Creatures: Monsters" />
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+    <link type="boardgamefamily" id="77474" value="Game: Cthulhu: Death may Die" />
+    <link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+    <link type="boardgamefamily" id="5141" value="Theme: Cthulhu Mythos" />
+    <link type="boardgameexpansion" id="434227" value="Cthulhu: Death May Die – Atlach-Nacha Elder One Box" />
+    <link type="boardgameexpansion" id="256988" value="Cthulhu: Death May Die – Black Goat of the Woods" />
+    <link type="boardgameexpansion" id="375371" value="Cthulhu: Death May Die – Bonus Relic Cards" />
+    <link type="boardgameexpansion" id="330153" value="Cthulhu: Death May Die – CMON Comics: Vol. 1 Promos" />
+    <link type="boardgameexpansion" id="376428" value="Cthulhu: Death May Die – CMON Comics: Vol. 2 Promos" />
+    <link type="boardgameexpansion" id="411558" value="Cthulhu: Death May Die – Dark Providence Investigators" />
+    <link type="boardgameexpansion" id="434955" value="Cthulhu: Death May Die – Exclusive Insanities" />
+    <link type="boardgameexpansion" id="435358" value="Cthulhu: Death May Die – Extra Campaigns" />
+    <link type="boardgameexpansion" id="374972" value="Cthulhu: Death May Die – Fear of the Unknown: Animal Allies" />
+    <link type="boardgameexpansion" id="425689" value="Cthulhu: Death May Die – Fear of the Unknown: R'lyeh Rising" />
+    <link type="boardgameexpansion" id="454854" value="Cthulhu: Death May Die – Godzilla Rising" />
+    <link type="boardgameexpansion" id="425623" value="Cthulhu: Death May Die – Godzilla Vs Cthulhu" />
+    <link type="boardgameexpansion" id="374971" value="Cthulhu: Death May Die – Ithaqua the Wind-Walker" />
+    <link type="boardgameexpansion" id="372432" value="Cthulhu: Death May Die – R'lyehian Seizures Promo" />
+    <link type="boardgameexpansion" id="429775" value="Cthulhu: Death May Die – Robinson Crusoe Investigator" />
+    <link type="boardgameexpansion" id="256987" value="Cthulhu: Death May Die – Scarlett Hayes" />
+    <link type="boardgameexpansion" id="374590" value="Cthulhu: Death May Die – Season 4 Expansion" />
+    <link type="boardgameexpansion" id="434938" value="Cthulhu: Death May Die – Season 6" />
+    <link type="boardgameexpansion" id="375366" value="Cthulhu: Death May Die – Unknowable Box" />
+    <link type="boardgameexpansion" id="256986" value="Cthulhu: Death May Die – Unspeakable Box" />
+    <link type="boardgameexpansion" id="256985" value="Cthulhu: Death May Die – Yog–Sothoth" />
+    <link type="boardgameexpansion" id="372781" value="Iron Maiden Pack #1" />
+    <link type="boardgameexpansion" id="372782" value="Iron Maiden Pack #2" />
+    <link type="boardgameexpansion" id="372783" value="Iron Maiden Pack #3" />
+    <link type="boardgameaccessory" id="256989" value="Cthulhu: Death May Die – Extra Dice" />
+    <link type="boardgameintegration" id="253344" value="Cthulhu: Death May Die" />
+    <link type="boardgameintegration" id="433640" value="Cthulhu: Death May Die – Forbidden Reaches" />
+    <link type="boardgamedesigner" id="442" value="Rob Daviau" />
+    <link type="boardgamedesigner" id="1533" value="Eric M. Lang" />
+    <link type="boardgamedesigner" id="77526" value="Marco Portugal" />
+    <link type="boardgameartist" id="137144" value="Helder Almeida" />
+    <link type="boardgameartist" id="12935" value="Nicolas Fructus" />
+    <link type="boardgameartist" id="16439" value="Stef Kopinski" />
+    <link type="boardgameartist" id="14792" value="Karl Kopinski" />
+    <link type="boardgameartist" id="69771" value="Prosper Tipaldi" />
+    <link type="boardgameartist" id="12966" value="Iwo Widulinski" />
+    <link type="boardgameartist" id="95906" value="Daniel Zrom" />
+    <link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+    <link type="boardgamepublisher" id="25074" value="BoardM Factory" />
+    <link type="boardgamepublisher" id="21020" value="Guillotine Games" />
+    <link type="boardgamepublisher" id="18852" value="Hobby World" />
+    <link type="boardgamepublisher" id="2726" value="Portal Games" />
+    <link type="boardgamepublisher" id="21053" value="Rexhry" />
+    <link type="boardgamepublisher" id="44209" value="Ігромаг" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1818" />
+        <average value="8.69761" />
+        <bayesaverage value="6.79075" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="774" bayesaverage="6.79075" />
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="71" bayesaverage="7.31892" />
+        </ranks>
+        <stddev value="1.23566" />
+        <median value="0" />
+        <owned value="7702" />
+        <trading value="52" />
+        <wanting value="147" />
+        <wishing value="786" />
+        <numcomments value="391" />
+        <numweights value="48" />
+        <averageweight value="2.7083" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

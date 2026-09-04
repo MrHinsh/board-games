@@ -1,0 +1,159 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="325494">
+    <thumbnail>https://cf.geekdo-images.com/1ySeZNVkVwTvqykMGtHFFQ__small/img/pXp7JQo64YalithQyDM7tufyasA=/fit-in/200x150/filters:strip_icc()/pic7245199.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/1ySeZNVkVwTvqykMGtHFFQ__original/img/WMa7R2ViiGzzWpKWEdJAOv518PU=/0x0/filters:format(jpeg)/pic7245199.jpg</image>
+    <name type="primary" sortindex="1" value="ISS Vanguard" />
+    <name type="alternate" sortindex="1" value="异星奇旅" />
+    <description>ISS Vanguard is a co-operative campaign Game. It brings players into epic Sci-Fi adventure, as they play as 4 sections (security, recon, science, engineering) onboard the first human ship with the potential to reach outer space.  The campaign introduces a unique story full of hard player choices, twists and branching storylines. The game comes with over 100 different Crew members, each with unique characteristics.
+
+A game session takes you through a Ship Management phase - in which you choose your destination for your ship then research technologies, produce equipment, recruit crewmembers and resolve situations - and then a Planetary Exploration phase. During Planetary Exploration, players complete a daring landing procedure with your Lander, explore the planet for information or resources, fighting back a barrage of threats as well as a running timer of supplies depletion before you have to run back to the Lander to lift off back to ISS Vanguard. What follows is the remainder of the Ship Management phase, when players unload discoveries and resources from the Lander, heal or memorialize crewmembers, take apart the game board and record changes to the planet you've just explored, preserving its status for future games.
+
+The Ship Management phase allows players to make strategic decisions as to their resources and a way forward in the unknown galaxy chasing the mystery encoded in human's DNA. The Planetary Exploration draws the focus to the tactical, as players decide on cards, dice, crewmembers and equipment to bring to fulfill dice checks on the planet's Places of Interest. The players also decide which of the variety of specialized Landers they want to use and how to outfit their Lander for the perilous descent into the chosen planet's atmosphere (or lack thereof). Throughout the game, the narrative system relies on a web of structured and linked Mission Logs, often snippets of journal entries or dialogue, to provide gameplay choices and storyline information as well as keep track of progress throughout the universe.
+
+The goal is to survive your missions and complete the campaign.
+
+</description>
+    <yearpublished value="2022" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="269">
+      <results numplayers="1">
+        <result value="Best" numvotes="134" />
+        <result value="Recommended" numvotes="90" />
+        <result value="Not Recommended" numvotes="12" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="149" />
+        <result value="Recommended" numvotes="83" />
+        <result value="Not Recommended" numvotes="3" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="16" />
+        <result value="Recommended" numvotes="107" />
+        <result value="Not Recommended" numvotes="66" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="34" />
+        <result value="Recommended" numvotes="87" />
+        <result value="Not Recommended" numvotes="74" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="2" />
+        <result value="Not Recommended" numvotes="155" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 1–2 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="120" />
+    <minplaytime value="90" />
+    <maxplaytime value="120" />
+    <minage value="13" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="51">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="2" />
+        <result value="10" numvotes="11" />
+        <result value="12" numvotes="20" />
+        <result value="14" numvotes="12" />
+        <result value="16" numvotes="5" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="1" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="12">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+        <result level="5" value="Unplayable in another language" numvotes="9" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1022" value="Adventure" />
+    <link type="boardgamecategory" id="1020" value="Exploration" />
+    <link type="boardgamecategory" id="1093" value="Novel-based" />
+    <link type="boardgamecategory" id="1016" value="Science Fiction" />
+    <link type="boardgamecategory" id="1113" value="Space Exploration" />
+    <link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+    <link type="boardgamemechanic" id="2851" value="Narrative Choice / Paragraph" />
+    <link type="boardgamemechanic" id="2041" value="Open Drafting" />
+    <link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamemechanic" id="2027" value="Storytelling" />
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+    <link type="boardgamefamily" id="61205" value="Components: Binders" />
+    <link type="boardgamefamily" id="62475" value="Components: Book as Board" />
+    <link type="boardgamefamily" id="66553" value="Components: Control Boards" />
+    <link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+    <link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+    <link type="boardgamefamily" id="66140" value="Components: Polyhedral (not D6) dice" />
+    <link type="boardgamefamily" id="66335" value="Components: Standees" />
+    <link type="boardgamefamily" id="5679" value="Creatures: Aliens / Extraterrestrials" />
+    <link type="boardgamefamily" id="66292" value="Crowdfunding: Gamefound" />
+    <link type="boardgamefamily" id="24281" value="Mechanism: Campaign Games" />
+    <link type="boardgamefamily" id="65163" value="Mechanism: Dice Drafting" />
+    <link type="boardgamefamily" id="78545" value="Misc: Eastar Game Manufacturing" />
+    <link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+    <link type="boardgamefamily" id="111131" value="Space: Colonization / Extraterrestrial Colonisation" />
+    <link type="boardgameexpansion" id="418446" value="Awaken Realms Vault: Story Dice – AR Board Game Dice Bundle Box" />
+    <link type="boardgameexpansion" id="340235" value="ISS Vanguard: Deadly Frontier" />
+    <link type="boardgameexpansion" id="376879" value="ISS Vanguard: Equipment Promo Cards" />
+    <link type="boardgameexpansion" id="402966" value="ISS Vanguard: Fearless Crew Mini-Expansion" />
+    <link type="boardgameexpansion" id="432282" value="ISS Vanguard: Personal Discovery Promo Cards" />
+    <link type="boardgameexpansion" id="340234" value="ISS Vanguard: Personnel Files" />
+    <link type="boardgameexpansion" id="386774" value="ISS Vanguard: Story Dice Expansion" />
+    <link type="boardgameexpansion" id="340233" value="ISS Vanguard: The Lost Fleet" />
+    <link type="boardgameaccessory" id="327084" value="ISS Vanguard: Close Encounters" />
+    <link type="boardgameaccessory" id="349814" value="ISS Vanguard: Dice Tower" />
+    <link type="boardgameaccessory" id="349815" value="ISS Vanguard: Dice Upgrade" />
+    <link type="boardgameaccessory" id="416667" value="ISS Vanguard: Laserox Organizer" />
+    <link type="boardgameaccessory" id="349816" value="ISS Vanguard: Playmats" />
+    <link type="boardgameaccessory" id="361276" value="ISS Vanguard: Section Boxes" />
+    <link type="boardgameaccessory" id="349817" value="ISS Vanguard: Section Pets" />
+    <link type="boardgameaccessory" id="454782" value="ISS Vanguard: Token Set" />
+    <link type="boardgamedesigner" id="121682" value="Andrzej Betkiewicz" />
+    <link type="boardgamedesigner" id="42812" value="Krzysztof Piskorski" />
+    <link type="boardgamedesigner" id="113979" value="Paweł Samborski" />
+    <link type="boardgamedesigner" id="106124" value="Marcin Świerkot" />
+    <link type="boardgameartist" id="114320" value="Piotr Gacek" />
+    <link type="boardgameartist" id="113980" value="Patryk Jędraszek" />
+    <link type="boardgameartist" id="114786" value="Ewa Labak" />
+    <link type="boardgameartist" id="154973" value="Pamela Łuniewska" />
+    <link type="boardgameartist" id="123424" value="Dominik Meyer" />
+    <link type="boardgameartist" id="142361" value="Ingram Schell" />
+    <link type="boardgamepublisher" id="29412" value="Awaken Realms" />
+    <link type="boardgamepublisher" id="4304" value="Albi" />
+    <link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+    <link type="boardgamepublisher" id="32591" value="MeepleBR" />
+    <link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+    <link type="boardgamepublisher" id="44209" value="Ігромаг" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="7204" />
+        <average value="8.32996" />
+        <bayesaverage value="7.42738" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="161" bayesaverage="7.42738" />
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="30" bayesaverage="7.69738" />
+        </ranks>
+        <stddev value="1.60212" />
+        <median value="0" />
+        <owned value="18255" />
+        <trading value="298" />
+        <wanting value="380" />
+        <wishing value="5658" />
+        <numcomments value="1901" />
+        <numweights value="330" />
+        <averageweight value="3.6667" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

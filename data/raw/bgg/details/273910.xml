@@ -1,0 +1,141 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="273910">
+    <thumbnail>https://cf.geekdo-images.com/pncC3ETZ4_Li5TFu8Iveww__small/img/AsnDTzeJlRq_xJ55Lis9NQeEqQ4=/fit-in/200x150/filters:strip_icc()/pic5506076.png</thumbnail>
+    <image>https://cf.geekdo-images.com/pncC3ETZ4_Li5TFu8Iveww__original/img/tUAaVtbN38h5S1XS0znXofQPsZM=/0x0/filters:format(png)/pic5506076.png</image>
+    <name type="primary" sortindex="1" value="Stars of Akarios" />
+    <name type="alternate" sortindex="1" value="Звёзды Акариоса" />
+    <name type="alternate" sortindex="1" value="幽星迷航" />
+    <description>Stars of Akarios  is a narrative-driven, cooperative campaign game set in the Akarios Galaxy. Throughout Stars of Akarios, you will fight in epic space battles, upgrade your ship, and explore the fringes of space. Stars of Akarios is built upon 4 core pillars of game play: Space Combat, World Exploration, Space Exploration, and Player Progression. Each pillar works together to create a unified and epic, sci-fi board game experience.
+
+You and your fellow cadets are close to completing your Akarios Institute pilot training when an unknown enemy attacks your home planet of Medellia. You must fight back with the war hero Captain Soma and her ship, the Sparrow. You will need to step out of your fighters to explore hostile worlds and ships, putting your cunning to the test as you seek new home for your civilization. Use your pilots' skills to complete the challenges you encounter in the limited time available. Manage your ship&amp;rsquo;s resources as you explore new regions of space and embark on missions fighting to survive through the unknown. Even if you are out of resources you can continue exploring, but you risk starting your next encounter at a disadvantage. Your pilot's skills will grow as you test your grit against the enemies in Stars of Akarios. Upgrade you characters' unique abilities and skill trees, allowing you to customize your play experience.
+
+The 200 page scenario book unfolds as a "choose-your-own-adventure." Each choice, success, and failure will shape your story. It will take multiple play-throughs to see all of the Akarios galaxy. 8 different pilots each come with their own unique progression pad and set of skills. The campaign starts with 4 available pilots and the others are unlocked through the choices you make. 10 pilot ships each come with their own set of abilities and class. The ship class will determine what type of upgrades the ship can equip. Equip a combination of upgrade and ability cards from over 55 weapon cards, 55 engine cards, 55 tech cards, many co-pilots, ship abilities, and pilot abilities. Slot in each upgrade in your dual-layered playerboard where everything has a home.
+
+&amp;mdash;description from the publisher
+
+</description>
+    <yearpublished value="2022" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="52">
+      <results numplayers="1">
+        <result value="Best" numvotes="20" />
+        <result value="Recommended" numvotes="20" />
+        <result value="Not Recommended" numvotes="3" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="22" />
+        <result value="Recommended" numvotes="18" />
+        <result value="Not Recommended" numvotes="4" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="9" />
+        <result value="Recommended" numvotes="21" />
+        <result value="Not Recommended" numvotes="9" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="5" />
+        <result value="Recommended" numvotes="21" />
+        <result value="Not Recommended" numvotes="13" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="29" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 1–2 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="120" />
+    <minplaytime value="30" />
+    <maxplaytime value="120" />
+    <minage value="13" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="0" />
+        <result value="12" numvotes="3" />
+        <result value="14" numvotes="0" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1022" value="Adventure" />
+    <link type="boardgamecategory" id="1047" value="Miniatures" />
+    <link type="boardgamecategory" id="1016" value="Science Fiction" />
+    <link type="boardgamecategory" id="1113" value="Space Exploration" />
+    <link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+    <link type="boardgamemechanic" id="2676" value="Grid Movement" />
+    <link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+    <link type="boardgamemechanic" id="2959" value="Map Addition" />
+    <link type="boardgamemechanic" id="2011" value="Modular Board" />
+    <link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+    <link type="boardgamemechanic" id="2028" value="Role Playing" />
+    <link type="boardgamemechanic" id="2892" value="Roles with Asymmetric Information" />
+    <link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamemechanic" id="2027" value="Storytelling" />
+    <link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+    <link type="boardgamefamily" id="48877" value="Components: Game Trayz Inside" />
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+    <link type="boardgamefamily" id="50563" value="Crowdfunding: Zeczec" />
+    <link type="boardgamefamily" id="24281" value="Mechanism: Campaign Games" />
+    <link type="boardgameexpansion" id="405722" value="Stars of Akarios: Battles of Akarios" />
+    <link type="boardgameexpansion" id="442094" value="Stars of Akarios: Legendary Weapon Upgrade Pack" />
+    <link type="boardgameexpansion" id="398955" value="Stars of Akarios: The Drones of Akarios" />
+    <link type="boardgameaccessory" id="442088" value="Stars of Akarios: 1.5 Upgrade Pack" />
+    <link type="boardgameaccessory" id="366339" value="Stars of Akarios: Language Pack" />
+    <link type="boardgameaccessory" id="316669" value="Stars of Akarios: Neoprene Game Board" />
+    <link type="boardgameaccessory" id="442092" value="Stars of Akarios: Terrain of Akarios" />
+    <link type="boardgameaccessory" id="329512" value="Stars of Akarios: The Ships of Akarios" />
+    <link type="boardgamedesigner" id="111312" value="Brendan McCaskell" />
+    <link type="boardgamedesigner" id="94125" value="Jonathan Thwaites" />
+    <link type="boardgameartist" id="173710" value="Justin Currie" />
+    <link type="boardgameartist" id="173712" value="Nemanja Malidža" />
+    <link type="boardgameartist" id="173711" value="Dan Wang" />
+    <link type="boardgamepublisher" id="37857" value="OOMM" />
+    <link type="boardgamepublisher" id="34522" value="CrowD Games" />
+    <link type="boardgamepublisher" id="28415" value="GoKids 玩樂小子" />
+    <link type="boardgamepublisher" id="53918" value="Open Owl Studios" />
+    <link type="boardgamepublisher" id="49342" value="Rosiness" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1202" />
+        <average value="7.98659" />
+        <bayesaverage value="6.2239" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2164" bayesaverage="6.2239" />
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="350" bayesaverage="6.62647" />
+        </ranks>
+        <stddev value="1.55682" />
+        <median value="0" />
+        <owned value="3524" />
+        <trading value="81" />
+        <wanting value="141" />
+        <wishing value="1581" />
+        <numcomments value="457" />
+        <numweights value="56" />
+        <averageweight value="2.9286" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

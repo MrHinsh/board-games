@@ -1,0 +1,128 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="270673">
+    <thumbnail>https://cf.geekdo-images.com/a6DA19Zb8GLJ3wxyamCiJw__small/img/YVYnsMuksuud8E7DfNenfuH5jis=/fit-in/200x150/filters:strip_icc()/pic6974604.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/a6DA19Zb8GLJ3wxyamCiJw__original/img/0VTXqGyyc0PC_-AdDcOIllSQDMg=/0x0/filters:format(jpeg)/pic6974604.jpg</image>
+    <name type="primary" sortindex="1" value="Silver &amp; Gold" />
+    <name type="alternate" sortindex="1" value="Карты сокровищ" />
+    <name type="alternate" sortindex="1" value="실버 &amp; 골드" />
+    <description>Distant islands with golden treasures &amp;mdash; who hasn't dreamed of that?!
+
+Silver &amp; Gold combines simple rules, fast action, luck, and planning as players try to complete treasure map after treasure map, with the maps being printed on wipeable cards to allow for endless adventures.
+
+One at a time, an Expedition card is revealed, and each player crosses out fields on 1 of his 2 Treasure Map Cards corresponding to the pattern shown on the Expedition Card. Once 7 of the 8 Expedition Cards are revealed, and players mark their Treasure Map Cards accordingly, there will be 1 unused Expedition Card remaining. This signals the end of the round.
+
+After 4 rounds are played, the game ends and each player calculates his victory points. The player wit the most victory points wins.
+
+</description>
+    <yearpublished value="2019" />
+    <minplayers value="2" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="88">
+      <results numplayers="1">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="4" />
+        <result value="Not Recommended" numvotes="38" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="27" />
+        <result value="Recommended" numvotes="52" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="41" />
+        <result value="Recommended" numvotes="29" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="45" />
+        <result value="Recommended" numvotes="24" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="3" />
+        <result value="Not Recommended" numvotes="31" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 3–4 players" />
+      <result name="recommmendedwith" value="Recommended with 2–4 players" />
+    </poll-summary>
+    <playingtime value="20" />
+    <minplaytime value="20" />
+    <maxplaytime value="20" />
+    <minage value="8" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="36">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="3" />
+        <result value="6" numvotes="13" />
+        <result value="8" numvotes="18" />
+        <result value="10" numvotes="2" />
+        <result value="12" numvotes="0" />
+        <result value="14" numvotes="0" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="9">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="9" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1022" value="Adventure" />
+    <link type="boardgamecategory" id="1020" value="Exploration" />
+    <link type="boardgamemechanic" id="2999" value="Bingo" />
+    <link type="boardgamemechanic" id="2912" value="Contracts" />
+    <link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+    <link type="boardgamemechanic" id="2978" value="Grid Coverage" />
+    <link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+    <link type="boardgamemechanic" id="2004" value="Set Collection" />
+    <link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+    <link type="boardgamefamily" id="63161" value="Components: Dry Erase Markers / Dry Erase Surfaces" />
+    <link type="boardgamefamily" id="24571" value="Components: Polyominoes" />
+    <link type="boardgamefamily" id="66143" value="Mechanism: Flip-and-Write" />
+    <link type="boardgamefamily" id="56257" value="Series: NSV Middys (Nürnberger Spielkartenverlag)" />
+    <link type="boardgameexpansion" id="447088" value="Little Treasures (fan expansion for Silver &amp; Gold)" />
+    <link type="boardgameimplementation" id="402215" value="Silver &amp; Gold: Pyramids" />
+    <link type="boardgamedesigner" id="8347" value="Phil Walker-Harding" />
+    <link type="boardgameartist" id="11901" value="Oliver Freudenreich" />
+    <link type="boardgamepublisher" id="1020" value="Nürnberger-Spielkarten-Verlag" />
+    <link type="boardgamepublisher" id="33618" value="Fractal Juegos" />
+    <link type="boardgamepublisher" id="42728" value="FunMill.ru" />
+    <link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+    <link type="boardgamepublisher" id="52707" value="Mnogoknig Games" />
+    <link type="boardgamepublisher" id="6011" value="Oya" />
+    <link type="boardgamepublisher" id="21847" value="Pandasaurus Games" />
+    <link type="boardgamepublisher" id="41167" value="Popcorn Games" />
+    <link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+    <link type="boardgamepublisher" id="28082" value="Нескучные игры" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="9085" />
+        <average value="7.15522" />
+        <bayesaverage value="6.79557" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="765" bayesaverage="6.79557" />
+          <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="189" bayesaverage="6.88945" />
+        </ranks>
+        <stddev value="1.10889" />
+        <median value="0" />
+        <owned value="17367" />
+        <trading value="315" />
+        <wanting value="130" />
+        <wishing value="1367" />
+        <numcomments value="1418" />
+        <numweights value="167" />
+        <averageweight value="1.2156" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

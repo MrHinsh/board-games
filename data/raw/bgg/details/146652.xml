@@ -1,0 +1,146 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="146652">
+    <thumbnail>https://cf.geekdo-images.com/jSz_KRUxsjGYitoqx9YH1Q__small/img/AT5BHzGvyKq2w84Cw97JX3tDy-I=/fit-in/200x150/filters:strip_icc()/pic2225180.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/jSz_KRUxsjGYitoqx9YH1Q__original/img/nrvJtT-4tYTD0fp3Cr57SKpfMfw=/0x0/filters:format(jpeg)/pic2225180.jpg</image>
+    <name type="primary" sortindex="1" value="Legendary Encounters: An Alien Deck Building Game" />
+    <description>Legendary Encounters: An Alien Deck Building Game, based on the four movies of the Alien series, is a fully cooperative game with original art. While based on the Marvel superheroes version of Legendary, the two games will be compatible but cannot be fully integrated.
+
+Legendary Encounters is a deck-building game in the same family as Legendary: A Marvel Deck Building Game, but now players must cooperate in order to survive against hordes of aliens. Taking on the role of protagonists such as Ripley, Dallas, Bishop and Corporal Hicks, players take turns recruiting cards for their deck from a central selection in order to improve their deck and defeat Xenomorph cards that are added to the central game board.
+
+Product Breakdown:
+&gt; 600  total Original Art Card Set
+&gt; Full Color Game Board (mat)
+&gt; Full Color Rule Book
+&gt; Card inserts for easy organization
+&gt; Customize your card organization with removable foam inserts
+
+</description>
+    <yearpublished value="2014" />
+    <minplayers value="1" />
+    <maxplayers value="5" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="278">
+      <results numplayers="1">
+        <result value="Best" numvotes="54" />
+        <result value="Recommended" numvotes="140" />
+        <result value="Not Recommended" numvotes="31" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="67" />
+        <result value="Recommended" numvotes="137" />
+        <result value="Not Recommended" numvotes="12" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="126" />
+        <result value="Recommended" numvotes="77" />
+        <result value="Not Recommended" numvotes="5" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="60" />
+        <result value="Recommended" numvotes="106" />
+        <result value="Not Recommended" numvotes="22" />
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="14" />
+        <result value="Recommended" numvotes="72" />
+        <result value="Not Recommended" numvotes="93" />
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="2" />
+        <result value="Recommended" numvotes="3" />
+        <result value="Not Recommended" numvotes="115" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 3 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="60" />
+    <minplaytime value="30" />
+    <maxplaytime value="60" />
+    <minage value="17" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="88">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="1" />
+        <result value="10" numvotes="15" />
+        <result value="12" numvotes="21" />
+        <result value="14" numvotes="31" />
+        <result value="16" numvotes="16" />
+        <result value="18" numvotes="4" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="54">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="28" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="22" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1002" value="Card Game" />
+    <link type="boardgamecategory" id="1046" value="Fighting" />
+    <link type="boardgamecategory" id="1024" value="Horror" />
+    <link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+    <link type="boardgamecategory" id="1016" value="Science Fiction" />
+    <link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+    <link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+    <link type="boardgamemechanic" id="2901" value="Delayed Purchase" />
+    <link type="boardgamemechanic" id="2850" value="Events" />
+    <link type="boardgamemechanic" id="2891" value="Hidden Roles" />
+    <link type="boardgamemechanic" id="2041" value="Open Drafting" />
+    <link type="boardgamemechanic" id="2685" value="Player Elimination" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+    <link type="boardgamemechanic" id="2814" value="Traitor Game" />
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+    <link type="boardgamefamily" id="39912" value="Category: Tower Defense" />
+    <link type="boardgamefamily" id="5679" value="Creatures: Aliens / Extraterrestrials" />
+    <link type="boardgamefamily" id="23689" value="Game: Legendary (Upper Deck Entertainment)" />
+    <link type="boardgamefamily" id="109863" value="Mechanism: Pure Deckbuilding" />
+    <link type="boardgamefamily" id="62097" value="Movies: Alien / Aliens" />
+    <link type="boardgamefamily" id="62042" value="Movies: Horror Movies" />
+    <link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+    <link type="boardgameexpansion" id="205283" value="Legendary Encounters: Alien Conversion Kit" />
+    <link type="boardgameexpansion" id="285158" value="Legendary Encounters: Alien Covenant" />
+    <link type="boardgameexpansion" id="200090" value="Legendary Encounters: An Alien Deck Building Game Expansion" />
+    <link type="boardgameaccessory" id="458860" value="Legendary Encounters: Alien Covenant – A Perfect Organism Alternate Art Promo Card" />
+    <link type="boardgameaccessory" id="274249" value="Legendary Encounters: An Alien Deck Building Game – Encounters Organizer" />
+    <link type="boardgameaccessory" id="275562" value="Legendary Encounters: An Alien Deck Building Game – Encounters Organizer – Extra Dividers" />
+    <link type="boardgameaccessory" id="331833" value="Legendary Encounters: An Alien Deck Building Game – reDrewno Insert" />
+    <link type="boardgameaccessory" id="364905" value="Legendary Encounters: An Alien Deck Building Game – WarBox Insert" />
+    <link type="boardgameaccessory" id="348641" value="Legendary Encounters: The GiftForge Insert" />
+    <link type="boardgameintegration" id="195571" value="Legendary Encounters: A Firefly Deck Building Game" />
+    <link type="boardgameintegration" id="174570" value="Legendary Encounters: A Predator Deck Building Game" />
+    <link type="boardgameimplementation" id="129437" value="Legendary: A Marvel Deck Building Game" inbound="true" />
+    <link type="boardgamedesigner" id="10489" value="Ben Cichoski" />
+    <link type="boardgamedesigner" id="4372" value="Daniel Mandel" />
+    <link type="boardgameartist" id="3" value="(Uncredited)" />
+    <link type="boardgamepublisher" id="517" value="Upper Deck Entertainment" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="13806" />
+        <average value="7.75191" />
+        <bayesaverage value="7.3626" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="200" bayesaverage="7.3626" />
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="45" bayesaverage="7.49148" />
+        </ranks>
+        <stddev value="1.37315" />
+        <median value="0" />
+        <owned value="19367" />
+        <trading value="327" />
+        <wanting value="669" />
+        <wishing value="4624" />
+        <numcomments value="2531" />
+        <numweights value="510" />
+        <averageweight value="2.7078" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

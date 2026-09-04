@@ -1,0 +1,140 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="382843">
+    <thumbnail>https://cf.geekdo-images.com/tNO7HW6Hn_O3xY11R80pFA__small/img/XAQYaQnO9WiZ-dVy4QV2jN8IjYI=/fit-in/200x150/filters:strip_icc()/pic7672387.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/tNO7HW6Hn_O3xY11R80pFA__original/img/9wrRs7GtVVRuNblz64QXvNJMb-4=/0x0/filters:format(jpeg)/pic7672387.jpg</image>
+    <name type="primary" sortindex="1" value="Evacuation" />
+    <name type="alternate" sortindex="1" value="Evakuace" />
+    <name type="alternate" sortindex="1" value="Ewakuacja" />
+    <name type="alternate" sortindex="1" value="Êxodo" />
+    <name type="alternate" sortindex="1" value="Hexodus" />
+    <name type="alternate" sortindex="1" value="エヴァキュエーション" />
+    <name type="alternate" sortindex="1" value="撤离计划" />
+    <name type="alternate" sortindex="1" value="이베큐에이션" />
+    <description>"Hurry to the ship! Twelve houses from our town have already burned down!"
+
+In Evacuation, life on our planet is being burned away thanks to increasingly intense sunlight, so everyone is trying to move all the people and factories in their territories from the "old" planet to a new one &amp;mdash; and they have only four rounds in which to do so.
+
+You start the game with a full functioning economy, and over the course of play, you must dismantle that economy and move it. Income on the old planet shrinks over time, and production probably won't be much better until you establish yourself on the new planet and kick things into action. Resources can't be mixed across the planets, so you need to take special care with your planning.
+
+To do this, you choose actions from the player board, with the expert variant adding cards to your hand that allow you to choose additional actions and combine them. Each action has its own value, and the sum of these actions is important for an "end of the round" bonus. Additionally, players move their markers along the orbital track based on the value of their actions.
+
+If you can raise production of three resources to level 8 and have three stadiums on the new planet, you win. Otherwise, players compare scores after four rounds. Evacuation includes modules to add new play options.
+
+</description>
+    <yearpublished value="2023" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="99">
+      <results numplayers="1">
+        <result value="Best" numvotes="8" />
+        <result value="Recommended" numvotes="28" />
+        <result value="Not Recommended" numvotes="17" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="38" />
+        <result value="Recommended" numvotes="33" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="46" />
+        <result value="Recommended" numvotes="24" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="13" />
+        <result value="Recommended" numvotes="36" />
+        <result value="Not Recommended" numvotes="19" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="35" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 2–3 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="150" />
+    <minplaytime value="60" />
+    <maxplaytime value="150" />
+    <minage value="12" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="12">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="0" />
+        <result value="12" numvotes="2" />
+        <result value="14" numvotes="9" />
+        <result value="16" numvotes="1" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="6">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1088" value="Industry / Manufacturing" />
+    <link type="boardgamecategory" id="1016" value="Science Fiction" />
+    <link type="boardgamecategory" id="1086" value="Territory Building" />
+    <link type="boardgamemechanic" id="2040" value="Hand Management" />
+    <link type="boardgamemechanic" id="2889" value="Highest-Lowest Scoring" />
+    <link type="boardgamemechanic" id="2902" value="Income" />
+    <link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+    <link type="boardgamemechanic" id="2876" value="Race" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgameexpansion" id="411362" value="Evacuation: P1 – Dice Tower 2024 Promo Card" />
+    <link type="boardgameexpansion" id="430466" value="Evacuation: P2 – MvM Promo Card" />
+    <link type="boardgameexpansion" id="415736" value="Evacuation: P3 – Italian Edition Promo Card" />
+    <link type="boardgameexpansion" id="415124" value="Evacuation: P4 – Spielbox Promo Card" />
+    <link type="boardgameexpansion" id="402811" value="Evacuation: SPIEL '23 Promo Card" />
+    <link type="boardgameaccessory" id="435737" value="Evacuation: InMyBox Organizer" />
+    <link type="boardgameaccessory" id="416675" value="Evacuation: Laserox Organizer" />
+    <link type="boardgameaccessory" id="455217" value="Evacuation: Official Game Mat" />
+    <link type="boardgamedesigner" id="9307" value="Vladimír Suchý" />
+    <link type="boardgameartist" id="130237" value="Michal Peichl" />
+    <link type="boardgamepublisher" id="39354" value="Delicious Games" />
+    <link type="boardgamepublisher" id="36401" value="Arrakis Games" />
+    <link type="boardgamepublisher" id="33710" value="Fox in the Box" />
+    <link type="boardgamepublisher" id="5380" value="Intrafin Games" />
+    <link type="boardgamepublisher" id="25996" value="Jumping Turtle Games" />
+    <link type="boardgamepublisher" id="44349" value="Mosaico Jogos" />
+    <link type="boardgamepublisher" id="46431" value="MTS Games" />
+    <link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+    <link type="boardgamepublisher" id="2726" value="Portal Games" />
+    <link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+    <link type="boardgamepublisher" id="29154" value="数寄ゲームズ (Suki Games)" />
+    <link type="boardgamepublisher" id="42061" value="Tesla Games" />
+    <link type="boardgamepublisher" id="8147" value="YOKA Games" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="3922" />
+        <average value="7.47654" />
+        <bayesaverage value="6.71333" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="896" bayesaverage="6.71333" />
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="500" bayesaverage="6.86806" />
+        </ranks>
+        <stddev value="1.23909" />
+        <median value="0" />
+        <owned value="7784" />
+        <trading value="198" />
+        <wanting value="213" />
+        <wishing value="2194" />
+        <numcomments value="733" />
+        <numweights value="256" />
+        <averageweight value="3.9961" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

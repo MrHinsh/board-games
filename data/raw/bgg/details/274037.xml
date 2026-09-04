@@ -1,0 +1,127 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="274037">
+    <thumbnail>https://cf.geekdo-images.com/irErlpcjcOjOdRc7a5ftqA__small/img/mJziTE2wwMju6KcbJc2wQI4F96w=/fit-in/200x150/filters:strip_icc()/pic4608845.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/irErlpcjcOjOdRc7a5ftqA__original/img/WF5KMUGIkgicPG_FbGanMfC21dM=/0x0/filters:format(jpeg)/pic4608845.jpg</image>
+    <name type="primary" sortindex="1" value="Solar Storm" />
+    <name type="alternate" sortindex="1" value="Tormenta Solar" />
+    <name type="alternate" sortindex="1" value="Солнечный Шторм" />
+    <description>In Solar Storm, you are crew members on board a ship that has had its energy core taken out by solar flares. Even worse, the ship is caught in the sun&amp;rsquo;s gravitational pull which is causing even more damage. It is only a matter of time before you and the rest of the crew perish.
+
+You and the other crew members must repair the ship whilst using resources to divert what little power is left, back to the energy core. You must work together if you have any hope of survival. Get moving. You have limited resources and more solar flares are continuously causing more damage. Can you survive this Solar Storm, or will you perish in the burning abyss?
+
+On a player&amp;rsquo;s turn, they may take up to 3 of the following actions; move, use resources to repair an area of the ship, use resources to divert power from an area back to the energy core, scavenge for resources, share resources, or strategically save actions for later in the game.
+
+At the end of each player&amp;rsquo;s turn, the ship will take more damage. The level of damage will increase as the game goes on. Players win if they can direct power from all areas back to the energy core. However, players will lose if an area takes too much damage or if the resource deck runs dry.
+
+Solar Storm will give players a unique game every time they play due to the ship&amp;rsquo;s areas being laid out randomly at the start of each game. In Solar Storm, cooperative play is essential as players cannot win on their own.
+
+&amp;mdash;description from designer
+
+</description>
+    <yearpublished value="2020" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="62">
+      <results numplayers="1">
+        <result value="Best" numvotes="33" />
+        <result value="Recommended" numvotes="23" />
+        <result value="Not Recommended" numvotes="3" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="17" />
+        <result value="Recommended" numvotes="25" />
+        <result value="Not Recommended" numvotes="4" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="5" />
+        <result value="Recommended" numvotes="28" />
+        <result value="Not Recommended" numvotes="7" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="5" />
+        <result value="Recommended" numvotes="22" />
+        <result value="Not Recommended" numvotes="11" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="30" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 1 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="60" />
+    <minplaytime value="30" />
+    <maxplaytime value="60" />
+    <minage value="10" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="10">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="4" />
+        <result value="10" numvotes="5" />
+        <result value="12" numvotes="0" />
+        <result value="14" numvotes="1" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="5">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="5" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1002" value="Card Game" />
+    <link type="boardgamecategory" id="1016" value="Science Fiction" />
+    <link type="boardgamemechanic" id="2001" value="Action Points" />
+    <link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+    <link type="boardgamemechanic" id="2040" value="Hand Management" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+    <link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+    <link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+    <link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+    <link type="boardgameexpansion" id="315945" value="Solar Storm: Alternative Rooms Mini Expansion" />
+    <link type="boardgameexpansion" id="315947" value="Solar Storm: Damage Control Mini Expansion" />
+    <link type="boardgameaccessory" id="324939" value="Solar Storm: FlemingsForge overlays and card frame" />
+    <link type="boardgameaccessory" id="312949" value="Solar Storm: Neoprene Mat" />
+    <link type="boardgamecompilation" id="314019" value="Solar Storm: Deluxe Edition" />
+    <link type="boardgamedesigner" id="115824" value="Ayden Lowther" />
+    <link type="boardgameartist" id="115973" value="Vladimir Ishelin" />
+    <link type="boardgameartist" id="113337" value="Elias Stern" />
+    <link type="boardgamepublisher" id="37933" value="Dranda Games" />
+    <link type="boardgamepublisher" id="29194" value="GaGa Games" />
+    <link type="boardgamepublisher" id="7251" value="Giochix.it" />
+    <link type="boardgamepublisher" id="30677" value="Maldito Games" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1353" />
+        <average value="6.94427" />
+        <bayesaverage value="5.97771" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3349" bayesaverage="5.97771" />
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="675" bayesaverage="6.17576" />
+        </ranks>
+        <stddev value="1.26687" />
+        <median value="0" />
+        <owned value="2742" />
+        <trading value="51" />
+        <wanting value="52" />
+        <wishing value="495" />
+        <numcomments value="350" />
+        <numweights value="60" />
+        <averageweight value="2.0667" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,151 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="367150">
+    <thumbnail>https://cf.geekdo-images.com/b_Uo-x3szhupSWeQdw5bdg__small/img/890K-CXqdcJoNgICyOlpnru48v4=/fit-in/200x150/filters:strip_icc()/pic7088918.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/b_Uo-x3szhupSWeQdw5bdg__original/img/FGqkNWPyWBiERARxf5eLuLt831o=/0x0/filters:format(jpeg)/pic7088918.jpg</image>
+    <name type="primary" sortindex="1" value="Dune: War for Arrakis" />
+    <name type="alternate" sortindex="1" value="Duna: Válka o Arrakis" />
+    <name type="alternate" sortindex="1" value="Dune: Guerra por Arrakis" />
+    <name type="alternate" sortindex="1" value="Dune: Guerre sur Arrakis" />
+    <name type="alternate" sortindex="1" value="Dune: Krieg um Arrakis" />
+    <name type="alternate" sortindex="1" value="Dune: La Guerra de Arrakis" />
+    <name type="alternate" sortindex="1" value="Dune: La Guerra per Arrakis" />
+    <name type="alternate" sortindex="1" value="Dune: Wojna o Arrakis" />
+    <name type="alternate" sortindex="1" value="Дюна: Війна за Арракіс" />
+    <name type="alternate" sortindex="1" value="Дюна: Война за Арракис" />
+    <description>Arrakis is a desert world seemingly dead and barren, yet here lies the most important resource in the galaxy: Spice. Without Spice, space travel is impossible, and humans become little clusters on isolated planets. The noble House that controls Arrakis and the production of Spice wields great power. The Emperor gave Arrakis to House Atreides, but then he conspired to replace them with their old rivals, House Harkonnen. Baron Harkonnen crushed the Atreides in a treasonous attack, and now rules the planet with an iron fist. But Paul and Jessica, heirs to House Atreides, are alive, and are mounting a rebellion with the aid of the formidable Fremen, the mysterious inhabitants of the barren expanses of Arrakis.
+
+Only one House will emerge victorious from the coming struggle, while the other will be lost in the desert sands. It's into this grim reality that players will be thrust in Dune: War for Arrakis.
+
+In this asymmetrical strategy game, players fight for control of the planet, maneuvering troops like the Fremen, the Fedaykin, and the fearsome Sardaukar, while sending Spice harvesters into the deep desert, daring to challenge the great Sandworms. The game features an action dice system with numerous event cards that will enable players to retell the Dune saga differently with each playthrough.
+
+&amp;mdash;description from the publisher
+
+</description>
+    <yearpublished value="2024" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="124">
+      <results numplayers="1">
+        <result value="Best" numvotes="4" />
+        <result value="Recommended" numvotes="26" />
+        <result value="Not Recommended" numvotes="45" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="108" />
+        <result value="Recommended" numvotes="10" />
+        <result value="Not Recommended" numvotes="2" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="2" />
+        <result value="Recommended" numvotes="22" />
+        <result value="Not Recommended" numvotes="52" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="16" />
+        <result value="Recommended" numvotes="41" />
+        <result value="Not Recommended" numvotes="30" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="71" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 2 players" />
+      <result name="recommmendedwith" value="Recommended with 2, 4 players" />
+    </poll-summary>
+    <playingtime value="120" />
+    <minplaytime value="120" />
+    <maxplaytime value="120" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="15">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="2" />
+        <result value="12" numvotes="8" />
+        <result value="14" numvotes="4" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="1" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+        <result level="5" value="Unplayable in another language" numvotes="1" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1017" value="Dice" />
+    <link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+    <link type="boardgamecategory" id="1093" value="Novel-based" />
+    <link type="boardgamecategory" id="1016" value="Science Fiction" />
+    <link type="boardgamecategory" id="1019" value="Wargame" />
+    <link type="boardgamemechanic" id="2838" value="Action Drafting" />
+    <link type="boardgamemechanic" id="2046" value="Area Movement" />
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+    <link type="boardgamemechanic" id="2856" value="Die Icon Resolution" />
+    <link type="boardgamemechanic" id="2850" value="Events" />
+    <link type="boardgamemechanic" id="2040" value="Hand Management" />
+    <link type="boardgamemechanic" id="2070" value="Simulation" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+    <link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+    <link type="boardgamefamily" id="5838" value="Books: Dune" />
+    <link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+    <link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+    <link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+    <link type="boardgamefamily" id="13265" value="Theme: Deserts" />
+    <link type="boardgameexpansion" id="446237" value="Dune: War for Arrakis - Ecological Testing Station Cards" />
+    <link type="boardgameexpansion" id="370796" value="Dune: War for Arrakis –  The Spacing Guild" />
+    <link type="boardgameexpansion" id="421183" value="Dune: War for Arrakis – Desert War" />
+    <link type="boardgameexpansion" id="446802" value="Dune: War for Arrakis – Exclusive Extras" />
+    <link type="boardgameexpansion" id="371018" value="Dune: War for Arrakis – Smugglers" />
+    <link type="boardgameaccessory" id="373637" value="Dune: War for Arrakis – Arrakis Playmat" />
+    <link type="boardgameaccessory" id="428503" value="Dune: War for Arrakis – Deluxe Rulebook" />
+    <link type="boardgameaccessory" id="374859" value="Dune: War for Arrakis – Plastic Token Set" />
+    <link type="boardgamedesigner" id="934" value="Marco Maggi" />
+    <link type="boardgamedesigner" id="935" value="Francesco Nepitello" />
+    <link type="boardgameartist" id="24858" value="Henning Ludvigsen" />
+    <link type="boardgameartist" id="34328" value="Stefano Moroni" />
+    <link type="boardgameartist" id="10548" value="Paolo Parente" />
+    <link type="boardgameartist" id="14348" value="Steve Prescott" />
+    <link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+    <link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+    <link type="boardgamepublisher" id="157" value="asmodee" />
+    <link type="boardgamepublisher" id="11420" value="Gale Force Nine, LLC" />
+    <link type="boardgamepublisher" id="58739" value="Geekach LLC" />
+    <link type="boardgamepublisher" id="18852" value="Hobby World" />
+    <link type="boardgamepublisher" id="2726" value="Portal Games" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="4392" />
+        <average value="8.48011" />
+        <bayesaverage value="7.30964" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="234" bayesaverage="7.30964" />
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="4" bayesaverage="7.86723" />
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="32" bayesaverage="7.6757" />
+        </ranks>
+        <stddev value="1.40655" />
+        <median value="0" />
+        <owned value="9618" />
+        <trading value="69" />
+        <wanting value="379" />
+        <wishing value="3620" />
+        <numcomments value="829" />
+        <numweights value="172" />
+        <averageweight value="3.6453" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

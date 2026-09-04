@@ -1,0 +1,139 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="344839">
+    <thumbnail>https://cf.geekdo-images.com/k5vsit8aU1_PnrqTwum2YQ__small/img/Cxs0YbafjQeBS3Kqgf6CtOUPxu8=/fit-in/200x150/filters:strip_icc()/pic6503210.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/k5vsit8aU1_PnrqTwum2YQ__original/img/wqanoy5VSZg4kEjXs_5tfXEyybk=/0x0/filters:format(jpeg)/pic6503210.jpg</image>
+    <name type="primary" sortindex="1" value="Dog Lover" />
+    <name type="alternate" sortindex="1" value="Najlepsza gra o psach 2" />
+    <name type="alternate" sortindex="1" value="Psí parťáci" />
+    <name type="alternate" sortindex="1" value="萌犬紳士" />
+    <description>In Dog Lover, you fetch cards, collect bones, and gather food for your lovable dogs. You rescue them from the shelter, train them on new tricks, and cherish their unique traits. The player who takes care of their beloved dogs best will score the most victory points and win!
+
+In more detail, you start the game with a random dog card &amp;mdash; which come in small, medium, and big sizes &amp;mdash; as well as a random "special trick" card. Shuffle the game cards, then lay out the top nine cards in a 3x3 grid. Next to that, lay out three dog trick cards in an adjacent column and three rescued dogs in another column. The player farthest from the start player places the watch dog token next to one of the rows or columns, then the game is ready to play.
+
+On a turn, choose one of your trick cards, rotating it as you desire, then collect cards from the 3x3 grid that match the pattern on the trick card, e.g., common polyomino shapes. You can take at most one card in the row or column under the protection of the watch dog. You can play and tuck cards both before and after you collect cards from the grid. What do you do with what you collect?
+
+
+    Dog cards sit in front of you immediately. Good boy!
+    Food cards are exchanged for one of the four types of food.
+    Adoption cards go in your hand, and you can exchange two for a rescued dog, which comes with a special power or endgame bonus.
+    Favorite Things cards are dog toys that are more valuable when you collect them in sets.
+    Training cards can be tucked under a dog for bonus points, or you can exchange several of them to gain a new trick, which gives you more card-grabbing options each turn.
+    Walk cards are worth bonus points when tucked under a dog.
+    Bone cards give you a bonus for fed dogs if you collect enough of them.
+    Trait cards give an ongoing power and an endgame bonus, but you must attach it to a dog the turn you claim it; otherwise, you must usually discard multiple cards.
+
+
+When the "End Game" card appears in the deck, you complete the round so that each player has the same number of turns, then you tally points. Each dog has a food requirement. If you meet that requirement, the dog and all its traits and tucked cards will be worth points. However, if you don't give the dog the right type and amount of food, you score -2 points for that dog and ignore all tucked cards that would otherwise give you points (Don't let your dogs go hungry!). The player who scores the most points is the ultimate dog lover!
+
+</description>
+    <yearpublished value="2021" />
+    <minplayers value="2" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="18">
+      <results numplayers="1">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="8" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="10" />
+        <result value="Recommended" numvotes="6" />
+        <result value="Not Recommended" numvotes="0" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="4" />
+        <result value="Recommended" numvotes="9" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="6" />
+        <result value="Not Recommended" numvotes="4" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="9" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 2 players" />
+      <result name="recommmendedwith" value="Recommended with 2–4 players" />
+    </poll-summary>
+    <playingtime value="30" />
+    <minplaytime value="30" />
+    <maxplaytime value="30" />
+    <minage value="10" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="1" />
+        <result value="8" numvotes="2" />
+        <result value="10" numvotes="4" />
+        <result value="12" numvotes="1" />
+        <result value="14" numvotes="0" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1089" value="Animals" />
+    <link type="boardgamecategory" id="1002" value="Card Game" />
+    <link type="boardgamemechanic" id="3099" value="Multi-Use Cards" />
+    <link type="boardgamemechanic" id="2041" value="Open Drafting" />
+    <link type="boardgamemechanic" id="2004" value="Set Collection" />
+    <link type="boardgamemechanic" id="2940" value="Square Grid" />
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+    <link type="boardgamefamily" id="7349" value="Animals: Dogs" />
+    <link type="boardgamefamily" id="64990" value="Components: Meeples (Animal) / Animeeples" />
+    <link type="boardgamefamily" id="24571" value="Components: Polyominoes" />
+    <link type="boardgamefamily" id="110262" value="Components: Scoring pad" />
+    <link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+    <link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+    <link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+    <link type="boardgamefamily" id="115524" value="Theme: Pets / Companion Animals" />
+    <link type="boardgameimplementation" id="228504" value="Cat Lady" inbound="true" />
+    <link type="boardgamedesigner" id="11241" value="David Short" />
+    <link type="boardgameartist" id="155356" value="Caravan Studio" />
+    <link type="boardgameartist" id="58973" value="Kali Fitzgerald" />
+    <link type="boardgamepublisher" id="396" value="Alderac Entertainment Group" />
+    <link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+    <link type="boardgamepublisher" id="26380" value="FoxGames" />
+    <link type="boardgamepublisher" id="7992" value="MINDOK" />
+    <link type="boardgamepublisher" id="23756" value="MYBG Co., Ltd." />
+    <link type="boardgamepublisher" id="30490" value="Primigenio" />
+    <link type="boardgamepublisher" id="36563" value="Reflexshop" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1526" />
+        <average value="6.69544" />
+        <bayesaverage value="5.95013" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3524" bayesaverage="5.95013" />
+          <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1127" bayesaverage="6.05688" />
+        </ranks>
+        <stddev value="1.20187" />
+        <median value="0" />
+        <owned value="2951" />
+        <trading value="65" />
+        <wanting value="51" />
+        <wishing value="506" />
+        <numcomments value="308" />
+        <numweights value="32" />
+        <averageweight value="1.8438" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

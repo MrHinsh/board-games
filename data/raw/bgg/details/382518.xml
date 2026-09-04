@@ -1,0 +1,136 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="382518">
+    <thumbnail>https://cf.geekdo-images.com/28jZrGyS6xja-rSxSs8zWQ__small/img/1R1wkCM8JNZDGNrfxE8bb9CQ6Bk=/fit-in/200x150/filters:strip_icc()/pic7414454.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/28jZrGyS6xja-rSxSs8zWQ__original/img/9l81IKpRnQgEDgu1_UQP9cFdoCM=/0x0/filters:format(jpeg)/pic7414454.jpg</image>
+    <name type="primary" sortindex="1" value="Sankoré: The Pride of Mansa Musa" />
+    <name type="alternate" sortindex="1" value="Sankoré: Der Stolz des Mansa Musa" />
+    <name type="alternate" sortindex="1" value="Sankoré: La fierté de Mansa Musa" />
+    <name type="alternate" sortindex="1" value="桑科雷大学" />
+    <description>In Sankor&amp;eacute;: The Pride of Mansa Musa, a dynamic, interactive, mid-weight Eurogame, 1-4 players manage the prestigious University of Sankor&amp;eacute; in 14th-century Timbuktu, tasked by the emperor Mansa Musa with spreading knowledge throughout West Africa, even as the great university is raised around them.
+  
+By enrolling and graduating your pupils, teaching classes, adding to your curriculum, and filling the great library with books, you will advance knowledge in four main disciplines: theology, law, mathematics, and astronomy. Once construction of the university is complete, the value that the empire places on each discipline will dramatically affect how you score the knowledge you have passed on.
+
+In a dedicated solo mode, you compete against the "Distinguished Scholar", a passionate and ambitious academic controlled by an elegant automated system. They may not be as nimble as you, but they are focused and driven and will strive to produce the best possible students.
+
+Can you navigate the corridors of academic competition and bring renown to Mansa Musa's prized university?
+
+&amp;mdash;description from the publisher
+
+</description>
+    <yearpublished value="2024" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="88">
+      <results numplayers="1">
+        <result value="Best" numvotes="5" />
+        <result value="Recommended" numvotes="27" />
+        <result value="Not Recommended" numvotes="16" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="17" />
+        <result value="Recommended" numvotes="41" />
+        <result value="Not Recommended" numvotes="8" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="41" />
+        <result value="Recommended" numvotes="24" />
+        <result value="Not Recommended" numvotes="2" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="21" />
+        <result value="Recommended" numvotes="20" />
+        <result value="Not Recommended" numvotes="16" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="0" />
+        <result value="Not Recommended" numvotes="31" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 3 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="180" />
+    <minplaytime value="150" />
+    <maxplaytime value="180" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="0" />
+        <result value="12" numvotes="0" />
+        <result value="14" numvotes="7" />
+        <result value="16" numvotes="0" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient" />
+    <link type="boardgamecategory" id="1029" value="City Building" />
+    <link type="boardgamecategory" id="1015" value="Civilization" />
+    <link type="boardgamecategory" id="1021" value="Economic" />
+    <link type="boardgamecategory" id="1094" value="Educational" />
+    <link type="boardgamecategory" id="1035" value="Medieval" />
+    <link type="boardgamemechanic" id="2001" value="Action Points" />
+    <link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+    <link type="boardgamemechanic" id="2912" value="Contracts" />
+    <link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+    <link type="boardgamemechanic" id="3103" value="Resource Queue" />
+    <link type="boardgamemechanic" id="2070" value="Simulation" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamemechanic" id="2849" value="Tech Trees / Tech Tracks" />
+    <link type="boardgamemechanic" id="2082" value="Worker Placement" />
+    <link type="boardgamemechanic" id="2933" value="Worker Placement, Different Worker Types" />
+    <link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+    <link type="boardgamefamily" id="6480" value="Animals: Camels" />
+    <link type="boardgamefamily" id="117144" value="Cities: Timbuktu (Mali)" />
+    <link type="boardgamefamily" id="27383" value="Continents: Africa" />
+    <link type="boardgamefamily" id="13248" value="Country: Mali" />
+    <link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+    <link type="boardgamefamily" id="119625" value="Series: Euro trilogy (Osprey Games)" />
+    <link type="boardgamefamily" id="67364" value="Theme: School / College / University" />
+    <link type="boardgamedesigner" id="123300" value="Mandela Fernandez-Grandon" />
+    <link type="boardgamedesigner" id="100575" value="Fabio Lopiano" />
+    <link type="boardgameartist" id="64844" value="Ian O'Toole" />
+    <link type="boardgamepublisher" id="29313" value="Osprey Games" />
+    <link type="boardgamepublisher" id="42147" value="Giant Roc" />
+    <link type="boardgamepublisher" id="29409" value="Super Meeple" />
+    <link type="boardgamepublisher" id="8147" value="YOKA Games" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1714" />
+        <average value="7.95415" />
+        <bayesaverage value="6.48895" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1369" bayesaverage="6.48895" />
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="678" bayesaverage="6.69936" />
+        </ranks>
+        <stddev value="1.35902" />
+        <median value="0" />
+        <owned value="3635" />
+        <trading value="39" />
+        <wanting value="230" />
+        <wishing value="1668" />
+        <numcomments value="332" />
+        <numweights value="181" />
+        <averageweight value="4.2486" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

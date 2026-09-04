@@ -1,0 +1,198 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="277659">
+    <thumbnail>https://cf.geekdo-images.com/TUtzY-F7gKTIKm9y8e1AQw__small/img/CVgcWusAt0oVteoy0XYmsFmhfQY=/fit-in/200x150/filters:strip_icc()/pic6520382.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/TUtzY-F7gKTIKm9y8e1AQw__original/img/vpBmnZOOyLZA4va7N6S8j9NyGPQ=/0x0/filters:format(jpeg)/pic6520382.jpg</image>
+    <name type="primary" sortindex="1" value="Final Girl" />
+    <name type="alternate" sortindex="1" value="Poslední holka: Přehrávač" />
+    <name type="alternate" sortindex="1" value="绝命少女：基础盒" />
+    <name type="alternate" sortindex="1" value="파이널 걸" />
+    <description>Playing on a famous horror movie trope, Final Girl is a solitaire-only game that puts the player in the shoes of a female protagonist who must kill the slasher if she wants to survive.
+
+The Core Box, when combined with one of our Feature Film Boxes, has everything you need to play the game. Each Feature Film Box features a unique Killer and an iconic Location, and the more Feature Films you have, the more killer/location combinations you can experience!
+
+In game terms, Final Girl shares similarities with Hostage Negotiator, but with some key differences that change it up, including a game board to track locations and character movement. You can choose from multiple characters when picking someone to play and multiple killers when picking someone to play against. Killers and locations each have their own specific terror cards that will be shuffled together to create a unique experience with various combinations of scenarios for you to play!
+
+NOTE: The 2022 Kickstarter for Final Girl: Season 2 included a 13 card Final Girl: First Printing Correction Pack of corrected cards for the first printing of Final Girl: Series 1. The cards mostly fix typos and are not required to play the game. The cards were corrected for the second printing of Final Girl: Series 1.
+
+&amp;mdash;description from the publisher
+
+</description>
+    <yearpublished value="2021" />
+    <minplayers value="1" />
+    <maxplayers value="1" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="158">
+      <results numplayers="1">
+        <result value="Best" numvotes="151" />
+        <result value="Recommended" numvotes="5" />
+        <result value="Not Recommended" numvotes="1" />
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="6" />
+        <result value="Recommended" numvotes="25" />
+        <result value="Not Recommended" numvotes="102" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 1 players" />
+      <result name="recommmendedwith" value="Recommended with 1 players" />
+    </poll-summary>
+    <playingtime value="60" />
+    <minplaytime value="20" />
+    <maxplaytime value="60" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="38">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="1" />
+        <result value="10" numvotes="0" />
+        <result value="12" numvotes="6" />
+        <result value="14" numvotes="26" />
+        <result value="16" numvotes="4" />
+        <result value="18" numvotes="1" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="13">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="9" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+        <result level="5" value="Unplayable in another language" numvotes="1" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1002" value="Card Game" />
+    <link type="boardgamecategory" id="1010" value="Fantasy" />
+    <link type="boardgamecategory" id="1024" value="Horror" />
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+    <link type="boardgamemechanic" id="2040" value="Hand Management" />
+    <link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+    <link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+    <link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+    <link type="boardgamefamily" id="68117" value="Components: Game Box Used In Play" />
+    <link type="boardgamefamily" id="7395" value="Containers: Video Tape Boxes" />
+    <link type="boardgamefamily" id="119563" value="Creatures: Krampus" />
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+    <link type="boardgamefamily" id="61684" value="Game: Final Girl" />
+    <link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+    <link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+    <link type="boardgamefamily" id="62042" value="Movies: Horror Movies" />
+    <link type="boardgamefamily" id="61977" value="Players: Solitaire Only Games" />
+    <link type="boardgamefamily" id="65494" value="Theme: Survival" />
+    <link type="boardgameexpansion" id="438604" value="Final Girl: A Demon in the Shadows" />
+    <link type="boardgameexpansion" id="354777" value="Final Girl: A Knock at the Door" />
+    <link type="boardgameexpansion" id="438601" value="Final Girl: A Rotten Harvest" />
+    <link type="boardgameexpansion" id="440178" value="Final Girl: Accessories" />
+    <link type="boardgameexpansion" id="438599" value="Final Girl: Bad Times at Buddyland" />
+    <link type="boardgameexpansion" id="426353" value="Final Girl: Bleeding Heart" />
+    <link type="boardgameexpansion" id="361216" value="Final Girl: Box of Props" />
+    <link type="boardgameexpansion" id="307686" value="Final Girl: Carnage at the Carnival" />
+    <link type="boardgameexpansion" id="402686" value="Final Girl: Carolyn's Revenge" />
+    <link type="boardgameexpansion" id="401734" value="Final Girl: Don't Make a Sound" />
+    <link type="boardgameexpansion" id="310175" value="Final Girl: Frightmare on Maple Lane" />
+    <link type="boardgameexpansion" id="432907" value="Final Girl: Grandma's Grudge" />
+    <link type="boardgameexpansion" id="438625" value="Final Girl: Guest Stars" />
+    <link type="boardgameexpansion" id="401727" value="Final Girl: Hell to Pay" />
+    <link type="boardgameexpansion" id="354775" value="Final Girl: Into the Void" />
+    <link type="boardgameexpansion" id="438609" value="Final Girl: Julie Promo Pack" />
+    <link type="boardgameexpansion" id="354817" value="Final Girl: Lore &amp; Scenario Book – Series 1" />
+    <link type="boardgameexpansion" id="382625" value="Final Girl: Lore &amp; Scenario Book – Series 2" />
+    <link type="boardgameexpansion" id="432909" value="Final Girl: Lore &amp; Scenario Book – Series 3" />
+    <link type="boardgameexpansion" id="354779" value="Final Girl: Madness in the Dark" />
+    <link type="boardgameexpansion" id="438608" value="Final Girl: Meg Promo Pack" />
+    <link type="boardgameexpansion" id="354778" value="Final Girl: Once Upon a Full Moon" />
+    <link type="boardgameexpansion" id="354776" value="Final Girl: Panic at Station 2891" />
+    <link type="boardgameexpansion" id="350612" value="Final Girl: Paula Promo" />
+    <link type="boardgameexpansion" id="410767" value="Final Girl: S3 Ultimate Box" />
+    <link type="boardgameexpansion" id="438606" value="Final Girl: S4 Ultimate Box" />
+    <link type="boardgameexpansion" id="383418" value="Final Girl: Series 1 Bonus Features Box" />
+    <link type="boardgameexpansion" id="383419" value="Final Girl: Series 2 Bonus Features Box" />
+    <link type="boardgameexpansion" id="438833" value="Final Girl: Series 3 Bonus Features Box" />
+    <link type="boardgameexpansion" id="438600" value="Final Girl: Shriek" />
+    <link type="boardgameexpansion" id="307687" value="Final Girl: Slaughter in the Groves" />
+    <link type="boardgameexpansion" id="310177" value="Final Girl: Terror From Above" />
+    <link type="boardgameexpansion" id="476057" value="Final Girl: Terror from Beyond" />
+    <link type="boardgameexpansion" id="401964" value="Final Girl: Terror from Destiny" />
+    <link type="boardgameexpansion" id="354824" value="Final Girl: Terror from the Grave" />
+    <link type="boardgameexpansion" id="401729" value="Final Girl: The Falconwood Files" />
+    <link type="boardgameexpansion" id="438602" value="Final Girl: The Green Terror" />
+    <link type="boardgameexpansion" id="307683" value="Final Girl: The Happy Trails Horror" />
+    <link type="boardgameexpansion" id="307684" value="Final Girl: The Haunting of Creech Manor" />
+    <link type="boardgameexpansion" id="401724" value="Final Girl: The Killer from Tomorrow" />
+    <link type="boardgameexpansion" id="401731" value="Final Girl: The Marrek Murders" />
+    <link type="boardgameexpansion" id="401763" value="Final Girl: The North Pole Nightmare" />
+    <link type="boardgameexpansion" id="464502" value="Final Girl: The Raptor Games" />
+    <link type="boardgameaccessory" id="461394" value="Final Girl: Bad Times at Buddyland – Miniatures" />
+    <link type="boardgameaccessory" id="385650" value="Final Girl: First Printing Correction Pack" />
+    <link type="boardgameaccessory" id="468038" value="Final Girl: Frightmare on Maple Lane – Miniatures" />
+    <link type="boardgameaccessory" id="354810" value="Final Girl: Game Mat Set Series 2" />
+    <link type="boardgameaccessory" id="354818" value="Final Girl: Gruesome Deaths Books Series 1" />
+    <link type="boardgameaccessory" id="383420" value="Final Girl: Gruesome Deaths Books Series 2" />
+    <link type="boardgameaccessory" id="432906" value="Final Girl: Gruesome Deaths Books Series 3" />
+    <link type="boardgameaccessory" id="440208" value="Final Girl: Guest Stars Miniatures" />
+    <link type="boardgameaccessory" id="307688" value="Final Girl: Miniatures Series 1" />
+    <link type="boardgameaccessory" id="352360" value="Final Girl: Mystery Box" />
+    <link type="boardgameaccessory" id="354815" value="Final Girl: Mystery Box Series 2" />
+    <link type="boardgameaccessory" id="307689" value="Final Girl: Play Mat Set" />
+    <link type="boardgameaccessory" id="358850" value="Final Girl: Replacement Tray Pack" />
+    <link type="boardgameaccessory" id="393099" value="Final Girl: Series 1 Alternate Killer Miniatures" />
+    <link type="boardgameaccessory" id="354811" value="Final Girl: Series 1 Vehicle Miniatures" />
+    <link type="boardgameaccessory" id="407021" value="Final Girl: Series 2 Alternate Killer Miniatures" />
+    <link type="boardgameaccessory" id="354809" value="Final Girl: Series 2 Miniatures" />
+    <link type="boardgameaccessory" id="354812" value="Final Girl: Series 2 Vehicle Miniatures" />
+    <link type="boardgameaccessory" id="440210" value="Final Girl: Series 3 Miniatures" />
+    <link type="boardgameaccessory" id="401735" value="Final Girl: Series 3 Mystery Box" />
+    <link type="boardgameaccessory" id="440211" value="Final Girl: Series 3 Vehicle Miniatures" />
+    <link type="boardgameaccessory" id="354813" value="Final Girl: Storage Box Series 1" />
+    <link type="boardgameaccessory" id="354814" value="Final Girl: Storage Box Series 2" />
+    <link type="boardgameaccessory" id="356738" value="Final Girl: Terror from Above Miniatures" />
+    <link type="boardgameaccessory" id="440209" value="Final Girl: Terror From Destiny Miniatures" />
+    <link type="boardgameaccessory" id="356737" value="Final Girl: Terror from the Grave Miniatures" />
+    <link type="boardgamecompilation" id="410768" value="Final Girl: S1 Ultimate Box" />
+    <link type="boardgamecompilation" id="386835" value="Final Girl: Starter Set" />
+    <link type="boardgameimplementation" id="134253" value="Hostage Negotiator" inbound="true" />
+    <link type="boardgamedesigner" id="53303" value="Evan Derrick" />
+    <link type="boardgamedesigner" id="48981" value="A. J. Porfirio" />
+    <link type="boardgameartist" id="145383" value="Scott Beavers" />
+    <link type="boardgameartist" id="53303" value="Evan Derrick" />
+    <link type="boardgameartist" id="85335" value="Tyler Johnson" />
+    <link type="boardgameartist" id="126403" value="Vladyslava Ladkova" />
+    <link type="boardgameartist" id="51039" value="Roland MacDonald" />
+    <link type="boardgameartist" id="126404" value="Tumo Mere" />
+    <link type="boardgamepublisher" id="17028" value="Van Ryder Games" />
+    <link type="boardgamepublisher" id="27389" value="Don't Panic Games" />
+    <link type="boardgamepublisher" id="33710" value="Fox in the Box" />
+    <link type="boardgamepublisher" id="8351" value="Gen-X Games (GenX)" />
+    <link type="boardgamepublisher" id="49472" value="Heidelbear Korea" />
+    <link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+    <link type="boardgamepublisher" id="50478" value="Ludofun" />
+    <link type="boardgamepublisher" id="3242" value="Raven Distribution" />
+    <link type="boardgamepublisher" id="21053" value="Rexhry" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="11828" />
+        <average value="8.20871" />
+        <bayesaverage value="7.61055" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="97" bayesaverage="7.61055" />
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="25" bayesaverage="7.73837" />
+        </ranks>
+        <stddev value="1.41384" />
+        <median value="0" />
+        <owned value="29706" />
+        <trading value="282" />
+        <wanting value="334" />
+        <wishing value="4711" />
+        <numcomments value="2228" />
+        <numweights value="291" />
+        <averageweight value="2.7595" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

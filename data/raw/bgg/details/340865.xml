@@ -1,0 +1,140 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="340865">
+    <thumbnail>https://cf.geekdo-images.com/8hiSer9b04DuhsMBbzU-0A__small/img/nfNYJD9hcxEKyHh3HdVe-_xhVU4=/fit-in/200x150/filters:strip_icc()/pic6399488.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/8hiSer9b04DuhsMBbzU-0A__original/img/qLZ_P0_kuh4Jy5vlTy_Wnftp3ho=/0x0/filters:format(jpeg)/pic6399488.jpg</image>
+    <name type="primary" sortindex="1" value="Lords of Ragnarok" />
+    <name type="alternate" sortindex="1" value="Володарі Раґнароку" />
+    <name type="alternate" sortindex="1" value="北欧众神" />
+    <description>In this strategic board game, you will lead a unique, asymmetric hero and their army, trying to be the ultimate victor in a war that unfolds over approximately 120 minutes. Players will choose from various actions, such as building monuments, hunting monsters, ravaging the lands, and gathering armies and artifacts.
+
+Gods will grant you blessings that will heavily impact the game and create a unique combo for each player. On top of all that, special runes will play a significant role in leveling up your armies or earning other bonuses that include control of deadly monsters.
+
+While the game is a spiritual successor of Lords of Hellas and implements a lot of core gameplay aspects, there will be a lot of new mechanics and twists.
+
+Multiple victory conditions will keep players at the edge of their seats until the end of the game, making room for some carefully planned last-minute reversals!
+
+</description>
+    <yearpublished value="2023" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="50">
+      <results numplayers="1">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="17" />
+        <result value="Not Recommended" numvotes="16" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="5" />
+        <result value="Recommended" numvotes="17" />
+        <result value="Not Recommended" numvotes="12" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="20" />
+        <result value="Recommended" numvotes="14" />
+        <result value="Not Recommended" numvotes="4" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="15" />
+        <result value="Recommended" numvotes="14" />
+        <result value="Not Recommended" numvotes="10" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0" />
+        <result value="Recommended" numvotes="12" />
+        <result value="Not Recommended" numvotes="18" />
+      </results>
+    </poll>
+    <poll-summary name="suggested_numplayers" title="User Suggested Number of Players">
+      <result name="bestwith" value="Best with 3 players" />
+      <result name="recommmendedwith" value="Recommended with 1–4 players" />
+    </poll-summary>
+    <playingtime value="180" />
+    <minplaytime value="90" />
+    <maxplaytime value="180" />
+    <minage value="14" />
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0" />
+        <result value="3" numvotes="0" />
+        <result value="4" numvotes="0" />
+        <result value="5" numvotes="0" />
+        <result value="6" numvotes="0" />
+        <result value="8" numvotes="0" />
+        <result value="10" numvotes="0" />
+        <result value="12" numvotes="2" />
+        <result value="14" numvotes="0" />
+        <result value="16" numvotes="1" />
+        <result value="18" numvotes="0" />
+        <result value="21 and up" numvotes="0" />
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="4">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0" />
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+        <result level="5" value="Unplayable in another language" numvotes="0" />
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1010" value="Fantasy" />
+    <link type="boardgamecategory" id="1047" value="Miniatures" />
+    <link type="boardgamecategory" id="1082" value="Mythology" />
+    <link type="boardgamecategory" id="1016" value="Science Fiction" />
+    <link type="boardgamecategory" id="1019" value="Wargame" />
+    <link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+    <link type="boardgamemechanic" id="2046" value="Area Movement" />
+    <link type="boardgamemechanic" id="2857" value="Card Play Conflict Resolution" />
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+    <link type="boardgamemechanic" id="2040" value="Hand Management" />
+    <link type="boardgamemechanic" id="2041" value="Open Drafting" />
+    <link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+    <link type="boardgamemechanic" id="2082" value="Worker Placement" />
+    <link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+    <link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+    <link type="boardgamefamily" id="62773" value="Mythology: Norse" />
+    <link type="boardgameexpansion" id="351552" value="Lords of Ragnarok: Monster Variety Pack" />
+    <link type="boardgameexpansion" id="350720" value="Lords of Ragnarok: Seas of Aegir" />
+    <link type="boardgameexpansion" id="351570" value="Lords of Ragnarok: Stretch Goals" />
+    <link type="boardgameexpansion" id="350196" value="Lords of Ragnarok: Utgard – Realms of the Giants" />
+    <link type="boardgameexpansion" id="350203" value="Lords of Ragnarok: Valkyrie Hero" />
+    <link type="boardgameaccessory" id="350259" value="Lords of Ragnarok: Enhanced Runes" />
+    <link type="boardgameaccessory" id="393516" value="Lords of Ragnarok: Playmat" />
+    <link type="boardgameaccessory" id="350258" value="Lords of Ragnarok: Terrain Expansion" />
+    <link type="boardgameimplementation" id="222509" value="Lords of Hellas" inbound="true" />
+    <link type="boardgamedesigner" id="61569" value="Adam Kwapiński" />
+    <link type="boardgameartist" id="143063" value="Jakub Dzikowski" />
+    <link type="boardgameartist" id="39040" value="Piotr Foksowicz" />
+    <link type="boardgameartist" id="113980" value="Patryk Jędraszek" />
+    <link type="boardgameartist" id="114786" value="Ewa Labak" />
+    <link type="boardgameartist" id="154973" value="Pamela Łuniewska" />
+    <link type="boardgameartist" id="103476" value="Dominik Mayer" />
+    <link type="boardgameartist" id="135964" value="Piotr Orleański" />
+    <link type="boardgamepublisher" id="29412" value="Awaken Realms" />
+    <link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+    <link type="boardgamepublisher" id="8147" value="YOKA Games" />
+    <link type="boardgamepublisher" id="54464" value="Ігрова Майстерня" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1353" />
+        <average value="7.26428" />
+        <bayesaverage value="6.03333" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3031" bayesaverage="6.03333" />
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="665" bayesaverage="6.35766" />
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="581" bayesaverage="6.28167" />
+        </ranks>
+        <stddev value="1.89157" />
+        <median value="0" />
+        <owned value="4117" />
+        <trading value="174" />
+        <wanting value="38" />
+        <wishing value="735" />
+        <numcomments value="433" />
+        <numweights value="71" />
+        <averageweight value="3.8028" />
+      </ratings>
+    </statistics>
+  </item>
+</items>
