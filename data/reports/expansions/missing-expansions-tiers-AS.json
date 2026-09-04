@@ -1,0 +1,2843 @@
+[
+  {
+    "bgg_id": 358661,
+    "name": "Andromeda's Edge",
+    "year_published": 2024,
+    "missing_count": 2,
+    "missing": [
+      {
+        "expansion_id": 379786,
+        "expansion_name": "Andromeda's Edge: Escalation",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 452835,
+        "expansion_name": "Andromeda's Edge: Genesis",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "S"
+  },
+  {
+    "bgg_id": 236457,
+    "name": "Architects of the West Kingdom",
+    "year_published": 2018,
+    "missing_count": 10,
+    "missing": [
+      {
+        "expansion_id": 285235,
+        "expansion_name": "Architects of the West Kingdom: Age of Artisans",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 312753,
+        "expansion_name": "Architects of the West Kingdom: Jugador",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 304625,
+        "expansion_name": "Architects of the West Kingdom: King Dan",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 289464,
+        "expansion_name": "Architects of the West Kingdom: King's Table Top",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 274783,
+        "expansion_name": "Architects of the West Kingdom: Paladins Apprentices",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 295038,
+        "expansion_name": "Architects of the West Kingdom: Racketeer",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 330371,
+        "expansion_name": "Architects of the West Kingdom: Suzerain",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 327245,
+        "expansion_name": "Architects of the West Kingdom: Works of Wonder",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 290834,
+        "expansion_name": "Level Up Loot 2",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 296152,
+        "expansion_name": "The West Kingdom Tomesaga",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 257499,
+    "name": "Arkham Horror (Third Edition)",
+    "year_published": 2018,
+    "missing_count": 1,
+    "missing": [
+      {
+        "expansion_id": 325625,
+        "expansion_name": "Arkham Horror (Third Edition): Recursive Echoes",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 205637,
+    "name": "Arkham Horror: The Card Game",
+    "year_published": 2016,
+    "missing_count": 89,
+    "missing": [
+      {
+        "expansion_id": 327293,
+        "expansion_name": "Arkham Horror: The Card Game – A Light in the Fog: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 235542,
+        "expansion_name": "Arkham Horror: The Card Game – A Phantom of Truth: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 288607,
+        "expansion_name": "Arkham Horror: The Card Game – A Thousand Shapes of Horror: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 317014,
+        "expansion_name": "Arkham Horror: The Card Game – All or Nothing: Challenge Scenario",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 432297,
+        "expansion_name": "Arkham Horror: The Card Game – Aura of Faith: Parallel Investigator",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 326045,
+        "expansion_name": "Arkham Horror: The Card Game – Bad Blood: Challenge Scenario",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 276291,
+        "expansion_name": "Arkham Horror: The Card Game – Before the Black Throne: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 239330,
+        "expansion_name": "Arkham Horror: The Card Game – Black Stars Rise: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 340953,
+        "expansion_name": "Arkham Horror: The Card Game – By the Book: Challenge Scenario",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 215510,
+        "expansion_name": "Arkham Horror: The Card Game – Carnevale of Horrors: Scenario Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 209728,
+        "expansion_name": "Arkham Horror: The Card Game – Curse of the Rougarou: Scenario Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 291559,
+        "expansion_name": "Arkham Horror: The Card Game – Dark Side of the Moon: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 318023,
+        "expansion_name": "Arkham Horror: The Card Game – Devil Reef: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 242088,
+        "expansion_name": "Arkham Horror: The Card Game – Dim Carcosa: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 228778,
+        "expansion_name": "Arkham Horror: The Card Game – Echoes of the Past: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 448054,
+        "expansion_name": "Arkham Horror: The Card Game – Film Fatale: Scenario Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 267974,
+        "expansion_name": "Arkham Horror: The Card Game – For the Greater Good: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 372720,
+        "expansion_name": "Arkham Horror: The Card Game – Fortune and Folly: Scenario Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 252899,
+        "expansion_name": "Arkham Horror: The Card Game – Guardians of the Abyss: Scenario Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 305512,
+        "expansion_name": "Arkham Horror: The Card Game – Harvey Walters: Investigator Starter Deck",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 251733,
+        "expansion_name": "Arkham Horror: The Card Game – Heart of the Elders: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 324765,
+        "expansion_name": "Arkham Horror: The Card Game – Horror in High Gear: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 420615,
+        "expansion_name": "Arkham Horror: The Card Game – Hunting for Answers: Parallel Investigator",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 272752,
+        "expansion_name": "Arkham Horror: The Card Game – In The Clutches of Chaos: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 318022,
+        "expansion_name": "Arkham Horror: The Card Game – In Too Deep: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 328627,
+        "expansion_name": "Arkham Horror: The Card Game – Into the Maelstrom: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 305517,
+        "expansion_name": "Arkham Horror: The Card Game – Jacqueline Fine: Investigator Starter Deck",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 405995,
+        "expansion_name": "Arkham Horror: The Card Game – Laid to Rest: Challenge Scenario",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 347147,
+        "expansion_name": "Arkham Horror: The Card Game – Machinations Through Time: Scenario Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 284354,
+        "expansion_name": "Arkham Horror: The Card Game – Murder at the Excelsior Hotel: Scenario Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 305509,
+        "expansion_name": "Arkham Horror: The Card Game – Nathaniel Cho: Investigator Starter Deck",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 397102,
+        "expansion_name": "Arkham Horror: The Card Game – On the Road Again: Parallel Investigator",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 394077,
+        "expansion_name": "Arkham Horror: The Card Game – Out of the Void Investigator Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 405996,
+        "expansion_name": "Arkham Horror: The Card Game – Path of the Righteous: Parallel Investigator",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 439466,
+        "expansion_name": "Arkham Horror: The Card Game – Pistols and Pearls: Parallel Investigator",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 293271,
+        "expansion_name": "Arkham Horror: The Card Game – Point of No Return: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 309374,
+        "expansion_name": "Arkham Horror: The Card Game – Read or Die: Challenge Scenario",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 354504,
+        "expansion_name": "Arkham Horror: The Card Game – Red Tide Rising: Challenge Scenario",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 415432,
+        "expansion_name": "Arkham Horror: The Card Game – Relics of the Past: Challenge Scenario",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 333025,
+        "expansion_name": "Arkham Horror: The Card Game – Return to the Circle Undone",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 260311,
+        "expansion_name": "Arkham Horror: The Card Game – Return to the Dunwich Legacy",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 302213,
+        "expansion_name": "Arkham Horror: The Card Game – Return to the Forgotten Age",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 244145,
+        "expansion_name": "Arkham Horror: The Card Game – Return to the Night of the Zealot",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 279196,
+        "expansion_name": "Arkham Horror: The Card Game – Return to the Path to Carcosa",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 257240,
+        "expansion_name": "Arkham Horror: The Card Game – Shattered Aeons: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 305518,
+        "expansion_name": "Arkham Horror: The Card Game – Stella Clark: Investigator Starter Deck",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 405997,
+        "expansion_name": "Arkham Horror: The Card Game – The Blob That Ate Everything ELSE!",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 280714,
+        "expansion_name": "Arkham Horror: The Card Game – The Blob That Ate Everything: Scenario Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 249772,
+        "expansion_name": "Arkham Horror: The Card Game – The Boundary Beyond: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 382510,
+        "expansion_name": "Arkham Horror: The Card Game – The Circle Undone: Campaign Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 382509,
+        "expansion_name": "Arkham Horror: The Card Game – The Circle Undone: Investigator Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 254122,
+        "expansion_name": "Arkham Horror: The Card Game – The City of Archives: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 255900,
+        "expansion_name": "Arkham Horror: The Card Game – The Depths of Yoth: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 414602,
+        "expansion_name": "Arkham Horror: The Card Game – The Dream-Eaters: Campaign Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 281541,
+        "expansion_name": "Arkham Horror: The Card Game – The Dream-Eaters: Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 414695,
+        "expansion_name": "Arkham Horror: The Card Game – The Dream-Eaters: Investigator Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 428879,
+        "expansion_name": "Arkham Horror: The Card Game – The Drowned City: Campaign Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 428880,
+        "expansion_name": "Arkham Horror: The Card Game – The Drowned City: Investigator Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 347149,
+        "expansion_name": "Arkham Horror: The Card Game – The Dunwich Legacy: Campaign Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 347148,
+        "expansion_name": "Arkham Horror: The Card Game – The Dunwich Legacy: Investigator Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 252896,
+        "expansion_name": "Arkham Horror: The Card Game – The Eternal Slumber: Scenario Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 398893,
+        "expansion_name": "Arkham Horror: The Card Game – The Feast of Hemlock Vale: Campaign Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 398891,
+        "expansion_name": "Arkham Horror: The Card Game – The Feast of Hemlock Vale: Investigator Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 377055,
+        "expansion_name": "Arkham Horror: The Card Game – The Forgotten Age: Campaign Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 377056,
+        "expansion_name": "Arkham Horror: The Card Game – The Forgotten Age: Investigator Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 429274,
+        "expansion_name": "Arkham Horror: The Card Game – The Innsmouth Conspiracy: Campaign Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 308592,
+        "expansion_name": "Arkham Horror: The Card Game – The Innsmouth Conspiracy: Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 428491,
+        "expansion_name": "Arkham Horror: The Card Game – The Innsmouth Conspiracy: Investigator Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 233977,
+        "expansion_name": "Arkham Horror: The Card Game – The Labyrinths of Lunacy: Scenario Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 327294,
+        "expansion_name": "Arkham Horror: The Card Game – The Lair of Dagon: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 424487,
+        "expansion_name": "Arkham Horror: The Card Game – The Midwinter Gala: Scenario Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 252897,
+        "expansion_name": "Arkham Horror: The Card Game – The Night's Usurper: Scenario Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 237234,
+        "expansion_name": "Arkham Horror: The Card Game – The Pallid Mask: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 358212,
+        "expansion_name": "Arkham Horror: The Card Game – The Path to Carcosa: Campaign Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 225563,
+        "expansion_name": "Arkham Horror: The Card Game – The Path to Carcosa: Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 358213,
+        "expansion_name": "Arkham Horror: The Card Game – The Path to Carcosa: Investigator Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 366215,
+        "expansion_name": "Arkham Horror: The Card Game – The Scarlet Keys: Campaign Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 366213,
+        "expansion_name": "Arkham Horror: The Card Game – The Scarlet Keys: Investigator Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 286257,
+        "expansion_name": "Arkham Horror: The Card Game – The Search for Kadath: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 264459,
+        "expansion_name": "Arkham Horror: The Card Game – The Secret Name: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 230510,
+        "expansion_name": "Arkham Horror: The Card Game – The Unspeakable Oath: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 266377,
+        "expansion_name": "Arkham Horror: The Card Game – The Wages of Sin: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 247718,
+        "expansion_name": "Arkham Horror: The Card Game – Threads of Fate: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 271056,
+        "expansion_name": "Arkham Horror: The Card Game – Union and Disillusion: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 321101,
+        "expansion_name": "Arkham Horror: The Card Game – War of the Outer Gods: Scenario Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 297471,
+        "expansion_name": "Arkham Horror: The Card Game – Weaver of the Cosmos: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 297200,
+        "expansion_name": "Arkham Horror: The Card Game – Where the Gods Dwell: Mythos Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 305513,
+        "expansion_name": "Arkham Horror: The Card Game – Winifred Habbamock: Investigator Starter Deck",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 295594,
+        "expansion_name": "Barkham Horror: The Card Game – The Meddling of Meowlathotep: Scenario Pack",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 37111,
+    "name": "Battlestar Galactica: The Board Game",
+    "year_published": 2008,
+    "missing_count": 3,
+    "missing": [
+      {
+        "expansion_id": 141648,
+        "expansion_name": "Battlestar Galactica: The Board Game – Daybreak Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 85905,
+        "expansion_name": "Battlestar Galactica: The Board Game – Exodus Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 43539,
+        "expansion_name": "Battlestar Galactica: The Board Game – Pegasus Expansion",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "S"
+  },
+  {
+    "bgg_id": 317985,
+    "name": "Beyond the Sun",
+    "year_published": 2020,
+    "missing_count": 1,
+    "missing": [
+      {
+        "expansion_id": 378291,
+        "expansion_name": "Beyond the Sun: Leaders of the New Dawn",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 232832,
+    "name": "Century: Golem Edition",
+    "year_published": 2017,
+    "missing_count": 2,
+    "missing": [
+      {
+        "expansion_id": 311200,
+        "expansion_name": "Century: Golem Edition – Bonus Cards 1",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 311201,
+        "expansion_name": "Century: Golem Edition – Bonus Cards 2",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 172287,
+    "name": "Champions of Midgard",
+    "year_published": 2015,
+    "missing_count": 7,
+    "missing": [
+      {
+        "expansion_id": 262004,
+        "expansion_name": "Champions of Midgard: Asian Monsters",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 245646,
+        "expansion_name": "Champions of Midgard: Jarl Edition",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 453582,
+        "expansion_name": "Champions of Midgard: Solo Mode",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 219787,
+        "expansion_name": "Champions of Midgard: The Dark Mountains",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 219788,
+        "expansion_name": "Champions of Midgard: Valhalla",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 290345,
+        "expansion_name": "Champions of Midgard: Valhalla – Kes Bakyr",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 344719,
+        "expansion_name": "Чемпионы Мидгарда. Вальхалла и Тёмные горы",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 39463,
+    "name": "Cosmic Encounter",
+    "year_published": 2008,
+    "missing_count": 2,
+    "missing": [
+      {
+        "expansion_id": 380413,
+        "expansion_name": "Cosmic Encounter: 8-player Combo Cards",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 360372,
+        "expansion_name": "Cosmic Encounter: Cosmic Odyssey",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 326485,
+    "name": "Cthulhu Wars: Duel",
+    "year_published": 2020,
+    "missing_count": 1,
+    "missing": [
+      {
+        "expansion_id": 336605,
+        "expansion_name": "Cthulhu Wars: Duel – Family Reunion",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 253344,
+    "name": "Cthulhu: Death May Die",
+    "year_published": 2019,
+    "missing_count": 19,
+    "missing": [
+      {
+        "expansion_id": 434227,
+        "expansion_name": "Cthulhu: Death May Die – Atlach-Nacha Elder One Box",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 256988,
+        "expansion_name": "Cthulhu: Death May Die – Black Goat of the Woods",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 411558,
+        "expansion_name": "Cthulhu: Death May Die – Dark Providence Investigators",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 434955,
+        "expansion_name": "Cthulhu: Death May Die – Exclusive Insanities",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 435358,
+        "expansion_name": "Cthulhu: Death May Die – Extra Campaigns",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 374972,
+        "expansion_name": "Cthulhu: Death May Die – Fear of the Unknown: Animal Allies",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 454854,
+        "expansion_name": "Cthulhu: Death May Die – Godzilla Rising",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 425623,
+        "expansion_name": "Cthulhu: Death May Die – Godzilla Vs Cthulhu",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 374971,
+        "expansion_name": "Cthulhu: Death May Die – Ithaqua the Wind-Walker",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 260936,
+        "expansion_name": "Cthulhu: Death May Die – R'lyeh Rising",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 429775,
+        "expansion_name": "Cthulhu: Death May Die – Robinson Crusoe Investigator",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 256987,
+        "expansion_name": "Cthulhu: Death May Die – Scarlett Hayes",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 374590,
+        "expansion_name": "Cthulhu: Death May Die – Season 4 Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 434938,
+        "expansion_name": "Cthulhu: Death May Die – Season 6",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 256986,
+        "expansion_name": "Cthulhu: Death May Die – Unspeakable Box",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 256985,
+        "expansion_name": "Cthulhu: Death May Die – Yog–Sothoth",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 372781,
+        "expansion_name": "Iron Maiden Pack #1",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 372782,
+        "expansion_name": "Iron Maiden Pack #2",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 372783,
+        "expansion_name": "Iron Maiden Pack #3",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "S"
+  },
+  {
+    "bgg_id": 373600,
+    "name": "Cthulhu: Death May Die – Fear of the Unknown",
+    "year_published": 2024,
+    "missing_count": 21,
+    "missing": [
+      {
+        "expansion_id": 434227,
+        "expansion_name": "Cthulhu: Death May Die – Atlach-Nacha Elder One Box",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 256988,
+        "expansion_name": "Cthulhu: Death May Die – Black Goat of the Woods",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 375371,
+        "expansion_name": "Cthulhu: Death May Die – Bonus Relic Cards",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 411558,
+        "expansion_name": "Cthulhu: Death May Die – Dark Providence Investigators",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 434955,
+        "expansion_name": "Cthulhu: Death May Die – Exclusive Insanities",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 435358,
+        "expansion_name": "Cthulhu: Death May Die – Extra Campaigns",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 374972,
+        "expansion_name": "Cthulhu: Death May Die – Fear of the Unknown: Animal Allies",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 425689,
+        "expansion_name": "Cthulhu: Death May Die – Fear of the Unknown: R'lyeh Rising",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 454854,
+        "expansion_name": "Cthulhu: Death May Die – Godzilla Rising",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 425623,
+        "expansion_name": "Cthulhu: Death May Die – Godzilla Vs Cthulhu",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 374971,
+        "expansion_name": "Cthulhu: Death May Die – Ithaqua the Wind-Walker",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 429775,
+        "expansion_name": "Cthulhu: Death May Die – Robinson Crusoe Investigator",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 256987,
+        "expansion_name": "Cthulhu: Death May Die – Scarlett Hayes",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 374590,
+        "expansion_name": "Cthulhu: Death May Die – Season 4 Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 434938,
+        "expansion_name": "Cthulhu: Death May Die – Season 6",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 375366,
+        "expansion_name": "Cthulhu: Death May Die – Unknowable Box",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 256986,
+        "expansion_name": "Cthulhu: Death May Die – Unspeakable Box",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 256985,
+        "expansion_name": "Cthulhu: Death May Die – Yog–Sothoth",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 372781,
+        "expansion_name": "Iron Maiden Pack #1",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 372782,
+        "expansion_name": "Iron Maiden Pack #2",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 372783,
+        "expansion_name": "Iron Maiden Pack #3",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 367150,
+    "name": "Dune: War for Arrakis",
+    "year_published": 2024,
+    "missing_count": 2,
+    "missing": [
+      {
+        "expansion_id": 446237,
+        "expansion_name": "Dune: War for Arrakis - Ecological Testing Station Cards",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 446802,
+        "expansion_name": "Dune: War for Arrakis – Exclusive Extras",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "S"
+  },
+  {
+    "bgg_id": 246900,
+    "name": "Eclipse: Second Dawn for the Galaxy",
+    "year_published": 2020,
+    "missing_count": 13,
+    "missing": [
+      {
+        "expansion_id": 356743,
+        "expansion_name": "Eclipse: Neue Gefahren",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 381603,
+        "expansion_name": "Eclipse: Second Dawn for the Galaxy – Expanded Galaxy",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 305954,
+        "expansion_name": "Eclipse: Second Dawn for the Galaxy – Galactic Events",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 375216,
+        "expansion_name": "Eclipse: Second Dawn for the Galaxy – Gamemat",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 305950,
+        "expansion_name": "Eclipse: Second Dawn for the Galaxy – Minor Species",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 368378,
+        "expansion_name": "Eclipse: Second Dawn for the Galaxy – Outcasts",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 366202,
+        "expansion_name": "Eclipse: Second Dawn for the Galaxy – Remnants of Worlds Afar",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 305955,
+        "expansion_name": "Eclipse: Second Dawn for the Galaxy – Rift Cannon",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 368377,
+        "expansion_name": "Eclipse: Second Dawn for the Galaxy – Seekers",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 294546,
+        "expansion_name": "Eclipse: Second Dawn for the Galaxy – Supernova",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 350921,
+        "expansion_name": "Eclipse: Second Dawn for the Galaxy – Turn Order Variant",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 381605,
+        "expansion_name": "Eclipse: Second Dawn for the Galaxy – Warped Universe",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 303298,
+        "expansion_name": "Eclipse: Second Dawn for the Galaxy – Worlds Afar Collection",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "S"
+  },
+  {
+    "bgg_id": 218509,
+    "name": "Empires of the Void II",
+    "year_published": 2018,
+    "missing_count": 2,
+    "missing": [
+      {
+        "expansion_id": 265664,
+        "expansion_name": "Empires of the Void II: General Event Cards",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 274721,
+        "expansion_name": "The Red Raven Fan Box #1",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 292126,
+    "name": "Excavation Earth",
+    "year_published": 2021,
+    "missing_count": 1,
+    "missing": [
+      {
+        "expansion_id": 328580,
+        "expansion_name": "Excavation Earth: Pretty Boxes & Ancient Artefacts",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 122842,
+    "name": "Exodus: Proxima Centauri",
+    "year_published": 2012,
+    "missing_count": 6,
+    "missing": [
+      {
+        "expansion_id": 186955,
+        "expansion_name": "Exodus: Edge of Extinction – Kickstarter Edition",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 189970,
+        "expansion_name": "Exodus: Edge of Extinction – Kickstarter Limited Action Cards",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 189971,
+        "expansion_name": "Exodus: Edge of Extinction – Kickstarter Limited Political Cards",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 134231,
+        "expansion_name": "Exodus: Generals",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 265063,
+        "expansion_name": "Exodus: Proxima Centauri – ECID-S14 Mini-Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 237410,
+        "expansion_name": "Exodus: Proxima Centauri – Ymnighet Mini-Expansion",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "S"
+  },
+  {
+    "bgg_id": 198609,
+    "name": "Fate of the Elder Gods",
+    "year_published": 2017,
+    "missing_count": 4,
+    "missing": [
+      {
+        "expansion_id": 232966,
+        "expansion_name": "Fate of the Elder Gods: Azathoth",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 245975,
+        "expansion_name": "Fate of the Elder Gods: Beasts From Beyond – Ghoul",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 245973,
+        "expansion_name": "Fate of the Elder Gods: Beasts From Beyond – Shan",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 303887,
+        "expansion_name": "Fate of the Elder Gods: Cerulean Tendril",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 345868,
+    "name": "Federation",
+    "year_published": 2022,
+    "missing_count": 1,
+    "missing": [
+      {
+        "expansion_id": 448124,
+        "expansion_name": "Federation: Piracy",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "S"
+  },
+  {
+    "bgg_id": 277659,
+    "name": "Final Girl",
+    "year_published": 2021,
+    "missing_count": 25,
+    "missing": [
+      {
+        "expansion_id": 438604,
+        "expansion_name": "Final Girl: A Demon in the Shadows",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 438601,
+        "expansion_name": "Final Girl: A Rotten Harvest",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 438599,
+        "expansion_name": "Final Girl: Bad Times at Buddyland",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 426353,
+        "expansion_name": "Final Girl: Bleeding Heart",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 402686,
+        "expansion_name": "Final Girl: Carolyn's Revenge",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 401734,
+        "expansion_name": "Final Girl: Don't Make a Sound",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 432907,
+        "expansion_name": "Final Girl: Grandma's Grudge",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 438625,
+        "expansion_name": "Final Girl: Guest Stars",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 401727,
+        "expansion_name": "Final Girl: Hell to Pay",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 382625,
+        "expansion_name": "Final Girl: Lore & Scenario Book – Series 2",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 432909,
+        "expansion_name": "Final Girl: Lore & Scenario Book – Series 3",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 410767,
+        "expansion_name": "Final Girl: S3 Ultimate Box",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 438606,
+        "expansion_name": "Final Girl: S4 Ultimate Box",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 383418,
+        "expansion_name": "Final Girl: Series 1 Bonus Features Box",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 383419,
+        "expansion_name": "Final Girl: Series 2 Bonus Features Box",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 438833,
+        "expansion_name": "Final Girl: Series 3 Bonus Features Box",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 438600,
+        "expansion_name": "Final Girl: Shriek",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 476057,
+        "expansion_name": "Final Girl: Terror from Beyond",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 401964,
+        "expansion_name": "Final Girl: Terror from Destiny",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 401729,
+        "expansion_name": "Final Girl: The Falconwood Files",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 438602,
+        "expansion_name": "Final Girl: The Green Terror",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 401724,
+        "expansion_name": "Final Girl: The Killer from Tomorrow",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 401731,
+        "expansion_name": "Final Girl: The Marrek Murders",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 401763,
+        "expansion_name": "Final Girl: The North Pole Nightmare",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 464502,
+        "expansion_name": "Final Girl: The Raptor Games",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "S"
+  },
+  {
+    "bgg_id": 138161,
+    "name": "Firefly: The Game",
+    "year_published": 2013,
+    "missing_count": 7,
+    "missing": [
+      {
+        "expansion_id": 145481,
+        "expansion_name": "Firefly: The Game – Artful Dodger",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 147736,
+        "expansion_name": "Firefly: The Game – Breakin' Atmo",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 176331,
+        "expansion_name": "Firefly: The Game – Card Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 212140,
+        "expansion_name": "Firefly: The Game – Crime & Punishment",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 177496,
+        "expansion_name": "Firefly: The Game – Esmeralda",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 177497,
+        "expansion_name": "Firefly: The Game – Jetwash",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 151953,
+        "expansion_name": "Firefly: The Game – Pirates & Bounty Hunters",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 391137,
+    "name": "Galactic Cruise",
+    "year_published": 2025,
+    "missing_count": 1,
+    "missing": [
+      {
+        "expansion_id": 443379,
+        "expansion_name": "Galactic Cruise: Achievements",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "S"
+  },
+  {
+    "bgg_id": 265188,
+    "name": "Glen More II: Chronicles",
+    "year_published": 2019,
+    "missing_count": 1,
+    "missing": [
+      {
+        "expansion_id": 326956,
+        "expansion_name": "Glen More II: Chronicles – Feed the Kraken Mini Chronicle",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 233868,
+    "name": "HATE",
+    "year_published": 2019,
+    "missing_count": 4,
+    "missing": [
+      {
+        "expansion_id": 246987,
+        "expansion_name": "HATE: The Mother Prophecy",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 246990,
+        "expansion_name": "HATE: Tribe of Sarrassa",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 246989,
+        "expansion_name": "HATE: Tribe of Um'Tull",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 246988,
+        "expansion_name": "HATE: Tribe of Vore Nash",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 321608,
+    "name": "Hegemony: Lead Your Class to Victory",
+    "year_published": 2023,
+    "missing_count": 2,
+    "missing": [
+      {
+        "expansion_id": 374250,
+        "expansion_name": "Hegemony: Lead Your Class to Victory – Crisis & Control",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 456369,
+        "expansion_name": "Hegemony: Shadows of Authority",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 155821,
+    "name": "Inis",
+    "year_published": 2016,
+    "missing_count": 1,
+    "missing": [
+      {
+        "expansion_id": 418217,
+        "expansion_name": "Inis: Nemed",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 347305,
+    "name": "Inventions: Evolution of Ideas",
+    "year_published": 2024,
+    "missing_count": 1,
+    "missing": [
+      {
+        "expansion_id": 421474,
+        "expansion_name": "Inventions: Evolution of Ideas – Upgrade Pack",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "S"
+  },
+  {
+    "bgg_id": 325494,
+    "name": "ISS Vanguard",
+    "year_published": 2022,
+    "missing_count": 4,
+    "missing": [
+      {
+        "expansion_id": 418446,
+        "expansion_name": "Awaken Realms Vault: Story Dice – AR Board Game Dice Bundle Box",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 340235,
+        "expansion_name": "ISS Vanguard: Deadly Frontier",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 402966,
+        "expansion_name": "ISS Vanguard: Fearless Crew Mini-Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 386774,
+        "expansion_name": "ISS Vanguard: Story Dice Expansion",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 284378,
+    "name": "Kanban EV",
+    "year_published": 2020,
+    "missing_count": 1,
+    "missing": [
+      {
+        "expansion_id": 321238,
+        "expansion_name": "Kanban EV: Upgrade Pack",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 155065,
+    "name": "Lifeform",
+    "year_published": 2019,
+    "missing_count": 3,
+    "missing": [
+      {
+        "expansion_id": 253223,
+        "expansion_name": "Lifeform: Calibos",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 250774,
+        "expansion_name": "Lifeform: Dragon's Domain",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 251582,
+        "expansion_name": "Lifeform: Thirteenth Passenger",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 348877,
+    "name": "Lobotomy 2: Manhunt",
+    "year_published": 2022,
+    "missing_count": 15,
+    "missing": [
+      {
+        "expansion_id": 438191,
+        "expansion_name": "Lobotomy 2: Dimensions of Madness",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 376889,
+        "expansion_name": "Lobotomy 2: Manhunt – Criminally Insane Character Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 368766,
+        "expansion_name": "Lobotomy 2: Manhunt – Hell Level Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 368735,
+        "expansion_name": "Lobotomy 2: Manhunt – Inferno Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 368822,
+        "expansion_name": "Lobotomy 2: Manhunt – Jazza Ward Character Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 368839,
+        "expansion_name": "Lobotomy 2: Manhunt – Legacy Ward Character Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 368953,
+        "expansion_name": "Lobotomy 2: Manhunt – Lobotomy 1 Monster Conversion Set",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 368987,
+        "expansion_name": "Lobotomy 2: Manhunt – Lobotomy 1 Monsters: Classic",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 369415,
+        "expansion_name": "Lobotomy 2: Manhunt – Lobotomy 1 Monsters: Cthulhu",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 434307,
+        "expansion_name": "Lobotomy 2: Manhunt – Lobotomy 1 Monsters: Elite",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 369297,
+        "expansion_name": "Lobotomy 2: Manhunt – Lobotomy 1 Monsters: From the Deep",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 368988,
+        "expansion_name": "Lobotomy 2: Manhunt – Lobotomy 1 Monsters: Horror",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 368850,
+        "expansion_name": "Lobotomy 2: Manhunt – Original Ward",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 368819,
+        "expansion_name": "Lobotomy 2: Manhunt – Villain Ward Character Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 434308,
+        "expansion_name": "Lobotomy II: Manhunt – Lobotomy 1 Monsters: Nightmare",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "S"
+  },
+  {
+    "bgg_id": 167355,
+    "name": "Nemesis",
+    "year_published": 2018,
+    "missing_count": 9,
+    "missing": [
+      {
+        "expansion_id": 418446,
+        "expansion_name": "Awaken Realms Vault: Story Dice – AR Board Game Dice Bundle Box",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 295927,
+        "expansion_name": "Nemesis: Achievement Cards",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 256377,
+        "expansion_name": "Nemesis: Aftermath & Void Seeders",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 312736,
+        "expansion_name": "Nemesis: Aftermath & Void Seeders & Medic",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 297911,
+        "expansion_name": "Nemesis: Blood Tests Deck",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 245845,
+        "expansion_name": "Nemesis: Carnomorphs",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 274532,
+        "expansion_name": "Nemesis: Crawl Deck",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 386776,
+        "expansion_name": "Nemesis: Story Dice Expansion – Intruder",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 386781,
+        "expansion_name": "Nemesis: Story Dice Expansion – Space Cat",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "S"
+  },
+  {
+    "bgg_id": 310100,
+    "name": "Nemesis: Lockdown",
+    "year_published": 2022,
+    "missing_count": 6,
+    "missing": [
+      {
+        "expansion_id": 418446,
+        "expansion_name": "Awaken Realms Vault: Story Dice – AR Board Game Dice Bundle Box",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 245845,
+        "expansion_name": "Nemesis: Carnomorphs",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 321742,
+        "expansion_name": "Nemesis: Lockdown – Stretch Goals",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 335320,
+        "expansion_name": "Nemesis: Lockdown – Untold Stories #3",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 386776,
+        "expansion_name": "Nemesis: Story Dice Expansion – Intruder",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 386781,
+        "expansion_name": "Nemesis: Story Dice Expansion – Space Cat",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 184267,
+    "name": "On Mars",
+    "year_published": 2020,
+    "missing_count": 1,
+    "missing": [
+      {
+        "expansion_id": 296981,
+        "expansion_name": "On Mars: Upgrade Pack",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 266810,
+    "name": "Paladins of the West Kingdom",
+    "year_published": 2019,
+    "missing_count": 8,
+    "missing": [
+      {
+        "expansion_id": 290834,
+        "expansion_name": "Level Up Loot 2",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 317980,
+        "expansion_name": "Paladins of the West Kingdom: City of Crowns",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 304626,
+        "expansion_name": "Paladins of the West Kingdom: King Dan",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 295660,
+        "expansion_name": "Paladins of the West Kingdom: Meeple Folk",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 432453,
+        "expansion_name": "Paladins of the West Kingdom: Player Suspicion Decks",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 330372,
+        "expansion_name": "Paladins of the West Kingdom: Suzerain",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 327244,
+        "expansion_name": "Paladins of the West Kingdom: The Vassals Mini-Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 296152,
+        "expansion_name": "The West Kingdom Tomesaga",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 304510,
+    "name": "Pampero",
+    "year_published": 2024,
+    "missing_count": 3,
+    "missing": [
+      {
+        "expansion_id": 403056,
+        "expansion_name": "Pampero: Clear Skies",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 436028,
+        "expansion_name": "Pampero: Project Verne",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 424681,
+        "expansion_name": "Pampero: Windfarm Connection Tiles",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "S"
+  },
+  {
+    "bgg_id": 3076,
+    "name": "Puerto Rico",
+    "year_published": 2002,
+    "missing_count": 6,
+    "missing": [
+      {
+        "expansion_id": 286086,
+        "expansion_name": "Deutscher Spielepreis Classic Goodie Box",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 292912,
+        "expansion_name": "Puerto Rico: Buccaneer",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 12382,
+        "expansion_name": "Puerto Rico: Expansion I – New Buildings",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 159761,
+        "expansion_name": "Puerto Rico: Expansion II – The Nobles",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 270125,
+        "expansion_name": "Puerto Rico: Expansions 1&2 – The New Buildings & The Nobles",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 291423,
+        "expansion_name": "Puerto Rico: Festival en Puerto Rico",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 169786,
+    "name": "Scythe",
+    "year_published": 2016,
+    "missing_count": 5,
+    "missing": [
+      {
+        "expansion_id": 262151,
+        "expansion_name": "Scythe: Encounters",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 199727,
+        "expansion_name": "Scythe: Invaders from Afar",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 279304,
+        "expansion_name": "Scythe: Modular Board",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 242277,
+        "expansion_name": "Scythe: The Rise of Fenris",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 223555,
+        "expansion_name": "Scythe: The Wind Gambit",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 418059,
+    "name": "SETI: Search for Extraterrestrial Intelligence",
+    "year_published": 2024,
+    "missing_count": 1,
+    "missing": [
+      {
+        "expansion_id": 445048,
+        "expansion_name": "SETI: Space Agencies",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "S"
+  },
+  {
+    "bgg_id": 202426,
+    "name": "Sidereal Confluence",
+    "year_published": 2017,
+    "missing_count": 1,
+    "missing": [
+      {
+        "expansion_id": 456634,
+        "expansion_name": "Sidereal Confluence: Proliferation",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 242302,
+    "name": "Space Base",
+    "year_published": 2018,
+    "missing_count": 6,
+    "missing": [
+      {
+        "expansion_id": 322546,
+        "expansion_name": "Space Base: Biodome",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 277564,
+        "expansion_name": "Space Base: Command Station",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 388569,
+        "expansion_name": "Space Base: Genesis",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 266483,
+        "expansion_name": "Space Base: The Emergence of Shy Pluto",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 349810,
+        "expansion_name": "Space Base: The Mysteries of Terra Proxima",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 449898,
+        "expansion_name": "Space Base: Velocity",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 375459,
+    "name": "Speakeasy",
+    "year_published": 2025,
+    "missing_count": 1,
+    "missing": [
+      {
+        "expansion_id": 450413,
+        "expansion_name": "Speakeasy: Upgrade Pack",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "S"
+  },
+  {
+    "bgg_id": 281258,
+    "name": "Sub Terra II: Inferno's Edge",
+    "year_published": 2023,
+    "missing_count": 2,
+    "missing": [
+      {
+        "expansion_id": 290827,
+        "expansion_name": "Sub Terra II: Arima's Light",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 290828,
+        "expansion_name": "Sub Terra II: Typhaon Wakes",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 306481,
+    "name": "Tawantinsuyu: The Inca Empire",
+    "year_published": 2020,
+    "missing_count": 3,
+    "missing": [
+      {
+        "expansion_id": 350461,
+        "expansion_name": "Loot Box #1",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 350465,
+        "expansion_name": "Tawantinsuyu: Book of Challenges",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 374348,
+        "expansion_name": "Tawantinsuyu: Children of the Inca",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 297030,
+    "name": "Tekhenu: Obelisk of the Sun",
+    "year_published": 2020,
+    "missing_count": 5,
+    "missing": [
+      {
+        "expansion_id": 350461,
+        "expansion_name": "Loot Box #1",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 350463,
+        "expansion_name": "Tekhenu: Book of Challenges",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 350464,
+        "expansion_name": "Tekhenu: Noble Buildings",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 301358,
+        "expansion_name": "Tekhenu: Obelisk of the Sun – Foundations of Karnak",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 375608,
+        "expansion_name": "Tekhenu: Obelisk of the Sun – Warmth of a Cat mini-expansion",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "S"
+  },
+  {
+    "bgg_id": 381715,
+    "name": "Teotihuacan: City of Gods – Deluxe Master Set",
+    "year_published": 2024,
+    "missing_count": 1,
+    "missing": [
+      {
+        "expansion_id": 315049,
+        "expansion_name": "Teotihuacan: City of Gods – 5th Player Expansion",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "S"
+  },
+  {
+    "bgg_id": 167791,
+    "name": "Terraforming Mars",
+    "year_published": 2016,
+    "missing_count": 16,
+    "missing": [
+      {
+        "expansion_id": 473099,
+        "expansion_name": "Terraforming Mars: 2vs2",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 406001,
+        "expansion_name": "Terraforming Mars: Amazonis & Vastitas",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 401513,
+        "expansion_name": "Terraforming Mars: Amazonis Planitia – Big Board Edition",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 395612,
+        "expansion_name": "Terraforming Mars: Automa",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 241497,
+        "expansion_name": "Terraforming Mars: BGG User-Created Corporation Pack",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 311247,
+        "expansion_name": "Terraforming Mars: Big Box",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 428401,
+        "expansion_name": "Terraforming Mars: Cardboard Map Box Big Box Extension",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 468457,
+        "expansion_name": "Terraforming Mars: Floyd Continuum",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 401114,
+        "expansion_name": "Terraforming Mars: Milestones & Awards",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 468570,
+        "expansion_name": "Terraforming Mars: New Holland",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 387809,
+        "expansion_name": "Terraforming Mars: Prelude 2",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 365385,
+        "expansion_name": "Terraforming Mars: Terra Cimmeria – Big Board Edition",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 428511,
+        "expansion_name": "Terraforming Mars: Utopia & Cimmeria",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 359145,
+        "expansion_name": "Terraforming Mars: Utopia Planitia – Big Board Edition",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 365384,
+        "expansion_name": "Terraforming Mars: Vastitas Borealis – Big Board Edition",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 459369,
+        "expansion_name": "Terraforming Mars: Weather Balloons",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 328871,
+    "name": "Terraforming Mars: Ares Expedition",
+    "year_published": 2021,
+    "missing_count": 4,
+    "missing": [
+      {
+        "expansion_id": 358738,
+        "expansion_name": "Terraforming Mars: Ares Expedition – Crisis",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 358739,
+        "expansion_name": "Terraforming Mars: Ares Expedition – Discovery",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 358741,
+        "expansion_name": "Terraforming Mars: Ares Expedition – Discovery · Foundations · Crisis",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 358740,
+        "expansion_name": "Terraforming Mars: Ares Expedition – Foundations",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 172047,
+    "name": "The Others",
+    "year_published": 2016,
+    "missing_count": 13,
+    "missing": [
+      {
+        "expansion_id": 186076,
+        "expansion_name": "The Others: 7 Sins – Apocalypse Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 272899,
+        "expansion_name": "The Others: 7 Sins – Apocalypse Extras",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 186105,
+        "expansion_name": "The Others: 7 Sins – Beta Team Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 186079,
+        "expansion_name": "The Others: 7 Sins – Delta Team Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 186094,
+        "expansion_name": "The Others: 7 Sins – Envy Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 186078,
+        "expansion_name": "The Others: 7 Sins – Gamma Team Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 186090,
+        "expansion_name": "The Others: 7 Sins – Gluttony Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 186092,
+        "expansion_name": "The Others: 7 Sins – Greed Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 186091,
+        "expansion_name": "The Others: 7 Sins – Lust Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 186086,
+        "expansion_name": "The Others: 7 Sins – Men of FAITH",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 186106,
+        "expansion_name": "The Others: 7 Sins – Omega Team Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 186085,
+        "expansion_name": "The Others: 7 Sins – Sons of Ragnarok Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 186093,
+        "expansion_name": "The Others: 7 Sins – Wrath Expansion",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 295293,
+    "name": "The Thing: The Boardgame",
+    "year_published": 2022,
+    "missing_count": 1,
+    "missing": [
+      {
+        "expansion_id": 360978,
+        "expansion_name": "The Thing: Human Miniatures Set 2",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 260923,
+    "name": "Titan",
+    "year_published": 2022,
+    "missing_count": 4,
+    "missing": [
+      {
+        "expansion_id": 355759,
+        "expansion_name": "Titan: For Science!",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 355754,
+        "expansion_name": "Titan: It came from below!",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 355755,
+        "expansion_name": "Titan: Starbot",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 355763,
+        "expansion_name": "Titan: The E-Team",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 299450,
+    "name": "Tsukuyumi: Full Moon Down (Second Edition)",
+    "year_published": 2020,
+    "missing_count": 8,
+    "missing": [
+      {
+        "expansion_id": 334031,
+        "expansion_name": "Tsukuyumi: Event Horizon",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 288339,
+        "expansion_name": "Tsukuyumi: Full Moon Down – Leadership Cards",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 333155,
+        "expansion_name": "Tsukuyumi: Full Moon Down (Second Edition) – After the Moonfall Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 427711,
+        "expansion_name": "Tsukuyumi: Full Moon Down (Second Edition) – Amaterasu Rising",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 439026,
+        "expansion_name": "Tsukuyumi: Full Moon Down (Second Edition) – Forces of Nature",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 342635,
+        "expansion_name": "Tsukuyumi: Full Moon Down (Second Edition) – Kickstarter Exclusives",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 439029,
+        "expansion_name": "Tsukuyumi: Full Moon Down (Second Edition) – New Dawn",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 439033,
+        "expansion_name": "Tsukuyumi: Full Moon Down (Second Edition) – Scenario Booklet",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 290484,
+    "name": "Unsettled",
+    "year_published": 2021,
+    "missing_count": 14,
+    "missing": [
+      {
+        "expansion_id": 358003,
+        "expansion_name": "Unsettled: Blackout",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 358004,
+        "expansion_name": "Unsettled: Gniir",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 341037,
+        "expansion_name": "Unsettled: Kaelyfos",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 358002,
+        "expansion_name": "Unsettled: Koguya",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 458932,
+        "expansion_name": "Unsettled: LUNA",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 405580,
+        "expansion_name": "Unsettled: Luna's Synthesizer",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 358009,
+        "expansion_name": "Unsettled: Scientific Fascinations",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 358008,
+        "expansion_name": "Unsettled: Scientific Specializations",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 341036,
+        "expansion_name": "Unsettled: Strannos",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 358007,
+        "expansion_name": "Unsettled: Survival Task Pack 1",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 409629,
+        "expansion_name": "Unsettled: Survival Task Pack 2",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 425732,
+        "expansion_name": "Unsettled: Taawa",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 425733,
+        "expansion_name": "Unsettled: Vo'qorr",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 341024,
+        "expansion_name": "Unsettled: Yendraal",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "S"
+  },
+  {
+    "bgg_id": 380707,
+    "name": "Vindication: Archive of the Ancients",
+    "year_published": 2023,
+    "missing_count": 2,
+    "missing": [
+      {
+        "expansion_id": 427302,
+        "expansion_name": "Vindication: Dreams & Nightmares",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 404514,
+        "expansion_name": "Vindication: Remnants of the Ancients",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "S"
+  },
+  {
+    "bgg_id": 337627,
+    "name": "Voidfall",
+    "year_published": 2023,
+    "missing_count": 2,
+    "missing": [
+      {
+        "expansion_id": 455819,
+        "expansion_name": "Voidfall: Resurgence",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 465117,
+        "expansion_name": "Voidfall: The Last Novarch",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "S"
+  },
+  {
+    "bgg_id": 115746,
+    "name": "War of the Ring: Second Edition",
+    "year_published": 2011,
+    "missing_count": 8,
+    "missing": [
+      {
+        "expansion_id": 407813,
+        "expansion_name": "War of the Ring: Kings and Lords of Middle-Earth – Limited Edition",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 299490,
+        "expansion_name": "War of the Ring: Kings of Middle-earth",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 132430,
+        "expansion_name": "War of the Ring: Lords of Middle-earth – Treebeard Mini-Expansion",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 188886,
+        "expansion_name": "War of the Ring: Scenario – The Breaking of the Fellowship",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 463030,
+        "expansion_name": "War of the Ring: Sieges of Middle-earth",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 339076,
+        "expansion_name": "War of the Ring: The Fate of Erebor",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 409927,
+        "expansion_name": "War of the Ring: The Seeing Stones",
+        "is_fan": false,
+        "is_promo": false
+      },
+      {
+        "expansion_id": 210039,
+        "expansion_name": "War of the Ring: Warriors of Middle-earth – Tidings Not Burdens Mini-Expansion",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 296237,
+    "name": "Warp's Edge",
+    "year_published": 2020,
+    "missing_count": 1,
+    "missing": [
+      {
+        "expansion_id": 321438,
+        "expansion_name": "Warp's Edge: Viren Invasion",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 237179,
+    "name": "Weather Machine",
+    "year_published": 2022,
+    "missing_count": 1,
+    "missing": [
+      {
+        "expansion_id": 369931,
+        "expansion_name": "Weather Machine: Upgrade Pack",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "bgg_id": 82222,
+    "name": "Xia: Legends of a Drift System",
+    "year_published": 2014,
+    "missing_count": 1,
+    "missing": [
+      {
+        "expansion_id": 200200,
+        "expansion_name": "Xia: Print and Play Mini Expansion",
+        "is_fan": false,
+        "is_promo": false
+      }
+    ],
+    "tier": "S"
+  }
+]
