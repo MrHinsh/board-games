@@ -22,7 +22,13 @@ param(
     [string]$ApiKey,
     [string]$Cookie,
     [string]$RawDir            = '.\data\raw\bgg\collection',
-    [switch]$IncludeExpansions
+    [switch]$IncludeExpansions,
+
+    # BGG throttles the collection endpoint hard. This step issues eight queries
+    # back to back; without a pause between them BGG returns 429 and the whole
+    # pull dies at step 1.
+    [int]$CollectionDelayMs    = 2500,
+    [int]$MaxRetries           = 4
 )
 
 Set-StrictMode -Version Latest
@@ -79,8 +85,23 @@ function Invoke-ValidatedCollectionQuery {
         [hashtable]$Arguments
     )
 
-    $result = Invoke-BggMcpTool -ToolName 'bgg-collection' -Arguments $Arguments `
-        -Endpoint $Endpoint -Username $Username -ApiKey $ApiKey -Cookie $Cookie
+    $result = $null
+    for ($attempt = 1; $attempt -le $MaxRetries; $attempt++) {
+        $result = Invoke-BggMcpTool -ToolName 'bgg-collection' -Arguments $Arguments `
+            -Endpoint $Endpoint -Username $Username -ApiKey $ApiKey -Cookie $Cookie
+
+        # a throttled or queued response arrives as plain text, not items
+        if ($result -isnot [string]) { break }
+
+        if ($result -match '429|202|too many|try again') {
+            $wait = $CollectionDelayMs * [math]::Pow(2, $attempt) / 1000
+            Write-Host ("    throttled by BGG; retrying in {0}s (attempt {1}/{2})" -f $wait, $attempt, $MaxRetries) -ForegroundColor DarkYellow
+            Start-Sleep -Seconds $wait
+            continue
+        }
+
+        break
+    }
 
     if ($result -is [string]) {
         throw "BGG collection query returned text instead of structured items: $result"
@@ -117,7 +138,10 @@ if (-not $IncludeExpansions) {
     }
 }
 
+$queryIndex = 0
 $rawItems = foreach ($query in $collectionQueries) {
+    $queryIndex++
+    if ($queryIndex -gt 1) { Start-Sleep -Milliseconds $CollectionDelayMs }
     Invoke-ValidatedCollectionQuery -Arguments $query
 }
 
