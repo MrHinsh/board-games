@@ -132,6 +132,43 @@ Games with an actual rating are held fixed - there is nothing to resample.
 Report *those* numbers when saying whether one game beats another. A pair at
 55/45 is genuinely a toss-up; 76/24 is not, however close the raw scores look.
 
+## Report shape
+
+Always produce four sections, in this order. Write it as a short briefing, not a
+data dump — the operator wants to know *why*, not to read the CSV.
+
+**1. Your three votes.** One short paragraph each. Every pick must name the
+concrete reason it earned the slot, drawn from the data rather than the score:
+
+  - a `want_to_buy` flag — a club slot is a free trial before spending money
+  - a `want_to_play` flag — already-stated intent
+  - unowned, or owned with very few plays
+  - a designer with a strong measured effect, named with its size
+  - rank stability — `PctTopN` and the P05-P95 rank interval
+
+  Spread the three across **different hosts**; one host runs one game, so two
+  picks from the same host partly waste a vote. State the host and slot for each,
+  and say plainly if a pick is a slot 2 or 3 and so less likely to reach a table.
+
+**2. The next three.** The alternates, each with the single condition that would
+promote it — "swap this in if you want a game that will definitely run", "take
+this instead if the table fills to five". This is the operator's hedge list.
+
+**3. Why the rest were nixed.** Group by reason, never list 30 games one by one.
+Typical groups:
+
+  - *owned and well played* — playable at home, so a club slot is worth less
+  - *owned but barely played* — genuinely still worth a vote, note the play count
+  - *mid-pack, nothing distinguishing* — name the band and move on
+  - *scored low, and why* — light weight, weak BGG rating, a negative designer
+    effect (name it), or the dry-euro pattern the model does not capture
+  - *logistics* — player-count limits or host comments that gate whether it runs
+
+**4. What would change the answer.** One or two lines: the flags are sparse, the
+model is modest, a pick may not run. Say what new information would move it.
+
+Never present the ranking as an answer. It is input to the operator's judgment.
+
 ## Reporting guidance
 
 - Lead with the operator's three votes, spread across **different hosts** — one

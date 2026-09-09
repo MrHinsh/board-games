@@ -34,6 +34,27 @@ the ranking as input to the operator's judgment rather than as an answer.
 
 4. Stop the server: `Get-Process bgg-mcp | Stop-Process -Force`.
 
+## Report shape
+
+Four sections, in order. A short briefing, not a data dump — the operator wants
+to know *why*, not to read the CSV.
+
+1. **Your three votes** — a paragraph each, spread across **different hosts**
+   (one host runs one game). Name the concrete reason each earned its slot:
+   a `want_to_buy` or `want_to_play` flag, unowned or barely played, a designer
+   effect (name it and its size), or rank stability (`PctTopN`, P05-P95 range).
+   Say if a pick sits in slot 2 or 3 and so may never reach a table.
+2. **The next three** — the hedge list, each with the one condition that would
+   promote it ("swap in if you want a game that will definitely run").
+3. **Why the rest were nixed** — grouped by reason, never 30 individual lines:
+   owned and well played; owned but barely played; mid-pack and undistinguished;
+   scored low and why (light weight, weak BGG rating, a negative designer effect,
+   the unmodelled dry-euro pattern); logistics from host comments.
+4. **What would change the answer** — a line or two on sparse flags, model
+   limits, and what new information would move the recommendation.
+
+Never present the ranking as an answer. It is input to the operator's judgment.
+
 ## Reporting
 
 - Lead with three votes spread across **different hosts** — one host runs one
