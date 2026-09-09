@@ -32,6 +32,7 @@ says so. Do not re-derive logic the scripts already implement.
 | Operating the pipeline, auth problems | `.agents/context/ops-runbook.md` |
 | Editing data schemas or file shapes | `.agents/context/contracts.md` |
 | Rating, tier, or rank conversion logic | `.agents/context/rating-system.md` and `.agents/context/tier-ranking-formula.md` |
+| Predicting a rating for a game not yet owned (purchases, nominations) | `.agents/context/purchase-prediction.md` |
 | Touching auth or secrets code | `.agents/guardrails/auth-and-secrets.md` |
 | Any other policy question | `.agents/guardrails/global-rules.md` |
 | Architecture orientation | `.agents/context/system-map.md` |

@@ -1,15 +1,56 @@
 # Ops Runbook
 
 ## Preflight Checks
-1. Cookie cache exists at `.local/secrets/bgg-session.json` (refresh with `./Login-Bgg.ps1`).
-2. Canonical file exists at `data/working/canonical/games.json`.
-3. MCP server is running at `http://localhost:8080/mcp` before any pull
-   (`./.agents/skills/mrhinsh-bg-pull-fetch/scripts/Start-BggMcpServer.ps1`).
-4. After editing any PowerShell script, run `./scripts/Test-Repo.ps1`.
+1. For reads: `BGG_API_KEY` is set (Machine or Process scope). No cookie needed.
+2. For writes only: cookie cache at `.local/secrets/bgg-session.json` is still valid
+   (see Refresh Auth Cache — it expires and `Login-Bgg.ps1` silently falls through when it has).
+3. Canonical file exists at `data/working/canonical/games.json`.
+4. MCP server is running at `http://localhost:8080/mcp` before any pull (see Start The MCP Server).
+5. After editing any PowerShell script, run `./scripts/Test-Repo.ps1`.
+
+## Auth Paths
+
+Two independent credentials. They are not interchangeable.
+
+| Credential | Covers | Obtain | Status |
+| --- | --- | --- | --- |
+| `BGG_API_KEY` | All reads (MCP server, `bgg-details`, `bgg-collection`, ...) | <https://boardgamegeek.com/applications> | Preferred. Does not expire on a fixed clock. |
+| Session cookie | Writes only (rating/play push) | Browser cookie import | Expires; re-import by hand. |
+| Password login | — | `Login-Bgg.ps1 -Force` | **Broken.** Cloudflare 403. |
+
+The BGG XML API (`boardgamegeek.com/xmlapi2/...`) returns **HTTP 401 unauthenticated**. Reads must
+go through the MCP server (which applies `BGG_API_KEY`), not via direct `Invoke-WebRequest`.
+
+## Start The MCP Server
+
+Docker is **not** used on this machine. `Start-BggMcpServer.ps1` is Docker-only and will fail with
+`failed to connect to the docker API at npipe:...`. Use the native binary instead:
+
+`./tools/bgg-mcp/bgg-mcp.exe -mode http -port 8080`
+
+It inherits `BGG_API_KEY` and `BGG_USERNAME` from the environment, so the key never has to be
+passed on the command line or in a header. Stop it with
+`Get-Process bgg-mcp | Stop-Process -Force`.
+
+Ad-hoc read example (JSON-RPC; `initialize` first, then `tools/call`):
+use `.agents/skills/mrhinsh-bg-shared/scripts/Invoke-BggMcp.ps1` -> `Invoke-BggMcpTool`
+rather than hand-rolling the handshake. Useful tools: `bgg-details` (accepts `ids`, max 20),
+`bgg-search`, `bgg-collection`, `bgg-recommender`.
 
 ## Refresh Auth Cache
-1. Run `./Login-Bgg.ps1`.
-2. If blocked by Cloudflare 403, import browser cookie using `-Cookie`.
+
+Only needed for the write side.
+
+1. `./Login-Bgg.ps1` reuses the cached session if it still validates against
+   `www.boardgamegeek.com/api/preferences`. If it does not, it falls through to a password
+   prompt — which then fails (see below).
+2. Password login (`-Force`) is blocked by Cloudflare (HTTP 403). Do not rely on it.
+3. Import a browser cookie instead:
+   - Log in to boardgamegeek.com in a browser.
+   - DevTools -> Network -> any `boardgamegeek.com` request -> copy the full `Cookie` request header.
+   - `./Login-Bgg.ps1 -Username 'MrHinsh' -Cookie '<full cookie header>'`
+4. `Login-Bgg.ps1` persists `BGG_COOKIE` at **User** scope. A shell started before that write will
+   not see it — start a new shell, or read the cookie from the session file.
 
 ## Verify Auth Variables
 - User scope cookie:
@@ -80,8 +121,16 @@ or use `git restore` if the last good state was committed.
 
 ## Common Failures
 - HTTP 403 during password login:
-  Cloudflare challenge. Use browser cookie import.
+  Cloudflare challenge. Password login is permanently broken — use browser cookie import.
+- HTTP 401 from `boardgamegeek.com/xmlapi2/...`:
+  Direct XML API calls are unauthenticated. Go through the MCP server, which applies `BGG_API_KEY`.
+- `Login-Bgg.ps1` prompts for a password in a non-interactive shell:
+  The cached cookie has expired and it fell through to the interactive path. Re-import a browser
+  cookie; the fall-through is not an error message, so check the cookie age first.
+- `failed to connect to the docker API at npipe:...`:
+  `Start-BggMcpServer.ps1` is Docker-only. Run `./tools/bgg-mcp/bgg-mcp.exe -mode http -port 8080`.
 - Empty/unauthorized collection results:
   Validate MCP auth configuration and username.
 - Environment variable updated but process still fails:
-  Restart the long-lived process.
+  Restart the long-lived process. `Login-Bgg.ps1` writes `BGG_COOKIE` at User scope, which existing
+  shells do not inherit.

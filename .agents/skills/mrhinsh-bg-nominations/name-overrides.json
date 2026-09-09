@@ -1,0 +1,19 @@
+{
+  "_comment": "Sheet text -> BGG id. Use when bgg-search resolves a nomination to the wrong game (usually a same-name title from the 1960s-70s, or a stub entry with almost no ratings). Match is case-insensitive on the raw sheet text, trimmed. Add entries as they are discovered; Resolve-Nominations.ps1 warns on any match with year < 1990 or num_ratings < 300 so new cases surface rather than pass silently.",
+  "overrides": {
+    "summit": 201186,
+    "quest for el dorado": 217372,
+    "the quest for el dorado": 217372,
+    "anno 1800": 311193,
+    "anno 1800: the boardgame": 311193,
+    "amalfi: reinassance": 298130,
+    "amalfi: renaissance": 298130,
+    "kepler 3042": 198190,
+    "kepler-3042": 198190,
+    "world order": 403150,
+    "tianxia": 447746,
+    "nucleum": 396790,
+    "one small step": 282227,
+    "cosmic encounter": 39463
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sheetName": "Southside Board Games — weekly sign-up",
+  "sheetUrl": "https://docs.google.com/spreadsheets/d/1XC7giBZv6zMQU7qxaLk8_f0Z-ivAqKS1guum-kcVS8I/edit",
+  "driveFileId": "1XC7giBZv6zMQU7qxaLk8_f0Z-ivAqKS1guum-kcVS8I",
+  "signUpTabGid": "1620323770",
+  "signUpTabName": "Sign Up Here",
+  "nominationsPerHost": 3,
+  "votesPerAttendee": 3,
+  "notes": [
+    "Hosts nominate on Tuesday; attendees rank their top 3 on Wednesday.",
+    "The sheet highlights each host's Game 1 as the one most likely to run.",
+    "One host runs one game, so votes should be spread across different hosts."
+  ]
+}

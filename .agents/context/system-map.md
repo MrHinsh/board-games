@@ -46,13 +46,17 @@
 
 ## Auth Separation
 
-- MCP read operations: no cookie passed via query by repo policy.
+- MCP read operations: authenticate with `BGG_API_KEY`. No cookie passed via query by repo policy.
 - Direct BGG write scripts: use cookie from `.local/secrets/bgg-session.json`.
+- Password login is blocked by Cloudflare; the cookie is refreshed by browser import only.
+- See `.agents/context/ops-runbook.md` for the full auth matrix and failure modes.
 
 ## Important Paths
 
-- Login helper: `Login-Bgg.ps1`
+- Login helper (write side only): `Login-Bgg.ps1`
 - Cookie cache: `.local/secrets/bgg-session.json`
+- MCP server binary (native, no container runtime): `tools/bgg-mcp/bgg-mcp.exe`
+- MCP client helper: `.agents/skills/mrhinsh-bg-shared/scripts/Invoke-BggMcp.ps1`
 - Canonical games: `data/working/canonical/games.json`
 - Ranked output: `data/reports/ranking/stackranked.json`
 - Tier membership: `data/working/ranking/tier-membership.json`
