@@ -1,23 +1,15 @@
 {
-  "run_at": "2026-09-04T09:56:47.9209334+01:00",
-  "raw_snapshot": ".\\data\\raw\\bgg\\collection\\2026-09-04T095647Z.json",
+  "run_at": "2026-09-09T21:57:48.2867793+01:00",
+  "raw_snapshot": ".\\data\\raw\\bgg\\collection\\2026-09-09T215747Z.json",
   "total_from_snapshot": 365,
-  "total_in_canonical": 550,
-  "added": 3,
-  "updated": 358,
-  "unchanged": 4,
+  "total_in_canonical": 551,
+  "added": 1,
+  "updated": 310,
+  "unchanged": 54,
   "new_games": [
     {
-      "bgg_id": 401978,
-      "name": "Undaunted 2200: Callisto"
-    },
-    {
-      "bgg_id": 464543,
-      "name": "Undaunted 2200: Revolution"
-    },
-    {
-      "bgg_id": 358981,
-      "name": "Air, Land, & Sea: Spies, Lies, & Supplies"
+      "bgg_id": 447746,
+      "name": "Tianxia"
     }
   ],
   "updated_games": [
@@ -30,10 +22,6 @@
       "name": "Star Trek: The Dice Game"
     },
     {
-      "bgg_id": 192638,
-      "name": "Multiuniversum"
-    },
-    {
       "bgg_id": 231581,
       "name": "AuZtralia"
     },
@@ -44,10 +32,6 @@
     {
       "bgg_id": 358386,
       "name": "Moon"
-    },
-    {
-      "bgg_id": 267401,
-      "name": "Lawyer Up"
     },
     {
       "bgg_id": 417197,
@@ -126,10 +110,6 @@
       "name": "Trekking the World"
     },
     {
-      "bgg_id": 260923,
-      "name": "Titan"
-    },
-    {
       "bgg_id": 347305,
       "name": "Inventions: Evolution of Ideas"
     },
@@ -182,10 +162,6 @@
       "name": "Welcome To..."
     },
     {
-      "bgg_id": 317859,
-      "name": "Forests of Pangaia"
-    },
-    {
       "bgg_id": 292126,
       "name": "Excavation Earth"
     },
@@ -208,14 +184,6 @@
     {
       "bgg_id": 328871,
       "name": "Terraforming Mars: Ares Expedition"
-    },
-    {
-      "bgg_id": 313841,
-      "name": "Lunar Base"
-    },
-    {
-      "bgg_id": 299450,
-      "name": "Tsukuyumi: Full Moon Down (Second Edition)"
     },
     {
       "bgg_id": 145976,
@@ -246,16 +214,8 @@
       "name": "CO₂: Second Chance"
     },
     {
-      "bgg_id": 276997,
-      "name": "X-ODUS: Rise of the Corruption"
-    },
-    {
       "bgg_id": 163412,
       "name": "Patchwork"
-    },
-    {
-      "bgg_id": 200171,
-      "name": "Legendary: Big Trouble in Little China"
     },
     {
       "bgg_id": 317457,
@@ -266,20 +226,12 @@
       "name": "Cthulhu: Death May Die – Fear of the Unknown"
     },
     {
-      "bgg_id": 163170,
-      "name": "Firefly: Shiny Dice"
-    },
-    {
       "bgg_id": 54043,
       "name": "Jaipur"
     },
     {
       "bgg_id": 72287,
       "name": "Mr. Jack Pocket"
-    },
-    {
-      "bgg_id": 267244,
-      "name": "The Defence of Procyon III"
     },
     {
       "bgg_id": 366495,
@@ -304,10 +256,6 @@
     {
       "bgg_id": 194626,
       "name": "Happy Salmon"
-    },
-    {
-      "bgg_id": 337070,
-      "name": "Arkham Noir: Case #3 – Infinite Gulfs of Darkness"
     },
     {
       "bgg_id": 3076,
@@ -362,14 +310,6 @@
       "name": "Deep Space D-6"
     },
     {
-      "bgg_id": 198609,
-      "name": "Fate of the Elder Gods"
-    },
-    {
-      "bgg_id": 257089,
-      "name": "Big Trouble in Little China: The Game – Deluxe Edition"
-    },
-    {
       "bgg_id": 214029,
       "name": "SpaceCorp: 2025-2300AD"
     },
@@ -384,10 +324,6 @@
     {
       "bgg_id": 178044,
       "name": "Star Empires"
-    },
-    {
-      "bgg_id": 155065,
-      "name": "Lifeform"
     },
     {
       "bgg_id": 322588,
@@ -410,16 +346,8 @@
       "name": "Jump Drive"
     },
     {
-      "bgg_id": 240957,
-      "name": "Judge Dredd: The Cursed Earth"
-    },
-    {
       "bgg_id": 280032,
       "name": "Fossilis"
-    },
-    {
-      "bgg_id": 42929,
-      "name": "Martian Rails"
     },
     {
       "bgg_id": 200077,
@@ -450,10 +378,6 @@
       "name": "Fantasy Realms"
     },
     {
-      "bgg_id": 249689,
-      "name": "Sovereign Skies"
-    },
-    {
       "bgg_id": 216600,
       "name": "Fantastic Factories"
     },
@@ -464,10 +388,6 @@
     {
       "bgg_id": 282765,
       "name": "Mint Cooperative"
-    },
-    {
-      "bgg_id": 272655,
-      "name": "Darwinauts"
     },
     {
       "bgg_id": 403150,
@@ -482,10 +402,6 @@
       "name": "Cthulhu: Death May Die"
     },
     {
-      "bgg_id": 122842,
-      "name": "Exodus: Proxima Centauri"
-    },
-    {
       "bgg_id": 178900,
       "name": "Codenames"
     },
@@ -496,6 +412,10 @@
     {
       "bgg_id": 242302,
       "name": "Space Base"
+    },
+    {
+      "bgg_id": 4279,
+      "name": "Flux"
     },
     {
       "bgg_id": 434367,
@@ -570,10 +490,6 @@
       "name": "Underwater Cities"
     },
     {
-      "bgg_id": 302892,
-      "name": "Frozen Frontier"
-    },
-    {
       "bgg_id": 258779,
       "name": "Planet Unknown"
     },
@@ -606,10 +522,6 @@
       "name": "Glen More II: Chronicles"
     },
     {
-      "bgg_id": 309297,
-      "name": "SCOPE Stalingrad"
-    },
-    {
       "bgg_id": 362598,
       "name": "Atlas Lost: Rise of the New Sovereigns"
     },
@@ -638,10 +550,6 @@
       "name": "Mint Delivery"
     },
     {
-      "bgg_id": 250467,
-      "name": "Red Alert: Space Fleet Warfare"
-    },
-    {
       "bgg_id": 329500,
       "name": "Unconscious Mind"
     },
@@ -652,10 +560,6 @@
     {
       "bgg_id": 337765,
       "name": "Brian Boru: High King of Ireland"
-    },
-    {
-      "bgg_id": 299249,
-      "name": "Mint Control"
     },
     {
       "bgg_id": 264241,
@@ -678,10 +582,6 @@
       "name": "Skyrise"
     },
     {
-      "bgg_id": 410292,
-      "name": "Hunted: Kobayashi Tower (2nd Edition)"
-    },
-    {
       "bgg_id": 237179,
       "name": "Weather Machine"
     },
@@ -696,14 +596,6 @@
     {
       "bgg_id": 264220,
       "name": "Tainted Grail: The Fall of Avalon"
-    },
-    {
-      "bgg_id": 345088,
-      "name": "Founders of Teotihuacan"
-    },
-    {
-      "bgg_id": 223779,
-      "name": "Pocket Mars"
     },
     {
       "bgg_id": 422541,
@@ -734,10 +626,6 @@
       "name": "Equinox"
     },
     {
-      "bgg_id": 233868,
-      "name": "HATE"
-    },
-    {
       "bgg_id": 281655,
       "name": "High Frontier 4 All"
     },
@@ -750,16 +638,8 @@
       "name": "Champions of Midgard"
     },
     {
-      "bgg_id": 281647,
-      "name": "Stellaris: Infinite Legacy"
-    },
-    {
       "bgg_id": 432,
       "name": "Take 5"
-    },
-    {
-      "bgg_id": 299106,
-      "name": "Fractal"
     },
     {
       "bgg_id": 228341,
@@ -772,10 +652,6 @@
     {
       "bgg_id": 68425,
       "name": "Eminent Domain"
-    },
-    {
-      "bgg_id": 316554,
-      "name": "Dune: Imperium"
     },
     {
       "bgg_id": 368017,
@@ -796,14 +672,6 @@
     {
       "bgg_id": 381248,
       "name": "Nemesis: Retaliation"
-    },
-    {
-      "bgg_id": 322050,
-      "name": "Lost Empires: War for the New Sun"
-    },
-    {
-      "bgg_id": 218200,
-      "name": "Constellations"
     },
     {
       "bgg_id": 386368,
@@ -832,6 +700,10 @@
     {
       "bgg_id": 143741,
       "name": "BANG! The Dice Game"
+    },
+    {
+      "bgg_id": 401978,
+      "name": "Undaunted 2200: Callisto"
     },
     {
       "bgg_id": 172225,
@@ -930,10 +802,6 @@
       "name": "Excursions"
     },
     {
-      "bgg_id": 256704,
-      "name": "The Stuff of Legend"
-    },
-    {
       "bgg_id": 266810,
       "name": "Paladins of the West Kingdom"
     },
@@ -988,18 +856,6 @@
     {
       "bgg_id": 126163,
       "name": "Tzolk'in: The Mayan Calendar"
-    },
-    {
-      "bgg_id": 147299,
-      "name": "Pocket Imperium"
-    },
-    {
-      "bgg_id": 325941,
-      "name": "Nemo's War: The Ultimate Edition"
-    },
-    {
-      "bgg_id": 420240,
-      "name": "Hunted: Mining Colony 415 (2nd Edition)"
     },
     {
       "bgg_id": 100423,
@@ -1090,10 +946,6 @@
       "name": "Imperium: Classics"
     },
     {
-      "bgg_id": 170223,
-      "name": "Centauri Saga"
-    },
-    {
       "bgg_id": 290484,
       "name": "Unsettled"
     },
@@ -1104,10 +956,6 @@
     {
       "bgg_id": 286160,
       "name": "Godspeed"
-    },
-    {
-      "bgg_id": 356768,
-      "name": "Bloc by Bloc: Uprising"
     },
     {
       "bgg_id": 172047,
@@ -1128,10 +976,6 @@
     {
       "bgg_id": 14996,
       "name": "Ticket to Ride: Europe"
-    },
-    {
-      "bgg_id": 217990,
-      "name": "Stellar Horizons"
     },
     {
       "bgg_id": 291508,
@@ -1162,16 +1006,8 @@
       "name": "Clans of Caledonia"
     },
     {
-      "bgg_id": 361333,
-      "name": "Lawyer Up: Season 2"
-    },
-    {
       "bgg_id": 279537,
       "name": "The Search for Planet X"
-    },
-    {
-      "bgg_id": 302510,
-      "name": "Mining Colony"
     },
     {
       "bgg_id": 247367,
@@ -1186,10 +1022,6 @@
       "name": "Century: Spice Road"
     },
     {
-      "bgg_id": 329151,
-      "name": "Draconic Dice"
-    },
-    {
       "bgg_id": 329148,
       "name": "Hunted: Wode Ridge"
     },
@@ -1200,10 +1032,6 @@
     {
       "bgg_id": 408180,
       "name": "Shackleton Base: A Journey to the Moon"
-    },
-    {
-      "bgg_id": 160968,
-      "name": "Homeland: The Game"
     },
     {
       "bgg_id": 253786,
@@ -1310,12 +1138,8 @@
       "name": "Knarr"
     },
     {
-      "bgg_id": 289566,
-      "name": "Hunted: Kobayashi Tower"
-    },
-    {
-      "bgg_id": 289565,
-      "name": "Hunted: Mining Colony 415"
+      "bgg_id": 358981,
+      "name": "Air, Land, & Sea: Spies, Lies, & Supplies"
     },
     {
       "bgg_id": 12942,
@@ -1338,16 +1162,8 @@
       "name": "One Deck Dungeon"
     },
     {
-      "bgg_id": 254632,
-      "name": "Hyperspace"
-    },
-    {
       "bgg_id": 242684,
       "name": "Reavers of Midgard"
-    },
-    {
-      "bgg_id": 228889,
-      "name": "Helios Expanse"
     },
     {
       "bgg_id": 307002,
@@ -1390,20 +1206,12 @@
       "name": "Cuzco"
     },
     {
-      "bgg_id": 287680,
-      "name": "Ark: Awakening"
-    },
-    {
       "bgg_id": 28,
       "name": "Illuminati"
     },
     {
       "bgg_id": 252752,
       "name": "Genotype: A Mendelian Genetics Game"
-    },
-    {
-      "bgg_id": 247236,
-      "name": "Duelosaur Island"
     },
     {
       "bgg_id": 353470,
@@ -1430,10 +1238,6 @@
       "name": "Merv: The Heart of the Silk Road"
     },
     {
-      "bgg_id": 270408,
-      "name": "Exodus Chronicles"
-    },
-    {
       "bgg_id": 317985,
       "name": "Beyond the Sun"
     },
@@ -1448,10 +1252,6 @@
     {
       "bgg_id": 280794,
       "name": "Etherfields"
-    },
-    {
-      "bgg_id": 281514,
-      "name": "Escape from the Asylum"
     }
   ]
 }

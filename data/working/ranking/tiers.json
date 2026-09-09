@@ -13,11 +13,11 @@
   {
     "tier": "A",
     "tier_sort": 1,
-    "count": 67,
+    "count": 68,
     "source_buckets": [
       {
         "bucket": 9,
-        "count": 67
+        "count": 68
       }
     ]
   },
