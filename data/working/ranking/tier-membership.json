@@ -642,6 +642,61 @@
     "ranking_group": "S|10",
     "source_bucket": 10,
     "rank_in_tier": 14,
+    "bgg_id": 403150,
+    "name": "World Order",
+    "current_rating": 0.0,
+    "num_plays": 2.0,
+    "collection": true,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "Owned",
+    "group_key": "2-4",
+    "year_published": 2026,
+    "players": "2-4",
+    "complexity": 3.7826,
+    "bgg_rating": 8.14506,
+    "num_ratings": 1764,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Economic",
+      "Educational",
+      "Political"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Automatic Resource Growth",
+      "Campaign / Battle Card Driven",
+      "Deck, Bag, and Pool Building",
+      "End Game Bonuses",
+      "Hand Management",
+      "Income",
+      "Multi-Use Cards",
+      "Once-Per-Game Abilities",
+      "Resource to Move",
+      "Simulation",
+      "Solo / Solitaire Game",
+      "Trading",
+      "Turn Order: Stat-Based",
+      "Variable Player Powers"
+    ],
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/403150",
+    "linked_bgg_ids": [
+      403150
+    ],
+    "mapped_at": "2026-09-09T18:41:57.2071837+01:00",
+    "proposed_rating": 9.518,
+    "moved_at": "2026-09-09T18:41:57.2072994+01:00",
+    "move_notes": "operator: S tier, >=9.5"
+  },
+  {
+    "tier": "S",
+    "tier_sort": 0,
+    "ranking_group": "S|10",
+    "source_bucket": 10,
+    "rank_in_tier": 15,
     "bgg_id": 246900,
     "name": "Eclipse: Second Dawn for the Galaxy",
     "current_rating": 9.518,
@@ -689,14 +744,14 @@
       246900
     ],
     "mapped_at": "2026-09-04T09:56:56.7711841+01:00",
-    "proposed_rating": 9.518
+    "proposed_rating": 9.481
   },
   {
     "tier": "S",
     "tier_sort": 0,
     "ranking_group": "S|10",
     "source_bucket": 10,
-    "rank_in_tier": 15,
+    "rank_in_tier": 16,
     "bgg_id": 418059,
     "name": "SETI: Search for Extraterrestrial Intelligence",
     "current_rating": 9.481,
@@ -734,14 +789,14 @@
       418059
     ],
     "mapped_at": "2026-09-04T09:56:56.845563+01:00",
-    "proposed_rating": 9.481
+    "proposed_rating": 9.444
   },
   {
     "tier": "S",
     "tier_sort": 0,
     "ranking_group": "S|10",
     "source_bucket": 10,
-    "rank_in_tier": 16,
+    "rank_in_tier": 17,
     "bgg_id": 345868,
     "name": "Federation",
     "current_rating": 9.444,
@@ -777,14 +832,14 @@
       345868
     ],
     "mapped_at": "2026-09-04T09:56:56.8318018+01:00",
-    "proposed_rating": 9.444
+    "proposed_rating": 9.407
   },
   {
     "tier": "S",
     "tier_sort": 0,
     "ranking_group": "S|10",
     "source_bucket": 10,
-    "rank_in_tier": 17,
+    "rank_in_tier": 18,
     "bgg_id": 167355,
     "name": "Nemesis",
     "current_rating": 9.407,
@@ -831,14 +886,14 @@
       167355
     ],
     "mapped_at": "2026-09-04T09:56:56.7280763+01:00",
-    "proposed_rating": 9.407
+    "proposed_rating": 9.37
   },
   {
     "tier": "S",
     "tier_sort": 0,
     "ranking_group": "S|10",
     "source_bucket": 10,
-    "rank_in_tier": 18,
+    "rank_in_tier": 19,
     "bgg_id": 425630,
     "name": "Baghdad: The City of Peace",
     "current_rating": 9.37,
@@ -873,14 +928,14 @@
       425630
     ],
     "mapped_at": "2026-09-04T09:56:56.8465619+01:00",
-    "proposed_rating": 9.37
+    "proposed_rating": 9.333
   },
   {
     "tier": "S",
     "tier_sort": 0,
     "ranking_group": "S|10",
     "source_bucket": 10,
-    "rank_in_tier": 19,
+    "rank_in_tier": 20,
     "bgg_id": 253344,
     "name": "Cthulhu: Death May Die",
     "current_rating": 9.333,
@@ -921,14 +976,14 @@
       253344
     ],
     "mapped_at": "2026-09-04T09:56:56.7766313+01:00",
-    "proposed_rating": 9.333
+    "proposed_rating": 9.296
   },
   {
     "tier": "S",
     "tier_sort": 0,
     "ranking_group": "S|10",
     "source_bucket": 10,
-    "rank_in_tier": 20,
+    "rank_in_tier": 21,
     "bgg_id": 380707,
     "name": "Vindication: Archive of the Ancients",
     "current_rating": 9.296,
@@ -963,14 +1018,14 @@
       380707
     ],
     "mapped_at": "2026-09-04T09:56:56.8401066+01:00",
-    "proposed_rating": 9.296
+    "proposed_rating": 9.259
   },
   {
     "tier": "S",
     "tier_sort": 0,
     "ranking_group": "S|10",
     "source_bucket": 10,
-    "rank_in_tier": 21,
+    "rank_in_tier": 22,
     "bgg_id": 290484,
     "name": "Unsettled",
     "current_rating": 9.259,
@@ -1019,14 +1074,14 @@
       290484
     ],
     "mapped_at": "2026-09-04T09:56:56.8041327+01:00",
-    "proposed_rating": 9.259
+    "proposed_rating": 9.222
   },
   {
     "tier": "S",
     "tier_sort": 0,
     "ranking_group": "S|10",
     "source_bucket": 10,
-    "rank_in_tier": 22,
+    "rank_in_tier": 23,
     "bgg_id": 277659,
     "name": "Final Girl",
     "current_rating": 9.222,
@@ -1064,14 +1119,14 @@
       277659
     ],
     "mapped_at": "2026-09-04T09:56:56.7943975+01:00",
-    "proposed_rating": 9.222
+    "proposed_rating": 9.185
   },
   {
     "tier": "S",
     "tier_sort": 0,
     "ranking_group": "S|10",
     "source_bucket": 10,
-    "rank_in_tier": 23,
+    "rank_in_tier": 24,
     "bgg_id": 37111,
     "name": "Battlestar Galactica: The Board Game",
     "current_rating": 9.185,
@@ -1118,50 +1173,6 @@
       37111
     ],
     "mapped_at": "2026-09-04T09:56:56.6679974+01:00",
-    "proposed_rating": 9.185
-  },
-  {
-    "tier": "S",
-    "tier_sort": 0,
-    "ranking_group": "S|10",
-    "source_bucket": 10,
-    "rank_in_tier": 24,
-    "bgg_id": 270239,
-    "name": "Moonrakers",
-    "current_rating": 9.148,
-    "num_plays": 1.0,
-    "collection": false,
-    "previously_owned": false,
-    "want_to_play": false,
-    "want_to_buy": false,
-    "collection_to_exit": false,
-    "collection_status": "NotOwned",
-    "group_key": "1-5",
-    "year_published": 2020,
-    "players": "1-5",
-    "complexity": 2.4725,
-    "bgg_rating": 7.69466,
-    "num_ratings": 4113,
-    "bgg_comment": "",
-    "notes": "",
-    "categories": [
-      "Card Game",
-      "Science Fiction"
-    ],
-    "mechanics": [
-      "Action Points",
-      "Deck, Bag, and Pool Building",
-      "Dice Rolling",
-      "Hand Management",
-      "Negotiation",
-      "Open Drafting",
-      "Trading"
-    ],
-    "bgg_game_url": "https://boardgamegeek.com/boardgame/270239",
-    "linked_bgg_ids": [
-      270239
-    ],
-    "mapped_at": "2026-09-04T09:56:56.7905572+01:00",
     "proposed_rating": 9.148
   },
   {
@@ -1612,7 +1623,7 @@
       202426
     ],
     "mapped_at": "2026-09-04T09:56:56.7446518+01:00",
-    "proposed_rating": 8.938
+    "proposed_rating": 8.939
   },
   {
     "tier": "A",
@@ -1655,7 +1666,7 @@
       250467
     ],
     "mapped_at": "2026-09-04T09:56:56.7755452+01:00",
-    "proposed_rating": 8.923
+    "proposed_rating": 8.924
   },
   {
     "tier": "A",
@@ -1696,7 +1707,7 @@
       237179
     ],
     "mapped_at": "2026-09-04T09:56:56.7662026+01:00",
-    "proposed_rating": 8.908
+    "proposed_rating": 8.91
   },
   {
     "tier": "A",
@@ -1742,7 +1753,7 @@
       299450
     ],
     "mapped_at": "2026-09-04T09:56:56.8085431+01:00",
-    "proposed_rating": 8.893
+    "proposed_rating": 8.895
   },
   {
     "tier": "A",
@@ -1787,7 +1798,7 @@
       155065
     ],
     "mapped_at": "2026-09-04T09:56:56.7031316+01:00",
-    "proposed_rating": 8.878
+    "proposed_rating": 8.88
   },
   {
     "tier": "A",
@@ -1833,7 +1844,7 @@
       172047
     ],
     "mapped_at": "2026-09-04T09:56:56.7315611+01:00",
-    "proposed_rating": 8.863
+    "proposed_rating": 8.865
   },
   {
     "tier": "A",
@@ -1877,7 +1888,7 @@
       292126
     ],
     "mapped_at": "2026-09-04T09:56:56.8053848+01:00",
-    "proposed_rating": 8.848
+    "proposed_rating": 8.85
   },
   {
     "tier": "A",
@@ -1917,7 +1928,7 @@
       349948
     ],
     "mapped_at": "2026-09-04T09:56:56.8331023+01:00",
-    "proposed_rating": 8.832
+    "proposed_rating": 8.835
   },
   {
     "tier": "A",
@@ -1965,7 +1976,7 @@
       216132
     ],
     "mapped_at": "2026-09-04T09:56:56.7481955+01:00",
-    "proposed_rating": 8.817
+    "proposed_rating": 8.82
   },
   {
     "tier": "A",
@@ -2010,7 +2021,7 @@
       321608
     ],
     "mapped_at": "2026-09-04T09:56:56.8227244+01:00",
-    "proposed_rating": 8.802
+    "proposed_rating": 8.805
   },
   {
     "tier": "A",
@@ -2051,7 +2062,7 @@
       260923
     ],
     "mapped_at": "2026-09-04T09:56:56.7815937+01:00",
-    "proposed_rating": 8.787
+    "proposed_rating": 8.79
   },
   {
     "tier": "A",
@@ -2102,7 +2113,7 @@
       115746
     ],
     "mapped_at": "2026-09-04T09:56:56.6840206+01:00",
-    "proposed_rating": 8.772
+    "proposed_rating": 8.775
   },
   {
     "tier": "A",
@@ -2147,7 +2158,7 @@
       356414
     ],
     "mapped_at": "2026-09-04T09:56:56.8344885+01:00",
-    "proposed_rating": 8.757
+    "proposed_rating": 8.76
   },
   {
     "tier": "A",
@@ -2189,7 +2200,7 @@
       228341
     ],
     "mapped_at": "2026-09-04T09:56:56.7620325+01:00",
-    "proposed_rating": 8.742
+    "proposed_rating": 8.746
   },
   {
     "tier": "A",
@@ -2235,7 +2246,7 @@
       373600
     ],
     "mapped_at": "2026-09-04T09:56:56.838694+01:00",
-    "proposed_rating": 8.727
+    "proposed_rating": 8.731
   },
   {
     "tier": "A",
@@ -2287,7 +2298,7 @@
       257089
     ],
     "mapped_at": "2026-09-04T09:56:56.7802832+01:00",
-    "proposed_rating": 8.711
+    "proposed_rating": 8.716
   },
   {
     "tier": "A",
@@ -2329,7 +2340,7 @@
       266810
     ],
     "mapped_at": "2026-09-04T09:56:56.7872884+01:00",
-    "proposed_rating": 8.696
+    "proposed_rating": 8.701
   },
   {
     "tier": "A",
@@ -2377,7 +2388,7 @@
       306481
     ],
     "mapped_at": "2026-09-04T09:56:56.8106253+01:00",
-    "proposed_rating": 8.681
+    "proposed_rating": 8.686
   },
   {
     "tier": "A",
@@ -2429,7 +2440,7 @@
       220308
     ],
     "mapped_at": "2026-09-04T09:56:56.748993+01:00",
-    "proposed_rating": 8.666
+    "proposed_rating": 8.671
   },
   {
     "tier": "A",
@@ -2478,7 +2489,7 @@
       218509
     ],
     "mapped_at": "2026-09-04T09:56:56.7486647+01:00",
-    "proposed_rating": 8.651
+    "proposed_rating": 8.656
   },
   {
     "tier": "A",
@@ -2524,7 +2535,7 @@
       233868
     ],
     "mapped_at": "2026-09-04T09:56:56.7652784+01:00",
-    "proposed_rating": 8.636
+    "proposed_rating": 8.641
   },
   {
     "tier": "A",
@@ -2570,7 +2581,7 @@
       126163
     ],
     "mapped_at": "2026-09-04T09:56:56.6914379+01:00",
-    "proposed_rating": 8.621
+    "proposed_rating": 8.626
   },
   {
     "tier": "A",
@@ -2615,7 +2626,7 @@
       257499
     ],
     "mapped_at": "2026-09-04T09:56:56.7807768+01:00",
-    "proposed_rating": 8.605
+    "proposed_rating": 8.611
   },
   {
     "tier": "A",
@@ -2661,7 +2672,7 @@
       317985
     ],
     "mapped_at": "2026-09-04T09:56:56.8215255+01:00",
-    "proposed_rating": 8.59
+    "proposed_rating": 8.596
   },
   {
     "tier": "A",
@@ -2706,7 +2717,7 @@
       265188
     ],
     "mapped_at": "2026-09-04T09:56:56.7836863+01:00",
-    "proposed_rating": 8.575
+    "proposed_rating": 8.582
   },
   {
     "tier": "A",
@@ -2756,7 +2767,7 @@
       172287
     ],
     "mapped_at": "2026-09-04T09:56:56.7322092+01:00",
-    "proposed_rating": 8.56
+    "proposed_rating": 8.567
   },
   {
     "tier": "A",
@@ -2803,7 +2814,7 @@
       220792
     ],
     "mapped_at": "2026-09-04T09:56:56.7494868+01:00",
-    "proposed_rating": 8.545
+    "proposed_rating": 8.552
   },
   {
     "tier": "A",
@@ -2858,7 +2869,7 @@
       167791
     ],
     "mapped_at": "2026-09-04T09:56:56.7284285+01:00",
-    "proposed_rating": 8.53
+    "proposed_rating": 8.537
   },
   {
     "tier": "A",
@@ -2901,7 +2912,7 @@
       350458
     ],
     "mapped_at": "2026-09-04T09:56:56.8334676+01:00",
-    "proposed_rating": 8.515
+    "proposed_rating": 8.522
   },
   {
     "tier": "A",
@@ -2909,6 +2920,52 @@
     "ranking_group": "A|9",
     "source_bucket": 9,
     "rank_in_tier": 34,
+    "bgg_id": 270239,
+    "name": "Moonrakers",
+    "current_rating": 9.148,
+    "num_plays": 1.0,
+    "collection": false,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "NotOwned",
+    "group_key": "1-5",
+    "year_published": 2020,
+    "players": "1-5",
+    "complexity": 2.4725,
+    "bgg_rating": 7.69466,
+    "num_ratings": 4113,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Card Game",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Hand Management",
+      "Negotiation",
+      "Open Drafting",
+      "Trading"
+    ],
+    "bgg_game_url": "https://boardgamegeek.com/boardgame/270239",
+    "linked_bgg_ids": [
+      270239
+    ],
+    "mapped_at": "2026-09-04T09:56:56.7905572+01:00",
+    "proposed_rating": 8.507,
+    "moved_at": "2026-09-09T18:41:04.457676+01:00",
+    "move_notes": "operator: drop to A, ~8.5"
+  },
+  {
+    "tier": "A",
+    "tier_sort": 1,
+    "ranking_group": "A|9",
+    "source_bucket": 9,
+    "rank_in_tier": 35,
     "bgg_id": 262941,
     "name": "Dominant Species: Marine",
     "current_rating": 8.5,
@@ -2948,14 +3005,14 @@
       262941
     ],
     "mapped_at": "2026-09-04T09:56:56.7819188+01:00",
-    "proposed_rating": 8.5
+    "proposed_rating": 8.492
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 35,
+    "rank_in_tier": 36,
     "bgg_id": 39463,
     "name": "Cosmic Encounter",
     "current_rating": 8.484,
@@ -2998,14 +3055,14 @@
       39463
     ],
     "mapped_at": "2026-09-04T09:56:56.6686307+01:00",
-    "proposed_rating": 8.484
+    "proposed_rating": 8.477
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 36,
+    "rank_in_tier": 37,
     "bgg_id": 155821,
     "name": "Inis",
     "current_rating": 8.469,
@@ -3050,14 +3107,14 @@
       155821
     ],
     "mapped_at": "2026-09-04T09:56:56.703753+01:00",
-    "proposed_rating": 8.469
+    "proposed_rating": 8.462
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 37,
+    "rank_in_tier": 38,
     "bgg_id": 205637,
     "name": "Arkham Horror: The Card Game",
     "current_rating": 8.454,
@@ -3107,14 +3164,14 @@
       205637
     ],
     "mapped_at": "2026-09-04T09:56:56.7459594+01:00",
-    "proposed_rating": 8.454
+    "proposed_rating": 8.447
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 38,
+    "rank_in_tier": 39,
     "bgg_id": 295293,
     "name": "The Thing: The Boardgame",
     "current_rating": 8.439,
@@ -3150,14 +3207,14 @@
       295293
     ],
     "mapped_at": "2026-09-04T09:56:56.8059914+01:00",
-    "proposed_rating": 8.439
+    "proposed_rating": 8.432
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 39,
+    "rank_in_tier": 40,
     "bgg_id": 408253,
     "name": "Tiny Epic Cthulhu: Deluxe Edition",
     "current_rating": 8.424,
@@ -3197,14 +3254,14 @@
       408253
     ],
     "mapped_at": "2026-09-04T09:56:56.8447562+01:00",
-    "proposed_rating": 8.424
+    "proposed_rating": 8.417
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 40,
+    "rank_in_tier": 41,
     "bgg_id": 417197,
     "name": "Rebirth",
     "current_rating": 8.409,
@@ -3241,14 +3298,14 @@
       417197
     ],
     "mapped_at": "2026-09-04T09:56:56.8451692+01:00",
-    "proposed_rating": 8.409
+    "proposed_rating": 8.403
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 41,
+    "rank_in_tier": 42,
     "bgg_id": 236457,
     "name": "Architects of the West Kingdom",
     "current_rating": 8.394,
@@ -3294,14 +3351,14 @@
       236457
     ],
     "mapped_at": "2026-09-04T09:56:56.7659283+01:00",
-    "proposed_rating": 8.394
+    "proposed_rating": 8.388
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 42,
+    "rank_in_tier": 43,
     "bgg_id": 198609,
     "name": "Fate of the Elder Gods",
     "current_rating": 8.378,
@@ -3342,14 +3399,14 @@
       198609
     ],
     "mapped_at": "2026-09-04T09:56:56.743999+01:00",
-    "proposed_rating": 8.378
+    "proposed_rating": 8.373
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 43,
+    "rank_in_tier": 44,
     "bgg_id": 138161,
     "name": "Firefly: The Game",
     "current_rating": 8.363,
@@ -3391,14 +3448,14 @@
       138161
     ],
     "mapped_at": "2026-09-04T09:56:56.6954386+01:00",
-    "proposed_rating": 8.363
+    "proposed_rating": 8.358
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 44,
+    "rank_in_tier": 45,
     "bgg_id": 62219,
     "name": "Dominant Species",
     "current_rating": 8.348,
@@ -3441,14 +3498,14 @@
       62219
     ],
     "mapped_at": "2026-09-04T09:56:56.6748992+01:00",
-    "proposed_rating": 8.348
+    "proposed_rating": 8.343
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 45,
+    "rank_in_tier": 46,
     "bgg_id": 146021,
     "name": "Eldritch Horror",
     "current_rating": 8.333,
@@ -3493,14 +3550,14 @@
       146021
     ],
     "mapped_at": "2026-09-04T09:56:56.6994132+01:00",
-    "proposed_rating": 8.333
+    "proposed_rating": 8.328
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 46,
+    "rank_in_tier": 47,
     "bgg_id": 328871,
     "name": "Terraforming Mars: Ares Expedition",
     "current_rating": 8.318,
@@ -3546,14 +3603,14 @@
       328871
     ],
     "mapped_at": "2026-09-04T09:56:56.8243969+01:00",
-    "proposed_rating": 8.318
+    "proposed_rating": 8.313
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 47,
+    "rank_in_tier": 48,
     "bgg_id": 319966,
     "name": "The King Is Dead: Second Edition",
     "current_rating": 8.303,
@@ -3593,14 +3650,14 @@
       172996
     ],
     "mapped_at": "2026-09-04T09:56:56.8224514+01:00",
-    "proposed_rating": 8.303
+    "proposed_rating": 8.298
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 48,
+    "rank_in_tier": 49,
     "bgg_id": 312251,
     "name": "Curious Cargo",
     "current_rating": 8.288,
@@ -3635,14 +3692,14 @@
       312251
     ],
     "mapped_at": "2026-09-04T09:56:56.8194107+01:00",
-    "proposed_rating": 8.288
+    "proposed_rating": 8.283
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 49,
+    "rank_in_tier": 50,
     "bgg_id": 329148,
     "name": "Hunted: Wode Ridge",
     "current_rating": 8.272,
@@ -3677,14 +3734,14 @@
       329148
     ],
     "mapped_at": "2026-09-04T09:56:56.8249056+01:00",
-    "proposed_rating": 8.272
+    "proposed_rating": 8.268
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 50,
+    "rank_in_tier": 51,
     "bgg_id": 289565,
     "name": "Hunted: Mining Colony 415",
     "current_rating": 8.257,
@@ -3718,14 +3775,14 @@
       289565
     ],
     "mapped_at": "2026-09-04T09:56:56.8031188+01:00",
-    "proposed_rating": 8.257
+    "proposed_rating": 8.253
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 51,
+    "rank_in_tier": 52,
     "bgg_id": 169786,
     "name": "Scythe",
     "current_rating": 8.242,
@@ -3774,14 +3831,14 @@
       169786
     ],
     "mapped_at": "2026-09-04T09:56:56.7295313+01:00",
-    "proposed_rating": 8.242
+    "proposed_rating": 8.239
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 52,
+    "rank_in_tier": 53,
     "bgg_id": 242302,
     "name": "Space Base",
     "current_rating": 8.227,
@@ -3815,14 +3872,14 @@
       242302
     ],
     "mapped_at": "2026-09-04T09:56:56.7675693+01:00",
-    "proposed_rating": 8.227
+    "proposed_rating": 8.224
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 53,
+    "rank_in_tier": 54,
     "bgg_id": 326485,
     "name": "Cthulhu Wars: Duel",
     "current_rating": 8.212,
@@ -3858,14 +3915,14 @@
       326485
     ],
     "mapped_at": "2026-09-04T09:56:56.8240736+01:00",
-    "proposed_rating": 8.212
+    "proposed_rating": 8.209
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 54,
+    "rank_in_tier": 55,
     "bgg_id": 3076,
     "name": "Puerto Rico",
     "current_rating": 8.197,
@@ -3903,14 +3960,14 @@
       3076
     ],
     "mapped_at": "2026-09-04T09:56:56.6608309+01:00",
-    "proposed_rating": 8.197
+    "proposed_rating": 8.194
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 55,
+    "rank_in_tier": 56,
     "bgg_id": 281258,
     "name": "Sub Terra II: Inferno's Edge",
     "current_rating": 8.182,
@@ -3955,14 +4012,14 @@
       281258
     ],
     "mapped_at": "2026-09-04T09:56:56.7968733+01:00",
-    "proposed_rating": 8.182
+    "proposed_rating": 8.179
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 56,
+    "rank_in_tier": 57,
     "bgg_id": 296237,
     "name": "Warp's Edge",
     "current_rating": 8.166,
@@ -3993,14 +4050,14 @@
       296237
     ],
     "mapped_at": "2026-09-04T09:56:56.8067186+01:00",
-    "proposed_rating": 8.166
+    "proposed_rating": 8.164
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 57,
+    "rank_in_tier": 58,
     "bgg_id": 298572,
     "name": "Cosmic Encounter Duel",
     "current_rating": 8.151,
@@ -4037,14 +4094,14 @@
       298572
     ],
     "mapped_at": "2026-09-04T09:56:56.8077629+01:00",
-    "proposed_rating": 8.151
+    "proposed_rating": 8.149
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 58,
+    "rank_in_tier": 59,
     "bgg_id": 247236,
     "name": "Duelosaur Island",
     "current_rating": 8.136,
@@ -4082,14 +4139,14 @@
       247236
     ],
     "mapped_at": "2026-09-04T09:56:56.7717428+01:00",
-    "proposed_rating": 8.136
+    "proposed_rating": 8.134
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 59,
+    "rank_in_tier": 60,
     "bgg_id": 232832,
     "name": "Century: Golem Edition",
     "current_rating": 8.121,
@@ -4128,14 +4185,14 @@
       232832
     ],
     "mapped_at": "2026-09-04T09:56:56.7646053+01:00",
-    "proposed_rating": 8.121
+    "proposed_rating": 8.119
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 60,
+    "rank_in_tier": 61,
     "bgg_id": 28143,
     "name": "Race for the Galaxy",
     "current_rating": 8.106,
@@ -4177,14 +4234,14 @@
       28143
     ],
     "mapped_at": "2026-09-04T09:56:56.6665062+01:00",
-    "proposed_rating": 8.106
+    "proposed_rating": 8.104
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 61,
+    "rank_in_tier": 62,
     "bgg_id": 224783,
     "name": "Vindication",
     "current_rating": 8.091,
@@ -4223,14 +4280,14 @@
       224783
     ],
     "mapped_at": "2026-09-04T09:56:56.7603436+01:00",
-    "proposed_rating": 8.091
+    "proposed_rating": 8.089
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 62,
+    "rank_in_tier": 63,
     "bgg_id": 9609,
     "name": "War of the Ring",
     "current_rating": 8.076,
@@ -4271,14 +4328,14 @@
       9609
     ],
     "mapped_at": "2026-09-04T09:56:56.6638714+01:00",
-    "proposed_rating": 8.076
+    "proposed_rating": 8.075
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 63,
+    "rank_in_tier": 64,
     "bgg_id": 43111,
     "name": "Chaos in the Old World",
     "current_rating": 8.061,
@@ -4320,14 +4377,14 @@
       43111
     ],
     "mapped_at": "2026-09-04T09:56:56.6731562+01:00",
-    "proposed_rating": 8.061
+    "proposed_rating": 8.06
   },
   {
     "tier": "A",
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 64,
+    "rank_in_tier": 65,
     "bgg_id": 256730,
     "name": "Pipeline",
     "current_rating": 8.045,
@@ -4372,7 +4429,7 @@
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 65,
+    "rank_in_tier": 66,
     "bgg_id": 247763,
     "name": "Underwater Cities",
     "current_rating": 8.03,
@@ -4420,7 +4477,7 @@
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 66,
+    "rank_in_tier": 67,
     "bgg_id": 184921,
     "name": "Bunny Kingdom",
     "current_rating": 8.015,
@@ -4465,7 +4522,7 @@
     "tier_sort": 1,
     "ranking_group": "A|9",
     "source_bucket": 9,
-    "rank_in_tier": 67,
+    "rank_in_tier": 68,
     "bgg_id": 160610,
     "name": "Thunderbirds",
     "current_rating": 8.0,
