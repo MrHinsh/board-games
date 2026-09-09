@@ -107,6 +107,29 @@ Prints the league table against baselines. Re-run after any material change to
 the collection or the model. If it reports that the model no longer beats the
 BGG-rating baseline, stop shipping its output.
 
+## Judging whether two games are actually separable
+
+**Do not use CV RMSE as a resolution threshold.** It is the average error of a
+predicted *rating*; the output here is a *ranking*, and errors between similar
+games are correlated, so the difference between two predictions is far better
+determined than either level. Treating 1.3 as a tie band declares almost every
+comparison a tie and makes the tool useless.
+
+Bootstrap the ranking instead:
+
+```powershell
+./.agents/skills/mrhinsh-bg-nominations/scripts/Measure-RankStability.ps1 `
+    -RankedPath '.\data\reports\nominations\<date>-ranked.csv' `
+    -OutPath    '.\data\reports\nominations\<date>-stability.csv'
+```
+
+It resamples the training set, refits, re-scores, and reports median rank, a
+5th-95th percentile rank interval, P(top 3), and a pairwise P(A above B) matrix.
+Games with an actual rating are held fixed - there is nothing to resample.
+
+Report *those* numbers when saying whether one game beats another. A pair at
+55/45 is genuinely a toss-up; 76/24 is not, however close the raw scores look.
+
 ## Reporting guidance
 
 - Lead with the operator's three votes, spread across **different hosts** — one
