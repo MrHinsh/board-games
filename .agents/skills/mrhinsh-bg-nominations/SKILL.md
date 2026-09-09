@@ -53,7 +53,9 @@ Written to `data/reports/nominations/`, prefixed with the run date:
 - `<date>-nominations.csv` — host, slot, raw game text, host comment.
 - `<date>-resolved.csv` — plus BGG id, matched name, and a `suspect` column.
 - `<date>-ranked.csv` — plus complexity, BGG rating, designer adjustment,
-  predicted score, actual rating where one exists, ownership and play count.
+  predicted score, actual rating where one exists, ownership, play count, and
+  the operator's BGG `want_to_play` / `want_to_buy` flags.
+- `<date>-stability.csv` — written by `Measure-RankStability.ps1`.
 
 Caches under `data/working/nominations/`:
 
@@ -136,8 +138,16 @@ Report *those* numbers when saying whether one game beats another. A pair at
   host runs one game, so two picks from the same host partly waste a vote.
 - Flag each host's Game 1: the sheet highlights it as most likely to run, and
   high-scoring games in slots 2 and 3 may never reach the table.
-- Call out nominations that are already owned (playable at home, so a club slot
-  is worth less) and any that sit on the want-to-buy list (a free trial).
+- Always report the BGG list flags, which the run prints as its own section:
+  - `want_to_buy` — a club slot is a free trial before spending money. Strongest
+    practical reason to vote for something, whatever its score.
+  - `want_to_play` — the operator has already said they want this on the table.
+    Direct evidence of intent, and it outranks a model prediction.
+  - Already owned — playable at home, so a club slot is worth less. Check
+    `plays`: owned with 0-2 plays is still a good use of a vote; owned with 30+
+    is not.
+  Note the flags only exist for games in the operator's BGG collection data, so
+  most nominations carry none. Absence means unknown, never "not wanted".
 - Surface `suspect` rows from resolution rather than hiding them.
 - Never cast a vote or edit the sheet. Read-only; the operator votes.
 

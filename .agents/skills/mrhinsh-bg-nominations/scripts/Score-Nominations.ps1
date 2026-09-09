@@ -184,10 +184,13 @@ $rows = foreach ($r in $resolved) {
     $pred = $p.Prediction
 
     $actual = $null; $status = ''; $plays = 0
+    $wantPlay = $false; $wantBuy = $false
     if ($canonById.ContainsKey($id)) {
         $c = $canonById[$id]
         $status = [string]$c.collection_status
         $plays = [int]$c.num_plays
+        $wantPlay = [bool]$c.want_to_play
+        $wantBuy = [bool]$c.want_to_buy
         if ([double]$c.rating -gt 0) { $actual = [double]$c.rating }
     }
 
@@ -209,6 +212,8 @@ $rows = foreach ($r in $resolved) {
         basis         = $(if ($null -ne $actual) { 'RATED' } else { 'predicted' })
         collection    = $status
         plays         = $plays
+        want_to_play  = $wantPlay
+        want_to_buy   = $wantBuy
         players       = $g.players
         play_time     = $g.play_time
         host_comment  = $r.PSObject.Properties['host_comment'] ? $r.host_comment : ''
@@ -223,5 +228,12 @@ $sorted | Export-Csv -Path $OutPath -NoTypeInformation -Encoding UTF8
 Write-Host ("Scored {0} nominations -> {1}" -f $sorted.Count, $OutPath)
 Write-Host ''
 $sorted | Select-Object -First 10 |
-    Format-Table -AutoSize host, slot, game, complexity, bgg_rating, designer_adj, score, basis, collection, plays
+    Format-Table -AutoSize host, slot, game, complexity, bgg_rating, score, basis, collection, plays, want_to_play, want_to_buy
+
+$flagged = @($sorted | Where-Object { $_.want_to_play -or $_.want_to_buy })
+if ($flagged.Count -gt 0) {
+    Write-Host ''
+    Write-Host '=== on your BGG want-to-play / want-to-buy lists ==='
+    $flagged | Format-Table -AutoSize game, host, slot, score, basis, collection, plays, want_to_play, want_to_buy
+}
 
