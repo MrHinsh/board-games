@@ -7,7 +7,7 @@ Read the club sign-up sheet, resolve the nominated games to BGG, score them
 against the operator's own ratings, and recommend three votes.
 
 Full documentation: `.agents/skills/mrhinsh-bg-nominations/SKILL.md`.
-Sheet id and club rules: `.agents/skills/mrhinsh-bg-nominations/config.json`.
+Sheet id and club rules: `systems/prediction/club-nominations/config.json`.
 
 **Model accuracy is modest and measured.** Cross-validated RMSE 1.303, against
 1.412 for simply rescaling the BGG community rating — about 7.7% better. Report

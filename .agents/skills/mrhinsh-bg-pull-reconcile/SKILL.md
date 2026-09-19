@@ -50,3 +50,7 @@ Example:
 $snapshot = & ./.agents/skills/mrhinsh-bg-pull-fetch/scripts/run.ps1 -Username "MrHinsh"
 & ./.agents/skills/mrhinsh-bg-pull-reconcile/scripts/run.ps1 -SnapshotPath $snapshot
 ```
+
+## System ownership
+
+Implementation: `systems\bgg-integration\reconcile/`. See `.agents/context/system-map.md`.

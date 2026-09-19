@@ -18,3 +18,7 @@ Examples:
 ./.agents/skills/mrhinsh-bg-pull-rank-rebalance/scripts/run.ps1
 ./.agents/skills/mrhinsh-bg-pull-rank-rebalance/scripts/run.ps1 -ImportPath .\data\working\ranking\external-ordering.json
 ```
+
+## System ownership
+
+Implementation: `systems\ranking\rebalance/`. See `.agents/context/system-map.md`.

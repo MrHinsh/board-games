@@ -5,22 +5,5 @@ param(
     [int]$Limit = 0
 )
 
-Set-StrictMode -Version Latest
-$ErrorActionPreference = 'Stop'
-
-$scriptPath = Join-Path $PSScriptRoot '..\..\mrhinsh-bg-push-rating\scripts\Sync-BggRatingQueue.ps1'
-if (-not (Test-Path $scriptPath)) {
-    throw "Missing script: $scriptPath"
-}
-
-$forwarded = @{
-    QueuePath = $QueuePath
-    Username = $Username
-    Limit = $Limit
-}
-
-if ($WhatIfPreference) {
-    $forwarded.WhatIf = $true
-}
-
-& $scriptPath @forwarded
+# Compatibility entrypoint; implementation belongs to a system.
+& (Join-Path $PSScriptRoot '../../../../systems/bgg-integration/push/run.ps1') @PSBoundParameters

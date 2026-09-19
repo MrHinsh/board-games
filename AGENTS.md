@@ -16,8 +16,10 @@ says so. Do not re-derive logic the scripts already implement.
 
 ## Commands
 
-- Pull (read side, end-to-end local rebuild):
+- Pull (BGG fetch and reconcile):
   `./.agents/skills/mrhinsh-bg-pull/scripts/run.ps1 -Username 'MrHinsh'`
+- Rebuild local artifacts: `./workflows/Rebuild-BoardGames.ps1`
+- Refresh (Pull then Rebuild): `./workflows/Refresh-BoardGames.ps1 -Username 'MrHinsh'`
 - Push (write side, sync pending rating queue to BGG):
   `./.agents/skills/mrhinsh-bg-push/scripts/run.ps1 -Username 'MrHinsh'`
 - Smoke check (script parse + data contract validation):
@@ -37,7 +39,7 @@ says so. Do not re-derive logic the scripts already implement.
 | Any other policy question | `.agents/guardrails/global-rules.md` |
 | Architecture orientation | `.agents/context/system-map.md` |
 
-Skill-level docs live next to their scripts: `.agents/skills/<name>/SKILL.md`.
+System implementations and operating docs live in `systems/`. Skill instructions and compatibility entrypoints remain in `.agents/skills/`. The agreed boundaries are in `.agents/context/system-map.md`.
 
 ## Definition of done
 

@@ -33,7 +33,7 @@ if (-not (Test-Path $CanonicalPath)) {
     if ($games -isnot [System.Array]) {
         $failures.Add('DATA games.json must be a JSON array')
     } else {
-        $requiredFields = @('group_key', 'bgg_id', 'name', 'year_published', 'rating', 'num_plays')
+        $requiredFields = @('group_key', 'bgg_id', 'name', 'year_published', 'rating', 'num_plays', 'reimplements', 'reimplemented_by')
         $seenIds = @{}
         $index = 0
         foreach ($game in $games) {
@@ -54,6 +54,18 @@ if (-not (Test-Path $CanonicalPath)) {
             $playsProp = $game.PSObject.Properties['num_plays']
             if ($playsProp -and $playsProp.Value -lt 0) {
                 $failures.Add("DATA games[$index] num_plays is negative")
+            }
+            foreach ($relationshipField in @('reimplements', 'reimplemented_by')) {
+                $relationshipProp = $game.PSObject.Properties[$relationshipField]
+                if ($relationshipProp -and $null -eq $relationshipProp.Value) {
+                    $failures.Add("DATA games[$index] $relationshipField must be an array, not null")
+                } elseif ($relationshipProp) {
+                    foreach ($relationshipId in @($relationshipProp.Value)) {
+                        if ($relationshipId -isnot [int] -and $relationshipId -isnot [long]) {
+                            $failures.Add("DATA games[$index] $relationshipField contains non-integer value '$relationshipId'")
+                        }
+                    }
+                }
             }
             $index++
         }
@@ -85,4 +97,5 @@ if ($failures.Count -gt 0) {
     throw ("Test-Repo failed with {0} issue(s)" -f $failures.Count)
 }
 
+& (Join-Path $PSScriptRoot 'Test-SystemBoundaries.ps1')
 Write-Host 'Test-Repo: all checks passed' -ForegroundColor Green

@@ -32,3 +32,6 @@ Examples:
 ./.agents/skills/mrhinsh-bg-push/scripts/run.ps1 -Username "MrHinsh"
 ./.agents/skills/mrhinsh-bg-push/scripts/run.ps1 -Username "MrHinsh" -WhatIf
 ```
+## System ownership
+
+Implementation: `systems\bgg-integration\push/`. See `.agents/context/system-map.md`.

@@ -29,3 +29,7 @@ Examples:
 $cred = Get-Credential -UserName "YOUR_BGG_USERNAME" -Message "Enter BGG credentials"
 ./.agents/skills/mrhinsh-bg-push-play/scripts/Push-BggPlay.ps1 -Credential $cred -GameId 167355 -PlayDate 2026-05-10 -Quantity 1
 ```
+
+## System ownership
+
+Implementation: `systems\bgg-integration\plays/`. See `.agents/context/system-map.md`.

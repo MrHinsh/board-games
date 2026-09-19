@@ -31,3 +31,7 @@ Example:
 ```powershell
 ./.agents/skills/mrhinsh-bg-audit/scripts/run.ps1 -Username 'MrHinsh'
 ```
+
+## System ownership
+
+Implementation: `systems\bgg-integration\audit/`. See `.agents/context/system-map.md`.

@@ -18,3 +18,7 @@ Example:
 ```powershell
 ./.agents/skills/mrhinsh-bg-pull-tier-map/scripts/run.ps1
 ```
+
+## System ownership
+
+Implementation: `systems\tiers\membership/`. See `.agents/context/system-map.md`.

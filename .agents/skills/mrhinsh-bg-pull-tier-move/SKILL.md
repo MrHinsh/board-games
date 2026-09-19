@@ -17,3 +17,7 @@ Examples:
 ./.agents/skills/mrhinsh-bg-pull-tier-move/scripts/run.ps1
 ./.agents/skills/mrhinsh-bg-pull-tier-move/scripts/run.ps1 -GameId 12345 -Tier A
 ```
+
+## System ownership
+
+Implementation: `systems\tiers\moves/`. See `.agents/context/system-map.md`.

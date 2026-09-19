@@ -10,8 +10,5 @@ param(
 	[switch]$ForceRebuildRanks
 )
 
-Set-StrictMode -Version Latest
-$ErrorActionPreference = 'Stop'
-
-$scriptPath = Join-Path $PSScriptRoot 'Map-BggTiers.ps1'
-& $scriptPath -CanonicalPath $CanonicalPath -EquivalentGamesPath $EquivalentGamesPath -MembershipPath $MembershipPath -TiersPath $TiersPath -TierExportJson $TierExportJson -TierExportCsv $TierExportCsv -IncludeUnrated:$IncludeUnrated -ForceRebuildRanks:$ForceRebuildRanks
+# Compatibility entrypoint; implementation belongs to a system.
+& (Join-Path $PSScriptRoot '../../../../systems/tiers/membership/run.ps1') @PSBoundParameters

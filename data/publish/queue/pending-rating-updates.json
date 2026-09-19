@@ -1,13 +1,178 @@
 [
   {
+    "bgg_id": 224783,
+    "name": "Vindication",
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 62,
+    "current_rating": 8.089,
+    "target_rating": 8.089,
+    "delta": 0.0,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 380707,
+    "name": "Vindication: Archive of the Ancients",
+    "tier": "A",
+    "source_bucket": 9,
+    "rank_in_tier": 62,
+    "current_rating": 9.296,
+    "target_rating": 8.089,
+    "delta": -1.207,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 382518,
+    "name": "Sankoré: The Pride of Mansa Musa",
+    "tier": "S",
+    "source_bucket": 10,
+    "rank_in_tier": 2,
+    "current_rating": 9.962,
+    "target_rating": 9.961,
+    "delta": -0.001,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 337627,
+    "name": "Voidfall",
+    "tier": "S",
+    "source_bucket": 10,
+    "rank_in_tier": 3,
+    "current_rating": 9.925,
+    "target_rating": 9.922,
+    "delta": -0.003,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 367150,
+    "name": "Dune: War for Arrakis",
+    "tier": "S",
+    "source_bucket": 10,
+    "rank_in_tier": 4,
+    "current_rating": 9.888,
+    "target_rating": 9.884,
+    "delta": -0.004,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 391137,
+    "name": "Galactic Cruise",
+    "tier": "S",
+    "source_bucket": 10,
+    "rank_in_tier": 5,
+    "current_rating": 9.851,
+    "target_rating": 9.845,
+    "delta": -0.006,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 375459,
+    "name": "Speakeasy",
+    "tier": "S",
+    "source_bucket": 10,
+    "rank_in_tier": 6,
+    "current_rating": 9.814,
+    "target_rating": 9.807,
+    "delta": -0.007,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 122842,
+    "name": "Exodus: Proxima Centauri",
+    "tier": "S",
+    "source_bucket": 10,
+    "rank_in_tier": 7,
+    "current_rating": 9.777,
+    "target_rating": 9.768,
+    "delta": -0.009,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 297030,
+    "name": "Tekhenu: Obelisk of the Sun",
+    "tier": "S",
+    "source_bucket": 10,
+    "rank_in_tier": 8,
+    "current_rating": 9.74,
+    "target_rating": 9.73,
+    "delta": -0.01,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 82222,
+    "name": "Xia: Legends of a Drift System",
+    "tier": "S",
+    "source_bucket": 10,
+    "rank_in_tier": 9,
+    "current_rating": 9.703,
+    "target_rating": 9.692,
+    "delta": -0.011,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 304510,
+    "name": "Pampero",
+    "tier": "S",
+    "source_bucket": 10,
+    "rank_in_tier": 10,
+    "current_rating": 9.666,
+    "target_rating": 9.653,
+    "delta": -0.013,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 347305,
+    "name": "Inventions: Evolution of Ideas",
+    "tier": "S",
+    "source_bucket": 10,
+    "rank_in_tier": 11,
+    "current_rating": 9.629,
+    "target_rating": 9.615,
+    "delta": -0.014,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 348877,
+    "name": "Lobotomy 2: Manhunt",
+    "tier": "S",
+    "source_bucket": 10,
+    "rank_in_tier": 12,
+    "current_rating": 9.592,
+    "target_rating": 9.576,
+    "delta": -0.016,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 358661,
+    "name": "Andromeda's Edge",
+    "tier": "S",
+    "source_bucket": 10,
+    "rank_in_tier": 13,
+    "current_rating": 9.555,
+    "target_rating": 9.538,
+    "delta": -0.017,
+    "status": "queued"
+  },
+  {
     "bgg_id": 246900,
     "name": "Eclipse: Second Dawn for the Galaxy",
     "tier": "S",
     "source_bucket": 10,
     "rank_in_tier": 14,
-    "current_rating": 9.481,
-    "target_rating": 9.518,
-    "delta": 0.037,
+    "current_rating": 9.518,
+    "target_rating": 9.5,
+    "delta": -0.018,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 72125,
+    "name": "Eclipse: New Dawn for the Galaxy",
+    "tier": "S",
+    "source_bucket": 10,
+    "rank_in_tier": 14,
+    "current_rating": 9.518,
+    "target_rating": 9.5,
+    "delta": -0.018,
     "status": "queued"
   },
   {
@@ -16,9 +181,9 @@
     "tier": "S",
     "source_bucket": 10,
     "rank_in_tier": 15,
-    "current_rating": 9.444,
-    "target_rating": 9.481,
-    "delta": 0.037,
+    "current_rating": 9.481,
+    "target_rating": 9.461,
+    "delta": -0.02,
     "status": "queued"
   },
   {
@@ -27,9 +192,9 @@
     "tier": "S",
     "source_bucket": 10,
     "rank_in_tier": 16,
-    "current_rating": 9.407,
-    "target_rating": 9.444,
-    "delta": 0.037,
+    "current_rating": 9.444,
+    "target_rating": 9.423,
+    "delta": -0.021,
     "status": "queued"
   },
   {
@@ -38,9 +203,9 @@
     "tier": "S",
     "source_bucket": 10,
     "rank_in_tier": 17,
-    "current_rating": 9.37,
-    "target_rating": 9.407,
-    "delta": 0.037,
+    "current_rating": 9.407,
+    "target_rating": 9.384,
+    "delta": -0.023,
     "status": "queued"
   },
   {
@@ -49,9 +214,9 @@
     "tier": "S",
     "source_bucket": 10,
     "rank_in_tier": 18,
-    "current_rating": 9.333,
-    "target_rating": 9.37,
-    "delta": 0.037,
+    "current_rating": 9.37,
+    "target_rating": 9.346,
+    "delta": -0.024,
     "status": "queued"
   },
   {
@@ -60,20 +225,9 @@
     "tier": "S",
     "source_bucket": 10,
     "rank_in_tier": 19,
-    "current_rating": 9.296,
-    "target_rating": 9.333,
-    "delta": 0.037,
-    "status": "queued"
-  },
-  {
-    "bgg_id": 380707,
-    "name": "Vindication: Archive of the Ancients",
-    "tier": "S",
-    "source_bucket": 10,
-    "rank_in_tier": 20,
-    "current_rating": 9.259,
-    "target_rating": 9.296,
-    "delta": 0.037,
+    "current_rating": 9.333,
+    "target_rating": 9.307,
+    "delta": -0.026,
     "status": "queued"
   },
   {
@@ -81,10 +235,10 @@
     "name": "Unsettled",
     "tier": "S",
     "source_bucket": 10,
-    "rank_in_tier": 21,
-    "current_rating": 9.222,
-    "target_rating": 9.259,
-    "delta": 0.037,
+    "rank_in_tier": 20,
+    "current_rating": 9.259,
+    "target_rating": 9.269,
+    "delta": 0.01,
     "status": "queued"
   },
   {
@@ -92,10 +246,10 @@
     "name": "Final Girl",
     "tier": "S",
     "source_bucket": 10,
-    "rank_in_tier": 22,
-    "current_rating": 9.185,
-    "target_rating": 9.222,
-    "delta": 0.037,
+    "rank_in_tier": 21,
+    "current_rating": 9.222,
+    "target_rating": 9.231,
+    "delta": 0.009,
     "status": "queued"
   },
   {
@@ -103,10 +257,10 @@
     "name": "Battlestar Galactica: The Board Game",
     "tier": "S",
     "source_bucket": 10,
-    "rank_in_tier": 23,
-    "current_rating": 9.148,
-    "target_rating": 9.185,
-    "delta": 0.037,
+    "rank_in_tier": 22,
+    "current_rating": 9.185,
+    "target_rating": 9.192,
+    "delta": 0.007,
     "status": "queued"
   },
   {
@@ -114,10 +268,43 @@
     "name": "World Order",
     "tier": "S",
     "source_bucket": 10,
+    "rank_in_tier": 23,
+    "current_rating": 9.148,
+    "target_rating": 9.154,
+    "delta": 0.006,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 270408,
+    "name": "Exodus Chronicles",
+    "tier": "S",
+    "source_bucket": 10,
     "rank_in_tier": 24,
-    "current_rating": 9.518,
-    "target_rating": 9.148,
-    "delta": -0.37,
+    "current_rating": 9.111,
+    "target_rating": 9.115,
+    "delta": 0.004,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 132531,
+    "name": "Roll for the Galaxy",
+    "tier": "S",
+    "source_bucket": 10,
+    "rank_in_tier": 25,
+    "current_rating": 9.074,
+    "target_rating": 9.077,
+    "delta": 0.003,
+    "status": "queued"
+  },
+  {
+    "bgg_id": 329500,
+    "name": "Unconscious Mind",
+    "tier": "S",
+    "source_bucket": 10,
+    "rank_in_tier": 26,
+    "current_rating": 9.037,
+    "target_rating": 9.038,
+    "delta": 0.001,
     "status": "queued"
   }
 ]

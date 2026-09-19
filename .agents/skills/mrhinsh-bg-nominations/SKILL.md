@@ -4,7 +4,7 @@ Rank this week's board game club nominations by how much the operator is likely
 to enjoy each game, to inform their three votes.
 
 The club runs a weekly Google Sheet. Hosts nominate up to 3 games on Tuesday;
-attendees rank their top 3 on Wednesday. Sheet details live in `config.json`.
+attendees rank their top 3 on Wednesday. Sheet details live in `systems/prediction/club-nominations/config.json`.
 
 **The scoring model is provisional and has not been agreed as the house
 algorithm.** It is a linear regression dominated by the BGG community rating —
@@ -16,7 +16,7 @@ output as a starting point for the operator's judgment, never as a verdict.
 Step 1 needs the Google Drive connector and so cannot run from PowerShell.
 
 1. Read the sheet with the Drive connector, using `driveFileId` from
-   `config.json`. It returns the whole workbook as markdown tables; the tab that
+   `systems/prediction/club-nominations/config.json`. It returns the whole workbook as markdown tables; the tab that
    matters is `Sign Up Here`. The payload is large — save it to a file rather
    than pulling it into context:
 
@@ -59,7 +59,11 @@ Written to `data/reports/nominations/`, prefixed with the run date:
 
 Caches under `data/working/nominations/`:
 
-- `designer-index.json` — bgg_id -> designers, rebuilt every 30 days.
+- `designer-index.json` — bgg_id -> designers for all played games and rated
+  model-training games. Missing IDs are fetched incrementally; a full rebuild
+  occurs after 30 days or with `-RefreshDesignerIndex`. Empty lists record
+  games for which BGG has no designer credit. Incremental additions preserve
+  the file modification time used to schedule the full refresh.
 - `name-cache.json` — sheet text -> bgg_id, consulted **before** searching.
 
 BGG's search throttles unpredictably and silently: the same name can resolve on
@@ -197,4 +201,8 @@ Never present the ranking as an answer. It is input to the operator's judgment.
 - Name resolution is fuzzy and regularly wrong in two ways: same-name titles
   from the 1960s-70s, and near-empty stub entries. `Resolve-Nominations.ps1`
   warns when a match has `year < 1990` or `num_ratings < 300`; pin corrections
-  in `name-overrides.json`.
+  in `systems/prediction/club-nominations/name-overrides.json`.
+
+## System ownership
+
+Implementation: `systems\prediction\club-nominations/`. See `.agents/context/system-map.md`.

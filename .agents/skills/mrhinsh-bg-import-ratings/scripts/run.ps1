@@ -5,12 +5,5 @@ param(
     [string]$PlayedPath = '.\data\working\canonical\games.json'
 )
 
-Set-StrictMode -Version Latest
-$ErrorActionPreference = 'Stop'
-
-$importScript = Join-Path $PSScriptRoot 'Import-BggRatingSheet.ps1'
-if (-not (Test-Path $importScript)) {
-    throw "Missing script: $importScript"
-}
-
-& $importScript -SheetPath $SheetPath -UnratedPath $UnratedPath -PlayedPath $PlayedPath
+# Compatibility entrypoint; implementation belongs to a system.
+& (Join-Path $PSScriptRoot '../../../../systems/tiers/rating-intake/run.ps1') @PSBoundParameters

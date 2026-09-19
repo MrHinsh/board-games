@@ -31,7 +31,7 @@ foreach ($file in $protectedFiles) {
 }
 
 # Prune oldest checkpoints beyond the retention count
-$all = Get-ChildItem -Path $checkpointRoot -Directory | Sort-Object Name -Descending
+$all = @(Get-ChildItem -Path $checkpointRoot -Directory | Sort-Object Name -Descending)
 if ($all.Count -gt $Keep) {
     $all | Select-Object -Skip $Keep | Remove-Item -Recurse -Force -Confirm:$false
 }

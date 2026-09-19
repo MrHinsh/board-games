@@ -9,8 +9,5 @@ param(
 	[switch]$QueueOnly
 )
 
-Set-StrictMode -Version Latest
-$ErrorActionPreference = 'Stop'
-
-$scriptPath = Join-Path $PSScriptRoot 'Rebalance-BggTierRanks.ps1'
-& $scriptPath -MembershipPath $MembershipPath -CanonicalPath $CanonicalPath -EquivalentGamesPath $EquivalentGamesPath -RankOrderPath $RankOrderPath -PendingRatingUpdatesPath $PendingRatingUpdatesPath -ImportPath $ImportPath -QueueOnly:$QueueOnly
+# Compatibility entrypoint; implementation belongs to a system.
+& (Join-Path $PSScriptRoot '../../../../systems/ranking/rebalance/run.ps1') @PSBoundParameters

@@ -9,27 +9,5 @@ param(
 	[string]$Notes = ''
 )
 
-Set-StrictMode -Version Latest
-$ErrorActionPreference = 'Stop'
-
-$scriptPath = Join-Path $PSScriptRoot 'Apply-BggTierMoves.ps1'
-$invokeArgs = @{
-	MembershipPath = $MembershipPath
-	QueuePath = $QueuePath
-}
-
-if ($ImportPath) {
-	$invokeArgs.ImportPath = $ImportPath
-}
-
-if ($GameId -gt 0) {
-	$invokeArgs.GameId = $GameId
-}
-
-if (-not [string]::IsNullOrWhiteSpace($Tier)) {
-	$invokeArgs.Tier = $Tier
-	$invokeArgs.SourceBucket = $SourceBucket
-	$invokeArgs.Notes = $Notes
-}
-
-& $scriptPath @invokeArgs
+# Compatibility entrypoint; implementation belongs to a system.
+& (Join-Path $PSScriptRoot '../../../../systems/tiers/moves/run.ps1') @PSBoundParameters

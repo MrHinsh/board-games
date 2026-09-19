@@ -45,3 +45,7 @@ links — the MCP `bgg-details` tool does not expose them).
 - BGG throttles: honour `-RequestDelayMs`, retry on 202/429, back off on repeat.
 - Cache is authoritative when younger than `-CacheMaxAgeDays`. Delete the cache
   file to force a refresh for one game.
+
+## System ownership
+
+Implementation: `systems\what-am-i-missing\expansions/`. See `.agents/context/system-map.md`.

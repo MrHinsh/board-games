@@ -10,8 +10,7 @@ The machinery's job is faithful transport, bookkeeping, and conversion math. Age
 scripts never propose, infer, or reorder ratings
 (guardrail: [.agents/guardrails/global-rules.md](.agents/guardrails/global-rules.md)).
 
-The repo is operated by AI agents (start at [AGENTS.md](AGENTS.md)) or by hand. Everything
-deterministic is a PowerShell script under `.agents/skills/`.
+The repo is operated by AI agents (start at [AGENTS.md](AGENTS.md)) or by hand. Implementations live under `systems/`; agent skills are compatibility entrypoints.
 
 ## How it works
 
@@ -27,11 +26,17 @@ flowchart LR
     QUEUE -->|push, validated + dry-run| BGG
 ```
 
-Two orchestration commands wrap the whole thing:
+Pull belongs to BGG Integration; Rebuild is a cross-system workflow. See the [system map](.agents/context/system-map.md).
 
 ```powershell
-# PULL - read side: fetch from BGG, reconcile, rebuild every derived artifact
+# PULL - fetch from BGG and reconcile (BGG Integration only)
 ./.agents/skills/mrhinsh-bg-pull/scripts/run.ps1 -Username 'MrHinsh' -ApiKey $env:BGG_API_KEY
+
+# REBUILD - local cross-system workflow
+./workflows/Rebuild-BoardGames.ps1
+
+# REFRESH - convenience: Pull then Rebuild
+./workflows/Refresh-BoardGames.ps1 -Username MrHinsh -ApiKey $env:BGG_API_KEY
 
 # PUSH - write side: sync the pending rating queue to BGG (always dry-run first)
 ./.agents/skills/mrhinsh-bg-push/scripts/run.ps1 -Username 'MrHinsh' -WhatIf
@@ -44,7 +49,7 @@ Pull requires the MCP server running at `http://localhost:8080/mcp`
 Between pull and push sit the two **human loops** (step-by-step sequences in the
 [ops runbook](.agents/context/ops-runbook.md)):
 
-1. **Rating intake** — pull generates `data/publish/sheets/bgg-rating-upload-sheet.csv`
+1. **Rating intake** — rebuild generates `data/publish/sheets/bgg-rating-upload-sheet.csv`
    with context columns (plays, year, players, complexity, community rating); I fill
    `new_rating` (1–10) and optional `notes`, then import it back into canonical.
 2. **Tier and order** — ratings map to tiers (S=10, A=9, B=8, C=7, D=6, F=1–5, U=unrated,
@@ -96,7 +101,7 @@ In Claude Code, `/mrhinsh-bg-status` runs this and narrates it.
 | Slash command | What it does |
 | --- | --- |
 | `/mrhinsh-bg-status` | Brief me on pipeline state — counts, queue, anomalies, freshness |
-| `/mrhinsh-bg-pull` | Full read-side rebuild from BGG |
+| `/mrhinsh-bg-pull` | Fetch BGG data and reconcile; use Refresh for a full rebuild |
 | `/mrhinsh-bg-push` | Sync pending ratings to BGG (dry-run first) |
 | `/mrhinsh-bg-import-ratings` | Apply my edited rating sheet to canonical data |
 | `/mrhinsh-bg-audit` | Check live BGG collection for duplicate copies with diverged ratings |
@@ -128,7 +133,9 @@ scripts by hand.
 
 | Path | Contents |
 | --- | --- |
-| `.agents/skills/` | Skill scripts and per-skill docs (`SKILL.md`) |
+| `systems/` | The five systems: implementation, documentation, contracts and tests |
+| `workflows/` | Cross-system Rebuild and Refresh composition |
+| `.agents/skills/` | Operator instructions and compatibility entrypoints |
 | `.agents/context/` | Runbook, data contracts, rating/tier specs, system map |
 | `.agents/guardrails/` | Non-negotiable agent policy (secrets, data flow, judgment integrity) |
 | `.claude/skills/` | Claude Code slash-command shims |

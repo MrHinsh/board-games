@@ -7,7 +7,6 @@ import (
 	"strconv"
 
 	"github.com/kkjdaniel/gogeek/v2"
-	"github.com/kkjdaniel/gogeek/v2/thing"
 	"github.com/mark3labs/mcp-go/mcp"
 	"github.com/mark3labs/mcp-go/server"
 )
@@ -38,11 +37,11 @@ func DetailsTool(client *gogeek.Client) (mcp.Tool, server.ToolHandlerFunc) {
 			if !ok {
 				return mcp.NewToolResultText("Invalid IDs format - must be an array"), nil
 			}
-			
+
 			if len(idsArray) > 20 {
 				return mcp.NewToolResultText("Too many IDs provided. Maximum 20 IDs per request."), nil
 			}
-			
+
 			for _, idVal := range idsArray {
 				var gameID int
 				switch v := idVal.(type) {
@@ -83,7 +82,7 @@ func DetailsTool(client *gogeek.Client) (mcp.Tool, server.ToolHandlerFunc) {
 			return mcp.NewToolResultText("Either 'name', 'id', or 'ids' parameter must be provided"), nil
 		}
 
-		things, err := thing.Query(client, gameIDs)
+		things, err := queryDirectionalThings(client, gameIDs)
 		if err != nil {
 			return mcp.NewToolResultText(err.Error()), nil
 		}
@@ -93,10 +92,10 @@ func DetailsTool(client *gogeek.Client) (mcp.Tool, server.ToolHandlerFunc) {
 			var err error
 
 			if len(gameIDs) == 1 {
-				essentialInfo := extractEssentialInfo(things.Items[0])
+				essentialInfo := extractDirectionalEssentialInfo(things.Items[0])
 				out, err = json.Marshal(essentialInfo)
 			} else {
-				essentialInfo := extractEssentialInfoList(things.Items)
+				essentialInfo := extractDirectionalEssentialInfoList(things.Items)
 				out, err = json.Marshal(essentialInfo)
 			}
 

@@ -13,8 +13,5 @@ param(
 	[string]$NormalizedRankingImportPath = '.\data\working\ranking\external-ordering.json'
 )
 
-Set-StrictMode -Version Latest
-$ErrorActionPreference = 'Stop'
-
-$scriptPath = Join-Path $PSScriptRoot 'Normalize-BggExternalRankingData.ps1'
-& $scriptPath -MembershipPath $MembershipPath -CanonicalPath $CanonicalPath -UnratedRankedPath $UnratedRankedPath -TierExportDir $TierExportDir -RankingExportDir $RankingExportDir -TierImportPath $TierImportPath -RankingImportDir $RankingImportDir -PubMeepleInputDir $PubMeepleInputDir -PubMeepleOutputDir $PubMeepleOutputDir -PendingTierMovesPath $PendingTierMovesPath -NormalizedRankingImportPath $NormalizedRankingImportPath
+# Compatibility entrypoint; implementation belongs to a system.
+& (Join-Path $PSScriptRoot '../../../../systems/ranking/external-ordering/run.ps1') @PSBoundParameters

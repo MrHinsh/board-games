@@ -59,14 +59,13 @@ Only needed for the write side.
   ` [System.Environment]::GetEnvironmentVariable('BGG_USERNAME','User') `
 
 ## Main Commands
-- Pull local state and rebuild artifacts:
-  `./.agents/skills/mrhinsh-bg-pull/scripts/run.ps1 -Username 'mrhinsh' -Endpoint 'http://localhost:8080/mcp' -ApiKey $env:BGG_API_KEY`
+- Pull and rebuild through the Refresh workflow:
+  `./workflows/Refresh-BoardGames.ps1 -Username 'mrhinsh' -Endpoint 'http://localhost:8080/mcp' -ApiKey $env:BGG_API_KEY`
 - Push pending ratings to BGG:
   `./.agents/skills/mrhinsh-bg-push/scripts/run.ps1 -Username 'mrhinsh'`
 
 ## Fetch + Reconcile (under pull)
-The pull command wraps the existing fetch and reconcile pattern before continuing into rank,
-report, and publish rebuild steps.
+Pull now wraps fetch and reconcile only. Refresh composes Pull and the separate local Rebuild workflow.
 
 Equivalent lower-level example:
 `$snapshot = ./.agents/skills/mrhinsh-bg-pull-fetch/scripts/run.ps1 -Username 'mrhinsh' -Endpoint 'http://localhost:8080/mcp' -ApiKey $env:BGG_API_KEY`
@@ -115,7 +114,7 @@ These lower-level steps remain available, but the preferred operator surface is 
 ## Recovering Canonical Data
 Every mutating script (reconcile, imports, rebalance) writes a checkpoint of
 `games.json`, `equivalent-games.json`, and `intake-ranked.json` to
-`data/state/checkpoints/<timestamp>-<reason>/` first (last 20 kept, gitignored).
+`data/state/checkpoints/<timestamp>-<reason>/` first (last 20 kept, gitignored). Retention handles a fresh directory with a single checkpoint under strict PowerShell mode.
 To recover from a bad mutation, copy the files back from the newest good checkpoint,
 or use `git restore` if the last good state was committed.
 
@@ -134,3 +133,9 @@ or use `git restore` if the last good state was committed.
 - Environment variable updated but process still fails:
   Restart the long-lived process. `Login-Bgg.ps1` writes `BGG_COOKIE` at User scope, which existing
   shells do not inherit.
+
+## System boundaries
+
+Pull: `./systems/bgg-integration/pull/run.ps1 -Username MrHinsh`.
+Local rebuild: `./workflows/Rebuild-BoardGames.ps1`.
+See `system-map.md` for current boundaries and remaining state-ownership work.

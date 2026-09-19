@@ -1,6 +1,6 @@
 ---
 name: mrhinsh-bg-pull
-description: Pull BGG collection data, reconcile into canonical dataset, and rebuild all local ranking/report/publish artifacts. Requires the local bgg-mcp server running. Use for "refresh my board game data" or as the read-side step before rating/tier work.
+description: Pull BGG collection data and reconcile into the canonical dataset. Rebuild is a separate cross-system workflow. Requires the local bgg-mcp server running. Use for "refresh my board game data" or as the read-side step before rating/tier work.
 ---
 
 Run the orchestrator and report its summary object. Do not step through sub-skills manually
@@ -13,5 +13,5 @@ unless a step fails.
 If the MCP server is not running, start it first:
 `./.agents/skills/mrhinsh-bg-pull-fetch/scripts/Start-BggMcpServer.ps1`
 
-On failure, read `.agents/skills/mrhinsh-bg-pull/SKILL.md` for the per-step recovery order.
+For a complete refresh, use `./workflows/Refresh-BoardGames.ps1 -Username MrHinsh`. For local rebuilding use `./workflows/Rebuild-BoardGames.ps1`. Pull stops on a fetch or reconcile failure.
 Never read `data/**` JSON/CSV wholesale into context — query with scripts or filters.

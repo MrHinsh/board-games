@@ -7,7 +7,7 @@
     "num_plays": 0,
     "players": "1",
     "complexity": 3.4074,
-    "bgg_rating": 8.07891,
+    "bgg_rating": 8.07628,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -56,8 +56,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1",
-    "complexity": 2.8736,
-    "bgg_rating": 8.06804,
+    "complexity": 2.8701,
+    "bgg_rating": 8.0664,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -82,7 +82,7 @@
     "num_plays": 0,
     "players": "1",
     "complexity": 2.2222,
-    "bgg_rating": 7.61711,
+    "bgg_rating": 7.62316,
     "bgg_comment": "⏩",
     "notes": "",
     "categories": [
@@ -132,8 +132,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-2",
-    "complexity": 1.9444,
-    "bgg_rating": 7.48731,
+    "complexity": 1.9453,
+    "bgg_rating": 7.48644,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -218,7 +218,7 @@
     "num_plays": 0,
     "players": "1",
     "complexity": 2.6,
-    "bgg_rating": 7.24165,
+    "bgg_rating": 7.24657,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -239,7 +239,7 @@
     "num_plays": 0,
     "players": "1-2",
     "complexity": 2.6875,
-    "bgg_rating": 7.45926,
+    "bgg_rating": 7.45505,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -261,8 +261,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-2",
-    "complexity": 4.0615,
-    "bgg_rating": 8.67404,
+    "complexity": 4.0657,
+    "bgg_rating": 8.67771,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -288,8 +288,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.1057,
-    "bgg_rating": 7.53507,
+    "complexity": 3.096,
+    "bgg_rating": 7.53293,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -316,8 +316,8 @@
     "current_rating": 0.0,
     "num_plays": 1,
     "players": "1-4",
-    "complexity": 1.431,
-    "bgg_rating": 7.11578,
+    "complexity": 1.4333,
+    "bgg_rating": 7.1082,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -361,7 +361,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 3.25,
-    "bgg_rating": 7.01352,
+    "bgg_rating": 7.02107,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -381,7 +381,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 3.2623,
-    "bgg_rating": 7.86327,
+    "bgg_rating": 7.86876,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -407,8 +407,8 @@
     "current_rating": 0.0,
     "num_plays": 1,
     "players": "1-4",
-    "complexity": 2,
-    "bgg_rating": 7.17255,
+    "complexity": 1.9286,
+    "bgg_rating": 7.16683,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -441,7 +441,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 4.0905,
-    "bgg_rating": 7.46354,
+    "bgg_rating": 7.46152,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -486,7 +486,7 @@
     "num_plays": 1,
     "players": "1-4",
     "complexity": 3.1282,
-    "bgg_rating": 7.25059,
+    "bgg_rating": 7.24271,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -510,7 +510,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 3.5865,
-    "bgg_rating": 7.82548,
+    "bgg_rating": 7.82602,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -540,7 +540,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 4,
-    "bgg_rating": 7.47557,
+    "bgg_rating": 7.47553,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -565,7 +565,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 3.8482,
-    "bgg_rating": 8.12775,
+    "bgg_rating": 8.12476,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -591,7 +591,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 4.1594,
-    "bgg_rating": 6.34358,
+    "bgg_rating": 6.34452,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -620,7 +620,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 3.5333,
-    "bgg_rating": 7.65247,
+    "bgg_rating": 7.63525,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -649,8 +649,8 @@
     "current_rating": 0.0,
     "num_plays": 1,
     "players": "1-4",
-    "complexity": 2.2137,
-    "bgg_rating": 7.22254,
+    "complexity": 2.2151,
+    "bgg_rating": 7.21642,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -677,7 +677,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 3.0082,
-    "bgg_rating": 7.1181,
+    "bgg_rating": 7.11917,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -704,7 +704,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 3.436,
-    "bgg_rating": 7.46335,
+    "bgg_rating": 7.46359,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -735,7 +735,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 1.8636,
-    "bgg_rating": 6.82439,
+    "bgg_rating": 6.82966,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -755,7 +755,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 1.95,
-    "bgg_rating": 6.00326,
+    "bgg_rating": 6.00431,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -778,8 +778,8 @@
     "current_rating": 0.0,
     "num_plays": 1,
     "players": "1-4",
-    "complexity": 3.599,
-    "bgg_rating": 8.50415,
+    "complexity": 3.601,
+    "bgg_rating": 8.50447,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -805,8 +805,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 4.1948,
-    "bgg_rating": 8.10988,
+    "complexity": 4.1916,
+    "bgg_rating": 8.11031,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -835,7 +835,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 3.3366,
-    "bgg_rating": 7.01025,
+    "bgg_rating": 7.01001,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -858,8 +858,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.6159,
-    "bgg_rating": 7.94502,
+    "complexity": 3.6099,
+    "bgg_rating": 7.94285,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -884,7 +884,7 @@
     "num_plays": 1,
     "players": "1-4",
     "complexity": 1.5,
-    "bgg_rating": 6.48072,
+    "bgg_rating": 6.50038,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -906,8 +906,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 2.5368,
-    "bgg_rating": 6.86475,
+    "complexity": 2.5258,
+    "bgg_rating": 6.86587,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -927,8 +927,8 @@
     "current_rating": 0.0,
     "num_plays": 2,
     "players": "1-4",
-    "complexity": 4.125,
-    "bgg_rating": 7.90041,
+    "complexity": 4.1558,
+    "bgg_rating": 7.91275,
     "bgg_comment": "",
     "notes": "",
     "categories": "Science Fiction",
@@ -946,8 +946,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.7143,
-    "bgg_rating": 7.42483,
+    "complexity": 3.7273,
+    "bgg_rating": 7.43098,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -975,8 +975,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.932,
-    "bgg_rating": 8.01154,
+    "complexity": 3.9328,
+    "bgg_rating": 8.01306,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1000,8 +1000,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.8966,
-    "bgg_rating": 7.90589,
+    "complexity": 3.8914,
+    "bgg_rating": 7.90674,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1060,7 +1060,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 2.7273,
-    "bgg_rating": 7.06145,
+    "bgg_rating": 7.05921,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1086,7 +1086,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 2.2069,
-    "bgg_rating": 7.01723,
+    "bgg_rating": 7.01115,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1113,7 +1113,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 3.3687,
-    "bgg_rating": 7.72441,
+    "bgg_rating": 7.72403,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1147,7 +1147,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 2.977,
-    "bgg_rating": 7.6549,
+    "bgg_rating": 7.65483,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1171,7 +1171,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 2.9286,
-    "bgg_rating": 7.9866,
+    "bgg_rating": 7.98666,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1205,7 +1205,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 3.8462,
-    "bgg_rating": 7.60494,
+    "bgg_rating": 7.59657,
     "bgg_comment": "",
     "notes": "",
     "categories": "Space Exploration",
@@ -1222,8 +1222,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.9323,
-    "bgg_rating": 7.23782,
+    "complexity": 3.9259,
+    "bgg_rating": 7.23614,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1248,8 +1248,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.3148,
-    "bgg_rating": 8.61696,
+    "complexity": 3.3091,
+    "bgg_rating": 8.61503,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1282,7 +1282,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 3.372,
-    "bgg_rating": 8.02405,
+    "bgg_rating": 8.02212,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1347,7 +1347,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 4.0513,
-    "bgg_rating": 7.87468,
+    "bgg_rating": 7.86723,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1372,7 +1372,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 2.5825,
-    "bgg_rating": 7.30893,
+    "bgg_rating": 7.30908,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1395,8 +1395,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.069,
-    "bgg_rating": 7.97685,
+    "complexity": 3.0718,
+    "bgg_rating": 7.9763,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1431,7 +1431,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 3.6667,
-    "bgg_rating": 5.68723,
+    "bgg_rating": 5.71458,
     "bgg_comment": "",
     "notes": "",
     "categories": "Civilization",
@@ -1445,41 +1445,13 @@
   },
   {
     "group_key": "1-4",
-    "bgg_id": 447746,
-    "name": "Tianxia",
-    "current_rating": 0.0,
-    "num_plays": 0,
-    "players": "1-4",
-    "complexity": 3.4667,
-    "bgg_rating": 7.50111,
-    "bgg_comment": "",
-    "notes": "",
-    "categories": [
-      "Ancient",
-      "Economic"
-    ],
-    "mechanics": [
-      "Contracts",
-      "End Game Bonuses",
-      "Income",
-      "Multi-Use Cards",
-      "Set Collection",
-      "Solo / Solitaire Game",
-      "Turn Order: Pass Order",
-      "Variable Player Powers",
-      "Variable Set-up",
-      "Worker Placement"
-    ]
-  },
-  {
-    "group_key": "1-4",
     "bgg_id": 331787,
     "name": "Tiny Epic Dungeons",
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
     "complexity": 3.1131,
-    "bgg_rating": 7.43485,
+    "bgg_rating": 7.43346,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1508,7 +1480,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 2.7692,
-    "bgg_rating": 7.25468,
+    "bgg_rating": 7.25207,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1533,7 +1505,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 4.186,
-    "bgg_rating": 7.54157,
+    "bgg_rating": 7.5409,
     "bgg_comment": "",
     "notes": "",
     "categories": "Dice",
@@ -1555,7 +1527,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 2.8,
-    "bgg_rating": 7.68068,
+    "bgg_rating": 7.68198,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1580,7 +1552,7 @@
     "num_plays": 1,
     "players": "1-4",
     "complexity": 3,
-    "bgg_rating": 7.76046,
+    "bgg_rating": 7.74003,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1601,8 +1573,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-4",
-    "complexity": 3.4579,
-    "bgg_rating": 7.79029,
+    "complexity": 3.4612,
+    "bgg_rating": 7.78954,
     "bgg_comment": "",
     "notes": "",
     "categories": "Medieval",
@@ -1627,7 +1599,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 3.8071,
-    "bgg_rating": 7.76392,
+    "bgg_rating": 7.76262,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1658,7 +1630,7 @@
     "num_plays": 0,
     "players": "1-4",
     "complexity": 3,
-    "bgg_rating": 7.13133,
+    "bgg_rating": 7.13521,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1682,7 +1654,7 @@
     "num_plays": 0,
     "players": "1-5",
     "complexity": 2.55,
-    "bgg_rating": 7.24332,
+    "bgg_rating": 7.2431,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1704,7 +1676,7 @@
     "num_plays": 0,
     "players": "1-5",
     "complexity": 2.9355,
-    "bgg_rating": 7.53687,
+    "bgg_rating": 7.53627,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1729,8 +1701,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-5",
-    "complexity": 2.5156,
-    "bgg_rating": 7.36789,
+    "complexity": 2.5231,
+    "bgg_rating": 7.36898,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1754,7 +1726,7 @@
     "num_plays": 0,
     "players": "1-5",
     "complexity": 3.6824,
-    "bgg_rating": 7.47502,
+    "bgg_rating": 7.47499,
     "bgg_comment": "",
     "notes": "",
     "categories": "Adventure",
@@ -1777,7 +1749,7 @@
     "num_plays": 0,
     "players": "1-5",
     "complexity": 2.2297,
-    "bgg_rating": 7.40015,
+    "bgg_rating": 7.40102,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1810,8 +1782,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "1-5",
-    "complexity": 4.8184,
-    "bgg_rating": 8.3358,
+    "complexity": 4.8171,
+    "bgg_rating": 8.33876,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1842,14 +1814,15 @@
     "current_rating": 0.0,
     "num_plays": 1,
     "players": "1-5",
-    "complexity": 3.3178,
-    "bgg_rating": 7.43044,
+    "complexity": 3.3179,
+    "bgg_rating": 7.42869,
     "bgg_comment": "",
     "notes": "",
     "categories": [
       "Age of Reason",
       "American West",
-      "Exploration"
+      "Exploration",
+      "Travel"
     ],
     "mechanics": [
       "Action Retrieval",
@@ -1873,7 +1846,7 @@
     "num_plays": 1,
     "players": "1-5",
     "complexity": 3.7794,
-    "bgg_rating": 8.66904,
+    "bgg_rating": 8.66293,
     "bgg_comment": "April 2025",
     "notes": "",
     "categories": [
@@ -1902,8 +1875,8 @@
     "current_rating": 0.0,
     "num_plays": 1,
     "players": "1-5",
-    "complexity": 2.8477,
-    "bgg_rating": 7.63306,
+    "complexity": 2.875,
+    "bgg_rating": 7.63361,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1924,7 +1897,7 @@
     "num_plays": 0,
     "players": "1-5",
     "complexity": 2.1481,
-    "bgg_rating": 7.2418,
+    "bgg_rating": 7.23216,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1969,7 +1942,7 @@
     "num_plays": 0,
     "players": "1-6",
     "complexity": 3,
-    "bgg_rating": 7.70167,
+    "bgg_rating": 7.79265,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -1999,7 +1972,7 @@
     "num_plays": 0,
     "players": "1-6",
     "complexity": 3.7857,
-    "bgg_rating": 7.16075,
+    "bgg_rating": 7.12116,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2031,7 +2004,7 @@
     "num_plays": 1,
     "players": "1-6",
     "complexity": 1.7407,
-    "bgg_rating": 7.09688,
+    "bgg_rating": 7.09202,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2055,7 +2028,7 @@
     "num_plays": 0,
     "players": "1-6",
     "complexity": 2.4638,
-    "bgg_rating": 7.92917,
+    "bgg_rating": 7.92688,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2082,8 +2055,8 @@
     "current_rating": 0.0,
     "num_plays": 3,
     "players": "1-6",
-    "complexity": 2.2,
-    "bgg_rating": 7.10803,
+    "complexity": 2.1972,
+    "bgg_rating": 7.09835,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2111,7 +2084,7 @@
     "num_plays": 0,
     "players": "1-6",
     "complexity": 2.6222,
-    "bgg_rating": 7.30293,
+    "bgg_rating": 7.30369,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2139,7 +2112,7 @@
     "num_plays": 2,
     "players": "1-6",
     "complexity": 2.3556,
-    "bgg_rating": 7.02327,
+    "bgg_rating": 7.01646,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2160,7 +2133,7 @@
     "num_plays": 0,
     "players": "1-6",
     "complexity": 2.4578,
-    "bgg_rating": 7.84314,
+    "bgg_rating": 7.84219,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2188,7 +2161,7 @@
     "num_plays": 0,
     "players": "1-7",
     "complexity": 3.9,
-    "bgg_rating": 7.95832,
+    "bgg_rating": 7.96278,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2216,7 +2189,7 @@
     "num_plays": 0,
     "players": "2",
     "complexity": 1.7838,
-    "bgg_rating": 7.71707,
+    "bgg_rating": 7.71671,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2256,7 +2229,7 @@
     "num_plays": 0,
     "players": "2",
     "complexity": 2.5212,
-    "bgg_rating": 7.17331,
+    "bgg_rating": 7.17362,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2278,7 +2251,7 @@
     "num_plays": 0,
     "players": "2",
     "complexity": 1.8277,
-    "bgg_rating": 6.82485,
+    "bgg_rating": 6.82396,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2301,7 +2274,7 @@
     "num_plays": 1,
     "players": "2",
     "complexity": 2.5625,
-    "bgg_rating": 7.26118,
+    "bgg_rating": 7.24351,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2324,7 +2297,7 @@
     "num_plays": 0,
     "players": "2",
     "complexity": 2.7113,
-    "bgg_rating": 7.93778,
+    "bgg_rating": 7.9375,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2349,7 +2322,7 @@
     "num_plays": 0,
     "players": "2",
     "complexity": 3.6037,
-    "bgg_rating": 7.82206,
+    "bgg_rating": 7.82191,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2373,8 +2346,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "2",
-    "complexity": 3.6151,
-    "bgg_rating": 8.22639,
+    "complexity": 3.6149,
+    "bgg_rating": 8.22605,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2406,8 +2379,8 @@
     "current_rating": 0.0,
     "num_plays": 1,
     "players": "2-12",
-    "complexity": 1.306,
-    "bgg_rating": 6.18361,
+    "complexity": 1.3062,
+    "bgg_rating": 6.19323,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2428,8 +2401,8 @@
     "current_rating": 0.0,
     "num_plays": 1,
     "players": "2-4",
-    "complexity": 2.3193,
-    "bgg_rating": 7.32232,
+    "complexity": 2.3201,
+    "bgg_rating": 7.31895,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2481,8 +2454,8 @@
     "current_rating": 0.0,
     "num_plays": 2,
     "players": "2-4",
-    "complexity": 1.4555,
-    "bgg_rating": 6.59767,
+    "complexity": 1.4639,
+    "bgg_rating": 6.59987,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2504,7 +2477,7 @@
     "num_plays": 1,
     "players": "2-4",
     "complexity": 1.5263,
-    "bgg_rating": 6.83725,
+    "bgg_rating": 6.83367,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2527,8 +2500,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "2-4",
-    "complexity": 1.8199,
-    "bgg_rating": 7.07016,
+    "complexity": 1.8203,
+    "bgg_rating": 7.06992,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2555,7 +2528,7 @@
     "num_plays": 1,
     "players": "2-4",
     "complexity": 1.7692,
-    "bgg_rating": 6.56417,
+    "bgg_rating": 6.5601,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2577,7 +2550,7 @@
     "num_plays": 0,
     "players": "2-4",
     "complexity": 2.5532,
-    "bgg_rating": 7.26427,
+    "bgg_rating": 7.26566,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2591,33 +2564,6 @@
       "Network and Route Building",
       "Once-Per-Game Abilities",
       "Track Movement"
-    ]
-  },
-  {
-    "group_key": "2-4",
-    "bgg_id": 402676,
-    "name": "Cities",
-    "current_rating": 0.0,
-    "num_plays": 1,
-    "players": "2-4",
-    "complexity": 1.8849,
-    "bgg_rating": 7.29075,
-    "bgg_comment": "",
-    "notes": "",
-    "categories": [
-      "Abstract Strategy",
-      "City Building"
-    ],
-    "mechanics": [
-      "Closed Drafting",
-      "Contracts",
-      "Open Drafting",
-      "Pattern Building",
-      "Set Collection",
-      "Tile Placement",
-      "Turn Order: Claim Action",
-      "Variable Set-up",
-      "Worker Placement"
     ]
   },
   {
@@ -2651,7 +2597,7 @@
     "num_plays": 0,
     "players": "2-4",
     "complexity": 2.6515,
-    "bgg_rating": 7.41014,
+    "bgg_rating": 7.41206,
     "bgg_comment": "",
     "notes": "",
     "categories": "City Building",
@@ -2698,7 +2644,7 @@
     "num_plays": 0,
     "players": "2-4",
     "complexity": 3.569,
-    "bgg_rating": 7.49454,
+    "bgg_rating": 7.49288,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2727,7 +2673,7 @@
     "num_plays": 0,
     "players": "2-4",
     "complexity": 2.75,
-    "bgg_rating": 7.29342,
+    "bgg_rating": 7.29364,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2747,7 +2693,7 @@
     "num_plays": 0,
     "players": "2-4",
     "complexity": 2.6,
-    "bgg_rating": 6.62602,
+    "bgg_rating": 6.62565,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2771,7 +2717,7 @@
     "num_plays": 2,
     "players": "2-4",
     "complexity": null,
-    "bgg_rating": 7.565,
+    "bgg_rating": 7.3,
     "bgg_comment": "",
     "notes": "",
     "categories": "Bluffing",
@@ -2785,7 +2731,7 @@
     "num_plays": 0,
     "players": "2-4",
     "complexity": 2.1667,
-    "bgg_rating": 5.43015,
+    "bgg_rating": 5.42795,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2807,7 +2753,7 @@
     "num_plays": 0,
     "players": "2-4",
     "complexity": 3.0343,
-    "bgg_rating": 7.25593,
+    "bgg_rating": 7.25523,
     "bgg_comment": "",
     "notes": "",
     "categories": "Science Fiction",
@@ -2829,7 +2775,7 @@
     "num_plays": 1,
     "players": "2-4",
     "complexity": 2.4781,
-    "bgg_rating": 7.22526,
+    "bgg_rating": 7.2204,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2853,8 +2799,8 @@
     "current_rating": 0.0,
     "num_plays": 1,
     "players": "2-4",
-    "complexity": 2.6554,
-    "bgg_rating": 7.61207,
+    "complexity": 2.6566,
+    "bgg_rating": 7.60498,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2880,8 +2826,8 @@
     "current_rating": 0.0,
     "num_plays": 2,
     "players": "2-4",
-    "complexity": 2.7847,
-    "bgg_rating": 7.33302,
+    "complexity": 2.7845,
+    "bgg_rating": 7.33016,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2938,7 +2884,7 @@
     "num_plays": 1,
     "players": "2-4",
     "complexity": 1.2,
-    "bgg_rating": 5.80875,
+    "bgg_rating": 5.81836,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -2955,7 +2901,7 @@
     "num_plays": 1,
     "players": "2-4",
     "complexity": 2.9,
-    "bgg_rating": 6.93673,
+    "bgg_rating": 6.93697,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3011,8 +2957,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "2-5",
-    "complexity": 1.234,
-    "bgg_rating": 6.69109,
+    "complexity": 1.2268,
+    "bgg_rating": 6.69037,
     "bgg_comment": "",
     "notes": "",
     "categories": "Card Game",
@@ -3031,8 +2977,8 @@
     "current_rating": 0.0,
     "num_plays": 1,
     "players": "2-5",
-    "complexity": 2.7959,
-    "bgg_rating": 7.30025,
+    "complexity": 2.8039,
+    "bgg_rating": 7.31661,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3058,8 +3004,8 @@
     "current_rating": 0.0,
     "num_plays": 3,
     "players": "2-5",
-    "complexity": 1.922,
-    "bgg_rating": 7.1307,
+    "complexity": 1.9223,
+    "bgg_rating": 7.13052,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3072,7 +3018,8 @@
       "Kill Steal",
       "Map Addition",
       "Pattern Building",
-      "Square Grid"
+      "Square Grid",
+      "Tile Placement"
     ]
   },
   {
@@ -3082,8 +3029,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "2-5",
-    "complexity": 3.8652,
-    "bgg_rating": 7.88164,
+    "complexity": 3.8667,
+    "bgg_rating": 7.87535,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3109,8 +3056,8 @@
     "current_rating": 0.0,
     "num_plays": 2,
     "players": "2-5",
-    "complexity": 1.2703,
-    "bgg_rating": 6.98123,
+    "complexity": 1.2694,
+    "bgg_rating": 6.98196,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3131,12 +3078,13 @@
     "current_rating": 0.0,
     "num_plays": 3,
     "players": "2-5",
-    "complexity": 1.2423,
-    "bgg_rating": 7.08184,
+    "complexity": 1.2412,
+    "bgg_rating": 7.07944,
     "bgg_comment": "",
     "notes": "",
     "categories": [
       "Animals",
+      "Dice",
       "Prehistoric",
       "Science Fiction"
     ],
@@ -3156,7 +3104,7 @@
     "num_plays": 0,
     "players": "2-5",
     "complexity": 2.0357,
-    "bgg_rating": 6.66229,
+    "bgg_rating": 6.66201,
     "bgg_comment": "",
     "notes": "",
     "categories": "Fantasy",
@@ -3174,7 +3122,7 @@
     "num_plays": 1,
     "players": "2-5",
     "complexity": 2.4762,
-    "bgg_rating": 6.80167,
+    "bgg_rating": 6.78716,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3199,7 +3147,7 @@
     "num_plays": 0,
     "players": "2-5",
     "complexity": 2.2982,
-    "bgg_rating": 6.95677,
+    "bgg_rating": 6.95628,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3236,8 +3184,8 @@
     "current_rating": 0.0,
     "num_plays": 1,
     "players": "2-5",
-    "complexity": 1.9333,
-    "bgg_rating": 6.8823,
+    "complexity": 1.9245,
+    "bgg_rating": 6.87946,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3254,6 +3202,7 @@
       "Melding and Splaying",
       "Pattern Building",
       "Selection Order Bid",
+      "Trick-taking",
       "Variable Set-up"
     ]
   },
@@ -3265,7 +3214,7 @@
     "num_plays": 0,
     "players": "2-5",
     "complexity": 3.1765,
-    "bgg_rating": 7.07587,
+    "bgg_rating": 7.07663,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3292,7 +3241,7 @@
     "num_plays": 0,
     "players": "2-5",
     "complexity": 1.9,
-    "bgg_rating": 7.05871,
+    "bgg_rating": 7.05919,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3313,7 +3262,7 @@
     "num_plays": 1,
     "players": "2-5",
     "complexity": 2.1944,
-    "bgg_rating": 6.43697,
+    "bgg_rating": 6.4345,
     "bgg_comment": "",
     "notes": "",
     "categories": "Industry / Manufacturing",
@@ -3325,13 +3274,36 @@
   },
   {
     "group_key": "2-5",
+    "bgg_id": 358284,
+    "name": "Rome in a Day",
+    "current_rating": 0.0,
+    "num_plays": 1,
+    "players": "2-5",
+    "complexity": 1.7097,
+    "bgg_rating": 6.97832,
+    "bgg_comment": "",
+    "notes": "",
+    "categories": [
+      "Medieval",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Hexagon Grid",
+      "I Cut, You Choose",
+      "Income",
+      "Simultaneous Action Selection",
+      "Tile Placement"
+    ]
+  },
+  {
+    "group_key": "2-5",
     "bgg_id": 162263,
     "name": "Temporum",
     "current_rating": 0.0,
     "num_plays": 1,
     "players": "2-5",
-    "complexity": 2.1538,
-    "bgg_rating": 6.34689,
+    "complexity": 2.1698,
+    "bgg_rating": 6.34682,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3356,7 +3328,7 @@
     "num_plays": 0,
     "players": "2-5",
     "complexity": 2.1061,
-    "bgg_rating": 6.53497,
+    "bgg_rating": 6.5349,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3389,7 +3361,7 @@
     "num_plays": 1,
     "players": "2-6",
     "complexity": 3.3125,
-    "bgg_rating": 7.81119,
+    "bgg_rating": 7.81072,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3413,7 +3385,7 @@
     "num_plays": 1,
     "players": "2-6",
     "complexity": 2.0172,
-    "bgg_rating": 6.08318,
+    "bgg_rating": 6.07574,
     "bgg_comment": "",
     "notes": "",
     "categories": "Abstract Strategy",
@@ -3430,8 +3402,8 @@
     "current_rating": 0.0,
     "num_plays": 1,
     "players": "2-6",
-    "complexity": 2.4288,
-    "bgg_rating": 7.00329,
+    "complexity": 2.4305,
+    "bgg_rating": 6.99914,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3460,7 +3432,7 @@
     "num_plays": 0,
     "players": "2-6",
     "complexity": 1.3333,
-    "bgg_rating": 6.65029,
+    "bgg_rating": 6.65008,
     "bgg_comment": "",
     "notes": "",
     "categories": "Card Game",
@@ -3477,7 +3449,7 @@
     "num_plays": 0,
     "players": "2-6",
     "complexity": 2.6538,
-    "bgg_rating": 6.46327,
+    "bgg_rating": 6.46337,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3502,8 +3474,8 @@
     "current_rating": 0.0,
     "num_plays": 1,
     "players": "2-6",
-    "complexity": 3.3321,
-    "bgg_rating": 7.70963,
+    "complexity": 3.3308,
+    "bgg_rating": 7.7073,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3519,8 +3491,10 @@
       "Auction: Multiple Lot",
       "Constrained Bidding",
       "End Game Bonuses",
+      "Modular Board",
       "Network and Route Building",
       "Ownership",
+      "Pick-up and Deliver",
       "Selection Order Bid",
       "Set Collection",
       "Tile Placement",
@@ -3563,8 +3537,8 @@
     "current_rating": 0.0,
     "num_plays": 1,
     "players": "2-6",
-    "complexity": 1.1762,
-    "bgg_rating": 4.53945,
+    "complexity": 1.1747,
+    "bgg_rating": 4.53843,
     "bgg_comment": "",
     "notes": "",
     "categories": "Children's Game",
@@ -3585,8 +3559,8 @@
     "current_rating": 0.0,
     "num_plays": 1,
     "players": "3-10",
-    "complexity": 1.3173,
-    "bgg_rating": 6.53941,
+    "complexity": 1.3156,
+    "bgg_rating": 6.53748,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3616,7 +3590,7 @@
     "num_plays": 0,
     "players": "3-5",
     "complexity": 2.5605,
-    "bgg_rating": 7.44707,
+    "bgg_rating": 7.44727,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3671,7 +3645,7 @@
     "num_plays": 1,
     "players": "3-6",
     "complexity": 2,
-    "bgg_rating": 6.59616,
+    "bgg_rating": 6.59439,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3692,8 +3666,8 @@
     "current_rating": 0.0,
     "num_plays": 1,
     "players": "3-6",
-    "complexity": 1.8133,
-    "bgg_rating": 6.66129,
+    "complexity": 1.8144,
+    "bgg_rating": 6.6603,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3717,7 +3691,7 @@
     "num_plays": 0,
     "players": "3-6",
     "complexity": 3,
-    "bgg_rating": 6.93888,
+    "bgg_rating": 6.95059,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3745,8 +3719,8 @@
     "current_rating": 0.0,
     "num_plays": 0,
     "players": "3-6",
-    "complexity": 4.3638,
-    "bgg_rating": 8.55946,
+    "complexity": 4.3661,
+    "bgg_rating": 8.55964,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3789,7 +3763,7 @@
     "num_plays": 2,
     "players": "3-8",
     "complexity": 1.7059,
-    "bgg_rating": 6.3771,
+    "bgg_rating": 6.35982,
     "bgg_comment": "",
     "notes": "",
     "categories": "Card Game",
@@ -3805,8 +3779,8 @@
     "current_rating": 0.0,
     "num_plays": 1,
     "players": "3-8",
-    "complexity": 1.8261,
-    "bgg_rating": 7.7665,
+    "complexity": 1.8253,
+    "bgg_rating": 7.7627,
     "bgg_comment": "",
     "notes": "",
     "categories": [
@@ -3829,8 +3803,8 @@
     "current_rating": 0.0,
     "num_plays": 1,
     "players": "3-8",
-    "complexity": 1.1141,
-    "bgg_rating": 6.84764,
+    "complexity": 1.1133,
+    "bgg_rating": 6.84943,
     "bgg_comment": "",
     "notes": "",
     "categories": [

@@ -4,8 +4,5 @@ param(
     [object[]]$PassThruArgs
 )
 
-Set-StrictMode -Version Latest
-$ErrorActionPreference = 'Stop'
-
-$scriptPath = Join-Path $PSScriptRoot 'Set-BggPersonalRating.ps1'
-& $scriptPath @PassThruArgs
+# Compatibility entrypoint; implementation belongs to a system.
+& (Join-Path $PSScriptRoot '../../../../systems/bgg-integration/ratings/run.ps1') @PSBoundParameters

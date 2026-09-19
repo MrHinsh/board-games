@@ -32,7 +32,7 @@ Alternative — if `data/working/unrated/intake-ranked.json` was edited directly
 ## Postconditions
 
 Re-run rank-set and publish-queue afterwards so derived artifacts reflect the new ratings
-(the full `mrhinsh-bg-pull` also does this).
+(or run the local cross-system workflow `./workflows/Rebuild-BoardGames.ps1`).
 
 ## Idempotency
 
@@ -42,3 +42,7 @@ Safe to re-run; importing the same sheet twice applies the same ratings again.
 
 - Missing sheet file: run `New-BggRatingUploadSheet.ps1` first.
 - Rows with empty/non-integer `new_rating` are skipped, not errors.
+
+## System ownership
+
+Implementation: `systems\tiers\rating-intake/`. See `.agents/context/system-map.md`.

@@ -10,6 +10,12 @@ rank-in-tier into a BGG decimal. This document predicts the rating itself.
 Implementation: `.agents/skills/mrhinsh-bg-shared/scripts/BggTasteModel.ps1`.
 Validation harness: `.agents/skills/mrhinsh-bg-nominations/scripts/Measure-TasteModel.ps1`.
 
+The designer index includes every played game, even when it has no personal
+rating, plus the rated games eligible to train the taste model. New played games
+are fetched into the cache on the next nomination scoring run. BGG entries with
+no designer credit remain present with an empty designer list; no designer is
+inferred from a similarly named game.
+
 ## Rule Zero
 
 **Screen ownership against `data/working/canonical/games.json`, never against

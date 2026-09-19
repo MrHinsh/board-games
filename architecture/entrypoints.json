@@ -1,0 +1,170 @@
+[
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-audit/scripts/run.ps1",
+    "Implementation": "systems/bgg-integration/audit/run.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-import-ratings/scripts/Import-BggRatingsFromUnrated.ps1",
+    "Implementation": "systems/tiers/rating-intake/Import-BggRatingsFromUnrated.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-import-ratings/scripts/Import-BggRatingSheet.ps1",
+    "Implementation": "systems/tiers/rating-intake/Import-BggRatingSheet.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-import-ratings/scripts/run.ps1",
+    "Implementation": "systems/tiers/rating-intake/run.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-missing-expansions/scripts/run.ps1",
+    "Implementation": "systems/what-am-i-missing/expansions/run.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-nominations/scripts/Measure-RankStability.ps1",
+    "Implementation": "systems/prediction/club-nominations/Measure-RankStability.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-nominations/scripts/Measure-TasteModel.ps1",
+    "Implementation": "systems/prediction/club-nominations/Measure-TasteModel.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-nominations/scripts/Parse-Nominations.ps1",
+    "Implementation": "systems/prediction/club-nominations/Parse-Nominations.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-nominations/scripts/Resolve-Nominations.ps1",
+    "Implementation": "systems/prediction/club-nominations/Resolve-Nominations.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-nominations/scripts/run.ps1",
+    "Implementation": "systems/prediction/club-nominations/run.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-nominations/scripts/Score-Nominations.ps1",
+    "Implementation": "systems/prediction/club-nominations/Score-Nominations.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-pull-fetch/scripts/Export-BggPlayedGames.ps1",
+    "Implementation": "systems/bgg-integration/collection-fetch/Export-BggPlayedGames.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-pull-fetch/scripts/run.ps1",
+    "Implementation": "systems/bgg-integration/collection-fetch/run.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-pull-fetch/scripts/Start-BggMcpServer.ps1",
+    "Implementation": "systems/bgg-integration/collection-fetch/Start-BggMcpServer.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-pull-fetch/scripts/Update-BggData.ps1",
+    "Implementation": "workflows/Update-BggData.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-pull-normalize/scripts/Import-PubMeepleTierRanking.ps1",
+    "Implementation": "systems/ranking/external-ordering/Import-PubMeepleTierRanking.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-pull-normalize/scripts/Normalize-BggExternalRankingData.ps1",
+    "Implementation": "systems/ranking/external-ordering/Normalize-BggExternalRankingData.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-pull-normalize/scripts/run.ps1",
+    "Implementation": "systems/ranking/external-ordering/run.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-pull-publish-queue/scripts/New-BggRatingUploadSheet.ps1",
+    "Implementation": "systems/tiers/rating-sheet/New-BggRatingUploadSheet.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-pull-publish-queue/scripts/run.ps1",
+    "Implementation": "systems/tiers/rating-sheet/run.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-pull-rank-rebalance/scripts/Rebalance-BggTierRanks.ps1",
+    "Implementation": "systems/ranking/rebalance/Rebalance-BggTierRanks.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-pull-rank-rebalance/scripts/run.ps1",
+    "Implementation": "systems/ranking/rebalance/run.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-pull-rank-set/scripts/Export-BggStackRank.ps1",
+    "Implementation": "systems/ranking/stackrank/Export-BggStackRank.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-pull-rank-set/scripts/run.ps1",
+    "Implementation": "systems/ranking/stackrank/run.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-pull-reconcile/scripts/run.ps1",
+    "Implementation": "systems/bgg-integration/reconcile/run.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-pull-report/scripts/Export-BggTop10.ps1",
+    "Implementation": "systems/ranking/top-report/Export-BggTop10.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-pull-report/scripts/run.ps1",
+    "Implementation": "systems/ranking/top-report/run.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-pull-tier-map/scripts/Map-BggTiers.ps1",
+    "Implementation": "systems/tiers/membership/Map-BggTiers.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-pull-tier-map/scripts/run.ps1",
+    "Implementation": "systems/tiers/membership/run.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-pull-tier-move/scripts/Apply-BggTierMoves.ps1",
+    "Implementation": "systems/tiers/moves/Apply-BggTierMoves.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-pull-tier-move/scripts/run.ps1",
+    "Implementation": "systems/tiers/moves/run.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-pull/scripts/run.ps1",
+    "Implementation": "systems/bgg-integration/pull/run.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-push-play/scripts/Push-BggPlay.ps1",
+    "Implementation": "systems/bgg-integration/plays/Push-BggPlay.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-push-play/scripts/run.ps1",
+    "Implementation": "systems/bgg-integration/plays/run.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-push-rating/scripts/run.ps1",
+    "Implementation": "systems/bgg-integration/ratings/run.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-push-rating/scripts/Set-BggPersonalRating.ps1",
+    "Implementation": "systems/bgg-integration/ratings/Set-BggPersonalRating.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-push-rating/scripts/Sync-BggRatingQueue.ps1",
+    "Implementation": "systems/bgg-integration/ratings/Sync-BggRatingQueue.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-push/scripts/run.ps1",
+    "Implementation": "systems/bgg-integration/push/run.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-shared/scripts/BggTasteModel.ps1",
+    "Implementation": "systems/prediction/model/BggTasteModel.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-shared/scripts/BggTierHelpers.ps1",
+    "Implementation": "systems/ranking/support/BggTierHelpers.ps1"
+  },
+  {
+    "Entrypoint": ".agents/skills/mrhinsh-bg-shared/scripts/Invoke-BggMcp.ps1",
+    "Implementation": "systems/bgg-integration/provider/Invoke-BggMcp.ps1"
+  },
+  {
+    "Entrypoint": "Login-Bgg.ps1",
+    "Implementation": "systems/bgg-integration/auth/Login-Bgg.ps1"
+  }
+]

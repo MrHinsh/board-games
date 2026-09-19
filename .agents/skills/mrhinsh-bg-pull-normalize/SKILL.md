@@ -19,3 +19,7 @@ Example:
 ```powershell
 ./.agents/skills/mrhinsh-bg-pull-normalize/scripts/run.ps1
 ```
+
+## System ownership
+
+Implementation: `systems\ranking\external-ordering/`. See `.agents/context/system-map.md`.

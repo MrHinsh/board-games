@@ -10,40 +10,67 @@ import (
 )
 
 type EssentialGameInfo struct {
-	ID           int      `json:"id"`
-	Name         string   `json:"name"`
-	Description  string   `json:"description"`
-	Year         int      `json:"year"`
-	Complexity   float64  `json:"complexity"`
-	Players      string   `json:"players"`
-	BGGRating    float64  `json:"bgg_rating"`
-	BayesAverage float64  `json:"bayes_average"`
-	PlayTime     string   `json:"play_time"`
-	MinAge       int      `json:"min_age"`
-	Designer     string   `json:"designer"`
-	Publisher    string   `json:"publisher"`
-	Type         string   `json:"type"`
-	Thumbnail    string   `json:"thumbnail"`
-	Image        string   `json:"image"`
-	Categories   []string `json:"categories"`
-	Mechanics    []string `json:"mechanics"`
-	NumRatings   int      `json:"num_ratings"`
-	Owned        int      `json:"owned"`
-	Wishing      int      `json:"wishing"`
-	Trading      int      `json:"trading"`
-	Wanting      int      `json:"wanting"`
+	ID              int      `json:"id"`
+	Name            string   `json:"name"`
+	Description     string   `json:"description"`
+	Year            int      `json:"year"`
+	Complexity      float64  `json:"complexity"`
+	Players         string   `json:"players"`
+	BGGRating       float64  `json:"bgg_rating"`
+	BayesAverage    float64  `json:"bayes_average"`
+	PlayTime        string   `json:"play_time"`
+	MinAge          int      `json:"min_age"`
+	Designer        string   `json:"designer"`
+	Publisher       string   `json:"publisher"`
+	Type            string   `json:"type"`
+	Thumbnail       string   `json:"thumbnail"`
+	Image           string   `json:"image"`
+	Categories      []string `json:"categories"`
+	Mechanics       []string `json:"mechanics"`
+	Reimplements    []int    `json:"reimplements"`
+	ReimplementedBy []int    `json:"reimplemented_by"`
+	NumRatings      int      `json:"num_ratings"`
+	Owned           int      `json:"owned"`
+	Wishing         int      `json:"wishing"`
+	Trading         int      `json:"trading"`
+	Wanting         int      `json:"wanting"`
+}
+
+// DirectionalLink preserves BGG's inbound attribute. The upstream v2 thing.Link
+// type discards it, which makes the two directions of boardgameimplementation
+// indistinguishable.
+type DirectionalLink struct {
+	Type    string `xml:"type,attr"`
+	ID      int    `xml:"id,attr"`
+	Value   string `xml:"value,attr"`
+	Inbound bool   `xml:"inbound,attr"`
+}
+
+func addImplementationLinks(info *EssentialGameInfo, links []DirectionalLink) {
+	for _, link := range links {
+		if link.Type != "boardgameimplementation" || link.ID <= 0 {
+			continue
+		}
+		if link.Inbound {
+			info.Reimplements = append(info.Reimplements, link.ID)
+		} else {
+			info.ReimplementedBy = append(info.ReimplementedBy, link.ID)
+		}
+	}
 }
 
 func extractEssentialInfo(item thing.Item) EssentialGameInfo {
 	info := EssentialGameInfo{
-		ID:          item.ID,
-		Name:        item.Name[0].Value,
-		Year:        item.YearPublished.Value,
-		Description: item.Description,
-		Type:        item.Type,
-		Thumbnail:   item.Thumbnail,
-		Image:       item.Image,
-		MinAge:      item.MinAge.Value,
+		ID:              item.ID,
+		Name:            item.Name[0].Value,
+		Year:            item.YearPublished.Value,
+		Description:     item.Description,
+		Type:            item.Type,
+		Thumbnail:       item.Thumbnail,
+		Image:           item.Image,
+		MinAge:          item.MinAge.Value,
+		Reimplements:    []int{},
+		ReimplementedBy: []int{},
 	}
 
 	if item.Statistics != nil && item.Statistics.AverageWeight.Value > 0 {
@@ -84,7 +111,7 @@ func extractEssentialInfo(item thing.Item) EssentialGameInfo {
 	var publishers []string
 	var categories []string
 	var mechanics []string
-	
+
 	for _, link := range item.Links {
 		switch link.Type {
 		case "boardgamedesigner":
@@ -97,7 +124,7 @@ func extractEssentialInfo(item thing.Item) EssentialGameInfo {
 			mechanics = append(mechanics, link.Value)
 		}
 	}
-	
+
 	if len(designers) > 0 {
 		info.Designer = strings.Join(designers, ", ")
 	}
@@ -133,30 +160,30 @@ func findBestGameMatch(client *gogeek.Client, gameName string) (*search.SearchRe
 			return nil, fmt.Errorf("no games found matching '%s'", gameName)
 		}
 	}
-	
+
 	bestMatch := &searchResults.Items[0]
 	gameNameLower := strings.ToLower(gameName)
-	
+
 	for i := range searchResults.Items {
 		item := &searchResults.Items[i]
 		itemNameLower := strings.ToLower(item.Name.Value)
-		
+
 		if itemNameLower == gameNameLower {
 			return item, nil
 		}
-		
+
 		if bestMatch.Type == "boardgameexpansion" && item.Type == "boardgame" {
 			if strings.Contains(itemNameLower, gameNameLower) || strings.Contains(gameNameLower, itemNameLower) {
 				bestMatch = item
 			}
 		}
-		
+
 		if bestMatch.Type == item.Type {
 			if strings.HasPrefix(itemNameLower, gameNameLower) && !strings.HasPrefix(strings.ToLower(bestMatch.Name.Value), gameNameLower) {
 				bestMatch = item
 			}
 		}
 	}
-	
+
 	return bestMatch, nil
 }

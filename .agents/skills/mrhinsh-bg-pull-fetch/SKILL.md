@@ -2,8 +2,11 @@
 
 Purpose:
 - Call the BGG MCP server to retrieve the user's played collection.
-- Enrich each entry with game details (complexity, players, categories, mechanics) in batches of 20.
+- Enrich each entry with game details (complexity, players, categories, mechanics,
+  `reimplements`, and `reimplemented_by`) in batches of 20.
 - Deduplicate by bgg_id, keeping the entry with the highest play count.
+- When expansions are excluded, supplement BGG's filtered response with owned
+  rows whose returned subtype is `boardgame`, preserving compilation records.
 - Map raw BGG field names to the canonical schema.
 - Write an immutable timestamped JSON snapshot to `data/raw/bgg/collection/<timestamp>.json`.
 - Emit the snapshot path to stdout for downstream skills (e.g. mrhinsh-bg-reconcile).
@@ -15,7 +18,8 @@ Inputs:
 Outputs:
 - `data/raw/bgg/collection/<timestamp>.json` — immutable snapshot in canonical schema:
   `bgg_id`, `name`, `year_published`, `rating`, `num_plays`, `players`, `complexity`,
-  `bgg_rating`, `num_ratings`, `categories`, `mechanics`
+  `bgg_rating`, `num_ratings`, `categories`, `mechanics`, `reimplements`,
+  `reimplemented_by`
 - Stdout: absolute path to the written snapshot file
 
 Preconditions:
@@ -37,3 +41,7 @@ Example:
 $snapshot = & ./.agents/skills/mrhinsh-bg-pull-fetch/scripts/run.ps1 -Username "MrHinsh"
 Write-Host "Snapshot saved to: $snapshot"
 ```
+
+## System ownership
+
+Implementation: `systems/bgg-integration/collection-fetch/`. See `.agents/context/system-map.md`.

@@ -25,3 +25,7 @@ Example:
 ```powershell
 # TODO: add a concrete example
 ```
+
+## System ownership
+
+Implementation: `systems\tiers\rating-sheet/`. See `.agents/context/system-map.md`.

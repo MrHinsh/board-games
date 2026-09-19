@@ -17,31 +17,5 @@ param(
     [switch]$RefreshDesignerIndex
 )
 
-Set-StrictMode -Version Latest
-$ErrorActionPreference = 'Stop'
-
-$stamp = Get-Date -Format 'yyyy-MM-dd'
-if (-not (Test-Path $OutDir)) { New-Item -ItemType Directory -Path $OutDir -Force | Out-Null }
-
-$nominationsPath = Join-Path $OutDir "$stamp-nominations.csv"
-$resolvedPath    = Join-Path $OutDir "$stamp-resolved.csv"
-$scoredPath      = Join-Path $OutDir "$stamp-ranked.csv"
-
-& (Join-Path $PSScriptRoot 'Parse-Nominations.ps1') `
-    -SheetDumpPath $SheetDumpPath -OutPath $nominationsPath
-
-& (Join-Path $PSScriptRoot 'Resolve-Nominations.ps1') `
-    -NominationsPath $nominationsPath -OutPath $resolvedPath -Endpoint $Endpoint
-
-$scoreArgs = @{
-    ResolvedPath = $resolvedPath
-    OutPath      = $scoredPath
-    Endpoint     = $Endpoint
-}
-if ($RefreshDesignerIndex.IsPresent) { $scoreArgs.RefreshDesignerIndex = $true }
-& (Join-Path $PSScriptRoot 'Score-Nominations.ps1') @scoreArgs
-
-Write-Host ''
-Write-Host "Nominations : $nominationsPath"
-Write-Host "Resolved    : $resolvedPath"
-Write-Host "Ranked      : $scoredPath"
+# Compatibility entrypoint; implementation belongs to a system.
+& (Join-Path $PSScriptRoot '../../../../systems/prediction/club-nominations/run.ps1') @PSBoundParameters
