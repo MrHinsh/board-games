@@ -1,8 +1,9 @@
 # Purchase Prediction
 
 Estimates what personal rating a game would earn **before it is owned or played**.
-Used to rank purchase candidates and weekly club nominations. Advisory only — it
-never writes to the canonical dataset, the tier engine, or the publish queue.
+Used to rank purchase candidates, weekly club nominations and conference preview
+lists. Advisory only — it never writes to the canonical dataset, the tier engine,
+or the publish queue.
 
 Distinct from `rating-system.md`, which converts an **already assigned** tier and
 rank-in-tier into a BGG decimal. This document predicts the rating itself.
@@ -106,6 +107,26 @@ both and warns if `full` overtakes `compact`.
 4. Fit with `New-BggTasteModel`; predict with `Get-BggTastePrediction`.
 5. Report the CV RMSE alongside the ranking, and flag anything inside it as a
    tie rather than an ordering.
+
+### Conference previews
+
+Conference previews enter through `systems/prediction/conference-previews/` and
+reuse this procedure. Preview editions collapse to their base BGG id; canonical
+and candidate `reimplements`/`reimplemented_by` links plus the explicit
+equivalent-games index screen replacements and owned editions. Expansions stay visible but do not enter
+the base-game ranking.
+
+The report includes designer, mechanism, theme and type similarity scores. These
+are shrunk averages of the operator's ratings for matching historical features
+and are used as explanatory components in the conference score. They do not
+supersede the measured result that the standalone mechanics/categories model
+underperformed the compact model. Scores without a usable BGG rating and weight,
+or with fewer than ten ratings, are marked `insufficient`; rows without a usable
+compact-model prediction remain in the output but are not ranked. Missing
+explanatory affinities use the operator's mean so the agreed component weights
+do not change between candidates. Prerelease rankings retain the confidence
+label. Ranked games form connected tie groups, separated only by an adjacent
+score gap larger than CV RMSE.
 
 ## Snapshot
 

@@ -10,7 +10,7 @@ agent skills and storage directories are not additional systems.
 | BGG Integration System | Pull (fetch and reconcile), game data provision, collection observations, authentication and publishing to BGG | `systems/bgg-integration/` |
 | Tier System | Tier definitions, membership, rating intake and operator tier changes | `systems/tiers/` |
 | Ranking System | Within-tier order, PubMeeple imports, decimal conversion and ranking reports | `systems/ranking/` |
-| Prediction System | Advisory enjoyment estimates, model evaluation and club nominations | `systems/prediction/` |
+| Prediction System | Advisory enjoyment estimates, model evaluation, club nominations and conference preview ranking | `systems/prediction/` |
 | What Am I Missing System | Discover overlooked games and expansions; currently implements missing expansions | `systems/what-am-i-missing/` |
 
 ## Pull and Rebuild

@@ -7,3 +7,6 @@ tools/bgg-mcp/bgg-mcp.exe
 
 # Canonical-data checkpoints (local safety copies, rebuilt constantly)
 data/state/checkpoints/
+
+# Rebuildable conference source and BGG detail caches
+data/working/conferences/

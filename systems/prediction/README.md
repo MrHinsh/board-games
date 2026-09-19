@@ -1,10 +1,12 @@
 # Prediction System
 
-Owns advisory enjoyment predictions, model evidence and club nomination guidance. Predictions do not become personal ratings.
+Owns advisory enjoyment predictions, model evidence, club nomination guidance and conference-preview ranking. Predictions do not become personal ratings.
 
 ## Implementation
 
-`model/`, `club-nominations/` (including its config and name overrides).
+`model/`, `club-nominations/` (including its config and name overrides), and
+`conference-previews/`. Conference previews are another candidate source for the
+same taste model; they do not maintain a separate preference model.
 
 Existing skill script paths remain compatibility entrypoints. Run commands from
 the repository root; default data paths retain that convention.
