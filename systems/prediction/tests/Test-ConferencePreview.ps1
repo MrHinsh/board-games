@@ -55,6 +55,7 @@ if ((Get-ConferenceRecommendationBand -Score 8.1 -Confidence low -IsExpansion:$f
 if ((Get-ConferenceRecommendationBand -Score 8.1 -Confidence medium -IsExpansion:$false -OwnershipStatus new) -ne 'Must investigate') { throw 'Recommendation band threshold failed.' }
 if ((Get-ConferenceRecommendationBand -Score 9 -Confidence high -IsExpansion:$true -OwnershipStatus new) -ne 'Expansion') { throw 'Expansion exclusion failed.' }
 if ((Get-ConferencePlayTimeLabel -Minimum 90 -Maximum 0) -ne '90 min') { throw 'Incomplete play-time range was not normalized.' }
+if ((Get-ConferencePlayerLabel -Minimum 2 -Maximum 2) -ne '2') { throw 'Fixed player count was not normalized.' }
 
 # Exercise the complete scorer without network access. This guards the rules
 # most likely to regress when new candidate sources or ownership states appear.
@@ -62,10 +63,13 @@ $integration = Join-Path $FixtureRoot 'conference-scoring'
 New-Item -ItemType Directory -Path $integration -Force | Out-Null
 $canonicalRows = [System.Collections.Generic.List[object]]::new()
 foreach ($i in 1..60) {
+    $trainingMechanisms = @('Training mechanism', 'Neutral mechanism')
+    $trainingCategories = @('Training theme')
+    if ($i -eq 7) { $trainingMechanisms += 'Low mechanism'; $trainingCategories += 'Low theme' }
     $canonicalRows.Add([pscustomobject]@{
         bgg_id = $i; name = "Training $i"; rating = 6.0 + (($i % 7) * 0.5)
         complexity = 1.0 + (($i % 4) * 0.75); bgg_rating = 6.5 + (($i % 5) * 0.3)
-        mechanics = @('Training mechanism'); categories = @('Training theme')
+        mechanics = $trainingMechanisms; categories = $trainingCategories
         collection_status = 'Owned'; num_plays = 1; reimplements = @(); reimplemented_by = @()
     })
 }
@@ -90,9 +94,11 @@ $canonicalRows | ConvertTo-Json -Depth 8 | Set-Content $canonicalPath
 '{}' | Set-Content (Join-Path $integration 'designers.json')
 
 $candidateRows = foreach ($id in @(900, 901, 902, 903, 904)) {
+    $candidateMechanisms = $(if ($id -eq 903) { @('Low mechanism') } elseif ($id -eq 900) { @('Neutral mechanism') } else { @('Unknown mechanism') })
+    $candidateCategories = $(if ($id -eq 903) { @('Low theme') } else { @('Unknown theme') })
     [pscustomobject]@{
         bgg_id = $id; name = "Candidate $id"; year_published = 2026; is_expansion = ($id -eq 902)
-        designers = @(); mechanisms = @('Unknown mechanism'); categories = @('Unknown theme')
+        designers = @(); mechanisms = $candidateMechanisms; categories = $candidateCategories
         min_players = 1; max_players = 4; min_play_time = 90; max_play_time = 0
         thumbs = 10; location = ''; preview_id = 999; preview_title = 'Fixture'
     }
@@ -101,8 +107,10 @@ $candidatePath = Join-Path $integration 'candidates.json'
 [ordered]@{ title = 'Fixture'; source_url = 'https://example.invalid'; candidates = @($candidateRows) } |
     ConvertTo-Json -Depth 8 | Set-Content $candidatePath
 $detailRows = foreach ($id in @(900, 901, 902, 903, 904)) {
+    $detailMechanisms = $(if ($id -eq 903) { @('Low mechanism') } elseif ($id -eq 900) { @('Neutral mechanism') } else { @('Unknown mechanism') })
+    $detailCategories = $(if ($id -eq 903) { @('Low theme') } else { @('Unknown theme') })
     [pscustomobject]@{
-        id = $id; designer = ''; mechanics = @('Unknown mechanism'); categories = @('Unknown theme')
+        id = $id; designer = ''; mechanics = $detailMechanisms; categories = $detailCategories
         complexity = $(if ($id -eq 901) { 0 } else { 3.0 }); bgg_rating = $(if ($id -eq 901) { 0 } else { 8.0 })
         num_ratings = 1500; reimplements = @(); reimplemented_by = @()
     }
@@ -129,6 +137,20 @@ if ($known.rank -ne $tiePeer.rank) { throw 'Candidates inside model RMSE did not
 if ($coveredReplacement.ownership -ne 'owned' -or $coveredReplacement.rank -ne '0') { throw 'Exact unowned row bypassed its owned equivalent.' }
 if ($known.play_time -ne '90 min') { throw 'Scorer emitted an invalid play-time range.' }
 if (-not $known.why_you_may_like_it -or -not $known.cautions -or -not $known.type_evidence) { throw 'Per-item explanation fields were not populated.' }
+if ($known.type_evidence -notmatch '\d+ rated games' -or $known.type_evidence -match 'minute profile') { throw 'Type evidence lacks its sample size or claims unsupported duration similarity.' }
+if ($missingPrediction.cautions -notmatch 'no credited designer metadata' -or $missingPrediction.cautions -notmatch 'no direct evidence' ) { throw 'Missing evidence classes were not disclosed.' }
+if ($tiePeer.why_you_may_like_it -match 'Low mechanism|Low theme') { throw 'Negative evidence was presented as a reason to like the game.' }
+if ($tiePeer.cautions -notmatch 'Lower-rated mechanism evidence' -or $tiePeer.cautions -notmatch 'Lower-rated theme evidence') { throw 'Negative evidence was not moved into cautions.' }
+if ($known.why_you_may_like_it -match 'Neutral mechanism' -or $known.cautions -notmatch 'Lower-rated mechanism evidence.*Neutral mechanism') { throw 'Equal-to-mean evidence was not placed in cautions.' }
+$modelExplained = $scored | Where-Object bgg_id -eq '900'
+if ($modelExplained.why_you_may_like_it -notmatch 'science-fiction signal') { throw 'Compact-model explanation omitted the science-fiction input.' }
+$fixtureMean = [double](($canonicalRows | Where-Object { [double]$_.rating -gt 0 } | Measure-Object -Property rating -Average).Average)
+foreach ($row in @($scored | Where-Object { $_.type_evidence })) {
+    $escapedTypeEvidence = [regex]::Escape([string]$row.type_evidence)
+    if ([double]$row.type -le $fixtureMean) {
+        if ($row.why_you_may_like_it -match $escapedTypeEvidence -or $row.cautions -notmatch 'Lower-rated type evidence') { throw 'Below-mean type evidence was presented as positive.' }
+    }
+}
 $reportText = Get-Content $reportPath -Raw
 if ($reportText -notmatch '## Detailed reasons' -or $reportText -notmatch 'Why it may fit') { throw 'Markdown report did not render detailed candidate reasons.' }
 

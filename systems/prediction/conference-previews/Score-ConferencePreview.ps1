@@ -142,8 +142,9 @@ $rows = foreach ($candidate in $candidates) {
     $designerReason = Format-ConferenceEvidence -Evidence $designerEvidence -Take 2 -IncludePlays
     $mechanismReason = Format-ConferenceEvidence -Evidence $mechanismEvidence -Take 3
     $themeReason = Format-ConferenceEvidence -Evidence $themeEvidence -Take 3
+    $typeSampleSize = @($profileGames | Where-Object { [double]$_.complexity -gt 0 }).Count
     $typeReason = $(if ($null -ne $typeScore) {
-        "Weight $([math]::Round([double]$candidateForModel.complexity, 1)) and $($candidateForModel.max_play_time)-minute profile resembles games you rate about $([math]::Round([double]$typeScore, 1))."
+        "Complexity $([math]::Round([double]$candidateForModel.complexity, 1)); a complexity-weighted comparison across $typeSampleSize rated games yields $([math]::Round([double]$typeScore, 1))."
     } else { '' })
 
     # Keep the agreed weights fixed. Missing explanatory affinities are neutral at
@@ -165,12 +166,25 @@ $rows = foreach ($candidate in $candidates) {
     )
     $band = Get-ConferenceRecommendationBand -Score $(if ($null -ne $overall) { $overall } else { 0.0 }) -Confidence $confidence -IsExpansion ([bool]$candidate.is_expansion) -OwnershipStatus $ownership
 
+    $positiveDesignerEvidence = @($designerEvidence | Where-Object { [double]$_.lift -gt 0 })
+    $positiveMechanismEvidence = @($mechanismEvidence | Where-Object { [double]$_.lift -gt 0 })
+    $positiveThemeEvidence = @($themeEvidence | Where-Object { [double]$_.lift -gt 0 })
+    $negativeDesignerEvidence = @($designerEvidence | Where-Object { [double]$_.lift -le 0 } | Sort-Object lift)
+    $negativeMechanismEvidence = @($mechanismEvidence | Where-Object { [double]$_.lift -le 0 } | Sort-Object lift)
+    $negativeThemeEvidence = @($themeEvidence | Where-Object { [double]$_.lift -le 0 } | Sort-Object lift)
+    $positiveDesignerReason = Format-ConferenceEvidence -Evidence $positiveDesignerEvidence -Take 2 -IncludePlays
+    $positiveMechanismReason = Format-ConferenceEvidence -Evidence $positiveMechanismEvidence -Take 3
+    $positiveThemeReason = Format-ConferenceEvidence -Evidence $positiveThemeEvidence -Take 3
+    $negativeDesignerReason = Format-ConferenceEvidence -Evidence $negativeDesignerEvidence -Take 2 -IncludePlays
+    $negativeMechanismReason = Format-ConferenceEvidence -Evidence $negativeMechanismEvidence -Take 2
+    $negativeThemeReason = Format-ConferenceEvidence -Evidence $negativeThemeEvidence -Take 2
+    $sciFiSignal = ((@($categories) -join ' ') -match 'Science Fiction|Space Exploration')
     $positiveReasons = [System.Collections.Generic.List[string]]::new()
-    if ($null -ne $predicted) { $positiveReasons.Add("Taste model predicts $([math]::Round($predicted, 1))/10 from BGG rating $([math]::Round([double]$candidateForModel.bgg_rating, 1)), weight $([math]::Round([double]$candidateForModel.complexity, 1)) and any available designer history.") }
-    if ($designerReason) { $positiveReasons.Add("Designer evidence — $designerReason.") }
-    if ($mechanismReason) { $positiveReasons.Add("Mechanism matches — $mechanismReason.") }
-    if ($themeReason) { $positiveReasons.Add("Theme matches — $themeReason.") }
-    if ($typeReason) { $positiveReasons.Add($typeReason) }
+    if ($null -ne $predicted) { $positiveReasons.Add("Compact model predicts $([math]::Round($predicted, 1))/10 using BGG rating $([math]::Round([double]$candidateForModel.bgg_rating, 1)), complexity $([math]::Round([double]$candidateForModel.complexity, 1)), science-fiction signal $(if ($sciFiSignal) { 'on' } else { 'off' }), and any available designer adjustment.") }
+    if ($positiveDesignerReason) { $positiveReasons.Add("Positive designer evidence — $positiveDesignerReason.") }
+    if ($positiveMechanismReason) { $positiveReasons.Add("Positive mechanism evidence — $positiveMechanismReason.") }
+    if ($positiveThemeReason) { $positiveReasons.Add("Positive theme evidence — $positiveThemeReason.") }
+    if ($typeReason -and [double]$typeScore -gt $personalMean) { $positiveReasons.Add("Positive type evidence — $typeReason") }
     if ($positiveReasons.Count -eq 0) { $positiveReasons.Add('There is not enough overlap with your rated history to explain a personal fit yet.') }
 
     $cautions = [System.Collections.Generic.List[string]]::new()
@@ -181,8 +195,16 @@ $rows = foreach ($candidate in $candidates) {
     elseif ($confidence -eq 'insufficient') { $cautions.Add("Only $numRatings BGG ratings; the prerelease average is highly unstable.") }
     elseif ($confidence -eq 'low') { $cautions.Add("Only $numRatings BGG ratings; treat the current average as provisional.") }
     elseif ($confidence -eq 'medium') { $cautions.Add("$numRatings BGG ratings provide moderate evidence, but the average may still move.") }
-    if ($designerEvidence.Count -eq 0 -and $designers.Count -gt 0) { $cautions.Add('You have no rated history for the credited designer(s).') }
-    if ($mechanismEvidence.Count -eq 0) { $cautions.Add('Its mechanisms have little or no direct evidence in your rated history.') }
+    if ($designers.Count -eq 0) { $cautions.Add('BGG lists no credited designer metadata.') }
+    elseif ($designerEvidence.Count -eq 0) { $cautions.Add('You have no rated history for the credited designer(s).') }
+    if ($mechanisms.Count -eq 0) { $cautions.Add('BGG lists no mechanism metadata.') }
+    elseif ($mechanismEvidence.Count -eq 0) { $cautions.Add('Its mechanisms have no direct evidence in your rated history.') }
+    if ($categories.Count -eq 0) { $cautions.Add('BGG lists no category/theme metadata.') }
+    elseif ($themeEvidence.Count -eq 0) { $cautions.Add('Its themes have no direct evidence in your rated history.') }
+    if ($negativeDesignerReason) { $cautions.Add("Lower-rated designer evidence — $negativeDesignerReason.") }
+    if ($negativeMechanismReason) { $cautions.Add("Lower-rated mechanism evidence — $negativeMechanismReason.") }
+    if ($negativeThemeReason) { $cautions.Add("Lower-rated theme evidence — $negativeThemeReason.") }
+    if ($typeReason -and [double]$typeScore -le $personalMean) { $cautions.Add("Lower-rated type evidence — $typeReason") }
     $cautions.Add("The model CV RMSE is $([math]::Round($model.CvRmse, 1)); smaller score gaps are not meaningful.")
 
     [pscustomobject][ordered]@{

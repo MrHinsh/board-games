@@ -32,7 +32,12 @@ theme and type evidence, and `cautions`. Evidence names the matching historical
 feature, rated-game sample size, average personal rating and, for designers,
 recorded plays. The Markdown report renders the same evidence as readable
 profiles for its leading candidates. Explanations must state missing evidence
-and confidence limits rather than inventing a preference signal.
+and confidence limits rather than inventing a preference signal. Only evidence
+above the operator's shrunk mean appears under why the game may fit; evidence at
+or below that mean for designer, mechanism or theme appears under cautions. Type evidence is a
+complexity-weighted comparison and names its rated-game sample; it must not claim
+duration similarity until historical duration data is available.
+Type evidence at or below the mean belongs in cautions under the same rule.
 
 The existing persisted shapes remain defined in the
 [data contracts](../../.agents/context/contracts.md). This migration does not

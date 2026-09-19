@@ -145,8 +145,10 @@ function Format-ConferenceEvidence {
     $selected = @($Evidence | Select-Object -First $Take)
     if ($selected.Count -eq 0) { return '' }
     return (@($selected | ForEach-Object {
-        $playText = $(if ($IncludePlays) { ", $($_.plays) plays" } else { '' })
-        "$($_.value): $($_.rated_games) rated games$playText, $([math]::Round([double]$_.average_rating, 1)) average"
+        $ratedLabel = $(if ([int]$_.rated_games -eq 1) { 'rated game' } else { 'rated games' })
+        $playLabel = $(if ([int]$_.plays -eq 1) { 'play' } else { 'plays' })
+        $playText = $(if ($IncludePlays) { ", $($_.plays) $playLabel" } else { '' })
+        "$($_.value): $($_.rated_games) $ratedLabel$playText, $([math]::Round([double]$_.average_rating, 1)) average"
     }) -join '; ')
 }
 
