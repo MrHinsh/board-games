@@ -7057,6 +7057,36 @@
   },
   {
     "group_key": "1-5",
+    "bgg_id": 367893,
+    "name": "Moonrakers: Titan Edition (w/o base game)",
+    "year_published": 2023,
+    "rating": 8.507,
+    "num_plays": 1,
+    "collection": true,
+    "previously_owned": false,
+    "want_to_play": false,
+    "want_to_buy": false,
+    "collection_to_exit": false,
+    "collection_status": "Owned",
+    "players": "1-5",
+    "complexity": 2.75,
+    "bgg_rating": 8.44839,
+    "num_ratings": 766,
+    "categories": [
+      "Expansion for Base-game",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Negotiation"
+    ],
+    "reimplements": [],
+    "reimplemented_by": [],
+    "bgg_comment": "",
+    "notes": ""
+  },
+  {
+    "group_key": "1-5",
     "bgg_id": 192638,
     "name": "Multiuniversum",
     "year_published": 2016,

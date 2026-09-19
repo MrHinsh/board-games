@@ -6,7 +6,8 @@ Purpose:
   `reimplements`, and `reimplemented_by`) in batches of 20.
 - Deduplicate by bgg_id, keeping the entry with the highest play count.
 - When expansions are excluded, supplement BGG's filtered response with owned
-  rows whose returned subtype is `boardgame`, preserving compilation records.
+  rows named in the explicit equivalent-games registry, preserving known
+  compilations without importing arbitrary expansions.
 - Map raw BGG field names to the canonical schema.
 - Write an immutable timestamped JSON snapshot to `data/raw/bgg/collection/<timestamp>.json`.
 - Emit the snapshot path to stdout for downstream skills (e.g. mrhinsh-bg-reconcile).

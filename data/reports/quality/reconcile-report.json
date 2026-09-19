@@ -1,11 +1,16 @@
 {
-  "run_at": "2026-09-19T12:38:08.1877963+01:00",
-  "raw_snapshot": "./data/raw/bgg/collection/2026-09-19T123653Z.json",
-  "total_from_snapshot": 551,
-  "total_in_canonical": 553,
-  "added": 0,
+  "run_at": "2026-09-19T12:53:27.2098615+01:00",
+  "raw_snapshot": ".\\data\\raw\\bgg\\collection\\2026-09-19T125326Z.json",
+  "total_from_snapshot": 552,
+  "total_in_canonical": 554,
+  "added": 1,
   "updated": 0,
   "unchanged": 551,
-  "new_games": [],
+  "new_games": [
+    {
+      "bgg_id": 367893,
+      "name": "Moonrakers: Titan Edition (w/o base game)"
+    }
+  ],
   "updated_games": []
 }

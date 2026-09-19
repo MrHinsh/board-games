@@ -46,6 +46,7 @@ $profileGames = foreach ($game in $train) {
     [pscustomobject]@{
         bgg_id = $id
         rating = [double]$game.rating
+        num_plays = [int]$game.num_plays
         complexity = [double]$game.complexity
         max_play_time = 0
         mechanics = @($game.mechanics)
@@ -135,6 +136,15 @@ $rows = foreach ($candidate in $candidates) {
     $mechanismScore = Get-ShrunkAffinityScore -CandidateValues $mechanisms -RatedGames $profileGames -ValueSelector { param($g) $g.mechanics }
     $themeScore = Get-ShrunkAffinityScore -CandidateValues $categories -RatedGames $profileGames -ValueSelector { param($g) $g.categories }
     $typeScore = Get-TypeAffinityScore -Candidate $candidateForModel -RatedGames $profileGames
+    $designerEvidence = @(Get-ConferenceAffinityEvidence -CandidateValues $designers -RatedGames $profileGames -ValueSelector { param($g) $g.designers })
+    $mechanismEvidence = @(Get-ConferenceAffinityEvidence -CandidateValues $mechanisms -RatedGames $profileGames -ValueSelector { param($g) $g.mechanics })
+    $themeEvidence = @(Get-ConferenceAffinityEvidence -CandidateValues $categories -RatedGames $profileGames -ValueSelector { param($g) $g.categories })
+    $designerReason = Format-ConferenceEvidence -Evidence $designerEvidence -Take 2 -IncludePlays
+    $mechanismReason = Format-ConferenceEvidence -Evidence $mechanismEvidence -Take 3
+    $themeReason = Format-ConferenceEvidence -Evidence $themeEvidence -Take 3
+    $typeReason = $(if ($null -ne $typeScore) {
+        "Weight $([math]::Round([double]$candidateForModel.complexity, 1)) and $($candidateForModel.max_play_time)-minute profile resembles games you rate about $([math]::Round([double]$typeScore, 1))."
+    } else { '' })
 
     # Keep the agreed weights fixed. Missing explanatory affinities are neutral at
     # the operator's mean; a missing model prediction makes the row unrankable.
@@ -154,6 +164,26 @@ $rows = foreach ($candidate in $candidates) {
         else { 'high' }
     )
     $band = Get-ConferenceRecommendationBand -Score $(if ($null -ne $overall) { $overall } else { 0.0 }) -Confidence $confidence -IsExpansion ([bool]$candidate.is_expansion) -OwnershipStatus $ownership
+
+    $positiveReasons = [System.Collections.Generic.List[string]]::new()
+    if ($null -ne $predicted) { $positiveReasons.Add("Taste model predicts $([math]::Round($predicted, 1))/10 from BGG rating $([math]::Round([double]$candidateForModel.bgg_rating, 1)), weight $([math]::Round([double]$candidateForModel.complexity, 1)) and any available designer history.") }
+    if ($designerReason) { $positiveReasons.Add("Designer evidence — $designerReason.") }
+    if ($mechanismReason) { $positiveReasons.Add("Mechanism matches — $mechanismReason.") }
+    if ($themeReason) { $positiveReasons.Add("Theme matches — $themeReason.") }
+    if ($typeReason) { $positiveReasons.Add($typeReason) }
+    if ($positiveReasons.Count -eq 0) { $positiveReasons.Add('There is not enough overlap with your rated history to explain a personal fit yet.') }
+
+    $cautions = [System.Collections.Generic.List[string]]::new()
+    if ([bool]$candidate.is_expansion) { $cautions.Add('Expansion: excluded from the base-game ranking.') }
+    if ($ownership -eq 'owned') { $cautions.Add("Already covered by owned game ID(s) $($matchedIds -join ', ').") }
+    elseif ($ownership -eq 'played-not-owned') { $cautions.Add("Already played through game ID(s) $($matchedIds -join ', ').") }
+    if ($null -eq $predicted) { $cautions.Add('No usable BGG rating or complexity, so the compact taste model cannot rank it.') }
+    elseif ($confidence -eq 'insufficient') { $cautions.Add("Only $numRatings BGG ratings; the prerelease average is highly unstable.") }
+    elseif ($confidence -eq 'low') { $cautions.Add("Only $numRatings BGG ratings; treat the current average as provisional.") }
+    elseif ($confidence -eq 'medium') { $cautions.Add("$numRatings BGG ratings provide moderate evidence, but the average may still move.") }
+    if ($designerEvidence.Count -eq 0 -and $designers.Count -gt 0) { $cautions.Add('You have no rated history for the credited designer(s).') }
+    if ($mechanismEvidence.Count -eq 0) { $cautions.Add('Its mechanisms have little or no direct evidence in your rated history.') }
+    $cautions.Add("The model CV RMSE is $([math]::Round($model.CvRmse, 1)); smaller score gaps are not meaningful.")
 
     [pscustomobject][ordered]@{
         rank = 0
@@ -177,9 +207,15 @@ $rows = foreach ($candidate in $candidates) {
         matched_bgg_ids = ($matchedIds -join ' / ')
         expansion = [bool]$candidate.is_expansion
         thumbs = [int]$candidate.thumbs
-        players = "$($candidate.min_players)-$($candidate.max_players)"
+        players = Get-ConferencePlayerLabel -Minimum ([int]$candidate.min_players) -Maximum ([int]$candidate.max_players)
         play_time = Get-ConferencePlayTimeLabel -Minimum ([int]$candidate.min_play_time) -Maximum ([int]$candidate.max_play_time)
         location = [string]$candidate.location
+        why_you_may_like_it = ($positiveReasons -join ' ')
+        designer_evidence = $designerReason
+        mechanism_evidence = $mechanismReason
+        theme_evidence = $themeReason
+        type_evidence = $typeReason
+        cautions = ($cautions -join ' ')
     }
 }
 
@@ -219,6 +255,18 @@ if ($ReportPath) {
     $lines.Add('| ---: | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- | ---: |')
     foreach ($row in $top) {
         $lines.Add("| $($row.rank) | [$($row.game)](https://boardgamegeek.com/boardgame/$($row.bgg_id)) | $($row.recommendation) | $($row.overall) | $($row.predicted) | $($row.designer) | $($row.mechanism) | $($row.theme) | $($row.type) | $($row.confidence) | $($row.num_ratings) |")
+    }
+    $lines.Add('')
+    $lines.Add('## Detailed reasons')
+    foreach ($row in $top) {
+        $lines.Add('')
+        $lines.Add("### [$($row.game)](https://boardgamegeek.com/boardgame/$($row.bgg_id))")
+        $lines.Add('')
+        $lines.Add("**Recommendation:** $($row.recommendation) · **Overall:** $($row.overall) · **Confidence:** $($row.confidence) · **Profile:** complexity $($row.complexity), $($row.players) players, $($row.play_time).")
+        $lines.Add('')
+        $lines.Add("**Why it may fit:** $($row.why_you_may_like_it)")
+        $lines.Add('')
+        $lines.Add("**Cautions:** $($row.cautions)")
     }
     $covered = @($sorted | Where-Object { $_.ownership -ne 'new' }).Count
     $expansions = @($sorted | Where-Object { $_.expansion }).Count

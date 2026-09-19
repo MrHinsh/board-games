@@ -47,6 +47,10 @@ $rated = @(
 )
 $affinity = Get-ShrunkAffinityScore -CandidateValues @('Worker Placement') -RatedGames $rated -ValueSelector { param($g) $g.mechanics } -ShrinkK 1
 if ([math]::Abs($affinity - 8.5) -gt 0.001) { throw "Unexpected shrunk affinity score: $affinity" }
+$rated[0] | Add-Member -NotePropertyName num_plays -NotePropertyValue 5
+$rated[1] | Add-Member -NotePropertyName num_plays -NotePropertyValue 2
+$evidence = @(Get-ConferenceAffinityEvidence -CandidateValues @('Worker Placement') -RatedGames $rated -ValueSelector { param($g) $g.mechanics } -ShrinkK 1)
+if ($evidence.Count -ne 1 -or $evidence[0].rated_games -ne 1 -or $evidence[0].plays -ne 5) { throw 'Affinity explanation lost its sample or play evidence.' }
 if ((Get-ConferenceRecommendationBand -Score 8.1 -Confidence low -IsExpansion:$false -OwnershipStatus new) -ne 'Worth a demo') { throw 'Low-confidence recommendation cap failed.' }
 if ((Get-ConferenceRecommendationBand -Score 8.1 -Confidence medium -IsExpansion:$false -OwnershipStatus new) -ne 'Must investigate') { throw 'Recommendation band threshold failed.' }
 if ((Get-ConferenceRecommendationBand -Score 9 -Confidence high -IsExpansion:$true -OwnershipStatus new) -ne 'Expansion') { throw 'Expansion exclusion failed.' }
@@ -106,8 +110,9 @@ $detailRows = foreach ($id in @(900, 901, 902, 903, 904)) {
 $detailsPath = Join-Path $integration 'details.json'
 $detailRows | ConvertTo-Json -Depth 8 | Set-Content $detailsPath
 $rankedPath = Join-Path $integration 'ranked.csv'
+$reportPath = Join-Path $integration 'report.md'
 & (Join-Path $PSScriptRoot '../conference-previews/Score-ConferencePreview.ps1') `
-    -CandidatesPath $candidatePath -OutPath $rankedPath -CanonicalPath $canonicalPath `
+    -CandidatesPath $candidatePath -OutPath $rankedPath -ReportPath $reportPath -CanonicalPath $canonicalPath `
     -EquivalencesPath (Join-Path $integration 'equivalences.json') `
     -DesignerIndexPath (Join-Path $integration 'designers.json') -DetailsCachePath $detailsPath `
     -RequestDelayMs 0 | Out-Null
@@ -123,5 +128,8 @@ if ($expansion.rank -ne '0' -or $expansion.recommendation -ne 'Expansion') { thr
 if ($known.rank -ne $tiePeer.rank) { throw 'Candidates inside model RMSE did not share a tie group.' }
 if ($coveredReplacement.ownership -ne 'owned' -or $coveredReplacement.rank -ne '0') { throw 'Exact unowned row bypassed its owned equivalent.' }
 if ($known.play_time -ne '90 min') { throw 'Scorer emitted an invalid play-time range.' }
+if (-not $known.why_you_may_like_it -or -not $known.cautions -or -not $known.type_evidence) { throw 'Per-item explanation fields were not populated.' }
+$reportText = Get-Content $reportPath -Raw
+if ($reportText -notmatch '## Detailed reasons' -or $reportText -notmatch 'Why it may fit') { throw 'Markdown report did not render detailed candidate reasons.' }
 
 Write-Host 'Prediction: conference preview normalization, equivalence, scoring, uncertainty, and ownership rules passed.'

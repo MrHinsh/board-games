@@ -22,6 +22,7 @@ param(
     [string]$ApiKey,
     [string]$Cookie,
     [string]$RawDir            = '.\data\raw\bgg\collection',
+    [string]$EquivalentGamesPath = '.\data\working\canonical\equivalent-games.json',
     [switch]$IncludeExpansions,
 
     # BGG throttles the collection endpoint hard. This step issues several queries
@@ -35,6 +36,7 @@ Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
 
 . "$PSScriptRoot/../provider/Invoke-BggMcp.ps1"
+. "$PSScriptRoot/CollectionFetchHelpers.ps1"
 
 # ---------------------------------------------------------------------------
 # Helpers
@@ -145,17 +147,15 @@ $rawItems = foreach ($query in $collectionQueries) {
     Invoke-ValidatedCollectionQuery -Arguments $query
 }
 
-# BGG's subtype=boardgame filter omits some compilation records even though the
-# returned collection item itself identifies as subtype=boardgame. Fetch owned
-# items once without the server-side subtype filter and retain only base-game
-# rows locally, so owned compilations can participate in explicit equivalence
-# groups without admitting expansions into the canonical collection.
+# BGG's subtype=boardgame filter omits some compilation records. Fetch owned
+# items once without the server-side subtype filter and retain only IDs already
+# named in the explicit equivalence registry, so known owned compilations can
+# participate without admitting arbitrary expansions into canonical data.
 if (-not $IncludeExpansions) {
     Start-Sleep -Milliseconds $CollectionDelayMs
     $unfilteredOwned = @(Invoke-ValidatedCollectionQuery -Arguments @{ username = $Username; owned = $true })
-    $rawItems = @($rawItems) + @($unfilteredOwned | Where-Object {
-        [string](Get-Val -Item $_ -Field 'subtype' -Default '') -eq 'boardgame'
-    })
+    $rawItems = @($rawItems) + @(Select-ExplicitEquivalentOwnedItems `
+        -Items $unfilteredOwned -EquivalentGamesPath $EquivalentGamesPath)
 }
 
 if (-not $rawItems -or @($rawItems).Count -eq 0) {

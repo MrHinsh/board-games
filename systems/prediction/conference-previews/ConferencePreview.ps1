@@ -106,6 +106,50 @@ function Get-ShrunkAffinityScore {
     return [double](($scores | Measure-Object -Average).Average)
 }
 
+function Get-ConferenceAffinityEvidence {
+    [CmdletBinding()]
+    param(
+        [Parameter(Mandatory = $true)][AllowNull()][AllowEmptyCollection()][string[]]$CandidateValues,
+        [Parameter(Mandatory = $true)][object[]]$RatedGames,
+        [Parameter(Mandatory = $true)][scriptblock]$ValueSelector,
+        [double]$ShrinkK = 5.0
+    )
+
+    $mean = [double](($RatedGames | Measure-Object -Property rating -Average).Average)
+    $evidence = foreach ($value in @($CandidateValues | Where-Object { $_ } | Sort-Object -Unique)) {
+        $matches = @($RatedGames | Where-Object { @(& $ValueSelector $_) -contains $value })
+        if ($matches.Count -eq 0) { continue }
+        $average = [double](($matches | Measure-Object -Property rating -Average).Average)
+        $shrunk = (($matches.Count * $average) + ($ShrinkK * $mean)) / ($matches.Count + $ShrinkK)
+        $plays = [int](($matches | Measure-Object -Property num_plays -Sum).Sum)
+        [pscustomobject]@{
+            value = [string]$value
+            rated_games = $matches.Count
+            plays = $plays
+            average_rating = $average
+            shrunk_score = $shrunk
+            lift = $shrunk - $mean
+        }
+    }
+    return @($evidence | Sort-Object -Property @{ Expression = { [double]$_.shrunk_score }; Descending = $true }, @{ Expression = { [int]$_.rated_games }; Descending = $true })
+}
+
+function Format-ConferenceEvidence {
+    [CmdletBinding()]
+    param(
+        [AllowNull()][object[]]$Evidence,
+        [int]$Take = 3,
+        [switch]$IncludePlays
+    )
+
+    $selected = @($Evidence | Select-Object -First $Take)
+    if ($selected.Count -eq 0) { return '' }
+    return (@($selected | ForEach-Object {
+        $playText = $(if ($IncludePlays) { ", $($_.plays) plays" } else { '' })
+        "$($_.value): $($_.rated_games) rated games$playText, $([math]::Round([double]$_.average_rating, 1)) average"
+    }) -join '; ')
+}
+
 function Get-TypeAffinityScore {
     [CmdletBinding()]
     param(
@@ -155,5 +199,16 @@ function Get-ConferencePlayTimeLabel {
     }
     if ($Minimum -gt 0) { return "$Minimum min" }
     if ($Maximum -gt 0) { return "$Maximum min" }
+    return 'unknown'
+}
+
+function Get-ConferencePlayerLabel {
+    param([int]$Minimum, [int]$Maximum)
+    if ($Minimum -gt 0 -and $Maximum -gt 0 -and $Maximum -ge $Minimum) {
+        if ($Minimum -eq $Maximum) { return "$Minimum" }
+        return "$Minimum-$Maximum"
+    }
+    if ($Minimum -gt 0) { return "$Minimum+" }
+    if ($Maximum -gt 0) { return "up to $Maximum" }
     return 'unknown'
 }

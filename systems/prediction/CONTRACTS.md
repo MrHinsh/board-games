@@ -27,6 +27,13 @@ form connected tie groups: a new group begins only across an adjacent score gap
 larger than the model CV RMSE. The report does not present smaller differences
 as precise unique ranks.
 
+Every CSV row also carries `why_you_may_like_it`, separate designer, mechanism,
+theme and type evidence, and `cautions`. Evidence names the matching historical
+feature, rated-game sample size, average personal rating and, for designers,
+recorded plays. The Markdown report renders the same evidence as readable
+profiles for its leading candidates. Explanations must state missing evidence
+and confidence limits rather than inventing a preference signal.
+
 The existing persisted shapes remain defined in the
 [data contracts](../../.agents/context/contracts.md). This migration does not
 split or rewrite stored data. Ownership above records the intended responsibility;

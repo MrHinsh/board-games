@@ -15,7 +15,8 @@ Preview 93 is SPIEL Essen 2026 and is the default. The run writes:
 - a rebuildable normalized candidate and BGG-details cache under
   `data/working/conferences/`;
 - the complete ordered CSV under `data/reports/conferences/`;
-- a Markdown report containing the first 30 new base-game candidates.
+- a Markdown report containing the first 30 new base-game candidates and a
+  detailed evidence profile for each.
 
 Use `-RefreshDetails` when cached BGG ratings, complexity or relationships need
 refreshing. The preview list itself is fetched on every run because publishers
@@ -35,3 +36,9 @@ prediction stay unranked, and ranked candidates within the model CV RMSE share a
 connected tie-group number. A new group starts only when adjacent sorted scores
 differ by more than CV RMSE. Canonical records that are neither owned nor played
 remain eligible candidates unless an owned or played equivalent covers them.
+
+The complete CSV explains every row with matching designer, mechanism, theme and
+type evidence from personal ratings. Designer evidence also reports recorded
+plays. `why_you_may_like_it` combines those facts with the compact-model result;
+`cautions` records sparse BGG evidence, missing personal history, ownership or
+expansion exclusions, and the model's RMSE.
